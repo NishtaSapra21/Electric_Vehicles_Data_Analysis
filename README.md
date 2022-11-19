@@ -60,8 +60,19 @@ There are __four__ main modules, let’s have a detailed look of each module.
   Here, the data has been trained to predict whether the vehicle will have “SmartWay” certificate or not. From the fuel type , greenhouse gas score and CO2 , logistic   regression model predicts whether the vehicle is “SMART” or not. Here input variables are fuel type, greenhouse gas score and Co2 emission and predict variable is     SmarWay. The model has been trained , scaled to perform logistic regression as well as other different machine learning techniques, Support Vector     Machine ,       Random Forest and Neural Network.
   
   Here, __“Fuel”__ column is categorical, so it is __encoded__ using __“One Hot Encoding”__ . 
+  
+  ![Fuel_Encoding](https://user-images.githubusercontent.com/107717882/202874546-49395338-5869-4598-893d-e1c6a7228a59.png)
 
   Following screen shots show that  __Logistic Regression Model__  has __92%__ of accuracy, __SVM__ has __95%__ of accuracy, __Random Forest Model__ has __96%__ of       accuracy and __Neural Network__ has __95%__ of accuracy.  Here, best model is __Random Forest_Model__. 
+  
+  ![classification_report](https://user-images.githubusercontent.com/107717882/202874566-8efa7515-3d08-405a-9c23-e0d5d80eaab9.png)
+
+  ![svm_model_accuracy](https://user-images.githubusercontent.com/107717882/202874577-fd4991e4-7cc2-4978-9462-9d796bfe3361.png)
+  
+  ![random_forest_accuracy](https://user-images.githubusercontent.com/107717882/202874589-a27b712e-bff7-46e5-838e-5f51ee3353a4.png)
+
+  ![nnmodel_accuracy](https://user-images.githubusercontent.com/107717882/202874595-76520da7-4363-4279-9900-0eaa3ee8904a.png)
+  
   
 ## Summary 
 
