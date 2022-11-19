@@ -47,7 +47,7 @@ There are __four__ main modules, let’s have a detailed look of each module.
   
   ![Screenshot (171)](https://user-images.githubusercontent.com/107717882/202874239-02f764ad-eaf0-4d16-a971-6ae03efd7b23.png)
 
-  Using Python module , Flask, a web framework , Leaflet map is displayed. However, Flask is easy web application, a webpages have been designed with HTML,CSS,           JavaScript to display TOP EV sales USA, Tableau story, Leaf let map for EV stations in Oregon and smart car prediction by machine learning. 
+  Using Python module , Flask, a web framework , Leaflet map is displayed. However, Flask is easy web application, a webpages have been designed with HTML,CSS,           JavaScript to display TOP EV sales USA, Tableau story, Leaf let map for EV stations in Oregon and vehicle will have "SmartWay" certificate or not  prediction by       machine learning. 
 
   Following webpage displaying  __Top EV Sales USA__ using  HTML.CSS and .js file with Flask and JavaScript. 
   
@@ -57,7 +57,7 @@ There are __four__ main modules, let’s have a detailed look of each module.
 
 ### Module -4: Machine Learning (Logistic Regression, SVM, Forest, Neural Network)
 
-  Here, the data has been trained to predict whether the vehicle is “smart” or not. From the fuel type , greenhouse gas score and CO2 , logistic regression model         predicts whether the vehicle is “SMART” or not. Here input variables are fuel type, greenhouse gas score and Co2 emission and predict variable is SmartWay (either     vehicle is smart or not). The model has been trained , scaled to perform logistic regression as well as other different machine learning techniques, Support Vector     Machine , Random Forest and Neural Network.
+  Here, the data has been trained to predict whether the vehicle will have “SmartWay” certificate or not. From the fuel type , greenhouse gas score and CO2 , logistic   regression model predicts whether the vehicle is “SMART” or not. Here input variables are fuel type, greenhouse gas score and Co2 emission and predict variable is     SmarWay. The model has been trained , scaled to perform logistic regression as well as other different machine learning techniques, Support Vector     Machine ,       Random Forest and Neural Network.
   
   Here, __“Fuel”__ column is categorical, so it is __encoded__ using __“One Hot Encoding”__ . 
 
