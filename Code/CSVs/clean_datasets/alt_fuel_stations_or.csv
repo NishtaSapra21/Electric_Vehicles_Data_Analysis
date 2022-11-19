@@ -1,0 +1,984 @@
+Fuel_Type_Code,Station_Name,City,State,Zip,Groups_With_Access_Code,Access_Days_Time,Latitude,Longitude
+ELEC,Oregon Museum of Science and Industry (OMSI) - South Parking Lot,Portland,OR,97214,Public,24 hours daily,45.508396,-122.664667
+ELEC,City of Keizer - City Hall,Salem,OR,97303,Public,24 hours daily,44.99574,-123.019758
+ELEC,Nike - LA Garage,Beaverton,OR,97006,Private,Employee use only,45.508795,-122.8249
+ELEC,LINCOLN CITY TAFT DUAL 1,Lincoln City,OR,97367,Public,24 hours daily,44.928439,-124.015824
+ELEC,LBCC  LBCC DUAL 2,Albany,OR,97321,Public,24 hours daily,44.586123,-123.115389
+ELEC,OEG,Portland,OR,97210,Private,Employee use only,45.545898,-122.707102
+ELEC,Lane Community College,Eugene,OR,97405,Public,"Employee, student, and visitor use only",44.009797,-123.033213
+ELEC,HILLSBORO OR MAIN ST 1,Hillsboro,OR,97123,Public,24 hours daily,45.522609,-122.988535
+ELEC,HILLSBORO OR EV-8,Hillsboro,OR,97123,Public,24 hours daily,45.520533,-122.978089
+ELEC,Oregon Museum of Science and Industry (OMSI) - North Parking Lot,Portland,OR,97214,Public,24 hours daily,45.509326,-122.666392
+ELEC,Carr Nissan,Beaverton,OR,97005,Public - Call ahead,Dealership business hours,45.491783,-122.81107
+ELEC,Lithia Nissan of Bend,Bend,OR,97701,Public - Call ahead,Dealership business hours,44.055213,-121.277279
+ELEC,Kiefer Nissan,Corvallis,OR,97330,Public - Call ahead,Dealership business hours,44.572608,-123.258425
+ELEC,Lithia Nissan of Eugene,Eugene,OR,97401,Public - Call ahead,Dealership business hours,44.05902085037804,-123.08139746322934
+ELEC,Dick Hannah Nissan,Gladstone,OR,97027,Public - Call ahead,Dealership business hours,45.378967,-122.603899
+ELEC,Chuck Colvin Nissan,McMinnville,OR,97128,Public - Call ahead,Dealership business hours,45.227394,-123.180863
+ELEC,Lithia Nissan,Medford,OR,97504,Public - Call ahead,Dealership business hours,42.379969,-122.858192
+ELEC,Rustom Nissan - Portland,Portland,OR,97230,Public - Call ahead,Dealership business hours,45.531759,-122.537403
+ELEC,Nissan of Salem,Salem,OR,97302,Public - Call ahead,Dealership business hours,44.921582,-123.006236
+ELEC,Ray Schultens Nissan,The Dalles,OR,97058,Public - Call ahead,Dealership business hours,45.613979,-121.20996
+ELEC,Tonkin Nissan,Wilsonville,OR,97070,Public - Call ahead,Dealership business hours,45.326814,-122.770853
+ELEC,Southern Oregon University - Lot 8,Ashland,OR,97520,Public,24 hours daily; parking permit required; Drivers must bring their own J1772 cordset for Level 1 charging,42.187149,-122.689496
+ELEC,Mentor Graphics,Wilsonville,OR,97070,Private,Employee and customer use only;  Drivers must bring their own J1772 cordset for Level 1 charging,45.317487,-122.759692
+ELEC,Atmosera,Beaverton,OR,97005,Public - Call ahead,8am-5pm daily; Employee and customer use only,45.475743,-122.776517
+ELEC,Clackamas County Sheriff's Office - Brooks Building,Clackamas,OR,97015,Public,8am-5pm daily,45.43039546782978,-122.5722026653595
+ELEC,TC Chevrolet,Ashland,OR,97520,Public - Call ahead,Dealership business hours,42.219548,-122.740005
+ELEC,HIGHLANDCHEVRON HIGHLAND DUAL 1,Beaverton,OR,97005,Public,24 hours daily,45.475962,-122.825561
+ELEC,West Hills Collision Center,Portland,OR,97219,Public,24 hours daily,45.464636,-122.698892
+ELEC,Hilltop Collision Center,Oregon City,OR,97045,Public,24 hours daily,45.333825,-122.596795
+ELEC,Deschutes National Forest Supervisor’s Office,Bend,OR,97701,Private,USNF Employees only,44.091791,-121.261635
+ELEC,Forest Service - Umpqua National Forest,Glide,OR,97443,Private,USDA fleet use only,43.236194,-122.940719
+ELEC,TOFURKY COMPANY TOFURKY HQ,Hood River,OR,97031,TEMPORARILY UNAVAILABLE (Public),24 hours daily; Drivers must bring their own J1772 cordset for Level 1 charging,45.713918,-121.516681
+ELEC,Ocean Beaches Glassblowing & Gallery,Seal Rock,OR,97376,Public,10am-6pm daily,44.504993,-124.079315
+ELEC,FORD_BLDG FORD CHARGER #1,Coos Bay,OR,97420,Public,24 hours daily,43.366504,-124.214993
+ELEC,US BANCORP 5TH AVE GARAGE1,Portland,OR,97204,Public,24 hours daily,45.522185,-122.675939
+ELEC,US BANCORP 4TH AVE GARAGE1,Portland,OR,97204,TEMPORARILY UNAVAILABLE (Public),24 hours daily,45.522198,-122.674722
+ELEC,TC Chevrolet,Ashland,OR,97520,Private,Dealership business hours; for service use only,42.219548,-122.740005
+ELEC,BEND BMW STATION 01,Bend,OR,97702,Public,24 hours daily,44.039941,-121.305312
+ELEC,Suburban Ford,Sandy,OR,97055,Public,Dealership business hours,45.400895,-122.281716
+ELEC,UOP CHARGE LIBRARY 2,Portland,OR,97203,Public,24 hours daily,45.573016,-122.726659
+ELEC,Banks - Jim's Thriftway,Banks,OR,97106,Public,24 hours daily,45.61007,-123.11286
+ELEC,Central Point - Fairground Chevron,Central Point,OR,97497,Public,24 hours daily,42.37837,-122.90072
+ELEC,Roseburg - Wagon Wheel Restaurant,Roseburg,OR,97470,Public,24 hours daily,43.22653,-123.3558
+ELEC,Ashland - Shell,Ashland,OR,97520,Public,24 hours daily,42.18548,-122.66801
+ELEC,Wolf Creek - Wolf Creek Inn,Wolf Creek,OR,97497,Public,24 hours daily,42.69678,-123.39592
+ELEC,Springfield - Gateway Marketplace,Springfield,OR,97477,Public,24 hours daily,44.08435,-123.03951
+ELEC,Newport - City of Newport Public Parking Lot,Newport,OR,97365,Public,24 hours daily,44.63244,-124.05535
+ELEC,Oakland - Motel 6,Oakland,OR,97462,Public,24 hours daily,43.53704,-123.29011
+ELEC,Canyonville - 7 Feathers Truck and Travel Center,Canyonville,OR,97417,Public,24 hours daily,42.94087,-123.2896
+ELEC,Cafe Yumm! - Argyle Square,Wilsonville,OR,97070,Public,11am-9pm daily; free for restaurant patrons,45.334986,-122.766691
+ELEC,OSU LPSC,Corvallis,OR,97331,Public,24 hours daily,44.566295,-123.283836
+ELEC,WV EV STATION 1 WV EV STATION 1,Milwaukie,OR,97222,Public,24 hours daily,45.430256,-122.645106
+ELEC,RIVERPLACE RIVERPLACE APT,Independence,OR,97351,Public,24 hours daily,44.865232,-123.183309
+ELEC,Laurel Ridge Winery,Carlton,OR,97111,Public,11am-5pm daily,45.313977,-123.100942
+ELEC,OSU FAIRBANKS SOUTH,Corvallis,OR,97331,TEMPORARILY UNAVAILABLE (Public),24 hours daily,44.564876,-123.280561
+ELEC,FRED MEYER DC S. MEDFORD,Medford,OR,97501,Public,24 hours daily,42.313893,-122.855354
+ELEC,FRED MEYER OFF NETWORK1,Grants Pass,OR,97526,Public,24 hours daily,42.43512,-123.306507
+ELEC,FRED MEYER DC ROSEBURG,Roseburg,OR,97471,Public,24 hours daily,43.228342,-123.368717
+ELEC,LLOYD CENTER DC LLOYD CENTER,Portland,OR,97232,TEMPORARILY UNAVAILABLE (Public),24 hours daily,45.531974,-122.652822
+ELEC,FRED MEYER DC ALBANY,Albany,OR,97322,Public,24 hours daily,44.631287,-123.076296
+ELEC,HIGHLANDCHEVRON WOODBURN EV 1-2,Woodburn,OR,97071,Public,24 hours daily,45.150881,-122.878368
+ELEC,Halsey - Pioneer Villa Truck Plaza,Halsey,OR,97348,Public,24 hours daily,44.385,-123.05629
+ELEC,Cottage Grove - Vintage Inn Restaurant,Cottage Grove,OR,97424,Public,24 hours daily,43.8045,-123.04554
+ELEC,Grants Pass - Grants Pass Chamber of Commerce,Grants Pass,OR,97528,Public,24 hours daily,42.46181,-123.32293
+ELEC,McKenzie Bridge - Blue Sky Market,McKenzie Bridge,OR,97413,Public,24 hours daily,44.17375,-122.22071
+ELEC,Sisters - Sisters Mainline Station,Sisters,OR,97759,Public,24 hours daily,44.29821,-121.56202
+ELEC,Hood River - City of Hood River Public Parking Lot,Hood River,OR,97031,Public,24 hours daily,45.71015,-121.51655
+ELEC,Detroit - Mountain High Grocery,Detroit,OR,97342,Public,24 hours daily,44.73718,-122.15195
+ELEC,Astoria - Sunset Empire Transit District,Astoria,OR,97103,Public,24 hours daily,46.19017,-123.83331
+ELEC,Newberg - Chevron,Newberg,OR,97132,Public,24 hours daily,45.30868,-122.94178
+ELEC,Banks - Jim's Thriftway,Banks,OR,97106,Public,24 hours daily,45.61007,-123.11286
+ELEC,Florence - Three Rivers Casino,Florence,OR,97439,Public,24 hours daily,43.97657,-124.08581
+ELEC,Scappoose - Fred Meyer,Scappoose,OR,97056,Public,24 hours daily,45.74154,-122.87681
+ELEC,McMinnville - Oregon Mutual Insurance,McMinnville,OR,97128,Public,24 hours daily,45.21111,-123.19748
+ELEC,Mill City - Mountain Edge Café,Mill City,OR,97360,Public,24 hours daily,44.75669,-122.47985
+ELEC,Welches - Barlow Trail Roadhouse,Welches,OR,97067,Public,24 hours daily,45.3446,-121.9492
+ELEC,Lincoln City - Lincoln City Cultural Center,Lincoln City,OR,97367,Public,24 hours daily,44.97069,-124.01446
+ELEC,City of Cascade Locks Public Parking Lot,Cascade Locks,OR,97014,Public,24 hours daily,45.67071,-121.88823
+ELEC,Yachats - Yachats City Hall,Yachats,OR,97498,Public,24 hours daily,44.3127,-124.10542
+ELEC,Elkton - Brandborg Winery,Elkton,OR,97436,Public,24 hours daily,43.63635,-123.56587
+ELEC,Warm Springs - Indian Head Casino,Warm Springs,OR,97761,Public,24 hours daily,44.76316,-121.25056
+ELEC,Reedsport - Recreation Station,Reedsport,OR,97467,Public,24 hours daily,43.69841,-124.11183
+ELEC,Monmouth - Dairy Queen,Monmouth,OR,97361,Public,24 hours daily,44.84613,-123.22951
+ELEC,Spirit Mountain Casino Service Station,Grand Ronde,OR,97347,Public,24 hours daily,45.05987,-123.57872
+ELEC,Veneta - Veneta Park n' Ride,Veneta,OR,97487,Public,24 hours daily,44.05111,-123.35174
+ELEC,Tillamook - Fred Meyer,Tillamook,OR,97141,Public,24 hours daily,45.47478,-123.84546
+ELEC,Cannon Beach - Cannon Beach RV Resort,Cannon Beach,OR,97110,Public,24 hours daily,45.88889,-123.95537
+ELEC,Coos Bay -Fred Meyer,Coos Bay,OR,97420,Public,24 hours daily,43.35721,-124.21139
+ELEC,Albany - Chevron,Albany,OR,97322,Public,24 hours daily,44.55637,-123.06623
+ELEC,Redmond - Fred Meyer,Redmond,OR,97756,Public,24 hours daily,44.26766,-121.17681
+ELEC,Westport - Berry Patch,WESTPORT,OR,97016,Public,24 hours daily,46.13052,-123.37377
+ELEC,The Dalles - Fred Meyer,The Dalles,OR,97058,Public,24 hours daily,45.60691,-121.19955
+ELEC,Government Camp - Ski Bowl West,Government Camp,OR,97028,Public,24 hours daily,45.30291,-121.77641
+ELEC,Jim Sigel Automotive Center,Grants Pass,OR,97526,Public - Call ahead,Dealership business hours,42.455987,-123.320245
+ELEC,Hyland Estates,Dundee,OR,97115,Public,24 hours daily,45.268997,-123.020986
+ELEC,HASSALO GARAGE VELOMOR #1,Portland,OR,97232,Public,24 hours daily,45.530594,-122.656712
+ELEC,SunPower,Hillsboro,OR,97124,TEMPORARILY UNAVAILABLE (Private),8am-5pm daily; Employee and guest use only,45.55102,-122.939917
+ELEC,ALOFT HOTEL DC FAST 01,Portland,OR,97220,Public,24 hours daily,45.573211,-122.561278
+ELEC,STADIUM PARKING GARAGE,Portland,OR,97210,Public,24 hours daily,45.523855,-122.69492
+ELEC,SOU SOU LOT 27,Ashland,OR,97520,Public,24 hours daily,42.185539,-122.697112
+ELEC,Madras - Dairy Queen,Madras,OR,97741,Public,24 hours daily,44.62898,-121.12939
+ELEC,Port Orford - Seaside Plaza,Port Orford,OR,97465,Public,24 hours daily,42.74925,-124.497
+ELEC,Woodburn - Woodburn Transit Center,Woodburn,OR,97071,Public,24 hours daily,45.15136,-122.87634
+ELEC,Brookings,Brookings,OR,97415,Public,24 hours daily,42.05359,-124.29001
+ELEC,COLUMBIA BASIN HEPPNER,Heppner,OR,97836,Public,24 hours daily,45.356558,-119.553373
+ELEC,COLUMBIA BASIN CONDON,Condon,OR,97823,Public,24 hours daily,45.234126,-120.184295
+ELEC,HASSALO GARAGE ELWOOD BLDG #1,Portland,OR,97232,Public,24 hours daily,45.530904,-122.656662
+ELEC,Edith Green - Wendell Wyatt Federal Building,Portland,OR,97204,Private - Government only,Fleet vehicle only,45.514468,-122.677047
+ELEC,OSH OSH 1,Salem,OR,97301,Public,24 hours daily,44.938542,-123.005982
+ELEC,REMER INC RUBY'S GRILL,Seaside,OR,97138,TEMPORARILY UNAVAILABLE (Public),24 hours daily,45.978568,-123.926604
+ELEC,EV4 DC FAST 01,Portland,OR,97202,TEMPORARILY UNAVAILABLE (Public),24 hours daily,45.487166,-122.637985
+ELEC,DAS OREGON 550 BLD VISITOR,Salem,OR,97301,Public,24 hours daily,44.941884,-123.025502
+ELEC,LCT LCT LOT #1,Portland,OR,97232,Public,24 hours daily,45.532503,-122.657619
+ELEC,Oregon Department of Energy,Salem,OR,97301,Private,For fleet use only,44.941989,-123.025697
+ELEC,GS INDIGO LLC STATION 2,Portland,OR,97205,Public,24 hours daily,45.522219,-122.683515
+ELEC,SOFI LAKE OSWEG STATION 1,Lake Oswego,OR,97035,Public,24 hours daily,45.41896,-122.715093
+ELEC,STATION1 SOFI CEDAR MILL,Portland,OR,97229,Public,24 hours daily,45.521907,-122.799164
+ELEC,CHARGEPOINT BW PORT 1A PORT 1B,Portland,OR,97217,TEMPORARILY UNAVAILABLE (Public),24 hours daily,45.59404,-122.680944
+ELEC,PARK AVENUE STATION 1,Portland,OR,97205,Public,24 hours daily,45.519541,-122.680901
+ELEC,PARK AVENUE STATION 3,Portland,OR,97205,Public,24 hours daily,45.519453,-122.680799
+ELEC,LINCOLN CITY LINCOLN DUAL 2,Lincoln City,OR,97367,Public,24 hours daily,44.976001,-124.011539
+ELEC,HILLSBORO OR PUB WORKS 2,Hillsboro,OR,97124,Public,24 hours daily,45.551867,-122.94907
+ELEC,HILLSBORO OR PUB WORKS 1,Hillsboro,OR,97124,Public,24 hours daily,45.551864,-122.949149
+ELEC,Oregon Department of Energy,Salem,OR,97301,Private,Employee use only; Drivers must bring their own J1772 cordset for Level 1 charging,44.941989,-123.025697
+ELEC,Southern Oregon University - Lot 1,Ashland,OR,97520,Public,6am-12am; parking permit required,42.186396,-122.690383
+ELEC,Southern Oregon University - Lot 27,Ashland,OR,97520,Public,6am-12am; parking permit required,42.185251,-122.69845
+ELEC,SOU SOU LOT 1 EAST,Ashland,OR,97520,Public,24 hours daily,42.18759,-122.691876
+ELEC,Southern Oregon University - Facilities Management & Planning,Ashland,OR,97520,Private,Fleet use only,42.188483,-122.688136
+ELEC,CAPPELLA CHARGER,Salem,OR,97302,Public,24 hours daily,44.888818,-123.059289
+ELEC,BEND BMW STATION 02,Bend,OR,97702,TEMPORARILY UNAVAILABLE (Public),24 hours daily,44.039696,-121.305527
+ELEC,Santa's Hardware,Christmas Valley,OR,97641,Public,"9am-6pm M-Sat, 11am-4pm Sun; Also accepts PayPal",43.237312,-120.690638
+ELEC,Oregon Convention Center,Portland,OR,97232,Public,MON: 24 hours | TUE: 24 hours | WED: 24 hours | THU: 24 hours | FRI: 24 hours | SAT: 24 hours | SUN: 24 hours,45.526865,-122.663388
+ELEC,Salem - Chemeketa Parkade,Salem,OR,97301,Public,MON: 24 hours | TUE: 24 hours | WED: 24 hours | THU: 24 hours | FRI: 24 hours | SAT: 24 hours | SUN: 24 hours,44.942219,-123.038899
+ELEC,Timberhill Athletic Club,Corvallis,OR,97330,Public,MON: 24 hours | TUE: 24 hours | WED: 24 hours | THU: 24 hours | FRI: 24 hours | SAT: 24 hours | SUN: 24 hours,44.595571,-123.286015
+ELEC,Legacy Emanuel Hospital and Health Center,Portland,OR,97227,Public,MON: 24 hours | TUE: 24 hours | WED: 24 hours | THU: 24 hours | FRI: 24 hours | SAT: 24 hours | SUN: 24 hours,45.542776,-122.669212
+ELEC,Salem - Liberty Parkade,Salem,OR,97301,Public,MON: 24 hours | TUE: 24 hours | WED: 24 hours | THU: 24 hours | FRI: 24 hours | SAT: 24 hours | SUN: 24 hours,44.939001,-123.039338
+ELEC,Providence - Hood River Memorial Hospital,Hood River,OR,97031,Public,MON: 24 hours | TUE: 24 hours | WED: 24 hours | THU: 24 hours | FRI: 24 hours | SAT: 24 hours | SUN: 24 hours,45.704583,-121.522868
+ELEC,Legacy Mount Hood Medical Center,Gresham,OR,97030,Public,MON: 24 hours | TUE: 24 hours | WED: 24 hours | THU: 24 hours | FRI: 24 hours | SAT: 24 hours | SUN: 24 hours,45.517162,-122.407497
+ELEC,First Alternative Cooperative North,Corvallis,OR,97330,Public,MON: 24 hours | TUE: 24 hours | WED: 24 hours | THU: 24 hours | FRI: 24 hours | SAT: 24 hours | SUN: 24 hours,44.579023,-123.282687
+ELEC,Hawthorne Auto Clinic,PORTLAND,OR,97215,TEMPORARILY UNAVAILABLE (Private),MON: 24 hours | TUE: 24 hours | WED: 24 hours | THU: 24 hours | FRI: 24 hours | SAT: 24 hours | SUN: 24 hours,45.512037,-122.618159
+ELEC,Hotel Rose Portland,Portland,OR,97204,Public,MON: 24 hours | TUE: 24 hours | WED: 24 hours | THU: 24 hours | FRI: 24 hours | SAT: 24 hours | SUN: 24 hours,45.517469,-122.673361
+ELEC,Eastgate Business Center,Corvallis,OR,97333,TEMPORARILY UNAVAILABLE (Public),MON: 24 hours | TUE: 24 hours | WED: 24 hours | THU: 24 hours | FRI: 24 hours | SAT: 24 hours | SUN: 24 hours,44.563768,-123.225812
+ELEC,Old West Salem City Hall,Salem,OR,97304,Public,MON: 24 hours | TUE: 24 hours | WED: 24 hours | THU: 24 hours | FRI: 24 hours | SAT: 24 hours | SUN: 24 hours,44.939611,-123.060235
+ELEC,OSU - Linus Pauling Science Center,Corvallis,OR,97331,Public,MON: 24 hours | TUE: 24 hours | WED: 24 hours | THU: 24 hours | FRI: 24 hours | SAT: 24 hours | SUN: 24 hours,44.56629,-123.283795
+ELEC,Tigard - Public Works,Tigard,OR,97223,TEMPORARILY UNAVAILABLE (Public),MON: 24 hours | TUE: 24 hours | WED: 24 hours | THU: 24 hours | FRI: 24 hours | SAT: 24 hours | SUN: 24 hours,45.427235,-122.767239
+ELEC,Providence - St. Vincent Medical Center,Portland,OR,97225,Public,MON: 24 hours | TUE: 24 hours | WED: 24 hours | THU: 24 hours | FRI: 24 hours | SAT: 24 hours | SUN: 24 hours,45.509742,-122.771026
+ELEC,Providence - Office Park,Portland,OR,97213,Public,MON: 24 hours | TUE: 24 hours | WED: 24 hours | THU: 24 hours | FRI: 24 hours | SAT: 24 hours | SUN: 24 hours,45.5335,-122.617841
+ELEC,Providence - Milwaukie Hospital,Milwaukie,OR,97222,Public,MON: 24 hours | TUE: 24 hours | WED: 24 hours | THU: 24 hours | FRI: 24 hours | SAT: 24 hours | SUN: 24 hours,45.448879,-122.627307
+ELEC,Providence - Willamette Falls Medical Center,Oregon City,OR,97045,Public,MON: 24 hours | TUE: 24 hours | WED: 24 hours | THU: 24 hours | FRI: 24 hours | SAT: 24 hours | SUN: 24 hours,45.356723,-122.586643
+ELEC,Providence Medical Group - Tanasbourne,Hillsboro,OR,97124,TEMPORARILY UNAVAILABLE (Public),MON: 24 hours | TUE: 24 hours | WED: 24 hours | THU: 24 hours | FRI: 24 hours | SAT: 24 hours | SUN: 24 hours,45.533717,-122.868141
+ELEC,Providence - Bridgeport Health Center,Tigard,OR,97224,Public,MON: 24 hours | TUE: 24 hours | WED: 24 hours | THU: 24 hours | FRI: 24 hours | SAT: 24 hours | SUN: 24 hours,45.390767,-122.75109
+ELEC,Providence - Portland Medical Center - Glisan Parking Garage West,Portland,OR,97213,Public,MON: 24 hours | TUE: 24 hours | WED: 24 hours | THU: 24 hours | FRI: 24 hours | SAT: 24 hours | SUN: 24 hours,45.527803,-122.612077
+ELEC,Pringle Schoolhouse,Salem,OR,97302,Public,MON: 24 hours | TUE: 24 hours | WED: 24 hours | THU: 24 hours | FRI: 24 hours | SAT: 24 hours | SUN: 24 hours,44.883384,-123.012592
+ELEC,THPRD - HMT Recreation Complex,Beaverton,OR,97006,Public,MON: 24 hours | TUE: 24 hours | WED: 24 hours | THU: 24 hours | FRI: 24 hours | SAT: 24 hours | SUN: 24 hours,45.520532,-122.839118
+ELEC,Vernier Software & Technology,Beaverton,OR,97005,Public,MON: 24 hours | TUE: 24 hours | WED: 24 hours | THU: 24 hours | FRI: 24 hours | SAT: 24 hours | SUN: 24 hours,45.493455,-122.819869
+ELEC,City of Falls City,Falls City,OR,97344,TEMPORARILY UNAVAILABLE (Public),MON: 24 hours | TUE: 24 hours | WED: 24 hours | THU: 24 hours | FRI: 24 hours | SAT: 24 hours | SUN: 24 hours,44.865414,-123.434127
+ELEC,City of Carlton - City Hall,Carlton,OR,97111,TEMPORARILY UNAVAILABLE (Public),MON: 24 hours | TUE: 24 hours | WED: 24 hours | THU: 24 hours | FRI: 24 hours | SAT: 24 hours | SUN: 24 hours,45.29437,-123.175959
+ELEC,OSU - 15th & Jefferson Way Lot,Corvallis,OR,97331,Public,MON: 24 hours | TUE: 24 hours | WED: 24 hours | THU: 24 hours | FRI: 24 hours | SAT: 24 hours | SUN: 24 hours,44.564954,-123.272122
+ELEC,Danielson's Hilltop Mall,Oregon City,OR,97045,Public,MON: 24 hours | TUE: 24 hours | WED: 24 hours | THU: 24 hours | FRI: 24 hours | SAT: 24 hours | SUN: 24 hours,45.335211,-122.593116
+ELEC,Smart Park - 4th & Yamhill,Portland,OR,97204,Public,MON: 24 hours | TUE: 24 hours | WED: 24 hours | THU: 24 hours | FRI: 24 hours | SAT: 24 hours | SUN: 24 hours,45.517312,-122.676815
+ELEC,Smart Park - SW 10th & Yamhill,Portland,OR,97205,Public,MON: 24 hours | TUE: 24 hours | WED: 24 hours | THU: 24 hours | FRI: 24 hours | SAT: 24 hours | SUN: 24 hours,45.519651,-122.682137
+ELEC,EMBASSY CENTER NEW STATION,Tigard,OR,97223,TEMPORARILY UNAVAILABLE (Public),24 hours daily,45.454592,-122.781679
+ELEC,South Clackamas Transportation District,Molalla,OR,97038,Public,MON: 24 hours | TUE: 24 hours | WED: 24 hours | THU: 24 hours | FRI: 24 hours | SAT: 24 hours | SUN: 24 hours,45.145345,-122.566024
+ELEC,CHARGE@RTH STATION 01,Portland,OR,97233,TEMPORARILY UNAVAILABLE (Public),24 hours daily,45.520359,-122.537051
+ELEC,Crescent Vue,Tillamook,OR,97134,Private,For renter use only,45.449914,-123.961337
+ELEC,Green Acres Market,Redmond,OR,97756,Public,24 hours daily,44.204363,-121.227364
+ELEC,2WTC P1,Portland,OR,97204,Public,24 hours daily,45.516061,-122.673899
+ELEC,Tillamook,Tillamook,OR,97141,Public,24 hours daily,45.457061,-123.844996
+ELEC,Best Western Sunridge Inn - Tesla Supercharger,Baker City,OR,97814,Public,24 hours daily; for Tesla use only,44.782882,-117.812306
+ELEC,Fred Meyer Bend - Tesla Supercharger,Bend,OR,97702,Public,24 hours daily; for Tesla use only,44.03563,-121.308473
+ELEC,Detroit Lake - Tesla Supercharger,Detroit,OR,97342,Public,24 hours daily; for Tesla use only,44.73704,-122.151999
+ELEC,Black Bear Diner Grants Pass - Tesla Supercharger,Grants Pass,OR,97526,Public,24 hours daily; for Tesla use only,42.460931,-123.324124
+ELEC,Fred Meyer Klamath Falls - Tesla Supercharger,Klamath Falls,OR,97603,Public,24 hours daily; for Tesla use only,42.216915,-121.75635
+ELEC,Lincoln City Outlets - Tesla Supercharger,Lincoln City,OR,97367,Public,24 hours daily; for Tesla use only,44.957751,-124.010966
+ELEC,Wildhorse Resort and Casino - Tesla Supercharger,Pendleton,OR,97801,Public,24 hours daily; for Tesla use only,45.64655,-118.68198
+ELEC,Fred Meyer - Tesla Supercharger,Sandy,OR,97055,Public,24 hours daily; for Tesla use only,45.402786,-122.294371
+ELEC,Seaside Factory Outlet Center - Tesla Supercharger,Seaside,OR,97138,Public,24 hours daily; for Tesla use only,46.00101,-123.91683
+ELEC,Holiday Inn Eugene - Springfield - Tesla Supercharger,Springfield,OR,97477,Public,24 hours daily; for Tesla use only,44.082607,-123.037458
+ELEC,Elmer's Restaurant - Tesla Supercharger,Woodburn,OR,97071,Public,24 hours daily; for Tesla use only,45.15313,-122.881254
+ELEC,City of Ashland - Public Parking Lot,Ashland,OR,97520,Public,24 hours daily,42.197279,-122.712786
+ELEC,City of Ashland - Public Parking Garage,Ashland,OR,97520,Public,Garage business hours; pay lot,42.195809,-122.713621
+ELEC,Harney County - Chamber of Commerce,Burns,OR,97720,Public,24 hours daily; Tesla adapter available,43.589715,-119.055007
+ELEC,Green Springs Inn,Ashland,OR,97520,Public,24 hours daily,42.122821,-122.464271
+ELEC,Franny Beck Wines,Amity,OR,97101,Public,24 hours daily; for guest use only,45.115791,-123.206977
+ELEC,Public Coast Brewing,Cannon Beach,OR,97110,Public,24 hours daily; for Tesla use only,45.900889,-123.958827
+ELEC,Goss Chevrolet,La Grande,OR,97850,Public - Call ahead,Dealership business hours,45.326761,-118.091312
+ELEC,Lithia Building at the Commons,Medford,OR,97501,Public,24 hours daily,42.328866,-122.871814
+ELEC,Ponzi Vineyards,Sherwood,OR,97140,Public,Vineyard business hours,45.380227,-122.93602
+ELEC,FivePine Lodge and Spa,Sisters,OR,97759,Public,24 hours daily; for guest use only; see front desk for access,44.285827,-121.536435
+ELEC,Talent Community Center,Talent,OR,97540,Public,24 hours daily,42.245028,-122.790141
+ELEC,Providence - Portland Medical Center - Glisan Parking Garage - Valet Parking,Portland,OR,97213,Public,MON: 24 hours | TUE: 24 hours | WED: 24 hours | THU: 24 hours | FRI: 24 hours | SAT: 24 hours | SUN: 24 hours,45.527677,-122.611475
+ELEC,Lassen Chevrolet Toyota,Albany,OR,97322,Public - Call ahead,Dealership business hours; customer use only,44.630214,-123.055678
+ELEC,Windermere on the Beach,Bandon,OR,97411,Public,24 hours daily,43.095269,-124.430871
+ELEC,Power Chevrolet,Newport,OR,97365,TEMPORARILY UNAVAILABLE (Public - Call ahead),7:30am-7pm M-F; Dealership business hours,44.647644,-124.052744
+ELEC,Hallmark Inn,Newport,OR,97365,Public,24 hours daily; for guest use only; see front desk for access,44.630713,-124.063653
+ELEC,Ken Ware Chevrolet,North Bend,OR,97459,Public - Call ahead,"8am-6pm M-F, 9am-5pm Sat",43.390905,-124.234151
+ELEC,Courtney Auto Repair,Reedsport,OR,97467,Public - Call ahead,Dealership business hours,43.699725,-124.103324
+ELEC,Whole in the Wall,Mitchell,OR,97750,Public,24 hours daily; for Tesla use only,44.566585,-120.155408
+ELEC,GRESHAM HONDA SHOP02,Troutdale,OR,97060,Public,24 hours daily,45.520048,-122.406379
+ELEC,Lewis & Clark College - Holmes Hall,Lake Oswego,OR,97219,Private,For student and staff use only,45.447286,-122.669869
+ELEC,Stonecreek Golf Course,Oregon City,OR,97045,Public,6am-7pm daily,45.298048,-122.563601
+ELEC,Willamette Highway Parking,Oakridge,OR,97463,Public - Call ahead,Contact station for availability; key from Café required to unlock chargers,43.746765,-122.490567
+ELEC,Tillamook Creamery,Tillamook,OR,97141,Public,24 hours daily,45.483213,-123.843868
+ELEC,SIMON WOODBURNOUTLET1,Woodburn,OR,97071,Public,24 hours daily,45.15813,-122.876818
+ELEC,Guaranty Chevrolet,Junction City,OR,97448,Public - Call ahead,"Level 2: 24 hours daily, DC Fasr: charger inside the service center, call ahead to schedule",44.214122,-123.205072
+ELEC,Airport Chevrolet,Medford,OR,97504,Public - Call ahead,Dealership business hours,42.361323,-122.876631
+ELEC,Palm Cottages - Tesla Destination,Ashland,OR,97520,Public,24 hours daily; for customer use only,42.188557,-122.69705
+ELEC,The Peerless Hotel - Tesla Destination,Ashland,OR,97520,Public,24 hours daily; for customer use only; see front desk for access,42.197532,-122.707815
+ELEC,RedTail Inn - Tesla Destination,Ashland,OR,97520,Public - Call ahead,24 hours daily; for customer use only,42.194127,-122.707956
+ELEC,Plaza Inn & Suites Ashland Creek - Tesla Destination,Ashland,OR,97520,Public,24 hours daily; for customer use only; see front desk for access,42.199523,-122.715393
+ELEC,Bandon Dunes Golf Resort - Tesla Destination,Bandon,OR,97411,Public - Call ahead,24 hours daily; for customer use only,43.186682,-124.38933
+ELEC,Bandon Crossings Golf Course - Tesla Destination,Bandon,OR,97411,Public,24 hours daily; for customer use only,43.034574,-124.406065
+ELEC,The Oxford Hotel - Tesla Destination,Bend,OR,97701,Public,24 hours daily; for customer use only; see front desk for access,44.05769,-121.312151
+ELEC,Fairfield Inn & Suites Bend - Tesla Destination,Bend,OR,97701,Public,24 hours daily; for customer use only,44.066467,-121.308158
+ELEC,Brasada Ranch - Tesla Destination,Bend,OR,97753,Public,24 hours daily; for customer use only; see front desk for access,44.153848,-121.054257
+ELEC,Mount Bachelor Village Resort - Tesla Destination,Bend,OR,97702,Public - Call ahead,24 hours daily; for customer use only,44.03486,-121.33283
+ELEC,Riverhouse Hotel & Convention Center - Tesla Destination,Bend,OR,97701,Public,24 hours daily; for customer use only; see front desk for access,44.08071,-121.305244
+ELEC,Sunriver Resort - Tesla Destination,Bend,OR,97707,Public,24 hours daily; for customer use only; see front desk for access,43.871284,-121.444202
+ELEC,Tetherow Lodge & Golf Course - Tesla Destination,Bend,OR,97702,Public,24 hours daily; for customer use only; see front desk for access,44.02464,-121.366469
+ELEC,TownePlace Inn & Suites Bend - Tesla Destination,Bend,OR,97702,Public,24 hours daily; for customer use only,44.042835,-121.330692
+ELEC,Deschutes Brewery - Tesla Destination,Bend,OR,97702,Public,24 hours daily; for customer use only,44.046772,-121.322153
+ELEC,Cannon Beach Hotel - Tesla Destination,Cannon Beach,OR,97110,Public,24 hours daily; for customer use only; see front desk for access,45.889872,-123.962172
+ELEC,Surfsand Resort - Tesla Destination,Cannon Beach,OR,97110,Public,24 hours daily; for customer use only; see front desk for access,45.890582,-123.962988
+ELEC,Stephanie Inn - Tesla Destination,Cannon Beach,OR,97145,Public - Call ahead,24 hours daily; for customer use only,45.877155,-123.961875
+ELEC,The Courtyard - Tesla Destination,Cannon Beach,OR,97110,Public,24 hours daily; for customer use only; see front desk for access,45.890974,-123.962233
+ELEC,Red Lion Hotel Coos Bay - Tesla Destination,Coos Bay,OR,97420,Public,24 hours daily; for customer use only; see front desk for access,43.377235,-124.217313
+ELEC,University Inn Corvallis - Tesla Destination,Corvallis,OR,97333,Public,24 hours daily; for customer use only; see front desk for access,44.562057,-123.263617
+ELEC,Best Western Corvallis - Tesla Destination,Corvallis,OR,97330,Public,24 hours daily; for customer use only; see front desk for access,44.583488,-123.258543
+ELEC,Crater Lake National Park - Tesla Destination,Crater Lake,OR,97604,Public,24 hours daily,42.867509,-122.167297
+ELEC,Stoller Family Estate - Tesla Destination,Dayton,OR,97114,Public,24 hours daily; for customer use only,45.24117,-123.069729
+ELEC,Domaine Serene - Tesla Destination,Dayton,OR,97114,Public - Call ahead,24 hours daily; for customer use only,45.27009,-123.069863
+ELEC,Domaine Drouhin - Tesla Destination,Dayton,OR,97114,Public,24 hours daily; for customer use only,45.265248,-123.055793
+ELEC,"Whale Cove Inn, a Select Registry Property - Tesla Destination",Depoe Bay,OR,97341,Public,24 hours daily; for customer use only; see front desk for access,44.786899,-124.070605
+ELEC,Lange Estate Winery and Vineyards - Tesla Destination,Dundee,OR,97115,Public,24 hours daily; for customer use only,45.294038,-123.040682
+ELEC,Hyland Estates - Tesla Destination,Dundee,OR,97115,Public,24 hours daily,45.268997,-123.020986
+ELEC,Estacada City Hall - Tesla Destination,Estacada,OR,97023,Public,24 hours daily,45.286178,-122.334465
+ELEC,Riverhouse Inn - Tesla Destination,Florence,OR,97439,Public - Call ahead,24 hours daily; for customer use only,43.966643,-124.109379
+ELEC,Old Town Inn - Tesla Destination,Florence,OR,97439,Public - Call ahead,24 hours daily; for customer use only,43.967603,-124.107901
+ELEC,Driftwood Shores Resort & Conference Center - Tesla Destination,Florence,OR,97439,Public,24 hours daily; for customer use only; see front desk for access,44.036758,-124.132855
+ELEC,Apolloni Vineyards Winery - Tesla Destination,Forest Grove,OR,97116,Public,24 hours daily; for customer use only,45.622895,-123.21977
+ELEC,Crater Lake Resort - Tesla Destination,Fort Klamath,OR,97626,Public,24 hours daily; for customer use only; see front desk for access,42.684216,-121.973428
+ELEC,Salishan Spa and Golf Resort - Tesla Destination,Gleneden Beach,OR,97388,Public,24 hours daily; for customer use only; see front desk for access,44.892644,-124.019417
+ELEC,Columbia Cliffs Villas - Tesla Destination,Hood River,OR,97031,Public,24 hours daily; for customer use only; see front desk for access,45.711261,-121.553014
+ELEC,Grant County Chamber of Commerce - Tesla Destination,John Day,OR,97845,Public,24 hours daily,44.416613,-118.954696
+ELEC,Bronze Antler Bed & Breakfast - Tesla Destination,Joseph,OR,97846,Public - Call ahead,24 hours daily; for customer use only,45.348876,-117.229797
+ELEC,Pfeiffer Winery - Tesla Destination,Junction City,OR,97448,Public,24 hours daily; for customer use only,44.237008,-123.363456
+ELEC,Running Y Ranch Resort - Tesla Destination,Klamath Falls,OR,97601,Public,24 hours daily; see front desk for access,42.276661,-121.885676
+ELEC,Babica Hen Cafe - Tesla Destination,Lake Oswego,OR,97035,Public,24 hours daily; for customer use only,45.409642,-122.719662
+ELEC,Lake Oswego - Tesla Destination,Lake Oswego,OR,97219,Public,24 hours daily,45.419827,-122.66573
+ELEC,"Youngberg Hill, a Select Registry Property - Tesla Destination",McMinnville,OR,97128,Public,24 hours daily,45.179578,-123.279462
+ELEC,Lawrence Gallery - Tesla Destination,McMinnville,OR,97128,Public,24 hours daily,45.115299,-123.317723
+ELEC,Atticus Hotel - Tesla Destination,McMinnville,OR,97128,Public,24 hours daily; for customer use only; see front desk for access,45.210616,-123.193085
+ELEC,2Hawk Vineyard and Winery - Tesla Destination,Medford,OR,97504,Public,24 hours daily; for customer use only; see front desk for access,42.296722,-122.810479
+ELEC,City of Milwaukie - Tesla Destination,Milwaukie,OR,97222,Public,24 hours daily,45.444467,-122.642042
+ELEC,Inn at Red Hills - Tesla Destination,Newberg,OR,97132,Public - Call ahead,24 hours daily; for customer use only,45.272167,-123.016364
+ELEC,Oceanside Inn - Tesla Destination,Oceanside,OR,97134,Public,24 hours daily; for customer use only,45.459395,-123.969124
+ELEC,WildSpring Guest Habitat - Tesla Destination,Port Orford,OR,97465,Public - Call ahead,24 hours daily; for customer use only,42.742786,-124.486407
+ELEC,Hotel Eastlund - Tesla Destination,Portland,OR,97232,Public,24 hours daily; for customer use only; see valet for access,45.530443,-122.661149
+ELEC,Best Western Inn at the Meadows - Tesla Destination,Portland,OR,97217,Public - Call ahead,24 hours daily; for customer use only,45.593738,-122.680684
+ELEC,Portland Marriott Downtown Waterfront - Tesla Destination,Portland,OR,97201,Public,24 hours daily; for customer use only; see valet for access,45.512928,-122.675369
+ELEC,Kimpton RiverPlace Hotel - Tesla Destination,Portland,OR,97201,Public,24 hours daily; for customer use only; see valet for access,45.511322,-122.674245
+ELEC,Residence Inn Portland Downtown Lloyd Center - Tesla Destination,Portland,OR,97232,Public,24 hours daily; for customer use only; see front desk for access,45.530864,-122.647765
+ELEC,Oregon Museum of Science & Industry - Tesla Destination,Portland,OR,97214,Public,24 hours daily,45.508376,-122.664644
+ELEC,Embassy Suites by Hilton Portland Downtown - Tesla Destination,Portland,OR,97204,Public,24 hours daily; see valet for access,45.522061,-122.674064
+ELEC,Hampton Inn & Suites Portland/Pearl District - Tesla Destination,Portland,OR,97209,Public,24 hours daily; for customer use only; see front desk for access,45.525661,-122.679988
+ELEC,Kimpton Hotel Monaco Portland - Tesla Destination,Portland,OR,97204,Public,24 hours daily; for customer use only; see front desk for access,45.519888,-122.677365
+ELEC,Hotel Modera - Tesla Destination,Portland,OR,97201,Public,24 hours daily; for customer use only; see valet for access,45.51396,-122.680759
+ELEC,Hotel deLuxe - Tesla Destination,Portland,OR,97205,Public,24 hours daily; for customer use only; see valet for access,45.520987,-122.687707
+ELEC,Dossier Hotel - Tesla Destination,Portland,OR,97205,Public,24 hours daily; for customer use only; see valet for access,45.519997,-122.68006
+ELEC,Atlantic Aviation PDX - Tesla Destination,Portland,OR,97218,Public,24 hours daily; for customer use only; see front desk for access,45.584422,-122.577812
+ELEC,Southpark Garage - Tesla Destination,Portland,OR,97205,Public,24 hours daily; pay lot; see valet for access,45.518031,-122.682379
+ELEC,Red Lion Hotel on the River - Jantzen Beach - Tesla Destination,Portland,OR,97217,Public,24 hours daily; for customer use only; see front desk for access,45.6128,-122.675471
+ELEC,Hilton Portland Downtown - Tesla Destination,Portland,OR,97204,Public,24 hours daily; for customer use only; see valet for access,45.51778,-122.679533
+ELEC,Historic Hotel Prairie - Tesla Destination,Prairie City,OR,97869,Public,24 hours daily; see front desk for access,44.463124,-118.70919
+ELEC,Eagle Crest Resort - Tesla Destination,Redmond,OR,97756,Public,24 hours daily; for customer use only; see front desk for access,44.259464,-121.262632
+ELEC,DoubleTree by Hilton Salem - Tesla Destination,Salem,OR,97301,Public,24 hours daily; for customer use only; see front desk for access,44.949555,-122.991697
+ELEC,Zenith Vineyard - Tesla Destination,Salem,OR,97304,Public,24 hours daily; for customer use only,45.024475,-123.14209
+ELEC,Ponzi Vineyards - Tesla Destination,Sherwood,OR,97140,Public,24 hours daily; for customer use only,45.380444,-122.937156
+ELEC,The Oregon Garden Resort - Tesla Destination,Silverton,OR,97381,Public,24 hours daily; for customer use only; see front desk for access,44.990695,-122.788286
+ELEC,FivePine Lodge and Spa - Tesla Destination,Sisters,OR,97759,Public,24 hours daily; see front desk for access,44.285638,-121.536449
+ELEC,McKenzie Orchards B&B - Tesla Destination,Springfield,OR,97478,Public,24 hours daily; for customer use only; see front desk for access,44.08368,-122.987167
+ELEC,Hilton Garden Inn Springfield - Tesla Destination,Springfield,OR,97477,Public,24 hours daily; for customer use only,44.08534,-123.042979
+ELEC,Best Western Plus Hartford Lodge - Tesla Destination,Sutherlin,OR,97479,Public,24 hours daily; for customer use only; see front desk for access,43.387853,-123.334704
+ELEC,Blue Heron French Cheese Co - Tesla Destination,Tillamook,OR,97141,Public,24 hours daily,45.467253,-123.843009
+ELEC,The Waldport Inn - Tesla Destination,Waldport,OR,97394,Public - Call ahead,24 hours daily; for customer use only,44.425109,-124.068388
+ELEC,Cape Cod Cottages - Tesla Destination,Waldport,OR,97394,Public,24 hours daily; for customer use only,44.396832,-124.087243
+ELEC,The Resort at the Mountain - Tesla Destination,Welches,OR,97055,Public - Call ahead,24 hours daily; for customer use only,45.337998,-121.966023
+ELEC,Ocean Cove Inn - Tesla Destination,Yachats,OR,97498,Public,24 hours daily; for customer use only,44.310629,-124.101956
+ELEC,Solena Estate - Tesla Destination,Yamhill,OR,97148,Public,24 hours daily,45.343067,-123.126059
+ELEC,Gresham Station,Gresham,OR,97030,Public,6am-12am daily,45.505481,-122.43808
+ELEC,Clackamas Town Center,Happy Valley,OR,97086,Public,6am-12am daily,45.43488,-122.574535
+ELEC,Clackamas Town Center,Happy Valley,OR,97086,Public,6am-12am daily,45.434527,-122.576045
+ELEC,Clackamas Town Center,Happy Valley,OR,97086,Public,6am-12am daily,45.437663,-122.573184
+ELEC,Clackamas Town Center,Happy Valley,OR,97086,Public,6am-12am daily,45.436618,-122.575586
+ELEC,Clackamas Town Center,Happy Valley,OR,97086,Public,6am-12am daily,45.434927,-122.571979
+ELEC,Gateway Shopping Center,Portland,OR,97220,Public,6am-12am daily,45.532334,-122.560403
+ELEC,Washington Square,Portland,OR,97223,Public,6am-12am daily,45.45045,-122.78268
+ELEC,Bridgeport Village,Tigard,OR,97224,Public,6am-12am daily,45.396968,-122.750834
+ELEC,Bridgeport Village,Tigard,OR,97224,Public,6am-12am daily,45.395927,-122.753419
+ELEC,Columbia Gorge Outlets,Troutdale,OR,97060,Public,6am-12am daily,45.542319,-122.389411
+ELEC,COLUMBIA BASIN IONE,Ione,OR,97843,Public,24 hours daily,45.501524,-119.826811
+ELEC,Park Square,Portland,OR,97201,Public,24 hours daily,45.510792,-122.67764
+ELEC,COLUMBIA BASIN FOSSIL,Fossil,OR,97830,Public,24 hours daily,45.000604,-120.213913
+ELEC,Lewis & Clark College - Fir Acres Parking Lot,Lake Oswego,OR,97219,Private,For student and staff use only,45.4520974509695,-122.6675999285583
+ELEC,Lewis & Clark College - Sequoia Hall,Lake Oswego,OR,97219,Private,For student and staff use only,45.44656532288986,-122.6724600912933
+ELEC,Lewis & Clark College - McCarty Classroom,Lake Oswego,OR,97219,Private,For student and staff use only,45.45275976462744,-122.6775455595856
+ELEC,The Windward,Lake Oswego,OR,97034,Public,MON: 24 hours | TUE: 24 hours | WED: 24 hours | THU: 24 hours | FRI: 24 hours | SAT: 24 hours | SUN: 24 hours,45.418674,-122.664616
+ELEC,Space Age Fuel_Hermiston_OR,Hermiston,OR,97838,Public,24 hours daily,45.78711,-119.32211
+ELEC,Walmart 1889 Island City,Island City,OR,97850,Public,24 hours daily,45.33658,-118.05945
+ELEC,Walmart 5396 Albany,Albany,OR,97322,Public,24 hours daily,44.62701,-123.04942
+ELEC,T and T Country Store,Huntington,OR,97907,Public,24 hours daily,44.35113,-117.26859
+ELEC,Walmart 1834 Grants Pass,Grants Pass,OR,97526,Public,24 hours daily,42.43579,-123.30214
+ELEC,City of Independence - North Parking,Independence,OR,97351,TEMPORARILY UNAVAILABLE (Public),MON: 24 hours | TUE: 24 hours | WED: 24 hours | THU: 24 hours | FRI: 24 hours | SAT: 24 hours | SUN: 24 hours,44.849101,-123.184061
+ELEC,Bandon Shopping Center - Tesla Supercharger,Bandon,OR,97411,Public,24 hours daily; for Tesla use only,43.121858,-124.398943
+ELEC,Cousins' Country Inn - Tesla Supercharger,The Dalles,OR,97058,Public,24 hours daily; for Tesla use only,45.611941,-121.208249
+ELEC,Washington Square Mall - Tesla Supercharger,Portland,OR,97223,Public,24 hours daily; for Tesla use only,45.450169,-122.782724
+ELEC,Estacada City Library - Tesla Destination,Estacada,OR,97023,Public,24 hours daily,45.297128,-122.338407
+ELEC,Old Parkdale Inn Bed and Breakfast - Tesla Destination,Mt Hood,OR,97041,Public - Call ahead,24 hours daily; available with reservation only,45.520021,-121.593274
+ELEC,Itty Bitty Inn - Tesla Destination,North Bend,OR,97459,Public,24 hours daily; for customer use only; see front desk for access,43.413011,-124.224472
+ELEC,Tolovana Inn - Tesla Destination,Tolovana Park,OR,97110,Public,24 hours daily; for customer use only; see front desk for access,45.871824,-123.961237
+ELEC,McDonald's on Farmington Rd,Aloha,OR,97007,Public,MON: 24 hours | TUE: 24 hours | WED: 24 hours | THU: 24 hours | FRI: 24 hours | SAT: 24 hours | SUN: 24 hours,45.479856,-122.858424
+ELEC,Smart Park - 3rd & Alder,Portland,OR,97204,Public,MON: 24 hours | TUE: 24 hours | WED: 24 hours | THU: 24 hours | FRI: 24 hours | SAT: 24 hours | SUN: 24 hours,45.519169,-122.675761
+ELEC,Walmart 4176 Sherwood,Sherwood,OR,97140,Public,24 hours daily,45.36525,-122.83439
+ELEC,Nike - Coach K,Beaverton,OR,97005,Private,For employee use only,45.512116,-122.825486
+ELEC,Nike - John McEnroe,Beaverton,OR,97005,Private,For employee use only,45.506674,-122.825979
+ELEC,Nike - The Park,Beaverton,OR,97005,Private,For employee use only,45.511671,-122.834474
+ELEC,Nike - Serena,Beaverton,OR,97005,Private,For employee use only,45.510876,-122.826059
+ELEC,Nike - Talaria,Beaverton,OR,97006,Private,For employee use only,45.513219,-122.838215
+ELEC,Nike - Windrunner,Beaverton,OR,97003,Private,For employee use only,45.495039,-122.835414
+ELEC,Nike - Blazer,Hillsboro,OR,97124,Private,For employee use only,45.545415,-122.884475
+ELEC,Nike - Driving Force,Hillsboro,OR,97006,Private,For employee use only,45.53011,-122.887873
+ELEC,Nike - Tiempo,Beaverton,OR,97006,Private,For employee use only,45.497872,-122.836737
+ELEC,Nike - Mercurial SW,Beaverton,OR,97006,Private,For employee use only,45.498513,-122.833766
+ELEC,Nike - Total 90,Beaverton,OR,97006,Private,For employee use only,45.497875,-122.83386
+ELEC,Nike - Air Force,Beaverton,OR,97003,Private,For employee use only,45.497875,-122.83386
+ELEC,Nike - Zoom Flight,Hillsboro,OR,97124,Private,For employee use only,45.543685,-122.891197
+ELEC,Nike - Quantum Force,Hillsboro,OR,97124,Private,For employee use only,45.545214,-122.894591
+ELEC,Nike - APCC,Beaverton,OR,97006,Private,For employee use only,45.511089,-122.83681
+ELEC,Nike - Terman,Beaverton,OR,97005,Private,For employee use only,45.496228,-122.816365
+ELEC,Nike - Hocken,Beaverton,OR,97005,Private,For employee use only,45.496228,-122.816365
+ELEC,Nike - Air Zoom Alpha,Beaverton,OR,97005,Private,For employee use only,45.493086,-122.820105
+ELEC,Nike - SebCoe Garage,Beaverton,OR,97006,Private,For employee use only,45.511653,-122.828867
+ELEC,Nike - NY Garage,Beaverton,OR,97006,Private,For employee use only,45.514149,-122.832771
+ELEC,Nike - Challenge Ct,Beaverton,OR,97003,Private,For employee use only,45.496478,-122.835197
+ELEC,NWEA,Portland,OR,97209,Private,For employee use only,45.525778,-122.671957
+ELEC,University of Oregon - Streisinger Hall,Eugene,OR,97405,Public,Permit required,44.046472,-123.07198
+ELEC,"Walmart 4221 - Cornelius, OR",Cornelius,OR,97113,Public,24 hours daily,45.52151,-123.06805
+ELEC,"Walmart 1876 - Hood River, OR",Hood River,OR,97031,Public,24 hours daily,45.71181,-121.53991
+ELEC,High Desert Museum,Bend,OR,97702,Public,MON: 24 hours | TUE: 24 hours | WED: 24 hours | THU: 24 hours | FRI: 24 hours | SAT: 24 hours | SUN: 24 hours,43.966035,-121.343215
+ELEC,CCRider Transit Center,Rainier,OR,97048,Public,24 hours daily,46.089703,-122.937633
+ELEC,Clatskanie PUD Office,Clatskanie,OR,97016,Public,24 hours daily,46.10135,-123.201804
+ELEC,Tanasbourne Town Center - Barnes & Noble,Beaverton,OR,97006,Public,6am-12am daily,45.537316,-122.864878
+ELEC,Tanasbourne Town Center - Pet Co,Beaverton,OR,97006,Public,6am-12am daily,45.536462,-122.865026
+ELEC,Nyberg Rivers,Tualatin,OR,97062,Public,6am-12am daily,45.383666,-122.756233
+ELEC,Nyberg Woods - Jamba Juice,Tualatin,OR,97062,Public,6am-12am daily,45.383292,-122.749257
+ELEC,Stave & Stone Winery,Hood River,OR,97031,Public,24 hours daily,45.612052,-121.548425
+ELEC,Stave & Stone Winery - Tesla Destination,Hood River,OR,97031,Public,24 hours daily; for customer use only,45.612052,-121.548425
+ELEC,HOTEL 1 7 F HOTEL,Canyonville,OR,97417,Public,24 hours daily,42.937875,-123.283685
+ELEC,LMHD DCFAST HOG,Gladstone,OR,97027,TEMPORARILY UNAVAILABLE (Public),24 hours daily,45.383366,-122.58062
+ELEC,Kohl’s - Hillsboro,Hillsboro,OR,97124,Public,24 hours daily,45.536137,-122.9014
+ELEC,Kohl's - Beaverton,Beaverton,OR,97005,Public,24 hours daily,45.492637,-122.789614
+ELEC,CRPUD DEER ISLAND DC2,Deer Island,OR,97054,Public,24 hours daily,45.924736,-122.836766
+ELEC,Goodog Bakery,Myrtle Creek,OR,97457,Public,24 hours daily; Drivers must bring their own J1772 cordset for Level 1 charging,43.025929,-123.290579
+ELEC,PARADISE H-D DCFAST HOG,Tigard,OR,97223,Public,24 hours daily,45.442818,-122.78139
+ELEC,McDonald's on Cedar Hills Blvd #2160,Beaverton,OR,97005,Public,MON: 24 hours | TUE: 24 hours | WED: 24 hours | THU: 24 hours | FRI: 24 hours | SAT: 24 hours | SUN: 24 hours,45.493975,-122.810759
+ELEC,Albertsons 14300 SW Barrows Rd,Tigard,OR,97223,Public,6am-12am daily,45.431671,-122.823849
+ELEC,McDonald’s,Canby,OR,97013,Public,24 hours daily,45.258897,-122.699332
+ELEC,Panera Bread,Corvallis,OR,97330,Public,24 hours daily,44.567409,-123.260365
+ELEC,Lake Oswego Maintenance Center,Lake Oswego,OR,97035,Public,24 hours daily,45.398308,-122.733978
+ELEC,Holiday Inn Express & Suites Portland Airport - Tesla Destination,Portland,OR,97220,Public,24 hours daily; for customer use only; see front desk for access,45.577986,-122.568585
+ELEC,Oliver Station Apartments,Portland,OR,97266,Public,24 hours daily,45.479005,-122.567414
+ELEC,Walgreens,Canby,OR,97013,Public,24 hours daily,45.257059,-122.703517
+ELEC,SOFTSTAR SHOES STATION 1,Philomath,OR,97370,Public,24 hours daily,44.540136,-123.373574
+ELEC,RTEC EV COCC STATION 1,Redmond,OR,97756,Public,24 hours daily,44.254277,-121.166242
+ELEC,Boulder Falls Center,Lebanon,OR,97355,Public,24 hours daily,44.551654,-122.909382
+ELEC,McDonald’s - Woodburn,Woodburn,OR,97071,Public,24 hours daily,45.150671,-122.876974
+ELEC,Virginia Garcia Dental Clinic,Cornelius,OR,97113,Public,24 hours daily,45.52046,-123.057275
+ELEC,Kaiser Westside Medical Center,Hillsboro,OR,97124,Public,24 hours daily,45.540832,-122.876394
+ELEC,Linn-Benton Community College Lebanon Center,Lebanon,OR,97355,Public,24 hours daily,44.54766,-122.905876
+ELEC,Washington County Building Services - Short Term Parking (P3),Hillsboro,OR,97124,Public,24 hours daily,45.523762,-122.9909
+ELEC,Team Kia - Bend,Bend,OR,97701,Public,24 hours daily,44.055882,-121.269113
+ELEC,Audi Bend,Bend,OR,97702,Public,24 hours daily; for customer use only,44.039859,-121.304392
+ELEC,Best Western Premier - Peppertree Inn at Bend,Bend,OR,97702,Public,24 hours daily,44.039553,-121.335736
+ELEC,DAS OREGON AIRPORT RD 5,Salem,OR,97301,Public,24 hours daily,44.925777,-123.002304
+ELEC,CREEKSIDE PARK OAK STREET,Myrtle Creek,OR,97457,Public,24 hours daily,43.024673,-123.287933
+ELEC,Sumner College,Portland,OR,97220,Public,24 hours daily,45.574615,-122.577333
+ELEC,RTEC EV COCC STATION 4,Madras,OR,97741,Public,24 hours daily,44.636557,-121.106513
+ELEC,RTEC EV COCC STATION 3,Madras,OR,97741,Public,24 hours daily,44.63653,-121.10644
+ELEC,WILDER CORNER LOT,Newport,OR,97366,Public,24 hours daily,44.6041,-124.04342
+ELEC,Columbia Gorge Outlets,Troutdale,OR,97060,Public,24 hours daily,45.54296,-122.38973
+ELEC,INDPNDNCE HOTEL STATION 2,Independence,OR,97351,Public,24 hours daily,44.851556,-123.182292
+ELEC,MTA-EVCHARGER-1 MTASHLANDEV1,Ashland,OR,97520,Public,24 hours daily,42.08118,-122.70559
+ELEC,CITY ROSEBURG LIBRARY,Roseburg,OR,97470,Public,24 hours daily,43.212844,-123.34084
+ELEC,Kaiser Permenente - KP MSP Garage,Portland,OR,97232,Public,MO: Not Specified; TU: Not Specified; WE: Not Specified; TH: Not Specified; FR: Not Specified; SA: Not Specified; SU: Not Specified,45.5311331,-122.6601137
+ELEC,431002 : Heartline,Portland,OR,97209,Public,MO: 12:00am-12:00am; TU: 12:00am-12:00am; WE: 12:00am-12:00am; TH: 12:00am-12:00am; FR: 12:00am-12:00am; SA: 12:00am-12:00am; SU: 12:00am-12:00am,45.5293196,-122.6837219
+ELEC,531004 - Tektronix,Beaverton,OR,97005,Public,MO: 12:00am-12:00am; TU: 12:00am-12:00am; WE: 12:00am-12:00am; TH: 12:00am-12:00am; FR: 12:00am-12:00am; SA: 12:00am-12:00am; SU: 12:00am-12:00am,45.4991379,-122.8233365
+ELEC,531003 : Hillsboro School District,Hillsboro,OR,97123,Public,MO: Not Specified; TU: Not Specified; WE: Not Specified; TH: Not Specified; FR: Not Specified; SA: Not Specified; SU: Not Specified,45.544385132991,-122.9347086151
+ELEC,MRC,Lake Oswego,OR,97034,TEMPORARILY UNAVAILABLE (Public),MO: Not Specified; TU: Not Specified; WE: Not Specified; TH: Not Specified; FR: Not Specified; SA: Not Specified; SU: Not Specified,45.4017232,-122.6512718
+ELEC,J Building,Lake Oswego,OR,97034,TEMPORARILY UNAVAILABLE (Public),MO: Not Specified; TU: Not Specified; WE: Not Specified; TH: Not Specified; FR: Not Specified; SA: Not Specified; SU: Not Specified,45.4031666,-122.688201
+ELEC,"Walgreens - Tigard, OR #5780",Tigard,OR,97224,Public,MO: Not Specified; TU: Not Specified; WE: Not Specified; TH: Not Specified; FR: Not Specified; SA: Not Specified; SU: Not Specified,45.4192406,-122.7867139
+ELEC,"Walgreens - Cornelius, OR #9353",Cornelius,OR,97113,Public,MO: Not Specified; TU: Not Specified; WE: Not Specified; TH: Not Specified; FR: Not Specified; SA: Not Specified; SU: Not Specified,45.520878,-123.047672
+ELEC,"Walgreens - Sherwood, OR #7665",Sherwood,OR,97140,Public,MO: Not Specified; TU: Not Specified; WE: Not Specified; TH: Not Specified; FR: Not Specified; SA: Not Specified; SU: Not Specified,45.3673,-122.848649
+ELEC,"Walgreens - Wilsonville, OR #7688",Wilsonville,OR,97070,Public,MO: Not Specified; TU: Not Specified; WE: Not Specified; TH: Not Specified; FR: Not Specified; SA: Not Specified; SU: Not Specified,45.3029528,-122.7734556
+ELEC,Winderlea Vineyard and Winery,Dundee,OR,97115,Public,MO: Not Specified; TU: Not Specified; WE: Not Specified; TH: Not Specified; FR: Not Specified; SA: Not Specified; SU: Not Specified,45.278379,-123.043405
+ELEC,Sokol Blosser Winery,Dundee,OR,97115,Public,MO: 08:00am-09:00pm; TU: 08:00am-09:00pm; WE: 08:00am-09:00pm; TH: 08:00am-09:00pm; FR: 08:00am-09:00pm; SA: 08:00am-09:00pm; SU: 08:00am-09:00pm,45.2471771,-123.0480541
+ELEC,Joel Palmer House Restaurant,Dayton,OR,97114,TEMPORARILY UNAVAILABLE (Public),MO: Not Specified; TU: Not Specified; WE: Not Specified; TH: Not Specified; FR: Not Specified; SA: Not Specified; SU: Not Specified,45.2179069,-123.079714
+ELEC,Best Western McMinnville Inn,McMinnville,OR,97128,Public,MO: Not Specified; TU: Not Specified; WE: Not Specified; TH: Not Specified; FR: Not Specified; SA: Not Specified; SU: Not Specified,45.1935579,-123.2109633
+ELEC,Kaiser - Keizer Station Dental,Keizer,OR,97303,Public,MO: Not Specified; TU: Not Specified; WE: Not Specified; TH: Not Specified; FR: Not Specified; SA: Not Specified; SU: Not Specified,45.0074688,-122.998486
+ELEC,Andante Vineyard Main,Dallas,OR,97338,TEMPORARILY UNAVAILABLE (Public),MO: Not Specified; TU: Not Specified; WE: Not Specified; TH: Not Specified; FR: Not Specified; SA: Not Specified; SU: Not Specified,44.989966820463,-123.27233844072
+ELEC,"Walgreens - Salem, OR #11173",Salem,OR,97302,Public,MO: Not Specified; TU: Not Specified; WE: Not Specified; TH: Not Specified; FR: Not Specified; SA: Not Specified; SU: Not Specified,44.888866,-123.05999
+ELEC,Willamette Valley Vineyards,Turner,OR,97392,Public,MO: Not Specified; TU: Not Specified; WE: Not Specified; TH: Not Specified; FR: Not Specified; SA: Not Specified; SU: Not Specified,44.827453,-123.0110757
+ELEC,Overpark,Eugene,OR,97401,Public,MO: Not Specified; TU: Not Specified; WE: Not Specified; TH: Not Specified; FR: Not Specified; SA: Not Specified; SU: Not Specified,44.0488021,-123.0912052
+ELEC,Broadway South,Eugene,OR,97401,Public,MO: Not Specified; TU: Not Specified; WE: Not Specified; TH: Not Specified; FR: Not Specified; SA: Not Specified; SU: Not Specified,44.0499177,-123.0963067
+ELEC,Amazon Corner,Eugene,OR,97405,Public,MO: 12:00am-12:00am; TU: 12:00am-12:00am; WE: 12:00am-12:00am; TH: 12:00am-12:00am; FR: 12:00am-12:00am; SA: 12:00am-12:00am; SU: 12:00am-12:00am,44.022318447801,-123.08048543915
+ELEC,Super 8 Roseburg,Roseburg,OR,97470,Public,MO: Not Specified; TU: Not Specified; WE: Not Specified; TH: Not Specified; FR: Not Specified; SA: Not Specified; SU: Not Specified,43.2490005,-123.3583226
+ELEC,"Walgreens - Roseburg, OR #12068",Roseburg,OR,97470,Public,MO: Not Specified; TU: Not Specified; WE: Not Specified; TH: Not Specified; FR: Not Specified; SA: Not Specified; SU: Not Specified,43.2264305,-123.348339
+ELEC,CITY ROSEBURG PARKING GARAGE,Roseburg,OR,97470,TEMPORARILY UNAVAILABLE (Public),24 hours daily,43.20927,-123.34469
+ELEC,POWERCHARGE FRONT SHOWROOM,Corvallis,OR,97330,Public,24 hours daily,44.575273,-123.259732
+ELEC,Eastport Plaza,Portland,OR,97206,Public,24 hours daily,45.493247,-122.577501
+ELEC,RV Building,Lake Oswego,OR,97034,TEMPORARILY UNAVAILABLE (Public),MO: Not Specified; TU: Not Specified; WE: Not Specified; TH: Not Specified; FR: Not Specified; SA: Not Specified; SU: Not Specified,45.3993036,-122.6520568
+ELEC,Local Government Center,Salem,OR,97301,Public,MO: Not Specified; TU: Not Specified; WE: Not Specified; TH: Not Specified; FR: Not Specified; SA: Not Specified; SU: Not Specified,44.9387087,-123.0259577
+ELEC,"Walmart 1784 - Salem, OR",Salem,OR,97305,Public,24 hours daily,44.9655,-122.98536
+ELEC,PACIFIC POWER STATION 3,Madras,OR,97741,Public,24 hours daily,44.632045,-121.131019
+ELEC,47th Avenue Parking,Portland,OR,97213,Public,MON: 24 hours | TUE: 24 hours | WED: 24 hours | THU: 24 hours | FRI: 24 hours | SAT: 24 hours | SUN: 24 hours,45.528816,-122.614195
+ELEC,Crystal Creek Professional Building,Gresham,OR,97030,Public,MON: 24 hours | TUE: 24 hours | WED: 24 hours | THU: 24 hours | FRI: 24 hours | SAT: 24 hours | SUN: 24 hours,45.504779,-122.422629
+ELEC,Resonance Wines Tasting Room - Tesla Destination,Carlton,OR,97111,Public - Call ahead,24 hours daily; for customer use only,45.290796,-123.238097
+ELEC,Taylor & Taylor Realty Co. - Tesla Destination,Lincoln City,OR,97367,Public,24 hours daily,44.993604,-124.006882
+ELEC,Elk Cove Vineyards - Tesla Destination,Gaston,OR,97119,Public - Call ahead,24 hours daily; for customer use only,45.415886,-123.183277
+ELEC,Headlands Coastal Lodge & Spa - Tesla Destination,Pacific City,OR,97135,Public,24 hours daily; for customer use only; see front desk for access,45.216234,-123.970799
+ELEC,Lewis & Clark College - Tesla Destination,Lake Oswego,OR,97219,Public,24 hours daily,45.450404,-122.669338
+ELEC,Overleaf Lodge & Spa - Tesla Destination,Yachats,OR,97498,Public,24 hours daily; for customer use only; see front desk for access,44.32441,-124.103398
+ELEC,WSHCO. PUBLIC PSB P3,Hillsboro,OR,97124,Public,24 hours daily,45.523668,-122.989956
+ELEC,Walgreens #15927,Happy Valley,OR,97015,Public,8am-10pm daily,45.430286,-122.539766
+ELEC,Walgreens #6831,Hillsboro,OR,97124,Public,8am-12am daily,45.535322,-122.90696
+ELEC,Walgreens #13780,Hillsboro,OR,97124,Public,8am-10pm daily,45.52018,-122.97503
+ELEC,Cascade Station,Portland,OR,97220,Public,6am-12am daily,45.573273,-122.557421
+ELEC,Walgreens #5910,Troutdale,OR,97060,Public,8am-10pm daily,45.519322,-122.399424
+ELEC,Walgreens #9491,Milwaukie,OR,97222,Public,8am-11pm daily,45.444009,-122.629551
+ELEC,Walgreens #13727,Gladstone,OR,97027,Public,8am-10pm daily,45.37554,-122.601366
+ELEC,Walgreens #15071,Portland,OR,97229,Public,8am-10pm daily,45.526404,-122.814925
+ELEC,Clackamas Town Center,Happy Valley,OR,97086,Public,6am-12am daily,45.436873,-122.574743
+ELEC,City of Tigard Library,Tigard,OR,97223,Public,6am-12pm daily,45.422242,-122.765509
+ELEC,Kaiser - Beaverton Medical Office,Beaverton,OR,97005,Public,MO: Not Specified; TU: Not Specified; WE: Not Specified; TH: Not Specified; FR: Not Specified; SA: Not Specified; SU: Not Specified,45.4813964,-122.7827313
+ELEC,Northern Wasco County People's Utility District,The Dalles,OR,97058,Public,24 hours daily,45.615814,-121.198541
+ELEC,OTEC HARNEY CHAMBER,Burns,OR,97720,TEMPORARILY UNAVAILABLE (Public),24 hours daily,43.589646,-119.055316
+ELEC,PACIFIC POWER BEND DCFC 4,Bend,OR,97703,Public,24 hours daily,44.060949,-121.313346
+ELEC,PGE PGESE29THAVE,Portland,OR,97202,Public,24 hours daily,45.502903,-122.635526
+ELEC,Fort George Brewery,Astoria,OR,97103,Public,MON: 24 hours | TUE: 24 hours | WED: 24 hours | THU: 24 hours | FRI: 24 hours | SAT: 24 hours | SUN: 24 hours,46.18874,-123.827392
+ELEC,EOLA Hills Winery,Rickreall,OR,97371,TEMPORARILY UNAVAILABLE (Public),MON: 24 hours | TUE: 24 hours | WED: 24 hours | THU: 24 hours | FRI: 24 hours | SAT: 24 hours | SUN: 24 hours,44.9262978833,-123.22965135
+ELEC,"Walgreens - Salem, OR #4257",Salem,OR,97302,TEMPORARILY UNAVAILABLE (Public),MO: Not Specified; TU: Not Specified; WE: Not Specified; TH: Not Specified; FR: Not Specified; SA: Not Specified; SU: Not Specified,44.890664,-123.033902
+ELEC,Nike - Michael Jordan,Beaverton,OR,97005,Private,For employee use only,45.505208,-122.82908
+ELEC,Nike - Airport,Hillsboro,OR,97124,Private,For employee use only,45.540462,-122.941124
+ELEC,Nike - LeBron,Beaverton,OR,97005,Private,For employee use only,45.513132,-122.830253
+ELEC,"Walgreens - Salem, OR #9650",Salem,OR,97304,Public,MO: Not Specified; TU: Not Specified; WE: Not Specified; TH: Not Specified; FR: Not Specified; SA: Not Specified; SU: Not Specified,44.9484386,-123.051336
+ELEC,"Walmart 5935 - Tigard, OR",Tigard,OR,97223,Public,24 hours daily,45.43267,-122.75368
+ELEC,NICHOLS LANDING HAMPTON INN 1,Hood River,OR,97031,Public,24 hours daily,45.710867,-121.509306
+ELEC,Idiot’s Grace Wines,Mosier,OR,97040,Public,Winery business hours,45.688462,-121.378041
+ELEC,Mt. Bachelor Westside Village,Bend,OR,97702,Public,Open during parking lot hours,44.00375,-121.679284
+ELEC,MERCEDES BENZ INVENTORY STOR,Eugene,OR,97401,Public,24 hours daily,44.059268,-123.07891
+ELEC,HILLSBORO OR ITF #4,Hillsboro,OR,97123,TEMPORARILY UNAVAILABLE (Public),24 hours daily,45.520355,-122.97785
+ELEC,HILLSBORO OR ITF #2,Hillsboro,OR,97123,TEMPORARILY UNAVAILABLE (Public),24 hours daily,45.520287,-122.97787
+ELEC,University of Oregon - Erb Memorial Union,Eugene,OR,97403,Public,Permit required,44.043839,-123.074429
+ELEC,PACIFIC POWER OTIS DCFC #2,Otis,OR,97368,Public,24 hours daily,45.032427,-123.926918
+ELEC,PACIFIC POWER OTIS DCFC #3,Otis,OR,97368,Public,24 hours daily,45.019088,-123.948959
+ELEC,PGE PGESE35THPL,Portland,OR,97202,Public,24 hours daily,45.504112,-122.627237
+ELEC,OSU FAIRBANKS NORTH,Corvallis,OR,97331,Public,24 hours daily,44.56491,-123.280555
+ELEC,TROON VINEYARD EV STATION 1,Grants Pass,OR,97527,Public,24 hours daily,42.305276,-123.220003
+ELEC,Murray Business Center,Beaverton,OR,97005,Public,MON: 24 hours | TUE: 24 hours | WED: 24 hours | THU: 24 hours | FRI: 24 hours | SAT: 24 hours | SUN: 24 hours,45.494872,-122.82906
+ELEC,Touchmark in the West Hills,Portland,OR,97225,Public,24 hours daily,45.513606,-122.759914
+ELEC,Realty Trust Group,Portland,OR,97215,Public,MON: 24 hours | TUE: 24 hours | WED: 24 hours | THU: 24 hours | FRI: 24 hours | SAT: 24 hours | SUN: 24 hours,45.512306,-122.611223
+ELEC,Independence - Osprey Lane Parking Lot,Independence,OR,97351,Public,MON: 24 hours | TUE: 24 hours | WED: 24 hours | THU: 24 hours | FRI: 24 hours | SAT: 24 hours | SUN: 24 hours,44.851535,-123.18366
+ELEC,"Fred Meyer 40 (Portland, OR)",Portland,OR,97219,Public,24 hours daily,45.47058,-122.6917
+ELEC,OSU NEWPORT SOUTH,Newport,OR,97365,Public,24 hours daily,44.621807,-124.04715
+ELEC,OSU NEWPORT NORTH,Newport,OR,97366,Public,24 hours daily,44.62184,-124.047104
+ELEC,DAS OREGON AIRPORT RD 1,Salem,OR,97301,Public,24 hours daily,44.925891,-123.002688
+ELEC,Willamette Heritage Center,Salem,OR,97301,TEMPORARILY UNAVAILABLE (Public),MON: 24 hours | TUE: 24 hours | WED: 24 hours | THU: 24 hours | FRI: 24 hours | SAT: 24 hours | SUN: 24 hours,44.934815,-123.026732
+ELEC,Sunny Ridge RV Park,Jordan Valley,OR,97910,Private,9am-5pm daily; after hours by appointment; Drivers must bring their own J1772 cordset for Level 1 charging,42.976882,-117.063047
+ELEC,City  Hall Parking Lot,Cottage Grove,OR,97424,Public,MO: Not Specified; TU: Not Specified; WE: Not Specified; TH: Not Specified; FR: Not Specified; SA: Not Specified; SU: Not Specified,43.7970606,-123.0636059
+ELEC,Vista De Rosas,Portland,OR,97218,TEMPORARILY UNAVAILABLE (Public),MON: 24 hours | TUE: 24 hours | WED: 24 hours | THU: 24 hours | FRI: 24 hours | SAT: 24 hours | SUN: 24 hours,45.56223,-122.591429
+ELEC,Redmond - Fred Meyer,Redmond,OR,97756,Public,24 hours daily,44.26766,-121.17681
+ELEC,THE WYATT SPACE 107,Portland,OR,97209,Public,24 hours daily,45.530968,-122.683951
+ELEC,FLATS EV 1 FLATS AT CHASE,Eugene,OR,97401,Public,24 hours daily,44.057642,-123.060739
+ELEC,531008 : Montgomery Park,Portland,OR,97210,Public,MO: Not Specified; TU: Not Specified; WE: Not Specified; TH: Not Specified; FR: Not Specified; SA: Not Specified; SU: Not Specified,45.5375454,-122.7078005
+ELEC,Standard Insurance Company,Portland,OR,97204,Public,MON: 24 hours | TUE: 24 hours | WED: 24 hours | THU: 24 hours | FRI: 24 hours | SAT: 24 hours | SUN: 24 hours,45.516192,-122.679482
+ELEC,FRED MEYER - #600 Hollywood,Portland,OR,97232,TEMPORARILY UNAVAILABLE (Public),MON: 12:00am-11:58pm | TUE: 12:00am-11:58pm | WED: 12:00am-11:58pm | THU: 12:00am-11:58pm | FRI: 12:00am-11:58pm | SAT: 12:00am-11:58pm | SUN: 12:00am-11:58pm,45.533816,-122.634641
+ELEC,WORTHY WORTHY-1,Bend,OR,97701,Public,24 hours daily,44.055603,-121.26036
+ELEC,The Resort at Seaside,Seaside,OR,97138,Public,MO: Not Specified; TU: Not Specified; WE: Not Specified; TH: Not Specified; FR: Not Specified; SA: Not Specified; SU: Not Specified,45.9924065,-123.9295638
+ELEC,The Grateful Vineyard,Mt. Hood,OR,97041,Public,4pm-8pm M-F; 2pm-8pm Sat-Sun,45.536521,-121.621517
+ELEC,Days Inn & Suites by Wyndham Gresham,Gresham,OR,97030,Public,24 hours daily; for customer use only; see front desk for access,45.518271,-122.413781
+ELEC,PARK PARK STATION,The Dalles,OR,97058,Public,24 hours daily,45.603197,-121.183092
+ELEC,"Lake Oswego OR1-110 (Lake Oswego, OR)",Lake Oswego,OR,97034,Public,24 hours daily,45.42054,-122.66756
+ELEC,PACIFIC POWER K-FALLS LEVEL 2,Klamath Falls,OR,97601,Public,24 hours daily,42.225021,-121.783259
+ELEC,PACIFIC POWER K-FALLS DCFC 1,Klamath Falls,OR,97601,Public,24 hours daily,42.225021,-121.783323
+ELEC,G.S.H.C.S. STATION 1,Hermiston,OR,97838,Public,24 hours daily,45.846588,-119.310925
+ELEC,LPF Pearl West,Portland,OR,97209,Private,24 hours daily,45.527917,-122.685873
+ELEC,Ontario Market Place - Tesla Supercharger,Ontario,OR,97914,Public,24 hours daily; for Tesla use only,44.025581,-116.942111
+ELEC,CRPUD BEST WESTERN L2,St. Helens,OR,97051,Public,24 hours daily,45.852062,-122.8295
+ELEC,GHS STATION 1,Gresham,OR,97030,Public,24 hours daily,45.50538,-122.429832
+ELEC,WR EV STATION WR EV STATION,Enterprise,OR,97828,Public,24 hours daily,45.428658,-117.27618
+ELEC,Astoria Aquatic Center,Astoira,OR,97103,Public,MO: 06:00am-10:00pm; TU: 06:00am-10:00pm; WE: 06:00am-10:00pm; TH: 06:00am-10:00pm; FR: 06:00am-10:00pm; SA: 06:00am-10:00pm; SU: 06:00am-10:00pm,46.1890941,-123.8207908
+ELEC,HILLSBORO OR SHUTE LIBRARY,Hillsboro,OR,97123,Public,24 hours daily,45.51441,-122.974525
+ELEC,HILLSBORO OR LINCOLN #1,Hillsboro,OR,97124,Public,24 hours daily,45.524704,-122.98821
+ELEC,MCMINNVILLE MCMINNVILLE,McMinnville,OR,97128,Public,24 hours daily,45.201768,-123.161267
+ELEC,Bjornson Vineyard,Salem,OR,97304,Public,Tasting room hours; for guest use only,45.05878,-123.105432
+ELEC,Carl's Jr - Truckman Way,Keizer,OR,97303,Public,MON: 24 hours | TUE: 24 hours | WED: 24 hours | THU: 24 hours | FRI: 24 hours | SAT: 24 hours | SUN: 24 hours,45.048839,-122.976134
+ELEC,North Plains Veteran's Park,North Plains,OR,97133,Public,MON: 24 hours | TUE: 24 hours | WED: 24 hours | THU: 24 hours | FRI: 24 hours | SAT: 24 hours | SUN: 24 hours,45.592584,-122.999405
+ELEC,Target - Tesla Supercharger,Medford,OR,97504,Public,24 hours daily; for Tesla use only,42.347999,-122.878817
+ELEC,Target - Tesla Supercharger,Salem,OR,97301,Public,24 hours daily; for Tesla use only,44.938943,-122.987909
+ELEC,Target - Tesla Supercharger,Beaverton,OR,97006,Public,24 hours daily; for Tesla use only,45.538525,-122.866136
+ELEC,"Target T0346 - Clackamas, OR",Clackamas,OR,97015,Public,24 hours daily,45.43203,-122.57103
+ELEC,Ride Connection,Portland,OR,97213,Private,MON: 24 hours | TUE: 24 hours | WED: 24 hours | THU: 24 hours | FRI: 24 hours | SAT: 24 hours | SUN: 24 hours,45.527667,-122.611485
+ELEC,Black Butte Ranch - Tesla Destination,Sisters,OR,97759,Public,24 hours daily; for customer use only; see front desk for access,44.377984,-121.653139
+ELEC,Hampton Inn Clackamas - Tesla Destination,Clackamas,OR,97015,Public,24 hours daily; for customer use only; see front desk for access,45.408675,-122.570476
+ELEC,OCP - Tesla Destination,Portland,OR,97213,Public,24 hours daily; for customer use only; see front desk for access,45.529308,-122.60666
+ELEC,Tillamook Creamery - Tesla Destination,Tillamook,OR,97141,Public,24 hours daily; for customer use only; see front desk for access,45.483814,-123.842151
+ELEC,Town of Mitchell - Tesla Destination,Mitchell,OR,97750,Public,24 hours daily; for customer use only; see front desk for access,44.566511,-120.154271
+ELEC,Wildlife Blocks - Tesla Destination,Portland,OR,97232,Public,24 hours daily; for customer use only; see front desk for access,45.526178,-122.657136
+ELEC,"Simon Woodburn Premium Outlets (Woodburn, OR)",Woodburn,OR,97071,Public,24 hours daily,45.15742,-122.87591
+ELEC,Providence - Newberg Medical Center - North,Newberg,OR,97132,Public,MON: 24 hours | TUE: 24 hours | WED: 24 hours | THU: 24 hours | FRI: 24 hours | SAT: 24 hours | SUN: 24 hours,45.308899,-122.93359
+ELEC,Providence - Newberg Medical Center - South,Newberg,OR,97132,Private,MON: 24 hours | TUE: 24 hours | WED: 24 hours | THU: 24 hours | FRI: 24 hours | SAT: 24 hours | SUN: 24 hours,45.308144,-122.933351
+ELEC,Moda Center-City Garages (West Garage),Portland,OR,97227,TEMPORARILY UNAVAILABLE (Public),MON: 24 hours | TUE: 24 hours | WED: 24 hours | THU: 24 hours | FRI: 24 hours | SAT: 24 hours | SUN: 24 hours,45.533276,-122.669162
+ELEC,Moda Center-City Garages (East Garage),Portland,OR,97227,TEMPORARILY UNAVAILABLE (Public),MON: 24 hours | TUE: 24 hours | WED: 24 hours | THU: 24 hours | FRI: 24 hours | SAT: 24 hours | SUN: 24 hours,45.533276,-122.668243
+ELEC,Church Extension Plan,Salem,OR,97302,Public,24 hours daily,44.893282,-123.001131
+ELEC,Newberg Ford,Newberg,OR,97132,Public,Dealership business hours,45.307987,-122.940051
+ELEC,Newberg Chevrolet,Newberg,OR,97132,Public,Dealership business hours,45.304287,-122.952076
+ELEC,Christ Episcopal Church,St. Helens,OR,97051,Public,24 hours daily,45.844697,-122.839127
+ELEC,Native American Youth and Family Center,Portland,OR,97218,TEMPORARILY UNAVAILABLE (Public),MON: 7:00am-10:00pm | TUE: 7:00am-10:00pm | WED: 7:00am-10:00pm | THU: 7:00am-10:00pm | FRI: 7:00am-10:00pm | SAT: 7:00am-10:00pm | SUN: 7:00am-10:00pm,45.570467,-122.609239
+ELEC,SKIPANON STATION 02,Warrenton,OR,97146,Public,24 hours daily,46.166625,-123.923713
+ELEC,Sutherlin Dairy Queen,Sutherlin,OR,97479,Public,24 hours daily,43.3868,-123.33938
+ELEC,"Target T0612 - Springfield, OR",Springfield,OR,97477,Public,24 hours daily,44.07104,-123.04522
+ELEC,HILLSBORO OR HIDDEN CREEK 1,Hillsboro,OR,97124,Public,24 hours daily,45.524172,-122.931475
+ELEC,Electric Ave,Portland,OR,97204,Public,24 hours daily,45.515862,-122.675005
+ELEC,RIVERHOUSE 1 RIVERHOUSE EV,Bend,OR,97701,Public,24 hours daily,44.08,-121.3054
+ELEC,LEVEL 1 GARAGE CAR CHARGER 2,Portland,OR,97214,TEMPORARILY UNAVAILABLE (Public),24 hours daily,45.519058,-122.653366
+ELEC,ENTERPRISE ELEC STATION 1,Enterprise,OR,97828,Public,24 hours daily,45.41896,-117.276739
+ELEC,Mountain Mike's Pizza,Roseburg,OR,97471,Public,MON: 24 hours | TUE: 24 hours | WED: 24 hours | THU: 24 hours | FRI: 24 hours | SAT: 24 hours | SUN: 24 hours,43.21415,-123.356965
+ELEC,SANTACLARA 1,Eugene,OR,97404,Public,24 hours daily,44.101846,-123.129867
+ELEC,HILLSBORO OR MAIN ST 2,Hillsboro,OR,97123,Public,24 hours daily,45.522609,-122.988779
+ELEC,HILLSBORO OR EV-7,Hillsboro,OR,97123,Public,24 hours daily,45.520572,-122.977404
+ELEC,HILLSBORO OR EV-12,Hillsboro,OR,97123,Public,24 hours daily,45.520366,-122.977895
+ELEC,HILLSBORO OR EV-11,Hillsboro,OR,97123,TEMPORARILY UNAVAILABLE (Public),24 hours daily,45.520263,-122.977802
+ELEC,HILLSBORO OR EV-6,Hillsboro,OR,97123,Public,24 hours daily,45.520581,-122.977408
+ELEC,HILLSBORO OR EV-13,Hillsboro,OR,97123,TEMPORARILY UNAVAILABLE (Public),24 hours daily,45.520246,-122.977875
+ELEC,HILLSBORO OR EV-10,Hillsboro,OR,97123,TEMPORARILY UNAVAILABLE (Public),24 hours daily,45.520578,-122.977431
+ELEC,HILLSBORO OR EV-9,Hillsboro,OR,97123,Public,24 hours daily,45.520369,-122.977767
+ELEC,HILLSBORO OR ITF #5,Hillsboro,OR,97123,TEMPORARILY UNAVAILABLE (Public),24 hours daily,45.521503,-122.976585
+ELEC,HILLSBORO OR ITF #3,Hillsboro,OR,97123,TEMPORARILY UNAVAILABLE (Public),24 hours daily,45.520462,-122.97761
+ELEC,US BANCORP 5TH AVE GARAGE2,Portland,OR,97204,TEMPORARILY UNAVAILABLE (Public),24 hours daily,45.522242,-122.675909
+ELEC,UOP CHARGE LIBRARY 1,Portland,OR,97203,Public,24 hours daily,45.573067,-122.726775
+ELEC,GS INDIGO LLC STATION 1,Portland,OR,97205,Public,24 hours daily,45.522389,-122.684126
+ELEC,OSH OSH2,Salem,OR,97301,Public,24 hours daily,44.938573,-123.005924
+ELEC,OSH OSH 4,Salem,OR,97301,Public,24 hours daily,44.938634,-123.005815
+ELEC,OSH OSH 3,Salem,OR,97301,Public,24 hours daily,44.938603,-123.005869
+ELEC,CHARGEPOINT BW PORT 2A PORT 2B,Portland,OR,97217,TEMPORARILY UNAVAILABLE (Public),24 hours daily,45.593972,-122.680992
+ELEC,PARK AVENUE STATION 4,Portland,OR,97205,Public,24 hours daily,45.519462,-122.680845
+ELEC,PARK AVENUE STATION 2,Portland,OR,97205,Public,24 hours daily,45.519447,-122.680796
+ELEC,HASSALO GARAGE ASTER TOWER #1,Portland,OR,97232,Public,24 hours daily,45.530613,-122.656715
+ELEC,HIGHLANDCHEVRON WOODBURN EV 3-4,Woodburn,OR,97071,Public,24 hours daily,45.150898,-122.87834
+ELEC,HASSALO GARAGE LLOYD 700 #2,Portland,OR,97232,TEMPORARILY UNAVAILABLE (Public),24 hours daily,45.530915,-122.658197
+ELEC,HASSALO GARAGE LLOYD 700 #1,Portland,OR,97232,Public,24 hours daily,45.531173,-122.656725
+ELEC,LBCC  LBCC DUAL 1,Albany,OR,97321,Public,24 hours daily,44.586126,-123.115473
+ELEC,LBCC  LBCC DUAL 3,Albany,OR,97321,Public,24 hours daily,44.586123,-123.11532
+ELEC,SOU SOU LOT 1 WEST,Ashland,OR,97520,Public,24 hours daily,42.187588,-122.691912
+ELEC,GRESHAM HONDA SHOP01,Troutdale,OR,97060,Public,24 hours daily,45.519984,-122.406355
+ELEC,SIMON WOODBURNOUTLET2,Woodburn,OR,97071,TEMPORARILY UNAVAILABLE (Public),24 hours daily,45.158147,-122.876674
+ELEC,CRPUD DEER ISLAND L2,Deer Island,OR,97054,Public,24 hours daily,45.924725,-122.836774
+ELEC,CRPUD DEER ISLAND DC1,Deer Island,OR,97054,Public,24 hours daily,45.924776,-122.83682
+ELEC,RTEC EV COCC STATION 2,Redmond,OR,97756,Public,24 hours daily,44.254288,-121.166157
+ELEC,DAS OREGON AIRPORT RD 8,Salem,OR,97301,Public,24 hours daily,44.92594,-123.002417
+ELEC,DAS OREGON AIRPORT RD 3,Salem,OR,97301,Public,24 hours daily,44.925888,-123.00255
+ELEC,DAS OREGON AIRPORT RD 2,Salem,OR,97301,Public,24 hours daily,44.925896,-123.002754
+ELEC,DAS OREGON AIRPORT RD 7,Salem,OR,97301,Public,24 hours daily,44.92586,-123.002316
+ELEC,DAS OREGON AIRPORT RD 4,Salem,OR,97301,Public,24 hours daily,44.925882,-123.002816
+ELEC,DAS OREGON AIRPORT RD 6,Salem,OR,97301,Public,24 hours daily,44.92569,-123.00229
+ELEC,DAS OREGON AIRPORT RD 9,Salem,OR,97301,Public,24 hours daily,44.925934,-123.002512
+ELEC,INDPNDNCE HOTEL STATION 1,Independence,OR,97351,Public,24 hours daily,44.851483,-123.182448
+ELEC,PACIFIC POWER STATION 4,Madras,OR,97741,Public,24 hours daily,44.632043,-121.130994
+ELEC,PACIFIC POWER STATION 2,Madras,OR,97741,Public,24 hours daily,44.632045,-121.13107
+ELEC,PACIFIC POWER STATION 5,Madras,OR,97741,Public,24 hours daily,44.632041,-121.131094
+ELEC,PACIFIC POWER STATION 1,Madras,OR,97741,Public,24 hours daily,44.632041,-121.131139
+ELEC,PACIFIC POWER BEND DCFC 3,Bend,OR,97703,Public,24 hours daily,44.060972,-121.313351
+ELEC,PACIFIC POWER BEND DCFC 2,Bend,OR,97703,Public,24 hours daily,44.060992,-121.313351
+ELEC,PACIFIC POWER BEND LEVEL 2,Bend,OR,97703,Public,24 hours daily,44.061019,-121.313271
+ELEC,PACIFIC POWER BEND DCFC 1,Bend,OR,97703,Public,24 hours daily,44.061048,-121.313306
+ELEC,NICHOLS LANDING HAMPTON INN 2,Hood River,OR,97031,Public,24 hours daily,45.71087,-121.509224
+ELEC,MERCEDES BENZ NC DELIVERY,Eugene,OR,97401,Public,24 hours daily,44.059269,-123.078906
+ELEC,MERCEDES BENZ CUSTOMER FACING,Eugene,OR,97401,Public,24 hours daily,44.059012,-123.078867
+ELEC,HILLSBORO OR ITF #1,Hillsboro,OR,97123,TEMPORARILY UNAVAILABLE (Public),24 hours daily,45.52033,-122.97782
+ELEC,PACIFIC POWER OTIS DCFC #4,Otis,OR,97368,Public,24 hours daily,45.019094,-123.948863
+ELEC,PACIFIC POWER OTIS DCFC #1,Otis,OR,97368,Public,24 hours daily,45.019088,-123.948884
+ELEC,PACIFIC POWER K-FALLS DCFC 4,Klamath Falls,OR,97601,Public,24 hours daily,42.225017,-121.78327
+ELEC,PACIFIC POWER K-FALLS DCFC 3,Klamath Falls,OR,97601,Public,24 hours daily,42.224987,-121.783267
+ELEC,PACIFIC POWER K-FALLS DCFC 2,Klamath Falls,OR,97601,Public,24 hours daily,42.225011,-121.783291
+ELEC,HILLSBORO OR LINCOLN #2,Hillsboro,OR,97124,Public,24 hours daily,45.524727,-122.98826
+ELEC,OMIC STATION 2,Scappoose,OR,97056,Public,24 hours daily,45.766024,-122.865289
+ELEC,SKIPANON STATION 01,Warrenton,OR,97146,Public,24 hours daily,46.166632,-123.923633
+ELEC,HILLSBORO OR HIDDEN CREEK 2,Hillsboro,OR,97124,Public,24 hours daily,45.524129,-122.931799
+ELEC,SANTACLARA 2,Eugene,OR,97404,Public,24 hours daily,44.101846,-123.129826
+ELEC,TEKTRONIX EV1 B19 EV STATION,Beaverton,OR,97005,Public,24 hours daily,45.500121,-122.818497
+ELEC,MONTGOMERY PARK EAST,Portland,OR,97210,TEMPORARILY UNAVAILABLE (Public),24 hours daily,45.538248,-122.707833
+ELEC,MONTGOMERY PARK WEST,Portland,OR,97210,TEMPORARILY UNAVAILABLE (Public),24 hours daily,45.538226,-122.707704
+ELEC,WILSONVILLE STATION 1,Wilsonville,OR,97070,Public,Mon 5:00pm - 12:00am; Tue 5:00pm - 12:00am; Wed 5:00pm - 12:00am; Thu 5:00pm - 12:00am; Fri 5:00pm - 12:00am; Sat 12:00am - 12:00am; Sun 12:00am - 12:00am,45.322427,-122.76555
+ELEC,CHPT CLACKAMAS 2,Clackamas,OR,97015,Public,Mon 7:00am - 10:00pm; Tue 7:00am - 10:00pm; Wed 7:00am - 10:00pm; Thu 7:00am - 10:00pm; Fri 7:00am - 10:00pm; Sat 7:00am - 10:00pm; Sun 7:00am - 10:00pm,45.431873,-122.57348
+ELEC,CHPT CLACKAMAS 1,Clackamas,OR,97015,Public,Mon 7:00am - 10:00pm; Tue 7:00am - 10:00pm; Wed 7:00am - 10:00pm; Thu 7:00am - 10:00pm; Fri 7:00am - 10:00pm; Sat 7:00am - 10:00pm; Sun 7:00am - 10:00pm,45.431944,-122.573458
+ELEC,CHPT BEAVERTON 1,Beaverton,OR,97005,Public,Mon 7:00am - 10:00pm; Tue 7:00am - 10:00pm; Wed 7:00am - 10:00pm; Thu 7:00am - 10:00pm; Fri 7:00am - 10:00pm; Sat 7:00am - 10:00pm; Sun 7:00am - 10:00pm,45.492129,-122.789997
+ELEC,CHPT BEAVERTON 2,Beaverton,OR,97005,Public,Mon 7:00am - 10:00pm; Tue 7:00am - 10:00pm; Wed 7:00am - 10:00pm; Thu 7:00am - 10:00pm; Fri 7:00am - 10:00pm; Sat 7:00am - 10:00pm; Sun 7:00am - 10:00pm,45.492611,-122.789595
+ELEC,CHPT HILLSBORO 3,Hillsboro,OR,97124,Public,Mon 7:00am - 10:00pm; Tue 7:00am - 10:00pm; Wed 7:00am - 10:00pm; Thu 7:00am - 10:00pm; Fri 7:00am - 10:00pm; Sat 7:00am - 10:00pm; Sun 7:00am - 10:00pm,45.53592,-122.901371
+ELEC,CHPT HILLSBORO 4,Hillsboro,OR,97124,Public,Mon 7:00am - 10:00pm; Tue 7:00am - 10:00pm; Wed 7:00am - 10:00pm; Thu 7:00am - 10:00pm; Fri 7:00am - 10:00pm; Sat 7:00am - 10:00pm; Sun 7:00am - 10:00pm,45.535831,-122.901862
+ELEC,CHPT HILLSBORO 2,Hillsboro,OR,97124,Public,Mon 7:00am - 10:00pm; Tue 7:00am - 10:00pm; Wed 7:00am - 10:00pm; Thu 7:00am - 10:00pm; Fri 7:00am - 10:00pm; Sat 7:00am - 10:00pm; Sun 7:00am - 10:00pm,45.536169,-122.901447
+ELEC,CHPT HILLSBORO 1,Hillsboro,OR,97124,Public,Mon 7:00am - 10:00pm; Tue 7:00am - 10:00pm; Wed 7:00am - 10:00pm; Thu 7:00am - 10:00pm; Fri 7:00am - 10:00pm; Sat 7:00am - 10:00pm; Sun 7:00am - 10:00pm,45.536115,-122.901442
+ELEC,ACKERLYSH STATION 1,Sherwood,OR,97140,Public,24 hours daily,45.36721,-122.85102
+ELEC,ACKERLYSH STATION 2,Sherwood,OR,97140,Public,24 hours daily,45.36717,-122.85105
+ELEC,CENTURY PICEA,Hillsboro,OR,97124,Public,24 hours daily,45.564642,-122.90935
+ELEC,CENTURY SEQUOIADENDRON,Hillsboro,OR,97124,TEMPORARILY UNAVAILABLE (Public),24 hours daily,45.564537,-122.909538
+ELEC,TARGET CORP SALEM 1,Salem,OR,97301,Public,Mon 7:00am - 12:00am; Tue 7:00am - 12:00am; Wed 7:00am - 12:00am; Thu 7:00am - 12:00am; Fri 7:00am - 12:00am; Sat 7:00am - 12:00am; Sun 7:00am - 12:00am,44.938938,-122.987899
+ELEC,TARGET CORP SALEM 2,Salem,OR,97301,Public,Mon 7:00am - 12:00am; Tue 7:00am - 12:00am; Wed 7:00am - 12:00am; Thu 7:00am - 12:00am; Fri 7:00am - 12:00am; Sat 7:00am - 12:00am; Sun 7:00am - 12:00am,44.938941,-122.987901
+ELEC,TARGET CORP MEDFORD 2,Medford,OR,97504,Public,Mon 7:00am - 12:00am; Tue 7:00am - 12:00am; Wed 7:00am - 12:00am; Thu 7:00am - 12:00am; Fri 7:00am - 12:00am; Sat 7:00am - 12:00am; Sun 7:00am - 12:00am,42.347913,-122.879049
+ELEC,TARGET CORP TANASBOURNE 2,Beaverton,OR,97006,Public,Mon 7:00am - 12:00am; Tue 7:00am - 12:00am; Wed 7:00am - 12:00am; Thu 7:00am - 12:00am; Fri 7:00am - 12:00am; Sat 7:00am - 12:00am; Sun 7:00am - 12:00am,45.538763,-122.866192
+ELEC,TARGET CORP TANASBOURNE 1,Beaverton,OR,97006,Public,Mon 7:00am - 12:00am; Tue 7:00am - 12:00am; Wed 7:00am - 12:00am; Thu 7:00am - 12:00am; Fri 7:00am - 12:00am; Sat 7:00am - 12:00am; Sun 7:00am - 12:00am,45.538778,-122.866186
+ELEC,LANE COUNTY LC PW (DUAL),Eugene,OR,97408,Public,24 hours daily,44.09816,-123.09509
+ELEC,LANE COUNTY LC FLEET (EAST),Eugene,OR,97408,Public,24 hours daily,44.09827,-123.0958
+ELEC,LANE COUNTY LC FLEET (WEST),Eugene,OR,97408,Public,24 hours daily,44.09829,-123.09584
+ELEC,LANE COUNTY LC PW (SINGLE),Eugene,OR,97408,Public,24 hours daily,44.09817,-123.09514
+ELEC,"Target T0344 - Beaverton, OR",Beaverton,OR,97005,Public,24 hours daily,45.48692,-122.7886
+ELEC,PACIFIC POWER MILLCITY DCFC 3,Mill City,OR,97360,Public,24 hours daily,44.755492,-122.476216
+ELEC,UO-EMU MILLRACE 1,Eugene,OR,97403,Public,24 hours daily,44.048782,-123.06899
+ELEC,UO-EMU MILLRACE 2,Eugene,OR,97403,Public,24 hours daily,44.048763,-123.06908
+ELEC,UO-EMU MILLRACE 4,Eugene,OR,97403,Public,24 hours daily,44.048799,-123.069106
+ELEC,UO-EMU MILLRACE 3,Eugene,OR,97403,Public,24 hours daily,44.048765,-123.068988
+ELEC,UO-EMU MILLRACE 5,Eugene,OR,97403,Public,24 hours daily,44.048796,-123.069294
+ELEC,UO-EMU MILLRACE 6,Eugene,OR,97403,Public,24 hours daily,44.048797,-123.069313
+ELEC,PACIFIC POWER MILLCITY DCFC 4,Mill City,OR,97360,Public,24 hours daily,44.755498,-122.476286
+ELEC,PACIFIC POWER MILLCITY DCFC 2,Mill City,OR,97360,Public,24 hours daily,44.755484,-122.476157
+ELEC,Wilsonville Electric Ave,Wilsonville,OR,97070,Public,24 hours daily,45.302917,-122.760291
+ELEC,OTEC JOHN DAY,John Day,OR,97845,Public,24 hours daily,44.414062,-118.952579
+ELEC,Charli Charging,Portland,OR,97201,Public,24 hours daily; parking fee,45.511598,-122.678607
+ELEC,Clackamas CC - Wilsonville,Wilsonville,OR,97070,TEMPORARILY UNAVAILABLE (Public),MON: 24 hours | TUE: 24 hours | WED: 24 hours | THU: 24 hours | FRI: 24 hours | SAT: 24 hours | SUN: 24 hours,45.307556,-122.760587
+ELEC,PACIFIC POWER MILLCITY LEVEL,Mill City,OR,97360,Public,24 hours daily,44.755473,-122.476402
+ELEC,VISN 20/Roseburg VAMC,Eugene,OR,97408,Private - Government only,Accepts fleet card,44.088393,-123.052512
+ELEC,VISN 20/Roseburg VAMC,Roseburg,OR,97471,Private - Government only,Accepts fleet card,43.225705,-123.366144
+ELEC,Lava Lands Visitor Center - Deschutes National Forest,Bend,OR,97707,Private - Government only,9:00am-5:00pm; day pass or valid recreation pass required,43.909881,-121.355985
+ELEC,Sisters Ranger District - Deschutes National Forest,Sisters,OR,97759,Private - Government only,Monday - Friday; 8:00am - 4:30pm,44.291789,-121.555174
+ELEC,Crescent Ranger District - Deschutes National Forest,Crescent,OR,97733,Private - Government only,USNF Employees only,43.460714,-121.696862
+ELEC,Redmond Air Center - Deschutes National Forest,Redmond,OR,97756,Private - Government only,Monday - Friday; 8:00am - 4:30pm,44.260751,-121.147834
+ELEC,SEC North Bend,North Bend,OR,97459,Private - Government only,Drivers must bring their own J1772 cordset for Level 1 charging,43.410062,-124.241856
+ELEC,FCI Sheridan,Sheridan,OR,97378,Private - Government only,Drivers must bring their own J1772 cordset for Level 1 charging,45.075794,-123.388714
+ELEC,PACIFIC POWER MILLCITY DCFC 1,Mill City,OR,97360,Public,24 hours daily,44.755471,-122.476101
+ELEC,Clackamas Town Center,Happy Valley,OR,97086,Public,6am-12am daily,45.43434,-122.571856
+ELEC,LEVEL 1 GARAGE CAR CHARGER 1,Portland,OR,97232,TEMPORARILY UNAVAILABLE (Public),24 hours daily,45.523412,-122.651553
+ELEC,Carl's Jr - 250 Grant Smith Rd,Roseburg,OR,97471,Public,MON: 24 hours | TUE: 24 hours | WED: 24 hours | THU: 24 hours | FRI: 24 hours | SAT: 24 hours | SUN: 24 hours,43.149969,-123.370156
+ELEC,Laika,Hillsboro,OR,97124,Private,MON: 24 hours | TUE: 24 hours | WED: 24 hours | THU: 24 hours | FRI: 24 hours | SAT: 24 hours | SUN: 24 hours,45.553109,-122.911287
+ELEC,RED SOILS DSB 1,Oregon City,OR,97045,Public,24 hours daily,45.334098,-122.599491
+ELEC,RED SOILS BROOKS,Clackamas,OR,97015,Public,24 hours daily,45.430335,-122.57131
+ELEC,RED SOILS PSB 3,Oregon City,OR,97045,Public,24 hours daily,45.332571,-122.599653
+ELEC,RED SOILS PSB 2,Oregon City,OR,97045,Public,24 hours daily,45.332734,-122.599645
+ELEC,RED SOILS PSB 1,Oregon City,OR,97045,Public,24 hours daily,45.332797,-122.599647
+ELEC,RED SOILS PSB 4,Oregon City,OR,97045,Public,24 hours daily,45.332519,-122.59964
+ELEC,PENDLETON STATION 2,Pendleton,OR,97801,Public,24 hours daily,45.669167,-118.78814
+ELEC,PENDLETON STATION 1,Pendleton,OR,97801,Public,24 hours daily,45.669193,-118.787996
+ELEC,"Walmart 1925 (Newport, OR)",Newport,OR,97365,Public,24 hours daily,44.65562,-124.05349
+ELEC,Topgolf - Hillsboro,Hillsboro,OR,97124,Public,6am-12am daily,45.559426,-122.924698
+ELEC,Naito and Davis Parking,Portland,OR,97209,TEMPORARILY UNAVAILABLE (Public),MON: 24 hours | TUE: 24 hours | WED: 24 hours | THU: 24 hours | FRI: 24 hours | SAT: 24 hours | SUN: 24 hours,45.524,-122.67
+ELEC,District 2 East,Bend,OR,97703,Public,MON: 24 hours | TUE: 24 hours | WED: 24 hours | THU: 24 hours | FRI: 24 hours | SAT: 24 hours | SUN: 24 hours,44.05495,-121.356539
+ELEC,Oregon Department of Energy,Salem,OR,97301,Public,24 hours daily,44.941989,-123.025697
+ELEC,LANE COUNTY LC WHEELER,Eugene,OR,97402,Public,24 hours daily,44.04475,-123.106064
+ELEC,Garden Garage,Portland,OR,97227,Public,MON: 24 hours | TUE: 24 hours | WED: 24 hours | THU: 24 hours | FRI: 24 hours | SAT: 24 hours | SUN: 24 hours,45.531608,-122.667285
+ELEC,H-M VOLVO H-M VOLVO EAST,Beaverton,OR,97005,Public,24 hours daily,45.489663,-122.821323
+ELEC,H-M VOLVO HERZOG MEIER #2,Beaverton,OR,97005,Public,24 hours daily,45.489635,-122.821534
+ELEC,Carr Chevrolet,Beaverton,OR,97006,Public,Dealership business hours,45.490442,-122.829184
+ELEC,The Springs at Lake Oswego,Lake Oswego,OR,97035,Public,24 hours daily; guests and residents only,45.416784,-122.716933
+ELEC,McLoughlin Chevrolet,Milwaukie,OR,97267,Public,Dealership business hours,45.402584,-122.620352
+ELEC,Ron Tonkin Chrysler Jeep Dodge Ram FIAT,Milwaukie,OR,97267,Public,Dealership business hours,45.401293,-122.619727
+ELEC,Stoller Vineyards Experience Center - Tesla Destination,Dayton,OR,97114,Public,24 hours daily; for customer use only,45.241739,-123.072966
+ELEC,DTNA E. ISLAND L2 #2,Portland,OR,97217,Public,24 hours daily,45.556877,-122.702933
+ELEC,DTNA E. ISLAND L2 #1,Portland,OR,97217,TEMPORARILY UNAVAILABLE (Public),24 hours daily,45.556831,-122.702846
+ELEC,DTNA E. ISLAND DC #1,Portland,OR,97217,Public,24 hours daily,45.557453,-122.70317
+ELEC,CSD CHELDELIN STA 1,Corvallis,OR,97330,Public,24 hours daily,44.600653,-123.238262
+ELEC,CSD GARFIELD STA 1,Corvallis,OR,97330,Public,24 hours daily,44.583376,-123.265509
+ELEC,Meals On Wheels People,Portland,OR,97219,Public,MO: Not Specified; TU: Not Specified; WE: Not Specified; TH: Not Specified; FR: Not Specified; SA: Not Specified; SU: Not Specified,45.4686411,-122.7086377
+ELEC,Eugene Water & Electric Board - ROC,Eugene,OR,97402,Public,MO: 12:00am-12:00am; TU: 12:00am-12:00am; WE: 12:00am-12:00am; TH: 12:00am-12:00am; FR: 12:00am-12:00am; SA: 12:00am-12:00am; SU: 12:00am-12:00am,44.063351752885,-123.17095014114
+ELEC,STORE STORE,Fort Klamath,OR,97626,Public,24 hours daily,42.684988,-121.973057
+ELEC,University of Oregon - Student Rec Center,Eugene,OR,97403,Public,Permit required,44.043117,-123.073462
+ELEC,McDonald's #38555,Hillsboro,OR,97123,TEMPORARILY UNAVAILABLE (Public),MON: 24 hours | TUE: 24 hours | WED: 24 hours | THU: 24 hours | FRI: 24 hours | SAT: 24 hours | SUN: 24 hours,45.506773,-122.960725
+ELEC,"Fred Meyer 218 (Warrenton, OR)",Warrenton,OR,97146,Public,24 hours daily,46.16189,-123.90215
+ELEC,"Walmart 2075 (Bend, OR)",Bend,OR,97702,Public,24 hours daily,44.02256,-121.31675
+ELEC,PBOC STATION 1,Klamath Falls,OR,97601,Public,24 hours daily,42.22097,-121.78433
+ELEC,Halsey City Hall,Halsey,OR,97348,Public,MO: Not Specified; TU: Not Specified; WE: Not Specified; TH: Not Specified; FR: Not Specified; SA: Not Specified; SU: Not Specified,44.3895289,-123.1102478
+ELEC,US BANCORP 4TH AVE GARAGE2,Portland,OR,97204,TEMPORARILY UNAVAILABLE (Public),24 hours daily,45.522166,-122.674758
+ELEC,RED SOILS DSB4 AB,Oregon City,OR,97045,Public,24 hours daily,45.33409,-122.59959
+ELEC,RED SOILS DSB5 AB,Oregon City,OR,97045,Public,24 hours daily,45.334156,-122.5996
+ELEC,SANTACLARA 3,Eugene,OR,97404,Public,24 hours daily,44.101851,-123.129752
+ELEC,SOUTH LOT SPOT 3,Tillamook,OR,97141,Public,24 hours daily,45.449593,-123.84295
+ELEC,Bel Air Drive,Clatskanie,OR,97016,Public,24 hours daily,46.100717,-123.211002
+ELEC,"Hines, OR - Tesla Supercharger",Hines,OR,97738,Public,24 hours daily; for Tesla use only,43.57265,-119.074361
+ELEC,Bob’s Red Mill Whole Grain Store,Milwaukie,OR,97222,Public,24 hours daily,45.43271,-122.611136
+ELEC,AAA OR ID AAA MEDFORD,Medford,OR,97504,Public,24 hours daily,42.316193,-122.84588
+ELEC,CITY OF TOLEDO LIBRARY,Toledo,OR,97391,Public,24 hours daily,44.625424,-123.939249
+ELEC,CITY OF TOLEDO CITY HALL,Toledo,OR,97391,Public,24 hours daily,44.6213,-123.93708
+ELEC,Mercato Grove,Lake Oswego,OR,97035,Public,MO: Not Specified; TU: Not Specified; WE: Not Specified; TH: Not Specified; FR: Not Specified; SA: Not Specified; SU: Not Specified,45.4153179,-122.7188955
+ELEC,Randall Children's Hospital Parking Garage #4,Portland,OR,97210,Public,MON: 24 hours | TUE: 24 hours | WED: 24 hours | THU: 24 hours | FRI: 24 hours | SAT: 24 hours | SUN: 24 hours,45.54497,-122.668809
+ELEC,DTNA E. ISLAND DC #2,Portland,OR,97217,Public,24 hours daily,45.557475,-122.703114
+ELEC,MARINA 1 MARINA,Toledo,OR,97391,Public,24 hours daily,44.624275,-123.941399
+ELEC,PINE MTN SPORTS BIKE & SKI SHOP,Bend,OR,97702,Public,24 hours daily,44.048003,-121.332346
+ELEC,Hopworks Urban Brewery,Portland,OR,97202,Public,MON: 24 hours | TUE: 24 hours | WED: 24 hours | THU: 24 hours | FRI: 24 hours | SAT: 24 hours | SUN: 24 hours,45.497069,-122.635149
+ELEC,Clackamas Community College,Oregon City,OR,97045,Public,MON: 24 hours | TUE: 24 hours | WED: 24 hours | THU: 24 hours | FRI: 24 hours | SAT: 24 hours | SUN: 24 hours,45.324158,-122.570665
+ELEC,Clackamas Community College - Harmony Community Campus,Milwaukee,OR,97222,TEMPORARILY UNAVAILABLE (Public),MON: 24 hours | TUE: 24 hours | WED: 24 hours | THU: 24 hours | FRI: 24 hours | SAT: 24 hours | SUN: 24 hours,45.431715,-122.582386
+ELEC,ADIDAS ADIDAS YP1A,Portland,OR,97217,TEMPORARILY UNAVAILABLE (Public),24 hours daily,45.55904,-122.693629
+ELEC,SOUTH LOT PARKING SPOT 8,Tillamook,OR,97141,Public,24 hours daily,45.45009,-123.84195
+ELEC,SOUTH LOT SPOT 6,Tillamook,OR,97141,Public,24 hours daily,45.45014,-123.84194
+ELEC,Hawks View Estates,La Pine,OR,97733,Public,MO: Not Specified; TU: Not Specified; WE: Not Specified; TH: Not Specified; FR: Not Specified; SA: Not Specified; SU: Not Specified,43.3545356,-121.8332948
+ELEC,Hillsboro Electric Avenue,Hillsboro,OR,97123,Public,24 hours daily,45.507108,-122.96141
+ELEC,OSU - Parking Structure,Corvallis,OR,97331,Public,MON: 24 hours | TUE: 24 hours | WED: 24 hours | THU: 24 hours | FRI: 24 hours | SAT: 24 hours | SUN: 24 hours,44.560947,-123.27844
+ELEC,OSU - Reser Stadium Parking Lot,Corvallis,OR,97331,Private,MON: 24 hours | TUE: 24 hours | WED: 24 hours | THU: 24 hours | FRI: 24 hours | SAT: 24 hours | SUN: 24 hours,44.5590277,-123.2795026
+ELEC,Elmira High School,Elmira,OR,97437,Public,MO: 12:00am-12:00am; TU: 12:00am-12:00am; WE: 12:00am-12:00am; TH: 12:00am-12:00am; FR: 12:00am-12:00am; SA: 12:00am-12:00am; SU: 12:00am-12:00am,44.073176107578,-123.3598826735
+ELEC,AAA OR ID LAKE OSWEGO,Lake Oswego,OR,97035,Public,24 hours daily,45.42089,-122.740491
+ELEC,AAA OR ID PORTLAND,Portland,OR,97201,Public,24 hours daily,45.512816,-122.682576
+ELEC,AAA OR ID AAA CLACKAMAS,Clackamas,OR,97015,Public,24 hours daily,45.433815,-122.558247
+ELEC,AAA OR ID AAA SALEM,Salem,OR,97301,Public,24 hours daily,44.920358,-123.00228
+ELEC,AAA OR ID AAA EUGENE,Eugene,OR,97401,Public,24 hours daily,44.067255,-123.099709
+ELEC,UOP CHARGE TENNIS 2,Portland,OR,97203,Public,24 hours daily,45.571625,-122.728267
+ELEC,UOP CHARGE TENNIS 1,Portland,OR,97203,Public,24 hours daily,45.571738,-122.728364
+ELEC,Electric Island,Portland,OR,97217,Public,24 hours daily,45.557449,-122.703006
+ELEC,Oregon Research Institute,Eugene,OR,97403,Public,MON: 24 hours | TUE: 24 hours | WED: 24 hours | THU: 24 hours | FRI: 24 hours | SAT: 24 hours | SUN: 24 hours,44.048152,-123.068227
+ELEC,AAA OR ID AAA BEAVERTON,Portland,OR,97225,Public,24 hours daily,45.485988,-122.763517
+ELEC,Best Western Premier Peppertree Bend,Bend,OR,97702,Public,MO: Not Specified; TU: Not Specified; WE: Not Specified; TH: Not Specified; FR: Not Specified; SA: Not Specified; SU: Not Specified,44.0392553,-121.3358477
+ELEC,Wooldridge Creek,Grants Pass,OR,97527,Public,MO: Not Specified; TU: Not Specified; WE: Not Specified; TH: Not Specified; FR: Not Specified; SA: Not Specified; SU: Not Specified,42.3057928,-123.2012665
+ELEC,Greyhound Station,Salem,OR,97301,Public,MO: Not Specified; TU: Not Specified; WE: Not Specified; TH: Not Specified; FR: Not Specified; SA: Not Specified; SU: Not Specified,44.932275720884,-123.02821958423
+ELEC,SMR AUO 1,Bend,OR,97702,Public,MO: Not Specified; TU: Not Specified; WE: Not Specified; TH: Not Specified; FR: Not Specified; SA: Not Specified; SU: Not Specified,43.9962626,-121.3961626
+ELEC,Brooks Wines,Amity,OR,97101,TEMPORARILY UNAVAILABLE (Public),MO: 12:00am-12:00am; TU: 12:00am-12:00am; WE: 12:00am-12:00am; TH: 12:00am-12:00am; FR: 12:00am-12:00am; SA: 12:00am-12:00am; SU: 12:00am-12:00am,45.1072004,-123.135034
+ELEC,Eugene Water & Electric Board - HQ,Eugene,OR,97401,Public,MO: 12:00am-12:00am; TU: 12:00am-12:00am; WE: 12:00am-12:00am; TH: 12:00am-12:00am; FR: 12:00am-12:00am; SA: 12:00am-12:00am; SU: 12:00am-12:00am,44.054799943379,-123.08518130129
+ELEC,COE Train Lot,Eugene,OR,97401,Public,MO: Not Specified; TU: Not Specified; WE: Not Specified; TH: Not Specified; FR: Not Specified; SA: Not Specified; SU: Not Specified,44.0551543,-123.0923357
+ELEC,Parcade,Eugene,OR,97401,Public,MO: Not Specified; TU: Not Specified; WE: Not Specified; TH: Not Specified; FR: Not Specified; SA: Not Specified; SU: Not Specified,44.052054,-123.0927106
+ELEC,COE Library,Eugene,OR,97401,Public,MO: Not Specified; TU: Not Specified; WE: Not Specified; TH: Not Specified; FR: Not Specified; SA: Not Specified; SU: Not Specified,44.0485302,-123.094962
+ELEC,"Walgreens - Medford, OR #9328",Medford,OR,97501,TEMPORARILY UNAVAILABLE (Public),MO: Not Specified; TU: Not Specified; WE: Not Specified; TH: Not Specified; FR: Not Specified; SA: Not Specified; SU: Not Specified,42.3156876,-122.8613265
+ELEC,"Walgreens - Portland, OR #3925",Portland,OR,97220,Public,MO: Not Specified; TU: Not Specified; WE: Not Specified; TH: Not Specified; FR: Not Specified; SA: Not Specified; SU: Not Specified,45.523361,-122.5791759
+ELEC,Kailash Ecovillage,Portland,OR,97202,Public,MO: Not Specified; TU: Not Specified; WE: Not Specified; TH: Not Specified; FR: Not Specified; SA: Not Specified; SU: Not Specified,45.4916243,-122.6255759
+ELEC,Collin,Lake Oswego,OR,97034,TEMPORARILY UNAVAILABLE (Public),MO: Not Specified; TU: Not Specified; WE: Not Specified; TH: Not Specified; FR: Not Specified; SA: Not Specified; SU: Not Specified,45.3992465,-122.6521529
+ELEC,"Walgreens - Oregon City, OR #3801",Oregon City,OR,97405,Public,MO: Not Specified; TU: Not Specified; WE: Not Specified; TH: Not Specified; FR: Not Specified; SA: Not Specified; SU: Not Specified,45.336162,-122.591209
+ELEC,Cottage Grove High School,Cottage Grove,OR,97424,Public,MO: 12:00am-12:00am; TU: 12:00am-12:00am; WE: 12:00am-12:00am; TH: 12:00am-12:00am; FR: 12:00am-12:00am; SA: 12:00am-12:00am; SU: 12:00am-12:00am,43.786993478989,-123.07074533055
+ELEC,INDIGO @ 12 west,Portland,OR,97205,TEMPORARILY UNAVAILABLE (Public),MO: 12:00am-12:00am; TU: 12:00am-12:00am; WE: 12:00am-12:00am; TH: 12:00am-12:00am; FR: 12:00am-12:00am; SA: 12:00am-12:00am; SU: 12:00am-12:00am,45.5223977,-122.6841263
+ELEC,Five Oaks,Hillsboro,OR,97124,Public,MO: Not Specified; TU: Not Specified; WE: Not Specified; TH: Not Specified; FR: Not Specified; SA: Not Specified; SU: Not Specified,45.56205,-122.9179763
+ELEC,531007 : Daimler Trucks North American Headquarters,Portland,OR,97217,Public,MO: 06:00am-06:00pm; TU: 06:00am-06:00pm; WE: 06:00am-06:00pm; TH: 06:00am-06:00pm; FR: 06:00am-06:00pm; SA: Closed; SU: Closed,45.5552659,-122.7027591
+ELEC,"Walgreens - Portland, OR #6140",Portland,OR,97232,Public,MO: Not Specified; TU: Not Specified; WE: Not Specified; TH: Not Specified; FR: Not Specified; SA: Not Specified; SU: Not Specified,45.5345148,-122.6605144
+ELEC,Metro Garage,Portland,OR,97232,Public,MO: Not Specified; TU: Not Specified; WE: Not Specified; TH: Not Specified; FR: Not Specified; SA: Not Specified; SU: Not Specified,45.5273671,-122.6602507
+ELEC,The Arbory Building B,Hillsboro,OR,97006,Public,MO: Not Specified; TU: Not Specified; WE: Not Specified; TH: Not Specified; FR: Not Specified; SA: Not Specified; SU: Not Specified,45.5315833,-122.8843415
+ELEC,Rose Villa,Portland,OR,97222,Public,MO: 12:00am-12:00am; TU: 12:00am-12:00am; WE: 12:00am-12:00am; TH: 12:00am-12:00am; FR: 12:00am-12:00am; SA: 12:00am-12:00am; SU: 12:00am-12:00am,45.425563113231,-122.64596478095
+ELEC,MRC 2,Lake Oswego,OR,97034,TEMPORARILY UNAVAILABLE (Public),MO: Not Specified; TU: Not Specified; WE: Not Specified; TH: Not Specified; FR: Not Specified; SA: Not Specified; SU: Not Specified,45.4017232,-122.6512718
+ELEC,O'Neill,Lake Oswego,OR,97034,Public,MO: Not Specified; TU: Not Specified; WE: Not Specified; TH: Not Specified; FR: Not Specified; SA: Not Specified; SU: Not Specified,45.3992465,-122.6521529
+ELEC,Pepin,Lake Oswego,OR,97034,TEMPORARILY UNAVAILABLE (Public),MO: Not Specified; TU: Not Specified; WE: Not Specified; TH: Not Specified; FR: Not Specified; SA: Not Specified; SU: Not Specified,45.3992465,-122.6521529
+ELEC,Market Center Building,Portland,OR,97201,TEMPORARILY UNAVAILABLE (Public),MO: 06:00am-08:00pm; TU: 06:00am-08:00pm; WE: 06:00am-08:00pm; TH: 06:00am-08:00pm; FR: 06:00am-08:00pm; SA: Closed; SU: Closed,45.5120099,-122.679476
+ELEC,531006 : Oregon Health & Science University,Portland,OR,97239,Public,MO: 12:00am-12:00am; TU: 12:00am-12:00am; WE: 12:00am-12:00am; TH: 12:00am-12:00am; FR: 12:00am-12:00am; SA: 12:00am-12:00am; SU: 12:00am-12:00am,45.49844835593,-122.68521444981
+ELEC,Comfort Inn & Suites,Beaverton,OR,97005,Public,MO: Not Specified; TU: Not Specified; WE: Not Specified; TH: Not Specified; FR: Not Specified; SA: Not Specified; SU: Not Specified,45.488822,-122.8159396
+ELEC,Quality Inn,Tigard,OR,97223,Public,MO: 12:00am-12:00am; TU: 12:00am-12:00am; WE: 12:00am-12:00am; TH: 12:00am-12:00am; FR: 12:00am-12:00am; SA: 12:00am-12:00am; SU: 12:00am-12:00am,45.4414591,-122.7460196
+ELEC,"Walgreens - Lebanon, OR #11399",Lebanon,OR,97355,Public,MO: Not Specified; TU: Not Specified; WE: Not Specified; TH: Not Specified; FR: Not Specified; SA: Not Specified; SU: Not Specified,44.5165972,-122.8964974
+ELEC,Rogue Valley Manor,Medford,OR,97504,Public,MO: Not Specified; TU: Not Specified; WE: Not Specified; TH: Not Specified; FR: Not Specified; SA: Not Specified; SU: Not Specified,42.3069163,-122.8386148
+ELEC,"Walgreens - Medford, OR #12596",Medford,OR,97501,Public,MO: Not Specified; TU: Not Specified; WE: Not Specified; TH: Not Specified; FR: Not Specified; SA: Not Specified; SU: Not Specified,42.3240773,-122.8990224
+ELEC,CSD CHS STATION 1,Corvallis,OR,97330,Public,24 hours daily,44.575313,-123.266698
+ELEC,Legacy Meridian Park Hospital - South Parking,Tualatin,OR,97062,Public,MON: 24 hours | TUE: 24 hours | WED: 24 hours | THU: 24 hours | FRI: 24 hours | SAT: 24 hours | SUN: 24 hours,45.378352,-122.743373
+ELEC,WSHCO. WINGSPAN PUBLIC,Hillsboro,OR,97124,TEMPORARILY UNAVAILABLE (Public),24 hours daily,45.529955,-122.947321
+ELEC,Providence Medical Group - NE Glisan,Portland,OR,97213,Public,MON: 24 hours | TUE: 24 hours | WED: 24 hours | THU: 24 hours | FRI: 24 hours | SAT: 24 hours | SUN: 24 hours,45.526275,-122.609298
+ELEC,City Hall / Police Station,Lake Oswego,OR,97034,Public,MO: Not Specified; TU: Not Specified; WE: Not Specified; TH: Not Specified; FR: Not Specified; SA: Not Specified; SU: Not Specified,45.4193963,-122.6676371
+ELEC,CSD CVHS STATION 1,Corvallis,OR,97330,TEMPORARILY UNAVAILABLE (Public),24 hours daily,44.616759,-123.262407
+ELEC,CSD LINCOLN STA 1,Corvallis,OR,97333,Public,24 hours daily,44.544447,-123.265773
+ELEC,Pleasant Hill High School,Pleasant Hill,OR,97455,Public,MO: 12:00am-12:00am; TU: 12:00am-12:00am; WE: 12:00am-12:00am; TH: 12:00am-12:00am; FR: 12:00am-12:00am; SA: 12:00am-12:00am; SU: 12:00am-12:00am,43.956900570273,-122.91469808364
+ELEC,CITY ROSEBURG FIR GROVE #1,Roseburg,OR,97471,Public,24 hours daily,43.214733,-123.367805
+ELEC,Tongue Point JCC - Learning Resource Center,Astoria,OR,97103,Private - Government only,24 hours daily; Drivers must bring their own J1772 cordset for Level 1 charging,46.203107,-123.765707
+ELEC,BLM ChargePoint Charging Station,Coos Bay,OR,97420,Public,24 hours daily; Drivers must bring their own J1772 cordset for Level 1 charging,43.36656,-124.2147
+ELEC,BLM Tesla Destination Charger,Coos Bay,OR,97420,Public,24 hours daily; Drivers must bring their own J1772 cordset for Level 1 charging,43.37724,-124.21731
+ELEC,NWD,Foster,OR,97345,Private - Government only,24 hours daily; Drivers must bring their own J1772 cordset for Level 1 charging,38.632143,-75.602827
+ELEC,Wolf Creek JCC,Glide,OR,97443,Private - Government only,24 hours daily; Drivers must bring their own J1772 cordset for Level 1 charging,43.236478,-122.94457
+ELEC,NPS PWR JODA- Maintenance Division,Kimberly,OR,97848,Private - Government only,24 hours daily; Drivers must bring their own J1772 cordset for Level 1 charging,44.552987,-119.646087
+ELEC,NPS PWR JODA- Maintenance Division - 2,Kimberly,OR,97848,Private - Government only,24 hours daily; Drivers must bring their own J1772 cordset for Level 1 charging,44.552987,-119.646087
+ELEC,BLM Fred Meyer,Klamath Falls,OR,97603,Public,24 hours daily; Drivers must bring their own J1772 cordset for Level 1 charging,42.21551,-121.75587
+ELEC,NWD,Lowell,OR,97452,Private - Government only,24 hours daily; Drivers must bring their own J1772 cordset for Level 1 charging,43.914525,-122.75799
+ELEC,BLM Tesla Destination Charger,North Bend,OR,97459,Public,24 hours daily; Drivers must bring their own J1772 cordset for Level 1 charging,43.41301,-124.22447
+ELEC,BLM ChargePoint Charging Station,Reedsport,OR,97467,Public,24 hours daily; Drivers must bring their own J1772 cordset for Level 1 charging,43.70207,-124.09717
+ELEC,BLM City of Roseburg,Roseburg,OR,97470,Private,24 hours daily; Drivers must bring their own J1772 cordset for Level 1 charging,43.21311,-123.3405
+ELEC,BLM City of Roseburg - 2,Roseburg,OR,97470,Private,24 hours daily; Drivers must bring their own J1772 cordset for Level 1 charging,43.20958,-123.34442
+ELEC,BLM City of Roseburg - 3,Roseburg,OR,97471,Private,24 hours daily; Drivers must bring their own J1772 cordset for Level 1 charging,43.21701,-123.37091
+ELEC,BLM Fred Meyer,Roseburg,OR,97470,Public,24 hours daily; Drivers must bring their own J1772 cordset for Level 1 charging,43.22809,-123.36822
+ELEC,BLM Super 8,Roseburg,OR,97470,Public,24 hours daily; Drivers must bring their own J1772 cordset for Level 1 charging,43.24901,-123.35837
+ELEC,BLM U-haul,Roseburg,OR,97470,Public,24 hours daily; Drivers must bring their own J1772 cordset for Level 1 charging,43.2241,-123.34819
+ELEC,BLM Wagon Wheel Restaurant,Roseburg,OR,97470,Public,24 hours daily; Drivers must bring their own J1772 cordset for Level 1 charging,43.22668,-123.35571
+ELEC,BLM Walgreens,Roseburg,OR,97470,Public,24 hours daily; Drivers must bring their own J1772 cordset for Level 1 charging,43.22639,-123.34817
+ELEC,FHWA - Oregon Division,Salem,OR,97301,Private - Government only,24 hours daily,44.942615,-123.035199
+ELEC,Springdale JCC,Troutdale,OR,97060,Private - Government only,24 hours daily; Drivers must bring their own J1772 cordset for Level 1 charging,45.53942,-122.383533
+ELEC,Angel JCC,Yachats,OR,97498,Private - Government only,24 hours daily; Drivers must bring their own J1772 cordset for Level 1 charging,44.363946,-124.08866
+ELEC,Legacy Landing,Bend,OR,97701,Public,MO: Not Specified; TU: Not Specified; WE: Not Specified; TH: Not Specified; FR: Not Specified; SA: Not Specified; SU: Not Specified,44.0702307,-121.2611868
+ELEC,Maletis Beverage Co,Portland,OR,97217,Public - Credit card at all times,24 hours daily,45.5735463412876,-122.710316929595
+ELEC,Farnham Electric Construction,McMinnville,OR,97128,Public - Credit card at all times,24 hours daily,45.2138779652266,-123.186102718741
+ELEC,B3 PKG GARAGE STATION 1,Portland,OR,97201,Public,24 hours daily,45.514076,-122.6775
+ELEC,Gran Moraine Winery,Yamhill,OR,97148,Public - Credit card at all times,11am-5pm daily,45.3379672026112,-123.133861810445
+ELEC,Myrtle Creek - Tesla Supercharger,Myrtle Creek,OR,97457,Public - Credit card at all times,24 hours daily,42.9726203690216,-123.339344996136
+ELEC,Domaine Wiliamette Tasting Room Dayton,Dayton,OR,97114,Public,MO: Not Specified; TU: Not Specified; WE: Not Specified; TH: Not Specified; FR: Not Specified; SA: Not Specified; SU: Not Specified,45.250881440172,-123.04193894792
+ELEC,AAA OR ID AAA BEND,Bend,OR,97703,Public,24 hours daily,44.091793,-121.3064
+ELEC,SVC ENTRANCE SALES PARK,Portland,OR,97225,TEMPORARILY UNAVAILABLE (Public),24 hours daily,45.495457,-122.77329
+ELEC,West Linn City Hall,West Linn,OR,97068,Public - Credit card at all times,24 hours daily,45.362496,-122.647711
+ELEC,YARD PDX STATION 1,Portland,OR,97232,Public,24 hours daily,45.523187,-122.662987
+ELEC,MB WILSON CT4000 #1,Wilsonville,OR,97070,Public,24 hours daily,45.339874,-122.76792
+ELEC,HES FESTIVAL STREET,Hermiston,OR,97838,Public,24 hours daily,45.841271,-119.289538
+ELEC,MERCEDES BENZ CHARGEPOINT,Eugene,OR,97401,Public,24 hours daily,44.059692,-123.078156
+ELEC,Safeway - Tesla Supercharger,Hood River,OR,97031,Public - Credit card at all times,24 hours daily,45.7096015,-121.5346214
+ELEC,"Kroger Fred Meyer 125 (Portland, OR)",Portland,OR,97213,Public,24 hours daily,45.52667,-122.596
+ELEC,SHERWOOD EV CITY OF SHE2,Sherwood,OR,97140,Public,24 hours daily,45.35669,-122.8386
+ELEC,SHERWOOD EV CITY OF SHER,Sherwood,OR,97140,TEMPORARILY UNAVAILABLE (Public),24 hours daily,45.356514,-122.83854
+ELEC,SHERWOOD EV CITY OF SHE3,Sherwood,OR,97140,Public,24 hours daily,45.35538,-122.84012
+ELEC,Capitol Chevrolet of Salem - Customer Parking,Salem,OR,97301,Public,MON: 24 hours | TUE: 24 hours | WED: 24 hours | THU: 24 hours | FRI: 24 hours | SAT: 24 hours | SUN: 24 hours,44.96857,-123.026842
+ELEC,Oregon Department of Forestry,Salem,OR,97310,Public,MO: Not Specified; TU: Not Specified; WE: Not Specified; TH: Not Specified; FR: Not Specified; SA: Not Specified; SU: Not Specified,44.9314441,-123.0084401
+ELEC,AmberGlen Business Center,Hillsboro,OR,97006,TEMPORARILY UNAVAILABLE (Public),MON: 24 hours | TUE: 24 hours | WED: 24 hours | THU: 24 hours | FRI: 24 hours | SAT: 24 hours | SUN: 24 hours,45.533966,-122.881375
+ELEC,GRESHAM STATION1,Gresham,OR,97030,Public,24 hours daily,45.506648,-122.436269
+ELEC,GRESHAM STATION3,Gresham,OR,97030,Public,24 hours daily,45.506709,-122.436244
+ELEC,GRESHAM STATION2,Gresham,OR,97030,Public,24 hours daily,45.506829,-122.436273
+ELEC,Bella Collina Bed and Breakfast,Amity,OR,97101,Public,MO: Not Specified; TU: Not Specified; WE: Not Specified; TH: Not Specified; FR: Not Specified; SA: Not Specified; SU: Not Specified,45.0977586,-123.1714427
+ELEC,Bank's - Jim Thriftway,Banks,OR,97106,Public - Credit card at all times,24 hours daily,45.61007,-123.11286
+ELEC,BB PARKING #9,Portland,OR,97209,Public,24 hours daily,45.523789,-122.683943
+ELEC,The Nature Conservancy in Oregon,Portland,OR,97214,Public,MO: Not Specified; TU: Not Specified; WE: Not Specified; TH: Not Specified; FR: Not Specified; SA: Not Specified; SU: Not Specified,45.5168383,-122.6518213
+ELEC,Beaverton Electric Avenue,Beaverton,OR,97005,Public,24 hours daily,45.48903,-122.798151
+ELEC,FGL&P LIGHT & POWER,Forest Grove,OR,97116,Public,24 hours daily,45.517579,-123.116208
+ELEC,FGL&P CITY HALL EAST,Forest Grove,OR,97116,Public,24 hours daily,45.519075,-123.111437
+ELEC,Wolf Creek Inn,Wolf Creek,OR,97497,Public - Credit card at all times,24 hours daily,42.695282,-123.396739
+ELEC,"Walgreens - Eugene, OR #12491",Eugene,OR,97404,Public,MO: Not Specified; TU: Not Specified; WE: Not Specified; TH: Not Specified; FR: Not Specified; SA: Not Specified; SU: Not Specified,44.1046191,-123.1318022
+ELEC,BUTLER KIA BUTLER KIA,Medford,OR,97504,Public,24 hours daily,42.388038,-122.855112
+ELEC,Columbia George Outlets - Tesla Supercharger,Troutdale,OR,97060,Public - Credit card at all times,24 hours daily,45.542901,-122.38935
+ELEC,The Dylan Apartments,Portland,OR,97239,Public,MO: Not Specified; TU: Not Specified; WE: Not Specified; TH: Not Specified; FR: Not Specified; SA: Not Specified; SU: Not Specified,45.4952597,-122.672235
+ELEC,LANE COUNTY LC P&P (NORTH),Eugene,OR,97402,Public,24 hours daily,44.06525,-123.13613
+ELEC,Mill City - Moutain Ridge Café,Mill City,OR,97360,Public - Credit card at all times,24 hours daily,44.756505,-122.479931
+ELEC,FGL&P KNIGHT HALL,Forest Grove,OR,97116,Public,24 hours daily,45.522515,-123.111281
+ELEC,FGL&P PACIFICCOLLEGE,Forest Grove,OR,97116,Public,24 hours daily,45.519856,-123.110966
+ELEC,FGL&P CEDAR/21ST,Forest Grove,OR,97116,Public,24 hours daily,45.520883,-123.106296
+ELEC,SEA BREEZE IC STATION 1,Rockaway Beach,OR,97136,Public,24 hours daily,45.613187,-123.943612
+ELEC,CWS EVC ABC,Hillsboro,OR,97123,Public,24 hours daily,45.501386,-122.990416
+ELEC,CPI PHILOMATH PUBLIC 1,Philomath,OR,97370,Public,24 hours daily,44.556868,-123.334439
+ELEC,CPI PHILOMATH PUBLIC 2,Philomath,OR,97370,Public,24 hours daily,44.55694,-123.334371
+ELEC,The Setting Inn Willamette Valley,Newberg,OR,97132,Public - Credit card at all times,24 hours daily,45.314376569675,-123.029333756599
+ELEC,"Kroger-Fred Meyer 255 (Portland, OR)",Portland,OR,97203,Public,24 hours daily,45.58512,-122.73873
+ELEC,SOUTH LOT SPOT 1,Tillamook,OR,97141,Public,24 hours daily,45.44957,-123.84292
+ELEC,HOLMES & CO HOLMES & CO,Tigard,OR,97223,Public,Mon 5:00pm - 12:00am; Tue 5:00pm - 12:00am; Wed 5:00pm - 12:00am; Thu 5:00pm - 12:00am; Fri 5:00pm - 12:00am; Sat 12:00am - 12:00am; Sun 12:00am - 12:00am,45.42826,-122.750484
+ELEC,SVC ENTRANCE FRONT SERVICE,Portland,OR,97225,Public,24 hours daily,45.49554,-122.77319
+ELEC,CWS EVC DURHAM TPS,Portland,OR,97224,Public,24 hours daily,45.403337,-122.763435
+ELEC,MB OF MEDFORD CUST FASTCHARGE,Medford,OR,97504,Public,24 hours daily,42.364248,-122.854661
+ELEC,Yamhill Valley Vineyard,McMinnville,OR,97128,Public - Credit card at all times,24 hours daily,45.1502998639671,-123.288371611728
+ELEC,Kookoolan Farms,Yamhill,OR,97148,Public - Credit card at all times,24 hours daily,45.3303886301857,-123.184234752883
+ELEC,Domaine Divio Vineyard,Newberg,OR,97132,Public - Credit card at all times,24 hours daily,45.3351981651795,-123.066957436204
+ELEC,Willamette Valley Bed and Breakfast,Newberg,OR,97132,Public - Credit card at all times,24 hours daily,45.3120108821898,-122.996275129344
+ELEC,Blakeslee Vineyard Estate,Sherwood,OR,97140,Public - Credit card at all times,24 hours daily,45.3488137843717,-122.892951600772
+ELEC,Landmark Ford,Tigard,OR,97223,Public - Credit card at all times,24 hours daily,45.4314100123695,-122.74631962662
+ELEC,Broadway Tower Garage,Portland,OR,97201,Public - Credit card at all times,24 hours daily,45.5147579923564,-122.682495456568
+ELEC,Walgreens,Portland,OR,97214,Public - Credit card at all times,24 hours daily,45.5163341059912,-122.622071536299
+ELEC,Best Western Plus Portland Airport,Portland,OR,97220,Public - Credit card at all times,24 hours daily,45.5664265172707,-122.539846985092
+ELEC,Tru by Hilton Portland Airport,Portland,OR,97220,Public - Credit card at all times,24 hours daily,45.57411854625,-122.580103177869
+ELEC,Escape Games PDX,Portland,OR,97210,Public - Credit card at all times,24 hours daily,45.5412910392791,-122.705556634172
+ELEC,Element Portland Beaverton,Beaverton,OR,97006,Public - Credit card at all times,24 hours daily,45.5246597038625,-122.838081042476
+ELEC,NAPA Auto Parts,Aloha,OR,97078,Public - Credit card at all times,24 hours daily,45.4936644057987,-122.8711755469
+ELEC,BRANDT AC HOTEL 1,Beaverton,OR,97006,Public,24 hours daily,45.525632,-122.839308
+ELEC,BRANDT AC HOTEL 3,Beaverton,OR,97006,Public,24 hours daily,45.525553,-122.839202
+ELEC,BRANDT AC HOTEL 2,Beaverton,OR,97006,Public,24 hours daily,45.525575,-122.839352
+ELEC,Cottage Grove - Lane Community College Campus,Cottage Grove,OR,97424,Public,MO: Not Specified; TU: Not Specified; WE: Not Specified; TH: Not Specified; FR: Not Specified; SA: Not Specified; SU: Not Specified,43.787739416677,-123.07115012751
+ELEC,ADIDAS ADIDAS GGA,Portland,OR,97217,Public,24 hours daily,45.560128,-122.693299
+ELEC,ADIDAS ADIDAS GGB,Portland,OR,97217,Public,24 hours daily,45.560136,-122.693291
+ELEC,ADIDAS ADIDAS GGC,Portland,OR,97217,Public,24 hours daily,45.560136,-122.693288
+ELEC,"Walgreens - Portland, OR #5647",Portland,OR,97211,Public,MO: Not Specified; TU: Not Specified; WE: Not Specified; TH: Not Specified; FR: Not Specified; SA: Not Specified; SU: Not Specified,45.5669825,-122.6612147
+ELEC,LANE COUNTY LC MT. PISGAH,Eugene,OR,97405,Public,24 hours daily,44.007023,-122.98141
+ELEC,The Hotel Zags Portland,Portland,OR,97201,Public,MON: 24 hours | TUE: 24 hours | WED: 24 hours | THU: 24 hours | FRI: 24 hours | SAT: 24 hours | SUN: 24 hours,45.514061,-122.681065
+ELEC,ADIDAS ADIDAS YP2A,Portland,OR,97217,TEMPORARILY UNAVAILABLE (Public),24 hours daily,45.559046,-122.693602
+ELEC,ADIDAS ADIDAS SPA,Portland,OR,97217,TEMPORARILY UNAVAILABLE (Public),24 hours daily,45.560436,-122.695482
+ELEC,ADIDAS ADIDAS GP1A,Portland,OR,97217,TEMPORARILY UNAVAILABLE (Public),24 hours daily,45.560048,-122.692928
+ELEC,ADIDAS ADIDAS GP1B,Portland,OR,97217,TEMPORARILY UNAVAILABLE (Public),24 hours daily,45.560107,-122.69296
+ELEC,ADIDAS ADIDAS GP1C,Portland,OR,97217,TEMPORARILY UNAVAILABLE (Public),24 hours daily,45.560147,-122.692994
+ELEC,CRPUD ST HELENS DC2,St. Helens,OR,97051,Public,24 hours daily,45.862841,-122.798995
+ELEC,CRPUD ST HELENS DC1,St. Helens,OR,97051,Public,24 hours daily,45.862833,-122.798995
+ELEC,"Kroger Fred Meyer 135 (Portland, OR)",Portalnd,OR,97214,Public,24 hours daily,45.51349,-122.62407
+ELEC,LBCC  BCN1,Corvallis,OR,97330,Public,24 hours daily,44.573486,-123.26228
+ELEC,Cornelius - City Hall,Cornelius,OR,97113,Public,MON: 24 hours | TUE: 24 hours | WED: 24 hours | THU: 24 hours | FRI: 24 hours | SAT: 24 hours | SUN: 24 hours,45.521677,-123.054738
+ELEC,BRIDGETOWN STAT GARAGE #59,Portland,OR,97209,Public,24 hours daily,45.536975,-122.685445
+ELEC,BRIDGETOWN STAT GARAGE #60,Portland,OR,97209,Public,24 hours daily,45.536855,-122.685541
+ELEC,BRIDGETOWN STAT GARAGE #61,Portland,OR,97209,Public,24 hours daily,45.536915,-122.685423
+ELEC,BRIDGETOWN STAT GARAGE #58,Portland,OR,97209,Public,24 hours daily,45.536975,-122.685413
+ELEC,Mohawk High School,Marcola,OR,97454,Public,MO: 12:00am-12:00am; TU: 12:00am-12:00am; WE: 12:00am-12:00am; TH: 12:00am-12:00am; FR: 12:00am-12:00am; SA: 12:00am-12:00am; SU: 12:00am-12:00am,44.1710983,-122.853148
+ELEC,Tigard Senior Center,Tigard,OR,97223,TEMPORARILY UNAVAILABLE (Public),MON: 24 hours | TUE: 24 hours | WED: 24 hours | THU: 24 hours | FRI: 24 hours | SAT: 24 hours | SUN: 24 hours,45.422253,-122.766953
+ELEC,Tigard City Hall,Tigard,OR,97223,TEMPORARILY UNAVAILABLE (Public),MON: 24 hours | TUE: 24 hours | WED: 24 hours | THU: 24 hours | FRI: 24 hours | SAT: 24 hours | SUN: 24 hours,45.425516,-122.765744
+ELEC,WCEH - Brookings,Brookings,OR,97415,Public - Credit card at all times,24 hours daily,42.054112,-124.290911
+ELEC,Coos Bay - Fred Meyer,Coos Bay,OR,97420,Public - Credit card at all times,24 hours daily,43.357507,-124.210676
+ELEC,The Eddy 1,Bend,OR,97702,Public,MO: Not Specified; TU: Not Specified; WE: Not Specified; TH: Not Specified; FR: Not Specified; SA: Not Specified; SU: Not Specified,44.0482858,-121.3239396
+ELEC,Milwaukie Electric Avenue,milwaukie,OR,97222,Public,24 hours daily,45.444555,-122.642393
+ELEC,CITY OF TALENT STATION1,Talent,OR,97540,Public,24 hours daily,42.246025,-122.786545
+ELEC,CITY OF TALENT STATION2,Talent,OR,97540,Public,24 hours daily,42.246105,-122.786601
+ELEC,TOYOTAEUGENE KENDALL CT4K,Eugene,OR,97401,Public,24 hours daily,44.07396,-123.109163
+ELEC,GRESHAM STATION7,Portland,OR,97230,Public,24 hours daily,45.52743,-122.477543
+ELEC,LBCC  BCN2,Corvallis,OR,97330,Public,24 hours daily,44.57349,-123.26235
+ELEC,OMIC STATION 1,Scappoose,OR,97056,Public,24 hours daily,45.766011,-122.865287
+ELEC,GRESHAM STATION6,Gresham,OR,97030,Public,24 hours daily,45.499127,-122.432351
+ELEC,GRESHAM STATION4,Gresham,OR,97030,Public,24 hours daily,45.499147,-122.432229
+ELEC,GRESHAM STATION5,Gresham,OR,97030,Public,24 hours daily,45.49912,-122.432326
+ELEC,LITHIA TOY 1 SHOP 1,Medford,OR,97501,Public,24 hours daily,42.340221,-122.876022
+ELEC,HOOD RIVER INN STATION 1,Hood River,OR,97031,Public,24 hours daily,45.711105,-121.49901
+ELEC,HOOD RIVER INN STATION 2,Hood River,OR,97031,Public,24 hours daily,45.711268,-121.498665
+ELEC,Northern Wasco County People's Utility District,The Dalles,OR,97058,Private,Fleet vehicle use only,45.615814,-121.198541
+ELEC,Northern Wasco County People's Utility District,The Dalles,OR,97058,Private,For employee use only,45.615814,-121.198541
+ELEC,Ashland Hills Hotel,Ashland,OR,44805,Public,MO: Not Specified; TU: Not Specified; WE: Not Specified; TH: Not Specified; FR: Not Specified; SA: Not Specified; SU: Not Specified,40.869793,-82.2986415
+ELEC,FGL&P WELLS FARGO,Forest Grove,OR,97116,Public,24 hours daily,45.520416,-123.113347
+ELEC,GRESHAM ROCKWOOD,Portland,OR,97233,Public,24 hours daily,45.51991,-122.472144
+ELEC,WEST NORTH,Salem,OR,97302,Public,Mon 8:00am - 5:00pm; Tue 8:00am - 5:00pm; Wed 8:00am - 5:00pm; Thu 8:00am - 5:00pm; Fri 8:00am - 5:00pm; Sat 12:00pm - 5:00pm; Sun 12:00pm - 5:00pm,44.926308,-123.02089
+ELEC,WEST SOUTH,Salem,OR,97302,Public,Mon 8:00am - 5:00pm; Tue 8:00am - 5:00pm; Wed 8:00am - 5:00pm; Thu 8:00am - 5:00pm; Fri 8:00am - 5:00pm; Sat 12:00pm - 5:00pm; Sun 12:00pm - 5:00pm,44.92627,-123.0209
+ELEC,WEST WEST 1,Salem,OR,97302,Public,Mon 8:00am - 5:00pm; Tue 8:00am - 5:00pm; Wed 8:00am - 5:00pm; Thu 8:00am - 5:00pm; Fri 8:00am - 5:00pm; Sat 12:00pm - 5:00pm; Sun 12:00pm - 5:00pm,44.926177,-123.021348
+ELEC,WEST WEST 4,Salem,OR,97302,Public,Mon 8:00am - 5:00pm; Tue 8:00am - 5:00pm; Wed 8:00am - 5:00pm; Thu 8:00am - 5:00pm; Fri 8:00am - 5:00pm; Sat 12:00pm - 5:00pm; Sun 12:00pm - 5:00pm,44.926321,-123.021344
+ELEC,LANE COUNTY LC DDS (N.WEST),Eugene,OR,97401,Public,24 hours daily,44.061626,-123.07079
+ELEC,LANE COUNTY LC DDS (N.EAST),Eugene,OR,97401,Public,24 hours daily,44.061817,-123.070473
+ELEC,LANE COUNTY LC DDS (SOUTH),Eugene,OR,97401,Public,24 hours daily,44.061428,-123.070574
+ELEC,Fairfield Inn & Suites by Marriott Klamath Falls,Klamath Falls,OR,97601,Public - Credit card at all times,24 hours daily,42.2199629305018,-121.781643175874
+ELEC,CITY OF TALENT STATION3,Talent,OR,97540,Public,24 hours daily,42.24615,-122.78663
+ELEC,"Kroger-Fred Meyer 482 (Beaverton, OR)",Beaverton,OR,97006,Public,24 hours daily,45.51837,-122.8399
+ELEC,WEST WEST 3,Salem,OR,97302,Public,Mon 8:00am - 5:00pm; Tue 8:00am - 5:00pm; Wed 8:00am - 5:00pm; Thu 8:00am - 5:00pm; Fri 8:00am - 5:00pm; Sat 12:00pm - 5:00pm; Sun 12:00pm - 5:00pm,44.926137,-123.02137
+ELEC,Olsen Run Winery - Tesla Supercharger,Harrisburg,OR,97449,Public - Credit card at all times,24 hours daily,44.2797906385357,-123.06321471244
+ELEC,Oliver Station Apartments - East,Portland,OR,97266,Public,MO: Not Specified; TU: Not Specified; WE: Not Specified; TH: Not Specified; FR: Not Specified; SA: Not Specified; SU: Not Specified,45.4791499,-122.5684248
+ELEC,CROOKCOUNTY FAIRGROUNDS,Prineville,OR,97754,Public,24 hours daily,44.292665,-120.841633
+ELEC,LANE COUNTY LC P&P (SOUTH),Eugene,OR,97402,Public,24 hours daily,44.064324,-123.136006
+ELEC,BEAVERTON CNTRL THE ROUND #1,Beaverton,OR,97005,Public,24 hours daily,45.490991,-122.80837
+ELEC,AVIVA HEALTH AVIVA HEALTH 1,Roseburg,OR,97470,Public,24 hours daily,43.262226,-123.351291
+ELEC,AVIVA HEALTH AVIVA HEALTH 2,Roseburg,OR,97470,Public,24 hours daily,43.2624,-123.351175
+ELEC,"Kroger-Fred Meyer 663 (Sandy, OR)",Sandy,OR,97055,Public,24 hours daily,45.40309,-122.29418
+ELEC,SAGE Center - Tesla Supercharger,Boardman,OR,97818,Public - Credit card at all times,24 hours daily,45.8412979807097,-119.683225496532
+ELEC,ROGERS TOYOTA FRONT CT4020,Hermiston,OR,97838,Public,24 hours daily,45.865314,-119.292621
+ELEC,BEAVERTON CNTRL LIBRARY WEST #1,Beaverton,OR,97005,Public,24 hours daily,45.484606,-122.804677
+ELEC,BEAVERTON CNTRL LIBRARY WEST #2,Beaverton,OR,97005,Public,24 hours daily,45.484559,-122.80468
+ELEC,BEAVERTON CNTRL LIBRARY WEST #3,Beaverton,OR,97005,Public,24 hours daily,45.484525,-122.804686
+ELEC,BEAVERTON CNTRL GRIFFITH #1,Beaverton,OR,97005,Public,24 hours daily,45.485592,-122.798089
+ELEC,CG WEST CUSTOMER CHARGE,The Dalles,OR,97058,Public,24 hours daily,45.611031,-121.207198
+ELEC,CG WEST BACKSIDE,The Dalles,OR,97058,Public,24 hours daily,45.611188,-121.207436
+ELEC,Albertsons,Lake Oswego,OR,97035,Public - Credit card at all times,9am-3am daily,45.4091795166501,-122.722492429575
+ELEC,TOY EV CHARGER TOYOTA EV CHARG,Beaverton,OR,97005,TEMPORARILY UNAVAILABLE (Public),24 hours daily,45.488323,-122.825485
+ELEC,Grocery Outlet - Tesla Supercharger,Madras,OR,97741,Public - Credit card at all times,24 hours daily,44.614312,-121.134674
+ELEC,Park Motel and Cabins,Florence,OR,97439,Public,24 hours daily; for guest use only,43.943891,-124.104947
+ELEC,CAPITOLAUTO TOYOTA SIDE 2,Salem,OR,97301,Public,24 hours daily,44.969132,-123.025762
+ELEC,CAPITOLAUTO TOYOTA SIDE 3,Salem,OR,97301,Public,24 hours daily,44.969197,-123.025732
+ELEC,CAPITOLAUTO TOYOTA SIDE 4,Salem,OR,97301,Public,24 hours daily,44.969332,-123.025675
+ELEC,CAPITOLAUTO TOYOTA SIDE 1,Salem,OR,97301,Public,24 hours daily,44.969044,-123.02582
+ELEC,CAPITOLAUTO TOY FRONT LEFT,Salem,OR,97301,Public,24 hours daily,44.969486,-123.02602
+ELEC,CAPITOLAUTO TOY FRONT RIGHT,Salem,OR,97301,Public,24 hours daily,44.969488,-123.026014
+ELEC,BERNIE BISHOP DETAIL SHOP,Brookings,OR,97415,Public,24 hours daily,42.051328,-124.281604
+ELEC,BEAVERTON CNTRL GARAGE 1,Beaverton,OR,97005,Public,24 hours daily,45.491238,-122.807592
+ELEC,BEAVERTON CNTRL GARAGE 2,Beaverton,OR,97005,Public,24 hours daily,45.491172,-122.807582
+ELEC,BEAVERTON CNTRL GARAGE 3,Beaverton,OR,97005,Public,24 hours daily,45.491202,-122.807488
+ELEC,BEAVERTON CNTRL GARAGE 4,Beaverton,OR,97005,Public,24 hours daily,45.491226,-122.80759
+ELEC,Oliver Station Apartments - West,Portland,OR,97266,Public,MO: Not Specified; TU: Not Specified; WE: Not Specified; TH: Not Specified; FR: Not Specified; SA: Not Specified; SU: Not Specified,45.479385,-122.5686945
+ELEC,City Parking Lot - Library & Community Center,Cottage Grove,OR,97424,Public,MO: Not Specified; TU: Not Specified; WE: Not Specified; TH: Not Specified; FR: Not Specified; SA: Not Specified; SU: Not Specified,43.7991399,-123.0609185
+ELEC,Rock Creek,Portland,OR,97229,Public,MO: Not Specified; TU: Not Specified; WE: Not Specified; TH: Not Specified; FR: Not Specified; SA: Not Specified; SU: Not Specified,45.564587,-122.863039
+ELEC,TENNYSONSTATION ELE STATION E,Eugene,OR,97404,Public,24 hours daily,44.09368,-123.061273
+ELEC,DUFUR SCHOOL DUFUR SCHOOL,Dufur,OR,97021,Public,24 hours daily,45.455452,-121.12544
+ELEC,TENNYSONSTATION ELEC STATION W,Eugene,OR,97408,TEMPORARILY UNAVAILABLE (Public),24 hours daily,44.093243,-123.063731
+ELEC,Providence Medical Group - Medford Neurology,Medford,OR,97504,TEMPORARILY UNAVAILABLE (Public),MON: 24 hours | TUE: 24 hours | WED: 24 hours | THU: 24 hours | FRI: 24 hours | SAT: 24 hours | SUN: 24 hours,42.340169,-122.864943
+ELEC,Providence - Medford Medical Center,Medford,OR,97504,Public,MON: 24 hours | TUE: 24 hours | WED: 24 hours | THU: 24 hours | FRI: 24 hours | SAT: 24 hours | SUN: 24 hours,42.339375,-122.863707
+ELEC,TOUCHSTONEPAIN TOUCHSTONE,Medford,OR,97504,Public,24 hours daily,42.341261,-122.867072
+ELEC,3 HOURS FREE - City of Grants Pass Location 1,Grants Pass,OR,97526,Public,MON: 24 hours | TUE: 24 hours | WED: 24 hours | THU: 24 hours | FRI: 24 hours | SAT: 24 hours | SUN: 24 hours,42.439209,-123.327224
+ELEC,3 HOURS FREE - City of Grants Pass Location 2,Grants Pass,OR,97526,Public,MON: 24 hours | TUE: 24 hours | WED: 24 hours | THU: 24 hours | FRI: 24 hours | SAT: 24 hours | SUN: 24 hours,42.438296,-123.325901
+ELEC,Sisters Library,Sisters,OR,97759,Public - Credit card at all times,24 hours daily,44.2915129225807,-121.544744721245
+ELEC,Astoria Cooperative,Astoria,OR,97103,Public,MO: Not Specified; TU: Not Specified; WE: Not Specified; TH: Not Specified; FR: Not Specified; SA: Not Specified; SU: Not Specified,46.1890335,-123.8153991
+ELEC,REI,Portland,OR,97224,Public,24 hours daily,45.39338,-122.75272
+ELEC,7-Eleven,Portland,OR,97218,TEMPORARILY UNAVAILABLE (Public),24 hours daily,45.57981,-122.57488
+ELEC,New Seasons,Portland,OR,97232,Public,24 hours daily,45.53475,-122.63272
+ELEC,New Seasons,Portland,OR,97210,Public,24 hours daily,45.53389,-122.69546
+ELEC,Washington Square,Portland,OR,97223,Public,24 hours daily,45.44981,-122.77992
+ELEC,TARGET CORP MEDFORD 1,Medford,OR,97504,Public,Mon 7:00am - 12:00am; Tue 7:00am - 12:00am; Wed 7:00am - 12:00am; Thu 7:00am - 12:00am; Fri 7:00am - 12:00am; Sat 7:00am - 12:00am; Sun 7:00am - 12:00am,42.347923,-122.87904
+ELEC,"Tillamook, OR - Tesla Supercharger",Tillamook,OR,97141,Public,24 hours daily,45.481359,-123.843893
+ELEC,The Holman Hotel,Salem,OR,97301,TEMPORARILY UNAVAILABLE (Public),MO: Not Specified; TU: Not Specified; WE: Not Specified; TH: Not Specified; FR: Not Specified; SA: Not Specified; SU: Not Specified,44.939735,-123.0411294
+ELEC,Tigard - Main Street Parking,Tigard,OR,97223,TEMPORARILY UNAVAILABLE (Public),MON: 24 hours | TUE: 24 hours | WED: 24 hours | THU: 24 hours | FRI: 24 hours | SAT: 24 hours | SUN: 24 hours,45.429512,-122.771299
+ELEC,PGE 3,Silverton,OR,97381,Public,24 hours daily,45.010926,-122.784497
+ELEC,PGE 1,Silverton,OR,97381,Public,24 hours daily,45.01097,-122.784338
+ELEC,PGE 2,Silverton,OR,97381,Public,24 hours daily,45.010923,-122.784582
+ELEC,Port Orford - Seaside Plaza,Port Orford,OR,97465,Public,24 Hours Daily,42.749532,-124.496817
+ELEC,Welches - Barlow Trail Roadhouse,Welches,OR,97067,Public,24 Hours Daily,45.344716,-121.949649
+ELEC,MAUPIN MAUPIN,Maupin,OR,97037,Public,24 hours daily,45.173611,-121.07305
+ELEC,MEDFORD BMW MEDFORD BMW 1,Medford,OR,97504,Public,24 hours daily,42.38101,-122.857895
+ELEC,MEDFORD BMW BMW 2,Medford,OR,97504,Public,24 hours daily,42.38105,-122.85751
+ELEC,HILLSBORO OR BROOKWOOD LIB 1,Hillsboro,OR,97124,Public,24 hours daily,45.543594,-122.936042
+ELEC,HILLSBORO OR BROOKWOOD LIB 2,Hillsboro,OR,97124,Public,24 hours daily,45.543707,-122.935998
+ELEC,HILLSBORO OR BROOKWOOD LIB 3,Hillsboro,OR,97124,Public,24 hours daily,45.543683,-122.935901
+ELEC,HILLSBORO OR BROOKWOOD LIB 4,Hillsboro,OR,97124,Public,24 hours daily,45.543759,-122.93597
+ELEC,HILLSBORO OR CULTURAL ARTS 2,Hillsboro,OR,97123,Public,24 hours daily,45.522968,-122.982133
+ELEC,HILLSBORO OR CULTURAL ARTS 1,Hillsboro,OR,97123,Public,24 hours daily,45.522925,-122.982362
+ELEC,LINFIELD SOFTBALL,McMinnville,OR,97128,Public,24 hours daily,45.197968,-123.199728
+ELEC,LINFIELD FOUNTAIN,McMinnville,OR,97128,Public,24 hours daily,45.199864,-123.198715
+ELEC,ARAZO APTS ARAZO 1,Beaverton,OR,97007,Public,24 hours daily,45.42845,-122.853052
+ELEC,TONKINGHY SERVICE DEPT,Gladstone,OR,97027,Public,24 hours daily,45.383095,-122.6058

@@ -1,0 +1,7435 @@
+zip,manufacturer,model,no_of_model_sold
+97002,Tesla,Model Y,9
+97002,Chrysler,Pacifica Hybrid,3
+97002,Ford,C-MAX Energi,1
+97002,Volkswagen,ID.4,1
+97002,Ford,Fusion Energi,4
+97002,Chevrolet,Volt,7
+97002,MINI,Countryman Plug-in Hybrid,1
+97002,Nissan,LEAF,12
+97002,BMW,i3,1
+97002,Kia,Niro Plug-In Hybrid,1
+97002,Hyundai,SONATA Plug-in Hybrid,1
+97002,Tesla,Model 3,14
+97002,Hyundai,KONA Electric,2
+97002,Kia,Niro EV,2
+97002,CVGI,UNKNOWN,1
+97002,Kia,EV6,1
+97002,MINI,Hardtop 2 Door,1
+97002,Audi,e-tron,1
+97002,Tesla,Model S,7
+97002,Ford,Escape Plug-In Hybrid,1
+97002,Volvo,XC90,1
+97002,Lexus,NX 450h+,1
+97002,ZERO,FX,1
+97002,Chevrolet,Spark EV,1
+97002,Jeep,Wrangler Unlimited,1
+97002,Volvo,XC40,1
+97002,Volkswagen,e-Golf,1
+97002,Tesla,Model X,5
+97002,Chevrolet,Bolt EV,3
+97002,Ford,Mustang Mach-E,2
+97003,Ford,TH!NK,1
+97003,Hyundai,IONIQ 5,3
+97003,Kia,Sorento Plug-In Hybrid,3
+97003,Nissan,LEAF,35
+97003,Toyota,Prius Prime,11
+97003,Volkswagen,ID.4,8
+97003,Hyundai,SANTA FE Plug-In Hybrid,1
+97003,Smart,fortwo electric drive,1
+97003,Chrysler,Pacifica Hybrid,4
+97003,Tesla,Model S,3
+97003,BMW,3 Series,1
+97003,Subaru,Crosstrek,4
+97003,Tesla,Model X,7
+97003,Hyundai,IONIQ Electric,3
+97003,Audi,e-tron,1
+97003,Hyundai,KONA Electric,3
+97003,Chevrolet,Bolt EUV,1
+97003,BMW,i3,2
+97003,Porsche,Cayenne,1
+97003,Toyota,RAV4 Prime,14
+97003,Lucid,Air,1
+97003,Kia,Niro EV,5
+97003,Volkswagen,e-Golf,5
+97003,Honda,Clarity Electric,1
+97003,MINI,Hardtop 2 Door,1
+97003,Volvo,XC90,1
+97003,Tesla,Model 3,41
+97003,Toyota,Prius Plug-in Hybrid,3
+97003,Ford,Focus,1
+97003,Jeep,Wrangler Unlimited,2
+97003,Honda,Clarity Plug-In Hybrid,2
+97003,Chevrolet,Volt,13
+97003,Hyundai,SONATA Plug-in Hybrid,1
+97003,Kia,EV6,1
+97003,Tesla,Roadster,1
+97003,BMW,X5,1
+97003,Volvo,C40,1
+97003,Tesla,Model Y,28
+97003,Ford,C-MAX Energi,2
+97003,Chevrolet,Spark EV,5
+97003,Kia,Soul EV,1
+97003,Hyundai,IONIQ Plug-in Hybrid,1
+97003,Kia,Niro Plug-In Hybrid,5
+97003,Ford,Mustang Mach-E,3
+97003,Ford,Fusion Energi,11
+97003,Chevrolet,Bolt EV,13
+97004,Chrysler,Pacifica Hybrid,3
+97004,Chevrolet,Bolt EV,6
+97004,Tesla,Model 3,8
+97004,Audi,e-tron,1
+97004,Kia,Niro Plug-In Hybrid,1
+97004,Jeep,Wrangler Unlimited,1
+97004,Hyundai,IONIQ Electric,1
+97004,Honda,Clarity Plug-In Hybrid,1
+97004,Kia,Optima Plug-In Hybrid,1
+97004,Tesla,Model X,1
+97004,Nissan,LEAF,7
+97004,Tesla,Model S,2
+97004,Ford,Mustang Mach-E,1
+97004,Toyota,Prius Prime,2
+97004,Hyundai,KONA Electric,2
+97004,Hyundai,IONIQ 5,1
+97004,Porsche,Taycan,1
+97004,Toyota,RAV4 Prime,3
+97004,Tesla,Model Y,5
+97004,Ford,Fusion Energi,1
+97005,Nissan,LEAF,29
+97005,Volkswagen,e-Golf,6
+97005,Chevrolet,Bolt EV,14
+97005,Hyundai,IONIQ Electric,2
+97005,BMW,i3,3
+97005,Ford,Mustang Mach-E,4
+97005,Tesla,Model Y,30
+97005,BMW,3 Series,3
+97005,Ford,TH!NK,2
+97005,Volvo,XC60,1
+97005,Tesla,Model 3,44
+97005,Ford,Escape Plug-In Hybrid,2
+97005,Hyundai,SANTA FE Plug-In Hybrid,1
+97005,Kia,Niro Plug-In Hybrid,4
+97005,Kia,Soul EV,1
+97005,Chrysler,Pacifica Hybrid,4
+97005,Hyundai,IONIQ Plug-in Hybrid,4
+97005,Porsche,Taycan,1
+97005,Toyota,Prius Prime,16
+97005,Toyota,Prius Plug-in Hybrid,3
+97005,Ford,Focus,1
+97005,Tesla,Model X,8
+97005,Porsche,Panamera,1
+97005,Kia,EV6,2
+97005,FIAT,500e,3
+97005,Hyundai,KONA Electric,5
+97005,Ford,Fusion Energi,2
+97005,Mitsubishi,Outlander PHEV,1
+97005,Polestar,2,1
+97005,Volvo,XC90,1
+97005,MINI,Countryman Plug-in Hybrid,2
+97005,Subaru,Crosstrek,2
+97005,BMW,X5,4
+97005,Audi,e-tron,6
+97005,Jeep,Wrangler Unlimited,2
+97005,Chevrolet,Spark EV,2
+97005,Kia,Niro EV,6
+97005,Audi,e-tron Sportback,6
+97005,BMW,iX,2
+97005,Hyundai,IONIQ 5,1
+97005,Toyota,RAV4 Prime,14
+97005,Volkswagen,ID.4,6
+97005,Volvo,S60,1
+97005,Ford,C-MAX Energi,3
+97005,Ford,E-Transit Cargo,4
+97005,Audi,Q5,5
+97005,Chevrolet,Volt,11
+97005,Mitsubishi,i-MiEV,3
+97005,Honda,Clarity Electric,1
+97005,Tesla,Model S,4
+97006,Lexus,NX 450h+,3
+97006,Volvo,XC90,1
+97006,Hyundai,IONIQ Plug-in Hybrid,9
+97006,Hyundai,IONIQ Electric,5
+97006,Ford,Fusion Energi,17
+97006,Nissan,LEAF,91
+97006,Chevrolet,Bolt EV,27
+97006,Volvo,V60,1
+97006,BMW,3 Series,3
+97006,Hyundai,SANTA FE Plug-In Hybrid,6
+97006,BMW,5 Series,3
+97006,Chevrolet,Spark EV,7
+97006,Jeep,Wrangler Unlimited,8
+97006,Tesla,Model S,12
+97006,Mitsubishi,Outlander PHEV,2
+97006,Chevrolet,Bolt EUV,3
+97006,MINI,Hardtop 2 Door,4
+97006,Hyundai,SONATA Plug-in Hybrid,1
+97006,Polestar,2,5
+97006,Volvo,XC40,1
+97006,Ford,F-150 Lightning,1
+97006,Hyundai,KONA Electric,12
+97006,Honda,Clarity Electric,2
+97006,Kia,Sorento Plug-In Hybrid,2
+97006,Volkswagen,e-Golf,5
+97006,Kia,Niro Plug-In Hybrid,2
+97006,Subaru,Crosstrek,7
+97006,Tesla,Model 3,141
+97006,Tesla,Model Y,87
+97006,Ford,Focus,1
+97006,BMW,X3,2
+97006,BMW,X5,5
+97006,Kia,Soul EV,1
+97006,Volvo,XC60,3
+97006,Kia,Niro EV,13
+97006,BMW,iX,1
+97006,Volkswagen,ID.4,6
+97006,Audi,A3 Sportback e-tron,2
+97006,Hyundai,IONIQ 5,3
+97006,Audi,Q5,6
+97006,Toyota,Prius Prime,42
+97006,Chrysler,Pacifica Hybrid,10
+97006,Kia,Optima Plug-In Hybrid,1
+97006,Hyundai,TUCSON Plug-in Hybrid,1
+97006,Smart,fortwo electric drive,1
+97006,Porsche,Cayenne,1
+97006,Ford,C-MAX Energi,6
+97006,Audi,e-tron Sportback,1
+97006,Mercedes-Benz,GLC,2
+97006,Ford,Escape Plug-In Hybrid,5
+97006,BMW,i3,6
+97006,Chevrolet,Volt,12
+97006,Kia,EV6,2
+97006,Toyota,Prius Plug-in Hybrid,3
+97006,Porsche,Panamera,1
+97006,MINI,Countryman Plug-in Hybrid,1
+97006,FIAT,500e,2
+97006,Audi,e-tron,2
+97006,Ford,Mustang Mach-E,12
+97006,Tesla,Model X,11
+97006,Toyota,RAV4 Prime,42
+97006,Honda,Clarity Plug-In Hybrid,12
+97007,Ford,Fusion Energi,9
+97007,Volkswagen,e-Golf,12
+97007,Tesla,Model S,37
+97007,Jeep,Wrangler Unlimited,12
+97007,Ford,C-MAX Energi,4
+97007,Polestar,2,4
+97007,Chrysler,Pacifica Hybrid,16
+97007,BMW,3 Series,1
+97007,FIAT,500e,2
+97007,Volvo,XC60,2
+97007,Audi,e-tron Sportback,1
+97007,Ford,Focus,3
+97007,Porsche,Taycan,1
+97007,Kia,Sorento Plug-In Hybrid,3
+97007,BMW,5 Series,5
+97007,Smart,fortwo electric drive,1
+97007,BMW,X3,5
+97007,Audi,A3 Sportback e-tron,2
+97007,MINI,Hardtop 2 Door,4
+97007,Chevrolet,Volt,25
+97007,Hyundai,SANTA FE Plug-In Hybrid,5
+97007,Kia,Niro EV,17
+97007,Hyundai,KONA Electric,19
+97007,Lincoln,Aviator,2
+97007,Mitsubishi,Outlander PHEV,2
+97007,Honda,Clarity Plug-In Hybrid,14
+97007,Tesla,Model Y,136
+97007,Honda,Clarity Electric,1
+97007,Ford,Mustang Mach-E,19
+97007,Audi,e-tron,7
+97007,Toyota,Prius Prime,37
+97007,Chevrolet,Bolt EUV,3
+97007,Tesla,Model X,32
+97007,BMW,i8,3
+97007,POLS,UNKNOWN,1
+97007,BMW,i4,1
+97007,Hyundai,TUCSON Plug-in Hybrid,4
+97007,Subaru,Crosstrek,9
+97007,BMW,X5,13
+97007,Tesla,Model 3,197
+97007,Hyundai,SONATA Plug-in Hybrid,2
+97007,Chevrolet,Bolt EV,43
+97007,Cadillac,ELR,1
+97007,Rivian,R1T,1
+97007,Ford,Escape Plug-In Hybrid,5
+97007,Mercedes-Benz,GLC,5
+97007,Lexus,NX 450h+,2
+97007,Audi,Q5,5
+97007,Volvo,C40,2
+97007,Volvo,XC40,3
+97007,BMW,i3,10
+97007,YMSK,UNKNOWN,1
+97007,MINI,Countryman Plug-in Hybrid,3
+97007,Hyundai,IONIQ 5,5
+97007,Toyota,RAV4 Prime,49
+97007,Karma,GS-6,1
+97007,Toyota,Prius Plug-in Hybrid,6
+97007,Hyundai,IONIQ Plug-in Hybrid,3
+97007,Hyundai,IONIQ Electric,9
+97007,Chevrolet,Spark EV,3
+97007,Ford,TH!NK,3
+97007,Kia,Soul EV,3
+97007,Kia,Niro Plug-In Hybrid,4
+97007,Nissan,LEAF,104
+97007,Kia,EV6,3
+97007,Volvo,XC90,10
+97007,Volkswagen,ID.4,11
+97008,Hyundai,SANTA FE Plug-In Hybrid,3
+97008,Mercedes-Benz,S-Class,1
+97008,MINI,Countryman Plug-in Hybrid,1
+97008,Volvo,C40,1
+97008,Toyota,RAV4 Prime,27
+97008,Jeep,Wrangler Unlimited,2
+97008,Volvo,XC40,1
+97008,MINI,Hardtop 2 Door,2
+97008,Chevrolet,Volt,16
+97008,Tesla,Model X,5
+97008,Chrysler,Pacifica Hybrid,6
+97008,Tesla,Model 3,52
+97008,YMSK,UNKNOWN,1
+97008,Ford,Mustang Mach-E,7
+97008,Toyota,Prius Prime,25
+97008,Honda,Clarity Electric,2
+97008,Hyundai,IONIQ Plug-in Hybrid,4
+97008,Volvo,XC90,2
+97008,Kia,EV6,1
+97008,Volvo,XC60,2
+97008,BMW,X3,1
+97008,Tesla,Model Y,28
+97008,Volkswagen,e-Golf,5
+97008,Kia,Niro EV,7
+97008,Audi,A3 Sportback e-tron,4
+97008,Kia,Soul EV,1
+97008,BMW,i3,2
+97008,FIAT,500e,2
+97008,Audi,Q5,2
+97008,Hyundai,IONIQ 5,4
+97008,Ford,Escape Plug-In Hybrid,3
+97008,Volkswagen,ID.4,10
+97008,Tesla,Model S,12
+97008,Chevrolet,Spark EV,8
+97008,Nissan,LEAF,56
+97008,Audi,e-tron,2
+97008,Hyundai,SONATA Plug-in Hybrid,2
+97008,Ford,Fusion Energi,5
+97008,Toyota,Prius Plug-in Hybrid,2
+97008,Hyundai,KONA Electric,5
+97008,Chevrolet,Bolt EUV,1
+97008,BMW,X5,6
+97008,Chevrolet,Bolt EV,12
+97008,ZERO,UNKNOWN,1
+97008,Mitsubishi,Outlander PHEV,1
+97008,Honda,Clarity Plug-In Hybrid,7
+97008,Hyundai,IONIQ Electric,3
+97008,Ford,C-MAX Energi,8
+97008,Hyundai,TUCSON Plug-in Hybrid,3
+97008,ZERO,SR/,1
+97008,Subaru,Crosstrek,6
+97008,Kia,Niro Plug-In Hybrid,5
+97009,Chrysler,Pacifica Hybrid,1
+97009,Porsche,Panamera,1
+97009,Ford,Fusion Energi,3
+97009,Toyota,Prius Prime,7
+97009,Kia,Soul EV,1
+97009,Tesla,Model 3,10
+97009,Kia,Niro EV,1
+97009,Hyundai,KONA Electric,1
+97009,Mercedes-Benz,GLC,1
+97009,Ford,C-MAX Energi,1
+97009,Subaru,Crosstrek,2
+97009,Chevrolet,Bolt EV,4
+97009,Honda,Clarity Plug-In Hybrid,2
+97009,BMW,X5,1
+97009,Nissan,LEAF,5
+97009,Volvo,XC40,1
+97009,Jeep,Wrangler Unlimited,2
+97009,Tesla,Model X,1
+97009,Tesla,Model S,4
+97009,Chevrolet,Bolt EUV,1
+97009,BMW,3 Series,1
+97009,Audi,e-tron,1
+97009,Honda,Clarity Electric,1
+97009,Jaguar,I-PACE,1
+97009,Volkswagen,e-Golf,1
+97009,Hyundai,IONIQ Electric,4
+97009,Polestar,2,1
+97009,BMW,i3,1
+97009,Chevrolet,Spark EV,2
+97009,Tesla,Model Y,6
+97009,Volkswagen,ID.4,3
+97011,Kia,Niro Plug-In Hybrid,1
+97011,Kia,Niro EV,1
+97011,Volkswagen,e-Golf,1
+97011,Ford,Fusion Energi,1
+97013,Honda,Clarity Plug-In Hybrid,4
+97013,Tesla,Model Y,23
+97013,Ford,Focus,1
+97013,Audi,e-tron GT,1
+97013,Audi,e-tron,1
+97013,Volkswagen,ID.4,2
+97013,Ford,Fusion Energi,5
+97013,Tesla,Model S,13
+97013,CLUB,UNKNOWN,1
+97013,Kia,Niro Plug-In Hybrid,3
+97013,Toyota,RAV4 Prime,4
+97013,Toyota,Prius Plug-in Hybrid,1
+97013,Subaru,Crosstrek,2
+97013,Kia,EV6,2
+97013,Kia,Niro EV,4
+97013,Hyundai,SANTA FE Plug-In Hybrid,1
+97013,Hyundai,IONIQ Electric,2
+97013,Audi,A3 Sportback e-tron,1
+97013,Chrysler,Pacifica Hybrid,10
+97013,Hyundai,IONIQ Plug-in Hybrid,1
+97013,Ford,C-MAX Energi,4
+97013,Volkswagen,e-Golf,2
+97013,Porsche,Cayenne,1
+97013,Mercedes-Benz,GLE,1
+97013,BMW,5 Series,2
+97013,Chevrolet,Volt,13
+97013,ZERO,S,1
+97013,Ford,Escape Plug-In Hybrid,2
+97013,BMW,i3,1
+97013,Hyundai,KONA Electric,12
+97013,Toyota,Prius Prime,12
+97013,Audi,Q5,3
+97013,Nissan,LEAF,18
+97013,Tesla,Model 3,26
+97013,Hyundai,IONIQ 5,1
+97013,BMW,3 Series,1
+97013,Chevrolet,Bolt EV,12
+97013,MINI,Hardtop 2 Door,1
+97013,Tesla,Model X,9
+97013,Ford,Mustang Mach-E,7
+97014,Toyota,RAV4 Prime,4
+97014,Tesla,Model 3,4
+97014,Chevrolet,Bolt EV,1
+97014,Kia,Soul EV,1
+97014,Kia,Niro EV,1
+97014,Chevrolet,Volt,1
+97014,Nissan,LEAF,1
+97014,Tesla,Model S,1
+97014,Ford,Fusion Energi,2
+97014,Honda,Clarity Plug-In Hybrid,1
+97015,Ford,Escape Plug-In Hybrid,1
+97015,Chrysler,Pacifica Hybrid,7
+97015,Tesla,Model 3,60
+97015,Audi,e-tron,1
+97015,Kia,Niro EV,9
+97015,Honda,Clarity Plug-In Hybrid,2
+97015,Subaru,Crosstrek,1
+97015,Lexus,NX 450h+,1
+97015,BMW,X5,4
+97015,Kia,Sorento Plug-In Hybrid,3
+97015,Ford,C-MAX Energi,4
+97015,Volkswagen,ID.4,6
+97015,Ford,Mustang Mach-E,3
+97015,Hyundai,KONA Electric,2
+97015,Hyundai,IONIQ Electric,2
+97015,Volvo,XC90,1
+97015,Jeep,Wrangler Unlimited,4
+97015,Ford,Fusion Energi,3
+97015,Tesla,Model S,7
+97015,Audi,A3 Sportback e-tron,1
+97015,Chevrolet,Spark EV,2
+97015,Hyundai,IONIQ Plug-in Hybrid,1
+97015,Smart,fortwo electric drive,2
+97015,Audi,Q5,1
+97015,Tesla,Model X,14
+97015,Rivian,R1T,1
+97015,Chevrolet,Bolt EV,8
+97015,Chevrolet,Volt,8
+97015,Polestar,2,2
+97015,Toyota,Prius Plug-in Hybrid,3
+97015,Nissan,LEAF,27
+97015,Toyota,RAV4 Prime,6
+97015,Volkswagen,e-Golf,2
+97015,Kia,EV6,1
+97015,Tesla,Model Y,30
+97015,Volvo,XC40,1
+97015,Kia,Niro Plug-In Hybrid,1
+97015,Lincoln,Corsair,1
+97015,Toyota,Prius Prime,12
+97015,Land Rover,Range Rover Sport,1
+97016,JBLC,UNKNOWN,1
+97016,POLAR,UNKNOWN,2
+97016,Kia,EV6,1
+97016,Jeep,Wrangler Unlimited,1
+97016,Tesla,Model 3,8
+97016,Volvo,XC60,1
+97016,Toyota,Prius Prime,3
+97016,Ford,Mustang Mach-E,1
+97016,Chevrolet,Volt,1
+97016,Hyundai,SANTA FE Plug-In Hybrid,1
+97016,Toyota,Prius Plug-in Hybrid,1
+97016,Kia,Niro EV,1
+97016,Smart,fortwo electric drive,1
+97016,Tesla,Model Y,2
+97016,GEM,UNKNOWN,1
+97016,Honda,Clarity Plug-In Hybrid,1
+97016,Hyundai,KONA Electric,1
+97016,Toyota,RAV4 Prime,2
+97016,Chevrolet,Bolt EV,2
+97017,Chevrolet,Volt,3
+97017,Subaru,Crosstrek,1
+97017,Hyundai,IONIQ Plug-in Hybrid,1
+97017,Tesla,Model 3,2
+97017,Toyota,Prius Prime,3
+97017,Ford,Fusion Energi,1
+97017,Hyundai,KONA Electric,1
+97017,Nissan,LEAF,2
+97017,Tesla,Model X,3
+97017,BMW,i3,1
+97017,Chevrolet,Bolt EV,2
+97017,Ford,Mustang Mach-E,1
+97018,Ford,Mustang Mach-E,1
+97018,Chrysler,Pacifica Hybrid,1
+97018,Ford,Escape Plug-In Hybrid,1
+97018,Tesla,Model 3,3
+97018,Chevrolet,Bolt EV,1
+97018,Tesla,Model Y,1
+97018,ELCY,ONE,1
+97018,Chevrolet,Volt,1
+97018,MINI,Hardtop 2 Door,2
+97018,Toyota,Prius Prime,2
+97018,Nissan,LEAF,1
+97019,Toyota,RAV4 Prime,2
+97019,Kia,Niro EV,1
+97019,Audi,e-tron,1
+97019,Ford,C-MAX Energi,2
+97019,Chevrolet,Bolt EV,4
+97019,Rivian,R1T,1
+97019,Nissan,LEAF,6
+97019,Tesla,Model Y,4
+97019,Jaguar,I-PACE,1
+97019,Tesla,Model 3,7
+97019,Volvo,XC60,1
+97019,BMW,3 Series,1
+97019,Kia,Soul EV,1
+97019,Toyota,Prius Plug-in Hybrid,2
+97019,Hyundai,KONA Electric,2
+97019,Toyota,Prius Prime,1
+97019,Hyundai,IONIQ Electric,1
+97019,Tesla,Model X,2
+97019,Chevrolet,Volt,1
+97019,Subaru,Crosstrek,2
+97019,Tesla,Model S,1
+97019,Kia,Niro Plug-In Hybrid,2
+97019,Polestar,2,1
+97019,Honda,Clarity Plug-In Hybrid,1
+97020,Honda,Clarity Plug-In Hybrid,1
+97020,Chevrolet,Bolt EV,1
+97020,Ford,C-MAX Energi,1
+97020,Tesla,Model 3,3
+97020,Toyota,Prius Prime,1
+97020,Nissan,LEAF,3
+97021,Toyota,RAV4 Prime,1
+97021,Tesla,Model X,1
+97021,Hyundai,KONA Electric,1
+97021,Chevrolet,Spark EV,1
+97022,Nissan,LEAF,2
+97022,FIAT,500e,1
+97022,Ford,Fusion Energi,1
+97022,Volkswagen,e-Golf,1
+97022,Tesla,Model X,1
+97022,Tesla,Model 3,2
+97022,Subaru,Crosstrek,1
+97022,Toyota,Prius Prime,1
+97022,Chevrolet,Bolt EV,1
+97022,Chrysler,Pacifica Hybrid,1
+97023,Tesla,Model Y,7
+97023,Toyota,RAV4 Prime,4
+97023,Chevrolet,Volt,5
+97023,Hyundai,KONA Electric,2
+97023,Hyundai,IONIQ Plug-in Hybrid,1
+97023,Kia,EV6,1
+97023,Hyundai,SONATA Plug-in Hybrid,1
+97023,Tesla,Model X,1
+97023,POLS,UNKNOWN,1
+97023,Kia,Niro EV,4
+97023,Tesla,Model 3,13
+97023,Nissan,LEAF,5
+97023,Ford,Fusion Energi,3
+97023,Chevrolet,Bolt EV,4
+97023,Porsche,Panamera,1
+97023,Tesla,Model S,1
+97023,Volkswagen,ID.4,1
+97023,Toyota,Prius Prime,5
+97023,Ford,Escape Plug-In Hybrid,1
+97023,Audi,e-tron,1
+97023,YMSK,UNKNOWN,1
+97023,Mercedes-Benz,GLC,1
+97023,Ford,C-MAX Energi,1
+97023,Kia,Niro Plug-In Hybrid,2
+97023,Chrysler,Pacifica Hybrid,1
+97024,Audi,e-tron,1
+97024,Hyundai,IONIQ 5,1
+97024,Tesla,Model X,1
+97024,Kia,Niro EV,3
+97024,BMW,i3,1
+97024,Kia,Sorento Plug-In Hybrid,1
+97024,Hyundai,SONATA Plug-in Hybrid,1
+97024,Subaru,Crosstrek,1
+97024,Ford,Escape Plug-In Hybrid,1
+97024,Nissan,LEAF,11
+97024,Jeep,Wrangler Unlimited,1
+97024,Tesla,Model Y,9
+97024,Tesla,Model S,2
+97024,Chevrolet,Volt,2
+97024,Toyota,Prius Prime,4
+97024,MINI,Hardtop 2 Door,1
+97024,Ford,Fusion Energi,3
+97024,Honda,Clarity Plug-In Hybrid,1
+97024,Ford,Mustang Mach-E,2
+97024,Toyota,Prius Plug-in Hybrid,1
+97024,Volkswagen,e-Golf,1
+97024,Kia,Niro Plug-In Hybrid,1
+97024,Tesla,Model 3,18
+97024,FIAT,500e,1
+97024,Toyota,RAV4 Prime,4
+97024,BMW,3 Series,1
+97026,Toyota,Prius Prime,1
+97026,Tesla,Model 3,3
+97026,Ford,Fusion Energi,2
+97026,Ford,C-MAX Energi,1
+97026,BMW,X5,1
+97026,Toyota,Prius Plug-in Hybrid,1
+97026,Tesla,Model Y,2
+97026,Ford,Mustang Mach-E,1
+97027,Volkswagen,e-Golf,3
+97027,Kia,Sorento Plug-In Hybrid,2
+97027,Tesla,Model Y,8
+97027,BMW,5 Series,1
+97027,Ford,C-MAX Energi,1
+97027,Chevrolet,Bolt EV,7
+97027,Hyundai,SANTA FE Plug-In Hybrid,1
+97027,Smart,fortwo electric drive,1
+97027,Toyota,RAV4 Prime,3
+97027,Kia,Niro EV,3
+97027,Ford,Mustang Mach-E,2
+97027,Ford,Fusion Energi,1
+97027,Hyundai,KONA Electric,2
+97027,Hyundai,SONATA Plug-in Hybrid,1
+97027,Volvo,XC40,1
+97027,Toyota,Prius Prime,4
+97027,Chevrolet,Volt,2
+97027,BMW,i3,1
+97027,Nissan,LEAF,5
+97027,Toyota,Prius Plug-in Hybrid,2
+97027,Tesla,Model X,2
+97027,Ford,Focus,1
+97027,HD,LIV,1
+97027,Tesla,Model S,1
+97027,Hyundai,IONIQ Electric,2
+97027,TESL,UNKNOWN,1
+97027,Tesla,Model 3,10
+97027,Chrysler,Pacifica Hybrid,2
+97027,Kia,Niro Plug-In Hybrid,1
+97027,FIAT,500e,1
+97028,BMW,X5,1
+97028,Chevrolet,Bolt EV,1
+97028,Tesla,Model X,1
+97028,Tesla,Model Y,1
+97028,Volvo,XC60,1
+97028,Tesla,Model 3,2
+97029,Volvo,XC90,1
+97029,Toyota,Prius Prime,1
+97029,Tesla,Model X,1
+97030,Ford,C-MAX Energi,3
+97030,Tesla,Model X,6
+97030,Mitsubishi,Outlander PHEV,5
+97030,Jeep,Wrangler Unlimited,6
+97030,Toyota,Prius Plug-in Hybrid,3
+97030,Lexus,NX 450h+,1
+97030,Ford,Fusion Energi,7
+97030,Kia,Niro Plug-In Hybrid,2
+97030,Kia,EV6,1
+97030,Chevrolet,Bolt EV,6
+97030,Nissan,LEAF,12
+97030,Ford,Focus,1
+97030,Hyundai,IONIQ Electric,3
+97030,Hyundai,KONA Electric,2
+97030,Subaru,Crosstrek,2
+97030,Kia,Sorento Plug-In Hybrid,3
+97030,Volkswagen,ID.4,1
+97030,Kia,Niro EV,6
+97030,Ford,Escape Plug-In Hybrid,1
+97030,Ford,TH!NK,1
+97030,BMW,X5,1
+97030,BMW,i3,2
+97030,Toyota,RAV4 Prime,6
+97030,Tesla,Model S,2
+97030,Chevrolet,Spark EV,3
+97030,Toyota,Prius Prime,18
+97030,Honda,Clarity Plug-In Hybrid,1
+97030,Honda,Clarity Electric,1
+97030,Chevrolet,Volt,4
+97030,Tesla,Model Y,18
+97030,Chrysler,Pacifica Hybrid,2
+97030,Ford,Mustang Mach-E,3
+97030,Tesla,Model 3,25
+97031,BMW,X5,1
+97031,Volvo,XC90,3
+97031,FIAT,500e,3
+97031,AMIC,UNKNOWN,2
+97031,Ford,Focus,1
+97031,Audi,Q5,2
+97031,Polestar,2,1
+97031,Mitsubishi,Outlander PHEV,1
+97031,Tesla,Model 3,45
+97031,Ford,Mustang Mach-E,5
+97031,Kia,Niro Plug-In Hybrid,3
+97031,Nissan,LEAF,15
+97031,MINI,Countryman Plug-in Hybrid,2
+97031,Kia,Niro EV,4
+97031,Toyota,Prius Prime,11
+97031,Smart,fortwo electric drive,2
+97031,Ford,C-MAX Energi,4
+97031,BMW,X3,1
+97031,Tesla,Model Y,44
+97031,Toyota,RAV4 Prime,19
+97031,Ford,TH!NK,1
+97031,Porsche,Panamera,1
+97031,Chevrolet,Volt,4
+97031,Volkswagen,e-Golf,1
+97031,Jeep,Wrangler Unlimited,2
+97031,Subaru,Crosstrek,2
+97031,Volkswagen,ID.4,8
+97031,Jaguar,I-PACE,1
+97031,Chevrolet,Bolt EV,22
+97031,Ford,Escape Plug-In Hybrid,1
+97031,Chevrolet,Spark EV,1
+97031,BMW,i3,3
+97031,Kia,Sorento Plug-In Hybrid,1
+97031,Ford,Fusion Energi,2
+97031,Hyundai,IONIQ Electric,1
+97031,Volvo,XC40,3
+97031,Hyundai,IONIQ 5,3
+97031,Hyundai,IONIQ Plug-in Hybrid,1
+97031,Audi,e-tron,5
+97031,Toyota,Prius Plug-in Hybrid,2
+97031,Kia,EV6,1
+97031,Volvo,C40,1
+97031,Tesla,Model S,13
+97031,BMW,i8,1
+97031,Porsche,Cayenne,1
+97031,Hyundai,KONA Electric,4
+97031,Volvo,XC60,3
+97031,Chrysler,Pacifica Hybrid,5
+97031,Tesla,Model X,2
+97032,Toyota,Prius Plug-in Hybrid,1
+97032,Ford,Mustang Mach-E,1
+97032,Tesla,Model 3,7
+97032,Nissan,LEAF,3
+97032,ZONE,UNKNOWN,1
+97032,Ford,Fusion Energi,1
+97032,Jeep,Wrangler Unlimited,2
+97032,Toyota,Prius Prime,4
+97032,Audi,Q5,1
+97032,Tesla,Model S,1
+97032,Mercedes-Benz,GLE,1
+97032,Kia,Optima Plug-In Hybrid,1
+97032,Tesla,Model Y,2
+97032,Chevrolet,Bolt EV,1
+97034,BMW,3 Series,2
+97034,Honda,Clarity Plug-In Hybrid,10
+97034,Smart,fortwo electric drive,1
+97034,Polestar,2,3
+97034,BMW,i8,1
+97034,Toyota,RAV4 Prime,17
+97034,CHNA,UNKNOWN,1
+97034,Hyundai,IONIQ Electric,3
+97034,Chevrolet,Volt,7
+97034,Hyundai,KONA Electric,11
+97034,Audi,Q5,19
+97034,Tesla,Model Y,156
+97034,Toyota,Prius Prime,28
+97034,ZERO,FX,1
+97034,Hyundai,TUCSON Plug-in Hybrid,1
+97034,Audi,A3 Sportback e-tron,4
+97034,Volkswagen,ID.4,9
+97034,AMIC,UNKNOWN,2
+97034,MAHI,UNKNOWN,1
+97034,Ford,Escape Plug-In Hybrid,2
+97034,Tesla,Model 3,186
+97034,BMW,i3,18
+97034,HD,ELW,1
+97034,Volvo,XC90,22
+97034,MINI,Hardtop 2 Door,3
+97034,Kia,Niro Plug-In Hybrid,2
+97034,Honda,Clarity Electric,2
+97034,Chrysler,Pacifica Hybrid,12
+97034,Chevrolet,Bolt EV,32
+97034,Kia,EV6,2
+97034,Kia,Soul EV,1
+97034,Rivian,R1T,1
+97034,MINI,Countryman Plug-in Hybrid,5
+97034,Tesla,Model S,87
+97034,Lexus,NX 450h+,2
+97034,Subaru,Crosstrek,10
+97034,BMW,5 Series,6
+97034,Jeep,Wrangler Unlimited,6
+97034,Nissan,LEAF,40
+97034,Smart,EQ fortwo,1
+97034,Volvo,C40,2
+97034,Mercedes-Benz,EQS,1
+97034,Ford,Fusion Energi,7
+97034,Mitsubishi,Outlander PHEV,1
+97034,Mercedes-Benz,B-Class,1
+97034,Audi,e-tron Sportback,2
+97034,BMW,7 Series,1
+97034,Hyundai,IONIQ 5,6
+97034,Tesla,Model X,55
+97034,BMW,X3,3
+97034,Toyota,Prius Plug-in Hybrid,4
+97034,Land Rover,Range Rover Sport,3
+97034,Ford,C-MAX Energi,5
+97034,Audi,e-tron,17
+97034,Lincoln,Aviator,1
+97034,Jaguar,I-PACE,7
+97034,Ford,Mustang Mach-E,9
+97034,Kia,Niro EV,6
+97034,Porsche,Cayenne,4
+97034,BMW,X5,27
+97034,Mercedes-Benz,GLC,5
+97034,Chevrolet,Spark EV,1
+97034,Ford,Focus,3
+97034,Ford,TH!NK,1
+97034,FIAT,500e,3
+97034,Volkswagen,e-Golf,12
+97034,Porsche,Taycan,9
+97034,GMC,HUMMER EV,1
+97034,Hyundai,SANTA FE Plug-In Hybrid,1
+97034,Hyundai,IONIQ Plug-in Hybrid,3
+97034,Volvo,XC60,11
+97035,Toyota,RAV4 Prime,20
+97035,Hyundai,IONIQ Plug-in Hybrid,1
+97035,ZERO,SRF,1
+97035,Volvo,XC60,8
+97035,BMW,X5,18
+97035,Kia,Sorento Plug-In Hybrid,1
+97035,AMIC,UNKNOWN,1
+97035,Mitsubishi,Outlander PHEV,2
+97035,Tesla,Model S,47
+97035,Subaru,Crosstrek,6
+97035,Hyundai,KONA Electric,11
+97035,Polestar,2,2
+97035,BMW,7 Series,1
+97035,Chrysler,Pacifica Hybrid,14
+97035,Hyundai,SONATA Plug-in Hybrid,2
+97035,Ford,C-MAX Energi,5
+97035,Toyota,Prius Prime,24
+97035,Chevrolet,Volt,13
+97035,Mercedes-Benz,B-Class,1
+97035,Porsche,Taycan,6
+97035,Volvo,S90,1
+97035,BMW,i3,13
+97035,Porsche,Panamera,3
+97035,Honda,Clarity Plug-In Hybrid,5
+97035,Ford,TH!NK,2
+97035,Volkswagen,e-Golf,12
+97035,Audi,Q5,6
+97035,MINI,Hardtop 2 Door,3
+97035,Tesla,Model X,34
+97035,BMW,i8,2
+97035,FIAT,500e,1
+97035,Nissan,LEAF,57
+97035,Kia,EV6,3
+97035,Jeep,Wrangler Unlimited,15
+97035,Lincoln,Aviator,2
+97035,Ford,Escape Plug-In Hybrid,2
+97035,Chevrolet,Bolt EV,26
+97035,Toyota,Prius Plug-in Hybrid,3
+97035,Audi,e-tron,17
+97035,Chevrolet,Spark EV,5
+97035,Volkswagen,ID.4,8
+97035,Volvo,XC40,2
+97035,Tesla,Model Y,114
+97035,Tesla,Model 3,161
+97035,Lexus,NX 450h+,2
+97035,Volvo,XC90,5
+97035,Mercedes-Benz,GLE,1
+97035,BMW,X3,1
+97035,Tesla,Roadster,2
+97035,BMW,5 Series,3
+97035,Ford,E-Transit Cargo,1
+97035,Land Rover,Range Rover Sport,2
+97035,Kia,Niro EV,12
+97035,Hyundai,IONIQ Electric,5
+97035,Mercedes-Benz,GLC,3
+97035,Honda,Clarity Electric,2
+97035,Jaguar,I-PACE,2
+97035,Porsche,Cayenne,4
+97035,Chevrolet,Bolt EUV,1
+97035,Kia,Niro Plug-In Hybrid,1
+97035,Hyundai,IONIQ 5,5
+97035,Ford,Fusion Energi,4
+97035,BMW,3 Series,2
+97035,Audi,A3 Sportback e-tron,3
+97035,MINI,Countryman Plug-in Hybrid,1
+97035,Ford,Mustang Mach-E,13
+97035,Smart,fortwo electric drive,1
+97037,Ford,C-MAX Energi,1
+97038,Chevrolet,Bolt EV,6
+97038,Ford,Escape Plug-In Hybrid,1
+97038,Ford,C-MAX Energi,4
+97038,Kia,EV6,2
+97038,Hyundai,SANTA FE Plug-In Hybrid,1
+97038,Kia,Niro EV,1
+97038,Tesla,Model S,1
+97038,Kia,Soul EV,1
+97038,Toyota,RAV4 Prime,5
+97038,Subaru,Crosstrek,1
+97038,Ford,Fusion Energi,2
+97038,Chrysler,Pacifica Hybrid,2
+97038,MILES,UNKNOWN,1
+97038,Kia,Niro Plug-In Hybrid,1
+97038,Tesla,Model X,1
+97038,Audi,Q5,1
+97038,Volvo,XC60,2
+97038,Chevrolet,Bolt EUV,1
+97038,Kia,Optima Plug-In Hybrid,1
+97038,Tesla,Model Y,4
+97038,Toyota,Prius Prime,4
+97038,Mitsubishi,Outlander PHEV,1
+97038,Nissan,LEAF,10
+97038,Mercedes-Benz,B-Class,2
+97038,Chevrolet,Volt,3
+97038,Tesla,Model 3,19
+97038,Jeep,Wrangler Unlimited,1
+97040,Toyota,Prius Prime,1
+97040,Audi,Q5,1
+97040,Tesla,Model X,1
+97040,Hyundai,KONA Electric,1
+97040,ALTM,UNKNOWN,1
+97040,Honda,Clarity Plug-In Hybrid,1
+97040,Tesla,Model S,1
+97040,Volkswagen,e-Golf,1
+97040,Volkswagen,ID.4,1
+97040,Jeep,Wrangler Unlimited,1
+97040,Chevrolet,Volt,1
+97040,Tesla,Model 3,1
+97040,Ford,Fusion Energi,1
+97040,Chrysler,Pacifica Hybrid,1
+97040,Tesla,Model Y,3
+97040,Nissan,LEAF,4
+97041,Ford,Mustang Mach-E,2
+97041,Hyundai,KONA Electric,1
+97041,Nissan,LEAF,1
+97041,Tesla,Model Y,3
+97041,Chevrolet,Bolt EV,2
+97041,Toyota,RAV4 Prime,1
+97041,Toyota,Prius Prime,1
+97041,Tesla,Model S,1
+97041,Tesla,Model 3,6
+97042,Ford,Mustang Mach-E,1
+97042,Tesla,Model S,3
+97042,Toyota,Prius Plug-in Hybrid,1
+97042,Tesla,Model 3,5
+97042,Volvo,XC90,1
+97042,Honda,Clarity Plug-In Hybrid,1
+97042,Subaru,Crosstrek,1
+97042,Toyota,RAV4 Prime,3
+97042,Chrysler,Pacifica Hybrid,1
+97042,Tesla,Model Y,3
+97042,Ford,Fusion Energi,1
+97042,Nissan,LEAF,2
+97042,Hyundai,KONA Electric,3
+97042,Chevrolet,Volt,2
+97042,Toyota,Prius Prime,2
+97042,Tesla,Model X,1
+97045,FIAT,500e,1
+97045,Hyundai,IONIQ Electric,16
+97045,BMW,3 Series,1
+97045,Kia,EV6,4
+97045,Toyota,RAV4 Prime,20
+97045,Kia,Optima Plug-In Hybrid,2
+97045,Ford,F-150 Lightning,1
+97045,Chevrolet,Bolt EV,38
+97045,Volvo,XC40,5
+97045,Toyota,Prius Plug-in Hybrid,3
+97045,BMW,5 Series,1
+97045,Nissan,LEAF,57
+97045,Kia,Soul EV,2
+97045,Ford,Fusion Energi,9
+97045,Volkswagen,ID.4,7
+97045,Ford,TH!NK,1
+97045,Audi,e-tron GT,1
+97045,Audi,e-tron,3
+97045,Audi,A3 Sportback e-tron,2
+97045,Kia,Niro EV,22
+97045,Ford,C-MAX Energi,4
+97045,Volvo,XC60,1
+97045,Porsche,Taycan,1
+97045,BMW,X5,7
+97045,MINI,Countryman Plug-in Hybrid,1
+97045,Toyota,Prius Prime,26
+97045,Honda,Clarity Plug-In Hybrid,6
+97045,BMW,i3,8
+97045,MINI,Hardtop 2 Door,2
+97045,BMW,i8,1
+97045,Volkswagen,e-Golf,4
+97045,Audi,e-tron Sportback,1
+97045,Kia,Niro Plug-In Hybrid,8
+97045,Ford,Focus,1
+97045,Tesla,Model 3,81
+97045,Volvo,C40,1
+97045,Hyundai,SONATA Plug-in Hybrid,2
+97045,Mercedes-Benz,C-Class,1
+97045,Ford,Escape Plug-In Hybrid,3
+97045,Smart,fortwo electric drive,1
+97045,Hyundai,SANTA FE Plug-In Hybrid,2
+97045,Chrysler,Pacifica Hybrid,5
+97045,Chevrolet,Volt,21
+97045,Hyundai,KONA Electric,11
+97045,Chevrolet,Bolt EUV,2
+97045,Mercedes-Benz,B-Class,2
+97045,Porsche,Cayenne,1
+97045,Hyundai,IONIQ Plug-in Hybrid,3
+97045,Jeep,Wrangler Unlimited,8
+97045,Tesla,Model X,18
+97045,Kia,Sorento Plug-In Hybrid,3
+97045,Polestar,2,1
+97045,Subaru,Crosstrek,4
+97045,Volvo,V60,1
+97045,Lexus,NX 450h+,1
+97045,Hyundai,IONIQ 5,3
+97045,Volvo,XC90,5
+97045,Ford,Mustang Mach-E,17
+97045,BMW,X3,1
+97045,Chevrolet,Spark EV,3
+97045,Tesla,Model Y,65
+97045,Tesla,Model S,24
+97045,Audi,Q5,2
+97045,Honda,Accord Plug-In,1
+97048,Toyota,RAV4 Prime,1
+97048,Tesla,Model X,2
+97048,Volkswagen,ID.4,1
+97048,Chevrolet,Volt,3
+97048,Chevrolet,Bolt EV,2
+97048,Honda,Clarity Plug-In Hybrid,1
+97048,Kia,Sorento Plug-In Hybrid,1
+97048,Tesla,Model 3,2
+97048,Kia,Niro EV,2
+97048,Chrysler,Pacifica Hybrid,2
+97048,Tesla,Model S,3
+97048,Nissan,LEAF,4
+97048,Tesla,Model Y,4
+97048,Ford,Fusion Energi,1
+97048,Ford,C-MAX Energi,1
+97048,BMW,5 Series,2
+97048,POLAR,UNKNOWN,1
+97048,Toyota,Prius Prime,4
+97049,Tesla,Model 3,4
+97049,Nissan,LEAF,1
+97049,Chrysler,Pacifica Hybrid,1
+97049,Tesla,Model Y,2
+97049,Toyota,RAV4 Prime,2
+97049,Toyota,Prius Prime,1
+97049,Volvo,XC60,1
+97050,Ford,Fusion Energi,1
+97050,Ford,C-MAX Energi,1
+97051,Chevrolet,Bolt EV,13
+97051,Toyota,Prius Prime,5
+97051,Hyundai,IONIQ Plug-in Hybrid,2
+97051,Ford,Fusion Energi,2
+97051,Tesla,Model S,4
+97051,Hyundai,SANTA FE Plug-In Hybrid,1
+97051,Tesla,Model Y,6
+97051,Mitsubishi,Outlander PHEV,2
+97051,ZERO,SRF,1
+97051,Ford,C-MAX Energi,1
+97051,Chevrolet,Volt,11
+97051,Chrysler,Pacifica Hybrid,5
+97051,Honda,Clarity Plug-In Hybrid,1
+97051,Kia,Niro Plug-In Hybrid,1
+97051,Jeep,Wrangler Unlimited,2
+97051,Honda,Clarity Electric,2
+97051,Toyota,RAV4 Prime,4
+97051,Volkswagen,ID.4,3
+97051,Hyundai,IONIQ Electric,1
+97051,Kia,Niro EV,1
+97051,Volkswagen,e-Golf,1
+97051,Ford,Mustang Mach-E,4
+97051,Tesla,Model 3,16
+97051,Hyundai,KONA Electric,4
+97051,Kia,EV6,1
+97051,Tesla,Model X,1
+97051,Audi,A7,1
+97051,Nissan,LEAF,9
+97053,Chevrolet,Bolt EV,2
+97053,Nissan,LEAF,2
+97053,Kia,Niro Plug-In Hybrid,1
+97053,Tesla,Model 3,10
+97053,Mercedes-Benz,GLC,2
+97053,Rivian,R1T,1
+97053,Porsche,Panamera,1
+97053,Toyota,RAV4 Prime,1
+97053,Mitsubishi,Outlander PHEV,1
+97053,Volkswagen,ID.4,1
+97053,Chrysler,Pacifica Hybrid,3
+97053,Toyota,Prius Prime,3
+97053,Ford,Mustang Mach-E,1
+97053,Tesla,Model Y,2
+97053,Chevrolet,Volt,5
+97054,Kia,Niro EV,1
+97054,Chevrolet,Bolt EV,3
+97054,Hyundai,KONA Electric,1
+97055,Rivian,R1T,1
+97055,Chevrolet,Bolt EUV,1
+97055,Ford,C-MAX Energi,3
+97055,Chrysler,Pacifica Hybrid,2
+97055,Tesla,Model 3,15
+97055,Ford,Focus,1
+97055,Nissan,LEAF,12
+97055,Toyota,RAV4 Prime,3
+97055,Toyota,Prius Plug-in Hybrid,1
+97055,Subaru,Crosstrek,1
+97055,Kia,Niro Plug-In Hybrid,1
+97055,EZGO,UNKNOWN,1
+97055,ZERO,UNKNOWN,1
+97055,Volvo,XC90,1
+97055,Kia,Soul EV,1
+97055,Ford,Mustang Mach-E,3
+97055,Kia,Niro EV,1
+97055,Chevrolet,Bolt EV,7
+97055,BMW,i3,1
+97055,Volkswagen,ID.4,1
+97055,Toyota,Prius Prime,4
+97055,Tesla,Model Y,16
+97055,Tesla,Model S,1
+97055,Chevrolet,Volt,6
+97055,Hyundai,KONA Electric,3
+97055,Hyundai,IONIQ 5,2
+97055,Ford,Fusion Energi,8
+97055,Tesla,Model X,1
+97055,FIAT,500e,2
+97055,Jeep,Wrangler Unlimited,3
+97055,Kia,Sorento Plug-In Hybrid,1
+97055,BMW,X5,1
+97055,Volkswagen,e-Golf,1
+97055,Ford,Escape Plug-In Hybrid,1
+97055,Chevrolet,Spark EV,1
+97055,Audi,e-tron,1
+97055,Mercedes-Benz,GLC,1
+97056,Smart,fortwo electric drive,1
+97056,Toyota,Prius Prime,5
+97056,Chevrolet,Volt,10
+97056,Audi,e-tron,2
+97056,Kia,EV6,2
+97056,Hyundai,IONIQ Plug-in Hybrid,1
+97056,Kia,Niro EV,1
+97056,BMW,X5,2
+97056,Ford,C-MAX Energi,1
+97056,Volvo,C40,1
+97056,Ford,Mustang Mach-E,5
+97056,Honda,Clarity Plug-In Hybrid,4
+97056,Chevrolet,Bolt EV,13
+97056,Jeep,Wrangler Unlimited,2
+97056,GENZ,UNKNOWN,1
+97056,Chrysler,Pacifica Hybrid,6
+97056,Tesla,Model X,2
+97056,Toyota,RAV4 Prime,3
+97056,Tesla,Model Y,11
+97056,Hyundai,KONA Electric,3
+97056,Hyundai,SONATA Plug-in Hybrid,1
+97056,Chevrolet,Spark EV,2
+97056,Audi,Q5,1
+97056,Volkswagen,e-Golf,2
+97056,Volvo,XC90,1
+97056,Hyundai,IONIQ Electric,1
+97056,Kia,Niro Plug-In Hybrid,2
+97056,Volkswagen,ID.4,1
+97056,Ford,F-150 Lightning,1
+97056,Tesla,Model 3,20
+97056,Nissan,LEAF,10
+97056,Subaru,Crosstrek,1
+97056,Tesla,Model S,3
+97056,Ford,Fusion Energi,4
+97058,Kia,Niro Plug-In Hybrid,1
+97058,Volkswagen,e-Golf,1
+97058,Ford,Focus,1
+97058,Toyota,Prius Plug-in Hybrid,2
+97058,Audi,Q5,1
+97058,Nissan,LEAF,8
+97058,ENRG,EVA,1
+97058,Toyota,Prius Prime,13
+97058,Kia,Niro EV,1
+97058,Volvo,XC90,1
+97058,Ford,Fusion Energi,7
+97058,Chevrolet,Volt,4
+97058,Chrysler,Pacifica Hybrid,1
+97058,Tesla,Model 3,21
+97058,BMW,3 Series,1
+97058,Tesla,Model Y,6
+97058,Ford,C-MAX Energi,1
+97058,Toyota,RAV4 Prime,6
+97058,Ford,Escape Plug-In Hybrid,3
+97058,Jeep,Wrangler Unlimited,4
+97058,Tesla,Model X,3
+97058,Mitsubishi,Outlander PHEV,1
+97058,Tesla,Model S,4
+97058,Ford,Mustang Mach-E,2
+97058,Chevrolet,Bolt EV,6
+97060,Ford,Escape Plug-In Hybrid,3
+97060,Toyota,RAV4 Prime,6
+97060,Kia,EV6,2
+97060,Tesla,Model 3,19
+97060,Kia,Niro Plug-In Hybrid,1
+97060,Ford,Fusion Energi,5
+97060,Hyundai,KONA Electric,1
+97060,Tesla,Model X,7
+97060,Tesla,Model S,3
+97060,Volkswagen,e-Golf,1
+97060,Chevrolet,Spark EV,1
+97060,Kia,Soul EV,1
+97060,Chevrolet,Volt,2
+97060,Subaru,Crosstrek,2
+97060,Kia,Niro EV,5
+97060,Ford,C-MAX Energi,3
+97060,Mitsubishi,Outlander PHEV,3
+97060,Volkswagen,ID.4,1
+97060,Chevrolet,Bolt EV,2
+97060,ZERO,UNKNOWN,1
+97060,Nissan,LEAF,17
+97060,Hyundai,IONIQ 5,1
+97060,Tesla,Model Y,16
+97060,Kia,Sorento Plug-In Hybrid,1
+97060,Honda,Clarity Plug-In Hybrid,4
+97060,Toyota,Prius Prime,15
+97060,Hyundai,SONATA Plug-in Hybrid,1
+97060,Audi,e-tron,1
+97060,Ford,Mustang Mach-E,2
+97060,Hyundai,IONIQ Electric,1
+97060,Porsche,Taycan,1
+97060,BMW,7 Series,1
+97060,Chrysler,Pacifica Hybrid,1
+97062,Jaguar,I-PACE,1
+97062,Chevrolet,Bolt EV,24
+97062,Ford,Focus,1
+97062,Kia,Niro EV,76
+97062,Volvo,XC40,1
+97062,Ford,Fusion Energi,4
+97062,Audi,A3 Sportback e-tron,1
+97062,Audi,Q5,6
+97062,FIAT,500e,5
+97062,Tesla,Model S,22
+97062,BMW,i3,8
+97062,Chrysler,Pacifica Hybrid,131
+97062,Kia,Niro Plug-In Hybrid,3
+97062,BMW,5 Series,1
+97062,Volkswagen,ID.4,6
+97062,BMW,i8,1
+97062,Toyota,Prius Plug-in Hybrid,2
+97062,Volvo,XC60,1
+97062,Mitsubishi,Outlander PHEV,20
+97062,Porsche,Panamera,1
+97062,Tesla,Model Y,45
+97062,Ford,C-MAX Energi,5
+97062,BMW,X5,10
+97062,BMW,3 Series,1
+97062,Polestar,2,14
+97062,Honda,Clarity Electric,2
+97062,Hyundai,IONIQ 5,1
+97062,Toyota,Prius Prime,25
+97062,MINI,Hardtop 2 Door,1
+97062,Hyundai,IONIQ Electric,4
+97062,Ford,E-Transit Cargo,1
+97062,Chevrolet,Spark EV,4
+97062,Hyundai,KONA Electric,21
+97062,Jeep,Wrangler Unlimited,4
+97062,Ford,Mustang Mach-E,20
+97062,Volkswagen,e-Golf,2
+97062,POLS,ELX,2
+97062,Tesla,Model 3,59
+97062,Kia,EV6,1
+97062,Mercedes-Benz,GLC,1
+97062,Tesla,Model X,13
+97062,Chevrolet,Volt,7
+97062,Audi,e-tron,5
+97062,Honda,Clarity Plug-In Hybrid,3
+97062,Kia,Sorento Plug-In Hybrid,1
+97062,Porsche,Taycan,1
+97062,Nissan,LEAF,46
+97062,Hyundai,IONIQ Plug-in Hybrid,3
+97062,Volvo,XC90,3
+97062,Subaru,Crosstrek,2
+97062,Hyundai,SANTA FE Plug-In Hybrid,2
+97062,Audi,e-tron GT,1
+97062,Toyota,RAV4 Prime,15
+97063,Tesla,Model 3,1
+97063,Jeep,Wrangler Unlimited,1
+97063,Kia,Niro Plug-In Hybrid,1
+97063,Hyundai,IONIQ Plug-in Hybrid,1
+97063,Chevrolet,Volt,2
+97063,Chevrolet,Bolt EV,1
+97064,Ford,C-MAX Energi,1
+97064,Toyota,Prius Prime,2
+97064,Ford,Mustang Mach-E,1
+97064,Nissan,LEAF,3
+97064,Hyundai,IONIQ Electric,1
+97064,Tesla,Model S,1
+97064,Chevrolet,Bolt EV,1
+97064,Hyundai,SANTA FE Plug-In Hybrid,1
+97064,Tesla,Model 3,1
+97064,Kia,Niro EV,2
+97065,Subaru,Crosstrek,1
+97065,Nissan,LEAF,1
+97067,BMW,X5,1
+97067,Ford,Fusion Energi,1
+97067,Tesla,Model 3,3
+97067,Kia,Niro EV,1
+97067,Kia,EV6,1
+97067,Tesla,Model X,2
+97067,Chrysler,Pacifica Hybrid,1
+97067,Toyota,Prius Prime,2
+97067,Toyota,RAV4 Prime,3
+97067,Toyota,Prius Plug-in Hybrid,1
+97067,Volvo,XC60,1
+97067,Volkswagen,ID.4,1
+97067,Tesla,Model S,2
+97068,Hyundai,KONA Electric,10
+97068,Rivian,R1T,1
+97068,Tesla,Model X,33
+97068,Mitsubishi,i-MiEV,1
+97068,Audi,A3 Sportback e-tron,4
+97068,Ford,E-Transit Cargo,1
+97068,Jeep,Wrangler Unlimited,16
+97068,FIAT,500e,4
+97068,Toyota,RAV4 Prime,25
+97068,Audi,e-tron Sportback,4
+97068,BMW,i3,12
+97068,Ford,Mustang Mach-E,10
+97068,Lincoln,Aviator,2
+97068,BMW,i8,1
+97068,Kia,Sorento Plug-In Hybrid,1
+97068,Hyundai,SANTA FE Plug-In Hybrid,4
+97068,Porsche,Taycan,4
+97068,Audi,A7,1
+97068,Kia,EV6,2
+97068,BMW,X3,1
+97068,Mercedes-Benz,GLC,5
+97068,Jaguar,I-PACE,2
+97068,MINI,Countryman Plug-in Hybrid,3
+97068,BMW,5 Series,1
+97068,Polestar,2,1
+97068,Hyundai,TUCSON Plug-in Hybrid,1
+97068,Kia,Soul EV,2
+97068,Volkswagen,e-Golf,9
+97068,ZERO,DSR,1
+97068,Land Rover,Range Rover,1
+97068,Chevrolet,Bolt EUV,1
+97068,Kia,Niro EV,16
+97068,Toyota,Prius Plug-in Hybrid,5
+97068,Cadillac,CT6 PLUG-IN Hybrid,1
+97068,Ford,Fusion Energi,15
+97068,Hyundai,IONIQ Plug-in Hybrid,2
+97068,Volvo,XC60,3
+97068,AMIC,UNKNOWN,1
+97068,Subaru,Crosstrek,4
+97068,Tesla,Model S,61
+97068,Ford,C-MAX Energi,9
+97068,Mercedes-Benz,GLE,2
+97068,MINI,Hardtop 2 Door,5
+97068,Volkswagen,ID.4,3
+97068,Smart,fortwo electric drive,2
+97068,Lexus,NX 450h+,1
+97068,Chevrolet,Spark EV,5
+97068,Volvo,XC40,7
+97068,Audi,e-tron,13
+97068,Hyundai,IONIQ Electric,4
+97068,Tesla,Model 3,145
+97068,Volvo,XC90,12
+97068,BMW,3 Series,2
+97068,Nissan,LEAF,62
+97068,Honda,Clarity Electric,2
+97068,Mitsubishi,Outlander PHEV,4
+97068,Ford,TH!NK,1
+97068,Audi,Q5,10
+97068,Volvo,C40,1
+97068,Mercedes-Benz,EQS,2
+97068,Honda,Clarity Plug-In Hybrid,2
+97068,Toyota,Prius Prime,30
+97068,Chevrolet,Volt,16
+97068,Toyota,bZ4X,1
+97068,Kia,Optima Plug-In Hybrid,1
+97068,Hyundai,IONIQ 5,3
+97068,Kia,Niro Plug-In Hybrid,4
+97068,BMW,X5,8
+97068,Chrysler,Pacifica Hybrid,15
+97068,GENU,UNKNOWN,1
+97068,Chevrolet,Bolt EV,25
+97068,Ford,Escape Plug-In Hybrid,6
+97068,Tesla,Model Y,114
+97070,Volvo,XC60,2
+97070,Hyundai,SONATA Plug-in Hybrid,2
+97070,Ford,TH!NK,1
+97070,Porsche,Panamera,1
+97070,MINI,Countryman Plug-in Hybrid,1
+97070,Volkswagen,e-Golf,8
+97070,Chevrolet,Bolt EUV,2
+97070,Mitsubishi,Outlander PHEV,2
+97070,Volkswagen,ID.4,4
+97070,Ford,Mustang Mach-E,4
+97070,Kia,Niro EV,4
+97070,Audi,A7,1
+97070,Hyundai,IONIQ Electric,5
+97070,Chevrolet,Bolt EV,12
+97070,Chrysler,Pacifica Hybrid,4
+97070,Tesla,Model Y,58
+97070,Audi,e-tron,6
+97070,Toyota,Prius Prime,18
+97070,Tesla,Model S,29
+97070,Hyundai,SANTA FE Plug-In Hybrid,2
+97070,Honda,Clarity Electric,2
+97070,Mercedes-Benz,B-Class,1
+97070,Polestar,2,3
+97070,BMW,3 Series,1
+97070,Chevrolet,Spark EV,1
+97070,Ford,Fusion Energi,6
+97070,Kia,Sorento Plug-In Hybrid,3
+97070,FIAT,500e,1
+97070,Kia,Niro Plug-In Hybrid,3
+97070,Ford,Escape Plug-In Hybrid,1
+97070,BMW,i3,2
+97070,Smart,fortwo electric drive,2
+97070,Toyota,RAV4 Prime,12
+97070,BMW,5 Series,1
+97070,Ford,Focus,1
+97070,Nissan,LEAF,39
+97070,Mercedes-Benz,EQS,1
+97070,ZERO,FXS,2
+97070,Hyundai,IONIQ Plug-in Hybrid,3
+97070,Kia,EV6,3
+97070,Tesla,Model 3,104
+97070,Audi,A3 Sportback e-tron,2
+97070,Mercedes-Benz,GLC,4
+97070,Jeep,Wrangler Unlimited,10
+97070,Subaru,Crosstrek,2
+97070,Lincoln,Aviator,1
+97070,Hyundai,KONA Electric,7
+97070,BMW,X3,1
+97070,Toyota,Prius Plug-in Hybrid,1
+97070,Chevrolet,Volt,11
+97070,Audi,e-tron Sportback,1
+97070,Audi,Q5,5
+97070,Tesla,Model X,23
+97070,Volvo,XC90,4
+97070,Hyundai,TUCSON Plug-in Hybrid,1
+97070,BMW,X5,4
+97070,Hyundai,IONIQ 5,5
+97070,Honda,Clarity Plug-In Hybrid,4
+97070,Ford,C-MAX Energi,4
+97071,FPEC,UNKNOWN,1
+97071,INGR,UNKNOWN,1
+97071,Toyota,Prius Plug-in Hybrid,2
+97071,Audi,e-tron,2
+97071,Chevrolet,Volt,16
+97071,Chevrolet,Spark EV,3
+97071,Toyota,Prius Prime,9
+97071,Tesla,Model S,4
+97071,Kia,EV6,1
+97071,Kia,Niro Plug-In Hybrid,1
+97071,Toyota,RAV4 Prime,8
+97071,BMW,i3,2
+97071,Chrysler,Pacifica Hybrid,4
+97071,Jeep,Wrangler Unlimited,3
+97071,Ford,Fusion Energi,2
+97071,Chevrolet,Bolt EV,11
+97071,Nissan,LEAF,13
+97071,Ford,UNKNOWN,1
+97071,Lexus,NX 450h+,1
+97071,Hyundai,IONIQ Plug-in Hybrid,2
+97071,TOMB,UNKNOWN,11
+97071,Ford,Escape Plug-In Hybrid,1
+97071,BMW,5 Series,1
+97071,Tesla,Model Y,12
+97071,Volkswagen,ID.4,3
+97071,Hyundai,IONIQ Electric,2
+97071,Kia,Niro EV,6
+97071,Honda,Clarity Plug-In Hybrid,1
+97071,Tesla,Model 3,12
+97071,Hyundai,KONA Electric,3
+97077,Nissan,LEAF,1
+97078,Chevrolet,Spark EV,3
+97078,Chevrolet,Volt,9
+97078,Honda,Clarity Plug-In Hybrid,1
+97078,YMSK,UNKNOWN,1
+97078,Volvo,XC90,1
+97078,Porsche,Taycan,1
+97078,Ford,C-MAX Energi,2
+97078,Volkswagen,ID.4,1
+97078,Mercedes-Benz,B-Class,1
+97078,Chevrolet,Bolt EV,10
+97078,BMW,X5,1
+97078,Ford,Escape Plug-In Hybrid,4
+97078,Tesla,Model Y,13
+97078,Mitsubishi,Outlander PHEV,2
+97078,Polestar,2,1
+97078,ZERO,FXS,1
+97078,Hyundai,KONA Electric,1
+97078,MINI,Countryman Plug-in Hybrid,1
+97078,ZERO,FX,1
+97078,Toyota,Prius Prime,14
+97078,Subaru,Crosstrek,3
+97078,HD,LIV,1
+97078,Jeep,Wrangler Unlimited,4
+97078,Volkswagen,e-Golf,2
+97078,Tesla,Model X,1
+97078,Ford,Mustang Mach-E,2
+97078,Toyota,RAV4 Prime,6
+97078,Hyundai,SANTA FE Plug-In Hybrid,1
+97078,Tesla,Model 3,42
+97078,Ford,E-Transit Cargo,2
+97078,Kia,Niro Plug-In Hybrid,3
+97078,Hyundai,IONIQ Electric,2
+97078,Ford,Fusion Energi,6
+97078,BMW,i3,1
+97078,Kia,Optima Plug-In Hybrid,1
+97078,Nissan,LEAF,17
+97078,BMW,X3,1
+97078,Audi,Q5,1
+97078,Hyundai,TUCSON Plug-in Hybrid,1
+97078,Hyundai,IONIQ 5,1
+97078,Toyota,Prius Plug-in Hybrid,2
+97078,BMW,5 Series,1
+97078,Hyundai,IONIQ Plug-in Hybrid,3
+97078,Chrysler,Pacifica Hybrid,4
+97078,Kia,Sorento Plug-In Hybrid,1
+97078,Kia,Niro EV,4
+97078,Tesla,Model S,3
+97078,Volvo,C40,2
+97080,Tesla,Model X,4
+97080,Hyundai,KONA Electric,11
+97080,Hyundai,IONIQ Plug-in Hybrid,1
+97080,Audi,e-tron,3
+97080,Ford,Focus,1
+97080,Volkswagen,e-Golf,2
+97080,Subaru,Crosstrek,3
+97080,Hyundai,IONIQ Electric,3
+97080,Lincoln,Corsair,1
+97080,Nissan,LEAF,34
+97080,Ford,C-MAX Energi,5
+97080,ZERO,FX,1
+97080,Kia,EV6,6
+97080,BMW,i3,3
+97080,Honda,Clarity Plug-In Hybrid,3
+97080,BMW,3 Series,1
+97080,Toyota,Prius Plug-in Hybrid,2
+97080,Tesla,Model S,16
+97080,Volvo,XC90,1
+97080,BMW,5 Series,2
+97080,Ford,Fusion Energi,10
+97080,ZERO,SZF,1
+97080,Chevrolet,Spark EV,4
+97080,BMW,X5,3
+97080,Volkswagen,ID.4,7
+97080,Audi,A3 Sportback e-tron,1
+97080,TOMB,UNKNOWN,1
+97080,Chrysler,Pacifica Hybrid,7
+97080,Kia,Soul EV,2
+97080,Toyota,Prius Prime,17
+97080,BMW,X3,1
+97080,Tesla,Model 3,51
+97080,Tesla,Model Y,32
+97080,Chevrolet,Bolt EV,18
+97080,Toyota,RAV4 Prime,16
+97080,Chevrolet,Volt,14
+97080,Kia,Niro EV,4
+97080,Chevrolet,Bolt EUV,1
+97080,Audi,Q5,2
+97080,Kia,Niro Plug-In Hybrid,4
+97080,Honda,Clarity Electric,1
+97080,Jeep,Wrangler Unlimited,4
+97080,Hyundai,IONIQ 5,2
+97080,Ford,Escape Plug-In Hybrid,2
+97080,Ford,Mustang Mach-E,7
+97080,Kia,Sorento Plug-In Hybrid,2
+97086,Chevrolet,Volt,15
+97086,FIAT,500e,1
+97086,Volvo,XC60,4
+97086,BMW,X3,2
+97086,ZERO,DSR,1
+97086,Volkswagen,e-Golf,5
+97086,Toyota,Prius Prime,17
+97086,Toyota,Prius Plug-in Hybrid,2
+97086,BMW,3 Series,5
+97086,Ford,Fusion Energi,11
+97086,Rivian,R1T,1
+97086,Jeep,Wrangler Unlimited,4
+97086,Volkswagen,ID.4,5
+97086,Chevrolet,Bolt EV,14
+97086,Kia,EV6,6
+97086,Audi,e-tron GT,1
+97086,Hyundai,KONA Electric,8
+97086,MINI,Hardtop 2 Door,3
+97086,Toyota,RAV4 Prime,17
+97086,Hyundai,SANTA FE Plug-In Hybrid,1
+97086,BMW,i3,8
+97086,Porsche,Cayenne,2
+97086,Audi,e-tron,6
+97086,Chrysler,Pacifica Hybrid,10
+97086,Cadillac,CT6 PLUG-IN Hybrid,1
+97086,Hyundai,IONIQ Electric,7
+97086,Nissan,LEAF,37
+97086,Tesla,Model Y,131
+97086,Lexus,NX 450h+,1
+97086,Honda,Clarity Plug-In Hybrid,12
+97086,BMW,X5,12
+97086,Tesla,Model 3,156
+97086,Mitsubishi,Outlander PHEV,1
+97086,Kia,Sorento Plug-In Hybrid,3
+97086,Honda,Clarity Electric,6
+97086,Kia,Niro EV,9
+97086,Mercedes-Benz,EQS,1
+97086,Tesla,Model S,29
+97086,MINI,Countryman Plug-in Hybrid,1
+97086,Volvo,C40,1
+97086,Hyundai,TUCSON Plug-in Hybrid,2
+97086,Jaguar,I-PACE,1
+97086,Smart,fortwo electric drive,1
+97086,Hyundai,IONIQ 5,2
+97086,Chevrolet,Bolt EUV,2
+97086,Porsche,Taycan,4
+97086,Volvo,XC90,3
+97086,Audi,Q5,8
+97086,Lincoln,Aviator,1
+97086,BMW,7 Series,1
+97086,Hyundai,IONIQ Plug-in Hybrid,3
+97086,Chevrolet,Spark EV,2
+97086,Ford,E-Transit Cargo,1
+97086,Ford,Escape Plug-In Hybrid,1
+97086,Audi,A7,1
+97086,Ford,Focus,2
+97086,Hyundai,SONATA Plug-in Hybrid,3
+97086,Ford,Mustang Mach-E,14
+97086,Kia,Optima Plug-In Hybrid,1
+97086,Land Rover,Range Rover Sport,1
+97086,Ford,C-MAX Energi,7
+97086,Mercedes-Benz,GLC,1
+97086,Subaru,Crosstrek,5
+97086,Volvo,XC40,2
+97086,BMW,5 Series,1
+97086,Kia,Niro Plug-In Hybrid,6
+97086,Tesla,Model X,37
+97089,BMW,3 Series,1
+97089,BMW,i3,1
+97089,Chevrolet,Spark EV,2
+97089,Kia,Niro EV,2
+97089,Volvo,XC40,3
+97089,Volkswagen,e-Golf,1
+97089,Chevrolet,Bolt EUV,1
+97089,Ford,Focus,1
+97089,Hyundai,IONIQ 5,1
+97089,Honda,Clarity Plug-In Hybrid,1
+97089,Tesla,Model S,12
+97089,Ford,Fusion Energi,2
+97089,BMW,5 Series,2
+97089,Polestar,2,1
+97089,Tesla,Model Y,28
+97089,Subaru,Crosstrek,2
+97089,Nissan,LEAF,16
+97089,Tesla,Model 3,32
+97089,Chevrolet,Volt,5
+97089,Kia,Soul EV,1
+97089,Bentley,Bentayga,1
+97089,Hyundai,IONIQ Plug-in Hybrid,4
+97089,Toyota,Prius Prime,7
+97089,Toyota,Prius Plug-in Hybrid,1
+97089,Kia,EV6,3
+97089,BMW,X5,4
+97089,Chrysler,Pacifica Hybrid,2
+97089,Kia,Niro Plug-In Hybrid,1
+97089,Ford,Mustang Mach-E,5
+97089,Jeep,Wrangler Unlimited,3
+97089,Volkswagen,ID.4,3
+97089,Tesla,Model X,10
+97089,Ford,C-MAX Energi,4
+97089,Toyota,RAV4 Prime,2
+97089,Volvo,XC90,3
+97089,Hyundai,KONA Electric,1
+97089,Kia,Sorento Plug-In Hybrid,1
+97089,Chevrolet,Bolt EV,5
+97089,Hyundai,SONATA Plug-in Hybrid,1
+97089,Hyundai,IONIQ Electric,2
+97101,MINI,Countryman Plug-in Hybrid,1
+97101,Tesla,Model Y,3
+97101,Nissan,LEAF,3
+97101,Volvo,XC90,1
+97101,Tesla,Model 3,5
+97101,Toyota,Prius Prime,1
+97101,Kia,Sorento Plug-In Hybrid,1
+97101,Tesla,Model S,1
+97101,Hyundai,KONA Electric,1
+97101,Honda,Clarity Plug-In Hybrid,1
+97101,Chrysler,Pacifica Hybrid,1
+97101,BMW,i3,2
+97101,Chevrolet,Bolt EV,4
+97101,Ford,Escape Plug-In Hybrid,1
+97101,Chevrolet,Volt,1
+97101,Volkswagen,ID.4,1
+97101,Volvo,XC40,1
+97101,Ford,Mustang Mach-E,1
+97101,Tesla,Model X,1
+97102,Tesla,Model 3,1
+97102,Kia,Niro EV,1
+97102,Tesla,Model Y,3
+97103,Nissan,LEAF,8
+97103,Ford,TH!NK,1
+97103,Mercedes-Benz,GLC,1
+97103,Subaru,Crosstrek,3
+97103,Chrysler,Pacifica Hybrid,1
+97103,Ford,C-MAX Energi,2
+97103,Ford,Escape Plug-In Hybrid,2
+97103,Chevrolet,Spark EV,1
+97103,Kia,Sorento Plug-In Hybrid,1
+97103,Ford,Fusion Energi,1
+97103,Toyota,Prius Prime,13
+97103,BMW,X5,1
+97103,Tesla,Model 3,15
+97103,Hyundai,KONA Electric,3
+97103,Tesla,Model S,2
+97103,Chevrolet,Bolt EV,7
+97103,Ford,Mustang Mach-E,4
+97103,Chevrolet,Volt,5
+97103,Tesla,Model Y,8
+97103,Hyundai,SANTA FE Plug-In Hybrid,1
+97103,Hyundai,IONIQ Electric,1
+97103,Rivian,R1T,1
+97103,Audi,e-tron,1
+97103,FIAT,500e,1
+97103,Kia,Niro Plug-In Hybrid,2
+97103,BMW,5 Series,1
+97103,Kia,EV6,1
+97103,Tesla,Model X,2
+97103,Audi,Q5,1
+97103,Toyota,RAV4 Prime,12
+97103,Kia,Niro EV,2
+97106,Hyundai,IONIQ Plug-in Hybrid,1
+97106,Chevrolet,Volt,1
+97106,Tesla,Model X,5
+97106,Kia,Niro Plug-In Hybrid,1
+97106,Audi,Q5,1
+97106,Tesla,Model 3,8
+97106,Toyota,RAV4 Prime,3
+97106,Ford,Fusion Energi,2
+97106,Tesla,Model Y,2
+97106,BMW,X5,2
+97106,Lincoln,Aviator,1
+97106,Hyundai,TUCSON Plug-in Hybrid,1
+97106,Toyota,Prius Prime,2
+97106,Kia,EV6,1
+97106,Tesla,Model S,5
+97106,Hyundai,KONA Electric,2
+97106,Volkswagen,ID.4,1
+97106,Subaru,Crosstrek,3
+97106,Chevrolet,Bolt EV,4
+97106,Volvo,XC60,1
+97106,Ford,Mustang Mach-E,4
+97106,Nissan,LEAF,7
+97106,Jeep,Wrangler Unlimited,2
+97106,Ford,C-MAX Energi,2
+97107,Kia,Niro Plug-In Hybrid,1
+97107,Volkswagen,ID.4,1
+97107,Subaru,Crosstrek,1
+97107,Nissan,LEAF,1
+97107,Tesla,Model 3,1
+97107,Hyundai,IONIQ 5,1
+97107,Tesla,Model S,2
+97107,Chevrolet,Volt,1
+97109,Toyota,RAV4 Prime,2
+97109,Tesla,Model 3,1
+97109,Toyota,Prius Prime,1
+97110,Tesla,Model 3,3
+97110,Kia,Niro EV,1
+97110,Tesla,Model S,4
+97110,Volvo,XC60,1
+97110,Polestar,2,1
+97110,Chrysler,Pacifica Hybrid,2
+97110,Subaru,Crosstrek,2
+97110,Tesla,Model Y,2
+97110,Kia,EV6,1
+97110,BMW,3 Series,1
+97110,Toyota,Prius Prime,3
+97110,Ford,Mustang Mach-E,1
+97110,Toyota,RAV4 Prime,2
+97110,Tesla,Model X,3
+97110,Chevrolet,Volt,2
+97111,Toyota,RAV4 Prime,4
+97111,Chevrolet,Bolt EV,1
+97111,Chrysler,Pacifica Hybrid,1
+97111,Volkswagen,ID.4,1
+97111,Ford,C-MAX Energi,1
+97111,Tesla,Model 3,6
+97111,ZERO,UNKNOWN,1
+97111,Audi,e-tron,1
+97111,Porsche,Taycan,1
+97111,Tesla,Model X,3
+97111,Tesla,Model Y,3
+97111,Chevrolet,Volt,1
+97111,Toyota,Prius Prime,3
+97111,Nissan,LEAF,6
+97111,Volkswagen,e-Golf,1
+97111,Volvo,XC90,2
+97111,MINI,Countryman Plug-in Hybrid,1
+97111,Lincoln,Aviator,1
+97111,Tesla,Model S,2
+97111,Ford,Fusion Energi,1
+97111,Hyundai,KONA Electric,1
+97111,Mitsubishi,Outlander PHEV,1
+97111,Chevrolet,Spark EV,1
+97111,Jeep,Wrangler Unlimited,2
+97112,Tesla,Model Y,2
+97112,Kia,Niro EV,1
+97112,Tesla,Model X,1
+97112,Kia,Niro Plug-In Hybrid,1
+97112,Tesla,Model 3,2
+97112,Kia,EV6,1
+97112,Chevrolet,Volt,1
+97112,Porsche,Cayenne,1
+97112,Nissan,LEAF,2
+97113,Ford,Escape Plug-In Hybrid,2
+97113,MINI,Hardtop 2 Door,1
+97113,Chevrolet,Bolt EUV,2
+97113,Kia,Niro EV,1
+97113,FIAT,500e,2
+97113,Tesla,Model 3,22
+97113,Toyota,RAV4 Prime,4
+97113,BMW,5 Series,1
+97113,Toyota,Prius Prime,2
+97113,Hyundai,IONIQ Electric,1
+97113,Volvo,XC90,1
+97113,Rivian,R1T,1
+97113,Tesla,Model S,4
+97113,Chrysler,Pacifica Hybrid,2
+97113,Chevrolet,Spark EV,2
+97113,Chevrolet,Volt,3
+97113,Chevrolet,Bolt EV,7
+97113,Volkswagen,e-Golf,2
+97113,Hyundai,TUCSON Plug-in Hybrid,1
+97113,Hyundai,KONA Electric,3
+97113,Honda,Clarity Plug-In Hybrid,1
+97113,Volvo,XC60,1
+97113,Tesla,Model X,2
+97113,Ford,Mustang Mach-E,5
+97113,Nissan,LEAF,15
+97113,Ford,Fusion Energi,4
+97113,AMIC,UNKNOWN,1
+97113,Tesla,Model Y,10
+97114,Volvo,XC90,1
+97114,Nissan,LEAF,4
+97114,Ford,Mustang Mach-E,1
+97114,Hyundai,IONIQ 5,1
+97114,Toyota,Prius Plug-in Hybrid,1
+97114,Ford,Escape Plug-In Hybrid,1
+97114,Ford,Fusion Energi,1
+97114,Tesla,Model S,4
+97114,Chrysler,Pacifica Hybrid,1
+97114,Tesla,Model 3,2
+97114,Chevrolet,Bolt EV,2
+97114,Ford,TH!NK,1
+97114,Toyota,Prius Prime,3
+97114,Rivian,R1T,1
+97114,Hyundai,KONA Electric,1
+97114,Chevrolet,Volt,1
+97114,Tesla,Model Y,1
+97114,Kia,EV6,1
+97115,Honda,Clarity Plug-In Hybrid,1
+97115,Audi,e-tron,1
+97115,Volkswagen,ID.4,1
+97115,Tesla,Model Y,5
+97115,Tesla,Model 3,18
+97115,Toyota,Prius Prime,2
+97115,Hyundai,IONIQ 5,2
+97115,Nissan,LEAF,4
+97115,Ford,Fusion Energi,1
+97115,BMW,X5,2
+97115,Mercedes-Benz,GLC,1
+97115,Audi,Q5,1
+97115,Chevrolet,Bolt EV,4
+97115,Tesla,Model X,2
+97115,Volvo,XC90,1
+97115,Tesla,Model S,5
+97115,Ford,Mustang Mach-E,1
+97115,Ford,C-MAX Energi,3
+97115,Hyundai,KONA Electric,2
+97115,Ford,Escape Plug-In Hybrid,1
+97115,Toyota,RAV4 Prime,2
+97116,Nissan,LEAF,27
+97116,Porsche,Taycan,1
+97116,Subaru,Crosstrek,8
+97116,Chrysler,Pacifica Hybrid,10
+97116,Toyota,RAV4 Prime,8
+97116,Hyundai,IONIQ Plug-in Hybrid,1
+97116,Kia,EV6,3
+97116,Chevrolet,Bolt EV,9
+97116,Hyundai,SONATA Plug-in Hybrid,2
+97116,Chevrolet,Volt,14
+97116,Ford,Escape Plug-In Hybrid,6
+97116,Ford,C-MAX Energi,4
+97116,Mitsubishi,Outlander PHEV,1
+97116,Kia,Niro Plug-In Hybrid,1
+97116,BMW,i3,2
+97116,Volkswagen,ID.4,2
+97116,Audi,e-tron Sportback,2
+97116,Kia,Niro EV,6
+97116,BMW,X3,1
+97116,Porsche,Cayenne,1
+97116,Ford,Fusion Energi,4
+97116,Volvo,C40,1
+97116,Polestar,2,1
+97116,Volvo,XC40,1
+97116,Audi,Q5,3
+97116,Jeep,Wrangler Unlimited,5
+97116,Honda,Clarity Plug-In Hybrid,1
+97116,Volvo,XC60,2
+97116,BMW,3 Series,1
+97116,Hyundai,KONA Electric,6
+97116,Lexus,NX 450h+,1
+97116,Toyota,Prius Plug-in Hybrid,3
+97116,Tesla,Model S,12
+97116,Kia,Soul EV,4
+97116,Kia,Sorento Plug-In Hybrid,1
+97116,Toyota,Prius Prime,23
+97116,Volvo,XC90,1
+97116,Ford,Mustang Mach-E,4
+97116,Tesla,Model 3,31
+97116,Chevrolet,Spark EV,3
+97116,Tesla,Model X,4
+97116,Volkswagen,e-Golf,4
+97116,Tesla,Model Y,26
+97116,Hyundai,IONIQ Electric,3
+97117,Chevrolet,Volt,2
+97117,Kia,Niro EV,1
+97117,Chrysler,Pacifica Hybrid,1
+97117,Chevrolet,Spark EV,1
+97117,Chevrolet,Bolt EV,1
+97117,Nissan,LEAF,1
+97117,Hyundai,IONIQ Plug-in Hybrid,1
+97118,Ford,Escape Plug-In Hybrid,1
+97118,Hyundai,IONIQ Electric,1
+97119,Toyota,Prius Plug-in Hybrid,2
+97119,Chevrolet,Spark EV,1
+97119,Tesla,Model S,1
+97119,Nissan,LEAF,5
+97119,Jeep,Wrangler Unlimited,2
+97119,Kia,Niro EV,1
+97119,Ford,Fusion Energi,1
+97119,Chevrolet,Bolt EUV,1
+97119,Kia,Niro Plug-In Hybrid,3
+97119,Toyota,RAV4 Prime,1
+97119,Chevrolet,Volt,2
+97119,Tesla,Model X,1
+97119,Tesla,Model Y,8
+97119,BMW,i3,1
+97119,Toyota,Prius Prime,1
+97119,Chevrolet,Bolt EV,3
+97119,Volvo,XC60,2
+97119,Porsche,Cayenne,1
+97119,Volvo,XC90,1
+97119,Hyundai,KONA Electric,1
+97119,Hyundai,SONATA Plug-in Hybrid,1
+97119,Tesla,Model 3,3
+97119,Ford,Mustang Mach-E,1
+97121,BMW,X5,1
+97121,Ford,Mustang Mach-E,1
+97121,Toyota,RAV4 Prime,2
+97121,Kia,Niro Plug-In Hybrid,1
+97121,Toyota,Prius Prime,1
+97121,Chrysler,Pacifica Hybrid,2
+97123,ZAPP,UNKNOWN,1
+97123,MINI,Hardtop 2 Door,2
+97123,Volkswagen,e-Golf,15
+97123,Hyundai,SONATA Plug-in Hybrid,1
+97123,Kia,Niro EV,14
+97123,Nissan,LEAF,57
+97123,Hyundai,SANTA FE Plug-In Hybrid,8
+97123,Jeep,Wrangler Unlimited,8
+97123,Kia,EV6,5
+97123,Ford,Focus,2
+97123,ZONG,UNKNOWN,1
+97123,Jaguar,I-PACE,2
+97123,Chevrolet,Bolt EV,25
+97123,Smart,fortwo electric drive,1
+97123,BMW,X5,6
+97123,Honda,Clarity Electric,2
+97123,Polestar,2,4
+97123,Ford,Escape Plug-In Hybrid,6
+97123,Tesla,Model S,18
+97123,Kia,Niro Plug-In Hybrid,7
+97123,BMW,X3,3
+97123,Hyundai,TUCSON Plug-in Hybrid,1
+97123,BMW,5 Series,2
+97123,Tesla,Model 3,130
+97123,Hyundai,IONIQ 5,9
+97123,Ford,C-MAX Energi,11
+97123,Kia,Soul EV,2
+97123,Subaru,Crosstrek,2
+97123,Chevrolet,Bolt EUV,1
+97123,Honda,Clarity Plug-In Hybrid,6
+97123,Toyota,Prius Plug-in Hybrid,4
+97123,Lexus,NX 450h+,2
+97123,Ford,Fusion Energi,16
+97123,Hyundai,IONIQ Electric,4
+97123,Volvo,C40,1
+97123,Audi,e-tron Sportback,2
+97123,Chrysler,Pacifica Hybrid,25
+97123,Hyundai,IONIQ Plug-in Hybrid,6
+97123,BMW,3 Series,3
+97123,Hyundai,KONA Electric,13
+97123,Volvo,XC90,3
+97123,Volvo,XC40,4
+97123,Lincoln,Aviator,2
+97123,Toyota,RAV4 Prime,26
+97123,Tesla,Model X,11
+97123,Chevrolet,Spark EV,5
+97123,BMW,i3,5
+97123,Audi,Q5,6
+97123,Ford,Mustang Mach-E,15
+97123,Mercedes-Benz,B-Class,2
+97123,Porsche,Cayenne,1
+97123,Volvo,XC60,3
+97123,Audi,e-tron,5
+97123,Toyota,Prius Prime,25
+97123,Mitsubishi,Outlander PHEV,3
+97123,Chevrolet,Volt,18
+97123,Volkswagen,ID.4,5
+97123,Tesla,Model Y,89
+97123,Porsche,Panamera,1
+97123,Kia,Sorento Plug-In Hybrid,3
+97123,Mercedes-Benz,GLE,1
+97124,FIAT,500e,4
+97124,Ford,Focus,1
+97124,Lucid,Air,1
+97124,Chevrolet,Volt,24
+97124,Volvo,XC60,4
+97124,Audi,Q5,7
+97124,AMIC,UNKNOWN,1
+97124,Jeep,Wrangler Unlimited,14
+97124,Kia,Niro Plug-In Hybrid,12
+97124,BMW,i3,7
+97124,Hyundai,SANTA FE Plug-In Hybrid,6
+97124,MINI,Countryman Plug-in Hybrid,5
+97124,Hyundai,SONATA Plug-in Hybrid,4
+97124,Toyota,Prius Prime,38
+97124,Kia,Niro EV,12
+97124,Kia,Sorento Plug-In Hybrid,3
+97124,Ford,F-150 Lightning,1
+97124,Toyota,RAV4 Prime,17
+97124,Hyundai,KONA Electric,14
+97124,Tesla,Model X,17
+97124,BMW,X5,12
+97124,Chevrolet,Bolt EUV,4
+97124,Hyundai,IONIQ Electric,5
+97124,Kia,EV6,4
+97124,Ford,C-MAX Energi,6
+97124,Volvo,C40,1
+97124,Subaru,Crosstrek,8
+97124,Mitsubishi,Outlander PHEV,2
+97124,Chevrolet,Bolt EV,33
+97124,Tesla,Model Y,101
+97124,Volkswagen,e-Golf,6
+97124,Ford,TH!NK,1
+97124,Hyundai,IONIQ 5,1
+97124,Polestar,2,5
+97124,Kia,Soul EV,4
+97124,Chevrolet,Spark EV,7
+97124,Mercedes-Benz,GLC,4
+97124,BMW,X3,3
+97124,MINI,Hardtop 2 Door,6
+97124,Ford,Escape Plug-In Hybrid,3
+97124,Honda,Clarity Electric,3
+97124,Smart,fortwo electric drive,1
+97124,Volvo,XC40,4
+97124,Ford,Fusion Energi,13
+97124,Ford,Mustang Mach-E,8
+97124,Cadillac,ELR,1
+97124,Volvo,XC90,3
+97124,Volkswagen,ID.4,7
+97124,Toyota,Prius Plug-in Hybrid,5
+97124,SLEL,UNKNOWN,1
+97124,Audi,e-tron,3
+97124,Hyundai,IONIQ Plug-in Hybrid,6
+97124,Nissan,LEAF,75
+97124,Honda,Clarity Plug-In Hybrid,12
+97124,Lincoln,Corsair,1
+97124,Tesla,Model S,26
+97124,Chrysler,Pacifica Hybrid,30
+97124,BMW,3 Series,3
+97124,Tesla,Model 3,168
+97124,INGR,UNKNOWN,2
+97125,Tesla,Model 3,1
+97127,Chevrolet,Spark EV,1
+97127,Nissan,LEAF,3
+97127,Honda,Clarity Plug-In Hybrid,1
+97127,Ford,C-MAX Energi,2
+97127,Tesla,Model 3,3
+97127,Kia,EV6,1
+97127,Hyundai,KONA Electric,1
+97127,Chevrolet,Volt,1
+97127,Hyundai,IONIQ Electric,1
+97127,ZAPP,UNKNOWN,1
+97127,Tesla,Model Y,1
+97127,Ford,Fusion Energi,1
+97128,MINI,Hardtop 2 Door,1
+97128,Toyota,Prius Prime,21
+97128,Hyundai,SANTA FE Plug-In Hybrid,1
+97128,Volvo,XC40,2
+97128,BMW,X5,3
+97128,Kia,Soul EV,1
+97128,Tesla,Model S,6
+97128,Kia,Niro Plug-In Hybrid,2
+97128,Smart,fortwo electric drive,1
+97128,Hyundai,IONIQ Plug-in Hybrid,3
+97128,Chevrolet,Spark EV,3
+97128,Honda,Clarity Plug-In Hybrid,4
+97128,Volkswagen,ID.4,2
+97128,Mitsubishi,Outlander PHEV,3
+97128,Audi,e-tron,3
+97128,Volkswagen,e-Golf,2
+97128,Volvo,XC60,2
+97128,Jeep,Wrangler Unlimited,4
+97128,Nissan,LEAF,25
+97128,Ford,Mustang Mach-E,11
+97128,Ford,C-MAX Energi,4
+97128,Kia,Niro EV,5
+97128,BMW,5 Series,2
+97128,Chevrolet,Bolt EV,16
+97128,Tesla,Model Y,26
+97128,BMW,3 Series,1
+97128,BMW,X3,1
+97128,Chrysler,Pacifica Hybrid,5
+97128,Hyundai,KONA Electric,8
+97128,Toyota,Prius Plug-in Hybrid,1
+97128,Audi,e-tron Sportback,1
+97128,ZERO,UNKNOWN,1
+97128,Ford,Fusion Energi,10
+97128,Chevrolet,Bolt EUV,1
+97128,Ford,Escape Plug-In Hybrid,4
+97128,Chevrolet,Volt,14
+97128,Toyota,RAV4 Prime,19
+97128,Hyundai,IONIQ 5,2
+97128,Kia,Sorento Plug-In Hybrid,3
+97128,HD,ELW,1
+97128,Subaru,Crosstrek,1
+97128,Tesla,Model X,10
+97128,Tesla,Model 3,39
+97128,Mercedes-Benz,B-Class,1
+97128,Kia,EV6,3
+97130,Tesla,Model 3,5
+97130,Tesla,Model S,4
+97130,Mercedes-Benz,EQS,1
+97130,Tesla,Model X,1
+97130,Chevrolet,Bolt EV,1
+97130,Tesla,Model Y,2
+97130,Kia,Niro EV,1
+97130,Chevrolet,Volt,2
+97130,Volvo,XC40,1
+97130,BMW,X5,1
+97130,Hyundai,KONA Electric,2
+97130,Volvo,XC60,1
+97130,Chevrolet,Bolt EUV,1
+97130,Toyota,Prius Prime,3
+97130,Kia,EV6,1
+97130,Toyota,RAV4 Prime,1
+97130,Volvo,S60,1
+97131,Chevrolet,Bolt EV,2
+97131,Tesla,Model 3,2
+97131,Kia,Niro EV,1
+97131,Jeep,Wrangler Unlimited,1
+97131,Kia,EV6,1
+97131,BMW,i3,1
+97131,Chrysler,Pacifica Hybrid,1
+97131,Tesla,Model Y,2
+97131,Ford,Mustang Mach-E,2
+97131,Toyota,Prius Prime,3
+97131,Nissan,LEAF,2
+97131,Toyota,RAV4 Prime,4
+97132,Ford,Escape Plug-In Hybrid,2
+97132,Audi,A3 Sportback e-tron,2
+97132,MINI,Countryman Plug-in Hybrid,1
+97132,Kia,EV6,2
+97132,Volvo,XC40,1
+97132,Ferrari,SF90 Spider,1
+97132,Toyota,Prius Plug-in Hybrid,2
+97132,Chevrolet,Bolt EV,14
+97132,Subaru,Crosstrek,5
+97132,Tesla,Model Y,25
+97132,Polestar,2,2
+97132,Kia,Soul EV,1
+97132,AMIC,UNKNOWN,1
+97132,Hyundai,IONIQ 5,3
+97132,Hyundai,SANTA FE Plug-In Hybrid,1
+97132,FIAT,500e,1
+97132,BMW,i3,4
+97132,Ford,Mustang Mach-E,9
+97132,Ford,Fusion Energi,6
+97132,Kia,Niro Plug-In Hybrid,2
+97132,Volkswagen,ID.4,1
+97132,Nissan,LEAF,39
+97132,Tesla,Model S,10
+97132,Hyundai,IONIQ Plug-in Hybrid,2
+97132,Toyota,Prius Prime,21
+97132,Honda,Clarity Plug-In Hybrid,4
+97132,Chevrolet,Volt,18
+97132,Audi,e-tron,2
+97132,Porsche,Taycan,2
+97132,Jeep,Wrangler Unlimited,4
+97132,Audi,Q5,2
+97132,Kia,Niro EV,4
+97132,Chevrolet,Bolt EUV,1
+97132,Chevrolet,Spark EV,6
+97132,Volkswagen,e-Golf,7
+97132,Tesla,Model 3,49
+97132,Porsche,Cayenne,2
+97132,Ford,Focus,1
+97132,Chrysler,Pacifica Hybrid,11
+97132,Hyundai,KONA Electric,8
+97132,Ford,C-MAX Energi,9
+97132,Mitsubishi,Outlander PHEV,2
+97132,BMW,X3,1
+97132,ELVT,UNKNOWN,1
+97132,Tesla,Model X,5
+97132,Volvo,XC60,4
+97132,Toyota,RAV4 Prime,15
+97132,Volvo,XC90,1
+97132,BMW,X5,3
+97133,Tesla,Model 3,15
+97133,Ford,C-MAX Energi,1
+97133,Toyota,Prius Prime,4
+97133,Tesla,Model X,2
+97133,Tesla,Model Y,19
+97133,Volkswagen,ID.4,2
+97133,Audi,A7,1
+97133,Volvo,XC60,2
+97133,Ford,Fusion Energi,1
+97133,Tesla,Model S,6
+97133,Ford,Mustang Mach-E,5
+97133,Jeep,Wrangler Unlimited,4
+97133,Chevrolet,Volt,1
+97133,Hyundai,IONIQ Plug-in Hybrid,2
+97133,Hyundai,IONIQ 5,1
+97133,Nissan,LEAF,9
+97133,Kia,EV6,1
+97133,Ford,F-150 Lightning,1
+97133,Kia,Niro Plug-In Hybrid,1
+97133,Honda,Clarity Plug-In Hybrid,2
+97133,Volvo,XC40,2
+97133,BMW,i3,2
+97133,Chevrolet,Bolt EV,5
+97133,Toyota,RAV4 Prime,5
+97133,BMW,5 Series,1
+97133,MINI,Countryman Plug-in Hybrid,1
+97133,Hyundai,IONIQ Electric,1
+97133,Kia,Niro EV,1
+97133,Subaru,Crosstrek,1
+97133,Chrysler,Pacifica Hybrid,5
+97134,Tesla,Model 3,2
+97134,Chevrolet,Volt,1
+97134,Tesla,Model S,1
+97134,Ford,Mustang Mach-E,1
+97134,Toyota,Prius Prime,1
+97134,Subaru,Crosstrek,1
+97134,Nissan,LEAF,1
+97135,Chevrolet,Bolt EV,1
+97135,Tesla,Model Y,2
+97135,Chevrolet,Volt,3
+97135,Jeep,Wrangler Unlimited,1
+97135,Nissan,LEAF,3
+97136,Ford,Mustang Mach-E,1
+97136,Ford,Fusion Energi,2
+97136,BMW,X5,1
+97136,Tesla,Model Y,2
+97136,Chevrolet,Volt,1
+97136,Nissan,LEAF,2
+97136,Tesla,Model S,3
+97136,Tesla,Model 3,2
+97136,Hyundai,IONIQ Electric,1
+97136,Ford,C-MAX Energi,1
+97136,Toyota,Prius Prime,4
+97136,Volvo,XC60,1
+97137,Tesla,Model Y,1
+97137,Ford,Fusion Energi,1
+97137,Tesla,Model X,1
+97137,Tesla,Model S,2
+97137,Chevrolet,Bolt EV,1
+97137,Tesla,Model 3,1
+97137,Ford,Mustang Mach-E,1
+97138,Chrysler,Pacifica Hybrid,3
+97138,Tesla,Model S,6
+97138,Ford,C-MAX Energi,2
+97138,Audi,e-tron Sportback,1
+97138,Tesla,Model X,3
+97138,MINI,Hardtop 2 Door,1
+97138,BMW,X5,1
+97138,Nissan,LEAF,1
+97138,Hyundai,KONA Electric,2
+97138,Smart,fortwo electric drive,1
+97138,Volvo,XC90,1
+97138,Tesla,Model 3,14
+97138,Toyota,Prius Plug-in Hybrid,2
+97138,Hyundai,IONIQ 5,1
+97138,Ford,Mustang Mach-E,2
+97138,Audi,Q5,1
+97138,HDKP,UNKNOWN,1
+97138,Tesla,Model Y,7
+97138,Audi,A3 Sportback e-tron,1
+97138,BMW,i3,1
+97138,Ford,Fusion Energi,2
+97138,Porsche,Taycan,1
+97138,Toyota,RAV4 Prime,5
+97138,Kia,Niro EV,1
+97138,Volvo,XC60,2
+97138,Volvo,XC40,2
+97138,Kia,EV6,1
+97138,Audi,e-tron,1
+97138,Jeep,Wrangler Unlimited,2
+97138,Toyota,Prius Prime,10
+97138,Chevrolet,Volt,4
+97138,Chevrolet,Bolt EV,5
+97138,Ford,Escape Plug-In Hybrid,1
+97140,Ford,Fusion Energi,7
+97140,BMW,3 Series,2
+97140,Jeep,Wrangler Unlimited,7
+97140,GENU,UNKNOWN,1
+97140,BMW,7 Series,1
+97140,Volkswagen,ID.4,4
+97140,Ford,Escape Plug-In Hybrid,4
+97140,Toyota,RAV4 Prime,19
+97140,FIAT,500e,2
+97140,Kia,Niro EV,8
+97140,Kia,Soul EV,1
+97140,BMW,X5,5
+97140,Chrysler,Pacifica Hybrid,9
+97140,Hyundai,IONIQ Plug-in Hybrid,2
+97140,Porsche,Taycan,3
+97140,Volvo,XC90,4
+97140,Audi,Q5,6
+97140,Tesla,Model X,9
+97140,CLUB,UNKNOWN,1
+97140,Hyundai,KONA Electric,6
+97140,Toyota,Prius Plug-in Hybrid,4
+97140,ELCY,ONE,1
+97140,Tesla,Model Y,53
+97140,Chevrolet,Spark EV,2
+97140,Volvo,S60,1
+97140,Volvo,XC40,1
+97140,Hyundai,SANTA FE Plug-In Hybrid,1
+97140,Hyundai,IONIQ Electric,3
+97140,Honda,Clarity Electric,2
+97140,Tesla,Model S,17
+97140,Mercedes-Benz,GLE,1
+97140,Kia,Optima Plug-In Hybrid,1
+97140,Volvo,XC60,1
+97140,Nissan,LEAF,57
+97140,Chevrolet,Volt,8
+97140,Ford,Focus,1
+97140,MINI,Hardtop 2 Door,2
+97140,Chevrolet,Bolt EV,18
+97140,Ford,Mustang Mach-E,8
+97140,Mercedes-Benz,GLC,2
+97140,Toyota,Prius Prime,15
+97140,MINI,Countryman Plug-in Hybrid,1
+97140,Mitsubishi,Outlander PHEV,1
+97140,Lincoln,Aviator,1
+97140,Audi,e-tron,2
+97140,Audi,A3 Sportback e-tron,1
+97140,Volkswagen,e-Golf,2
+97140,Tesla,Model 3,92
+97140,Kia,EV6,1
+97140,Polestar,2,2
+97140,Audi,e-tron Sportback,2
+97140,BMW,5 Series,1
+97140,Porsche,Cayenne,1
+97140,BMW,X3,4
+97140,Honda,Clarity Plug-In Hybrid,5
+97140,Ford,C-MAX Energi,5
+97141,Tesla,Model X,1
+97141,Chevrolet,Volt,2
+97141,Tesla,Model Y,5
+97141,Volkswagen,ID.4,1
+97141,Tesla,Model 3,17
+97141,Mitsubishi,i-MiEV,1
+97141,Kia,Niro Plug-In Hybrid,2
+97141,Toyota,RAV4 Prime,3
+97141,Chevrolet,Spark EV,1
+97141,Kia,EV6,1
+97141,Honda,Clarity Plug-In Hybrid,1
+97141,Tesla,Model S,8
+97141,Chevrolet,Bolt EV,4
+97141,Jeep,Wrangler Unlimited,1
+97141,Audi,e-tron,1
+97141,BMW,i3,2
+97141,Toyota,Prius Prime,5
+97141,Nissan,LEAF,2
+97141,Mitsubishi,Outlander PHEV,1
+97141,BMW,X5,1
+97141,Ford,Mustang Mach-E,1
+97141,Subaru,Crosstrek,3
+97141,Audi,A3 Sportback e-tron,1
+97141,Kia,Niro EV,1
+97141,Hyundai,IONIQ Plug-in Hybrid,1
+97141,Ford,Escape Plug-In Hybrid,2
+97143,Audi,e-tron,1
+97143,Volkswagen,e-Golf,1
+97144,Honda,Clarity Plug-In Hybrid,1
+97146,Kia,EV6,1
+97146,Subaru,Crosstrek,1
+97146,Nissan,LEAF,3
+97146,Porsche,Cayenne,1
+97146,Kia,Sorento Plug-In Hybrid,1
+97146,Tesla,Model X,1
+97146,Chrysler,Pacifica Hybrid,1
+97146,Chevrolet,Volt,3
+97146,Ford,Fusion Energi,1
+97146,Ford,Mustang Mach-E,1
+97146,Kia,Niro EV,1
+97146,AMIC,UNKNOWN,1
+97146,Tesla,Model Y,5
+97146,Tesla,Model 3,3
+97146,Chevrolet,Bolt EV,1
+97146,Hyundai,IONIQ Plug-in Hybrid,1
+97146,Jeep,Wrangler Unlimited,1
+97146,Ford,C-MAX Energi,1
+97146,Toyota,Prius Prime,6
+97146,Toyota,RAV4 Prime,1
+97147,Nissan,LEAF,2
+97147,Kia,Niro EV,1
+97147,Chrysler,Pacifica Hybrid,1
+97147,Chevrolet,Volt,2
+97147,Toyota,RAV4 Prime,1
+97147,Jeep,Wrangler Unlimited,1
+97148,Tesla,Model Y,3
+97148,Ford,Fusion Energi,1
+97148,Tesla,Model X,1
+97148,Hyundai,KONA Electric,2
+97148,BMW,X5,1
+97148,BMW,5 Series,1
+97148,Tesla,Model 3,5
+97148,Toyota,Prius Prime,3
+97148,Nissan,LEAF,2
+97148,Tesla,Model S,1
+97148,Chevrolet,Spark EV,1
+97148,Jeep,Wrangler Unlimited,2
+97148,Kia,EV6,1
+97148,Chevrolet,Bolt EV,2
+97148,Toyota,RAV4 Prime,3
+97148,Ford,Escape Plug-In Hybrid,2
+97149,Tesla,Model Y,2
+97149,Tesla,Model 3,7
+97149,Mercedes-Benz,B-Class,1
+97149,Volkswagen,ID.4,1
+97149,Jaguar,I-PACE,2
+97149,Nissan,LEAF,1
+97149,Tesla,Model X,1
+97201,Chevrolet,Volt,6
+97201,Nissan,LEAF,15
+97201,MINI,Hardtop 2 Door,4
+97201,Audi,Q5,6
+97201,BMW,5 Series,1
+97201,Audi,e-tron Sportback,1
+97201,Audi,A3 Sportback e-tron,3
+97201,ZERO,SR,1
+97201,Subaru,Crosstrek,1
+97201,Lincoln,Aviator,1
+97201,Tesla,Model 3,61
+97201,BMW,i3,8
+97201,Hyundai,KONA Electric,5
+97201,GENU,UNKNOWN,1
+97201,BMW,i4,1
+97201,Tesla,Model X,19
+97201,Hyundai,SANTA FE Plug-In Hybrid,1
+97201,Volvo,XC90,5
+97201,Honda,Clarity Plug-In Hybrid,3
+97201,Volvo,XC60,2
+97201,Chevrolet,Spark EV,2
+97201,Hyundai,IONIQ Plug-in Hybrid,3
+97201,Ford,Escape Plug-In Hybrid,1
+97201,Kia,Niro EV,8
+97201,Chrysler,Pacifica Hybrid,3
+97201,Tesla,Model S,23
+97201,Toyota,Prius Prime,13
+97201,Porsche,Panamera,1
+97201,Chevrolet,Bolt EV,10
+97201,Jeep,Wrangler Unlimited,3
+97201,BMW,iX,1
+97201,BMW,X5,6
+97201,Tesla,Roadster,1
+97201,Tesla,Model Y,45
+97201,BMW,X3,6
+97201,Honda,Clarity Electric,1
+97201,Ford,Mustang Mach-E,9
+97201,Porsche,Cayenne,2
+97201,Mercedes-Benz,GLC,1
+97201,Audi,e-tron,9
+97201,Polestar,2,6
+97201,Hyundai,IONIQ Electric,1
+97201,Kia,EV6,2
+97201,Toyota,Prius Plug-in Hybrid,4
+97201,Volkswagen,ID.4,7
+97201,Toyota,RAV4 Prime,10
+97201,Ford,C-MAX Energi,4
+97201,Smart,fortwo electric drive,3
+97201,BMW,3 Series,3
+97201,Porsche,Taycan,4
+97201,Mitsubishi,Outlander PHEV,1
+97201,FIAT,500e,3
+97201,Volkswagen,e-Golf,2
+97201,MINI,Countryman Plug-in Hybrid,1
+97201,Audi,e-tron GT,1
+97202,Chevrolet,Bolt EUV,1
+97202,VESP,UNKNOWN,1
+97202,Kia,Niro Plug-In Hybrid,18
+97202,Audi,A3 Sportback e-tron,13
+97202,Toyota,bZ4X,1
+97202,Mitsubishi,Outlander PHEV,3
+97202,Hyundai,TUCSON Plug-in Hybrid,1
+97202,Toyota,RAV4 Prime,47
+97202,GENU,UNKNOWN,1
+97202,ZAPP,UNKNOWN,1
+97202,BMW,3 Series,3
+97202,AMIC,UNKNOWN,1
+97202,Ford,Escape Plug-In Hybrid,4
+97202,CYCL,UNKNOWN,1
+97202,Audi,Q5,10
+97202,Audi,e-tron,4
+97202,Toyota,Prius Prime,35
+97202,Ford,Mustang Mach-E,16
+97202,BMW,X5,11
+97202,Hyundai,IONIQ 5,4
+97202,Tesla,Model Y,83
+97202,BMW,7 Series,1
+97202,Chevrolet,Bolt EV,62
+97202,CLUB,CA7,1
+97202,Smart,fortwo electric drive,3
+97202,Ford,Fusion Energi,10
+97202,Kia,EV6,4
+97202,Chrysler,Pacifica Hybrid,12
+97202,MINI,Hardtop 2 Door,4
+97202,Kia,Sorento Plug-In Hybrid,1
+97202,Tesla,Model 3,144
+97202,FIAT,500e,9
+97202,ZERO,DSR,1
+97202,Hyundai,IONIQ Plug-in Hybrid,5
+97202,Tesla,Model X,30
+97202,Ford,Focus,1
+97202,Jaguar,I-PACE,1
+97202,TOMB,UNKNOWN,1
+97202,Subaru,Crosstrek,23
+97202,Volkswagen,ID.4,8
+97202,JHGS,UNKNOWN,1
+97202,Polestar,2,5
+97202,Nissan,LEAF,111
+97202,Chevrolet,Spark EV,6
+97202,Volkswagen,e-Golf,28
+97202,Hyundai,SANTA FE Plug-In Hybrid,2
+97202,Toyota,Prius Plug-in Hybrid,10
+97202,Hyundai,SONATA Plug-in Hybrid,1
+97202,Ford,C-MAX Energi,13
+97202,Volvo,XC60,10
+97202,Audi,RS e-tron GT,1
+97202,BMW,5 Series,3
+97202,Chevrolet,Volt,22
+97202,ALTM,UNKNOWN,1
+97202,Jeep,Wrangler Unlimited,8
+97202,Ford,TH!NK,1
+97202,Hyundai,KONA Electric,16
+97202,BMW,i3,18
+97202,ZERO,UNKNOWN,1
+97202,Tesla,Model S,22
+97202,MINI,Countryman Plug-in Hybrid,1
+97202,Honda,Clarity Plug-In Hybrid,10
+97202,Land Rover,Range Rover Sport,1
+97202,Mercedes-Benz,GLC,4
+97202,Volvo,XC90,7
+97202,YMSK,UNKNOWN,1
+97202,Volvo,XC40,5
+97202,BMW,X3,5
+97202,Kia,Niro EV,25
+97202,Kia,Soul EV,2
+97202,Hyundai,IONIQ Electric,2
+97202,Honda,Clarity Electric,1
+97202,MAHI,UNKNOWN,1
+97203,Toyota,Prius Prime,14
+97203,SHGY,UNKNOWN,1
+97203,SYMG,UNKNOWN,1
+97203,Tesla,Model S,3
+97203,BMW,X5,1
+97203,Chrysler,Pacifica Hybrid,4
+97203,Hyundai,IONIQ Plug-in Hybrid,2
+97203,Tesla,Model 3,56
+97203,Volvo,S60,1
+97203,Chevrolet,Volt,7
+97203,Kia,Niro EV,12
+97203,Volvo,XC60,3
+97203,Audi,Q5,1
+97203,Smart,fortwo electric drive,1
+97203,Ford,Mustang Mach-E,3
+97203,Ford,Fusion Energi,3
+97203,Kia,Niro Plug-In Hybrid,9
+97203,Polestar,2,1
+97203,FIAT,500e,4
+97203,Toyota,RAV4 Prime,20
+97203,Hyundai,KONA Electric,8
+97203,ZERO,DS,2
+97203,Jeep,Wrangler Unlimited,2
+97203,Volkswagen,ID.4,4
+97203,Chevrolet,Spark EV,4
+97203,Tesla,Model X,7
+97203,Kia,Soul EV,2
+97203,Ford,C-MAX Energi,3
+97203,Nissan,LEAF,33
+97203,Chevrolet,Bolt EV,18
+97203,Mitsubishi,Outlander PHEV,3
+97203,Ford,E-Transit Cargo,1
+97203,Ford,Escape Plug-In Hybrid,1
+97203,BMW,5 Series,1
+97203,Hyundai,SANTA FE Plug-In Hybrid,1
+97203,Volkswagen,e-Golf,6
+97203,Hyundai,TUCSON Plug-in Hybrid,1
+97203,Hyundai,IONIQ Electric,1
+97203,Kia,EV6,1
+97203,Porsche,Taycan,1
+97203,Tesla,Model Y,21
+97203,Honda,Clarity Plug-In Hybrid,8
+97203,Chevrolet,Bolt EUV,1
+97203,Mercedes-Benz,GLC,1
+97203,BMW,i3,8
+97203,Subaru,Crosstrek,5
+97203,Hyundai,IONIQ 5,2
+97203,ZERO,UNKNOWN,1
+97203,Audi,e-tron,2
+97204,Volvo,XC90,1
+97204,Mitsubishi,Outlander PHEV,2
+97204,Tesla,Model S,2
+97204,Volvo,XC40,1
+97204,Ford,Fusion Energi,1
+97204,Tesla,Model 3,9
+97204,MINI,Hardtop 2 Door,1
+97204,Toyota,RAV4 Prime,1
+97204,Volvo,XC60,2
+97204,Tesla,Model X,2
+97204,Hyundai,IONIQ Electric,1
+97204,Rivian,R1T,1
+97204,Smart,fortwo electric drive,10
+97204,Hyundai,IONIQ 5,1
+97204,Chevrolet,Bolt EV,9
+97204,Tesla,Model Y,7
+97204,Toyota,Prius Prime,1
+97204,BMW,X5,2
+97204,Chevrolet,Volt,2
+97204,Chrysler,Pacifica Hybrid,2
+97204,Nissan,LEAF,1
+97204,Audi,e-tron Sportback,1
+97204,Jeep,Wrangler Unlimited,1
+97205,Chrysler,Pacifica Hybrid,4
+97205,Volkswagen,e-Golf,3
+97205,Chevrolet,Volt,3
+97205,Toyota,Prius Prime,6
+97205,Nissan,LEAF,9
+97205,Chevrolet,Bolt EV,6
+97205,Audi,e-tron,6
+97205,BMW,X5,1
+97205,Ford,C-MAX Energi,1
+97205,Kia,Niro EV,3
+97205,Jeep,Wrangler Unlimited,1
+97205,Porsche,Cayenne,1
+97205,BMW,5 Series,1
+97205,MINI,Countryman Plug-in Hybrid,1
+97205,GENU,UNKNOWN,1
+97205,Toyota,RAV4 Prime,4
+97205,Tesla,Model X,5
+97205,Volvo,XC60,5
+97205,Ford,Mustang Mach-E,4
+97205,BMW,i3,5
+97205,Mercedes-Benz,EQS,1
+97205,Mercedes-Benz,B-Class,1
+97205,Smart,fortwo electric drive,1
+97205,Volvo,XC90,1
+97205,Hyundai,IONIQ Plug-in Hybrid,3
+97205,Volkswagen,ID.4,2
+97205,Hyundai,IONIQ 5,1
+97205,MINI,Hardtop 2 Door,3
+97205,Ford,F-150 Lightning,1
+97205,Volvo,S60,1
+97205,Tesla,Model S,10
+97205,Tesla,Model 3,30
+97205,Honda,Clarity Plug-In Hybrid,1
+97205,Volvo,XC40,1
+97205,Tesla,Model Y,22
+97205,Subaru,Crosstrek,2
+97205,Ford,Fusion Energi,1
+97205,BMW,3 Series,2
+97205,Audi,Q5,3
+97205,Chevrolet,Bolt EUV,3
+97205,Volvo,C40,1
+97206,Audi,A3 Sportback e-tron,2
+97206,Ford,Fusion Energi,3
+97206,Audi,e-tron,3
+97206,Porsche,Taycan,1
+97206,Hyundai,IONIQ Plug-in Hybrid,9
+97206,Polestar,2,5
+97206,Tesla,Model S,6
+97206,Ford,TH!NK,2
+97206,Kia,EV6,4
+97206,Hyundai,IONIQ Electric,5
+97206,BMW,X5,3
+97206,Honda,Clarity Plug-In Hybrid,4
+97206,Ford,Mustang Mach-E,10
+97206,Chevrolet,Bolt EUV,1
+97206,Lincoln,Aviator,1
+97206,Chevrolet,Spark EV,9
+97206,Ford,Escape Plug-In Hybrid,5
+97206,ZONG,UNKNOWN,1
+97206,Rivian,R1T,1
+97206,Toyota,Prius Prime,20
+97206,BMW,X3,1
+97206,Smart,fortwo electric drive,2
+97206,Audi,Q5,4
+97206,GENU,UNKNOWN,1
+97206,Tesla,Model Y,61
+97206,Jaguar,I-PACE,1
+97206,Kia,Niro EV,17
+97206,Volvo,XC90,2
+97206,FIAT,500e,3
+97206,Hyundai,IONIQ 5,2
+97206,Hyundai,SANTA FE Plug-In Hybrid,2
+97206,Kia,Soul EV,4
+97206,MOTV,UNKNOWN,1
+97206,Mitsubishi,Outlander PHEV,3
+97206,BMW,3 Series,2
+97206,Volkswagen,e-Golf,13
+97206,Hyundai,SONATA Plug-in Hybrid,1
+97206,Toyota,RAV4 Prime,39
+97206,BMW,i3,7
+97206,Volvo,XC40,2
+97206,MINI,Hardtop 2 Door,5
+97206,Chrysler,Pacifica Hybrid,16
+97206,Chevrolet,Volt,16
+97206,YMSK,UNKNOWN,2
+97206,Volkswagen,ID.4,14
+97206,Jeep,Wrangler Unlimited,3
+97206,Ford,E-Transit Cargo,4
+97206,Nissan,LEAF,110
+97206,Toyota,Prius Plug-in Hybrid,12
+97206,Tesla,Model 3,97
+97206,Kia,Sorento Plug-In Hybrid,3
+97206,Kia,Niro Plug-In Hybrid,16
+97206,Tesla,Model X,8
+97206,Ford,C-MAX Energi,7
+97206,Chevrolet,Bolt EV,39
+97206,Subaru,Crosstrek,11
+97206,Hyundai,KONA Electric,16
+97206,Honda,Clarity Electric,4
+97209,Jeep,Wrangler Unlimited,7
+97209,Audi,RS e-tron GT,2
+97209,Audi,e-tron,5
+97209,Volvo,C40,1
+97209,Nissan,LEAF,17
+97209,Tesla,Model X,18
+97209,BMW,5 Series,3
+97209,Chevrolet,Bolt EUV,1
+97209,Chevrolet,Bolt EV,5
+97209,Audi,Q5,8
+97209,Polestar,2,2
+97209,BMW,3 Series,1
+97209,BMW,i8,1
+97209,Subaru,Crosstrek,2
+97209,Volvo,XC90,2
+97209,Audi,A3 Sportback e-tron,8
+97209,Ford,Mustang Mach-E,5
+97209,Toyota,Prius Plug-in Hybrid,4
+97209,Hyundai,IONIQ Electric,3
+97209,Hyundai,IONIQ 5,1
+97209,Toyota,Prius Prime,10
+97209,Toyota,RAV4 Prime,11
+97209,Tesla,Model S,32
+97209,Kia,EV6,2
+97209,Audi,A7,1
+97209,Hyundai,KONA Electric,8
+97209,BMW,X3,3
+97209,YMSK,UNKNOWN,1
+97209,Ford,Escape Plug-In Hybrid,1
+97209,Karma,GS-6,1
+97209,Ford,Focus,1
+97209,Mercedes-Benz,GLC,6
+97209,Volkswagen,e-Golf,4
+97209,BMW,i3,2
+97209,Chevrolet,Volt,10
+97209,Tesla,Model Y,87
+97209,BMW,X5,3
+97209,Hyundai,IONIQ Plug-in Hybrid,4
+97209,Jaguar,I-PACE,2
+97209,Tesla,Model 3,118
+97209,Ford,Fusion Energi,2
+97209,Porsche,Taycan,4
+97209,Lincoln,Aviator,1
+97209,Audi,e-tron Sportback,2
+97209,Cadillac,CT6 PLUG-IN Hybrid,1
+97209,Kia,Niro EV,8
+97209,Mercedes-Benz,B-Class,1
+97209,Volkswagen,ID.4,5
+97209,Mitsubishi,Outlander PHEV,1
+97209,FIAT,500e,2
+97209,Volvo,XC40,1
+97209,Volvo,XC60,3
+97209,Kia,Niro Plug-In Hybrid,3
+97209,Chevrolet,Spark EV,3
+97209,Lexus,NX 450h+,2
+97210,Ford,Mustang Mach-E,4
+97210,FIAT,500e,5
+97210,Smart,fortwo electric drive,2
+97210,BMW,i3,19
+97210,Polestar,2,2
+97210,Tesla,Model S,23
+97210,Hyundai,SONATA Plug-in Hybrid,1
+97210,Jeep,Wrangler Unlimited,3
+97210,Toyota,Prius Prime,13
+97210,Ford,C-MAX Energi,1
+97210,BMW,X3,2
+97210,Volvo,XC60,14
+97210,Mitsubishi,Outlander PHEV,1
+97210,Chrysler,Pacifica Hybrid,4
+97210,BMW,5 Series,1
+97210,Ford,TH!NK,1
+97210,Kia,Niro Plug-In Hybrid,3
+97210,Tesla,Model X,18
+97210,Audi,A3 Sportback e-tron,3
+97210,Volvo,C40,1
+97210,Chevrolet,Volt,5
+97210,BMW,7 Series,1
+97210,Subaru,Crosstrek,3
+97210,Tesla,Model 3,85
+97210,MINI,Countryman Plug-in Hybrid,1
+97210,GENU,UNKNOWN,2
+97210,Rivian,R1T,1
+97210,Tesla,Model Y,63
+97210,Jaguar,I-PACE,1
+97210,BMW,i8,1
+97210,Volvo,XC90,10
+97210,Chevrolet,Spark EV,2
+97210,Toyota,Prius Plug-in Hybrid,2
+97210,Audi,e-tron,5
+97210,Hyundai,TUCSON Plug-in Hybrid,1
+97210,Hyundai,KONA Electric,5
+97210,Ford,Focus,1
+97210,Volvo,XC40,4
+97210,Mercedes-Benz,GLC,1
+97210,Honda,Clarity Plug-In Hybrid,1
+97210,MINI,Hardtop 2 Door,2
+97210,Porsche,Taycan,2
+97210,Nissan,LEAF,23
+97210,Volkswagen,ID.4,2
+97210,Kia,EV6,2
+97210,Porsche,Cayenne,1
+97210,Honda,Clarity Electric,1
+97210,Volkswagen,e-Golf,8
+97210,BMW,3 Series,5
+97210,Toyota,RAV4 Prime,21
+97210,Audi,Q5,6
+97210,Ford,E-Transit Cargo,1
+97210,Hyundai,IONIQ 5,1
+97210,Kia,Niro EV,6
+97210,Chevrolet,Bolt EV,11
+97210,BMW,X5,12
+97210,Hyundai,IONIQ Plug-in Hybrid,4
+97211,Chevrolet,Spark EV,10
+97211,Volkswagen,ID.4,8
+97211,MINI,Hardtop 2 Door,2
+97211,ZERO,FX,1
+97211,Hyundai,IONIQ Plug-in Hybrid,4
+97211,Subaru,Crosstrek,18
+97211,Audi,e-tron Sportback,1
+97211,Rivian,R1T,1
+97211,Mitsubishi,Outlander PHEV,2
+97211,BMW,X3,5
+97211,Hyundai,IONIQ 5,7
+97211,Audi,A3 Sportback e-tron,6
+97211,AECI,UNKNOWN,1
+97211,Porsche,Cayenne,1
+97211,FIAT,500e,3
+97211,Tesla,Model X,3
+97211,Hyundai,SANTA FE Plug-In Hybrid,5
+97211,Toyota,RAV4 Prime,35
+97211,Chrysler,Pacifica Hybrid,14
+97211,Hyundai,KONA Electric,19
+97211,BMW,5 Series,2
+97211,Kia,Niro EV,24
+97211,YMSK,UNKNOWN,1
+97211,Tesla,Model Y,49
+97211,Jaguar,I-PACE,1
+97211,Volvo,XC40,8
+97211,Ford,Fusion Energi,7
+97211,Volvo,XC60,4
+97211,Nissan,LEAF,71
+97211,Ford,Mustang Mach-E,6
+97211,BMW,i3,18
+97211,ZERO,UNKNOWN,2
+97211,Toyota,Prius Plug-in Hybrid,8
+97211,Toyota,Prius Prime,21
+97211,Jeep,Wrangler Unlimited,2
+97211,BMW,X5,4
+97211,Tesla,Model S,6
+97211,Ford,Escape Plug-In Hybrid,1
+97211,ZLSV,UNKNOWN,1
+97211,Hyundai,IONIQ Electric,6
+97211,Ford,TH!NK,1
+97211,Hyundai,TUCSON Plug-in Hybrid,1
+97211,Audi,e-tron,1
+97211,Ford,Focus,1
+97211,Kia,Niro Plug-In Hybrid,12
+97211,Chevrolet,Bolt EV,42
+97211,Kia,Soul EV,4
+97211,Polestar,2,5
+97211,Chevrolet,Volt,16
+97211,Honda,Clarity Plug-In Hybrid,3
+97211,BMW,3 Series,1
+97211,Ford,C-MAX Energi,3
+97211,MAHI,UNKNOWN,1
+97211,JIJM,UNKNOWN,1
+97211,Volkswagen,e-Golf,21
+97211,Volvo,XC90,5
+97211,Kia,EV6,7
+97211,Tesla,Model 3,82
+97211,Audi,Q5,8
+97211,GENU,UNKNOWN,2
+97212,BMW,i4,1
+97212,BMW,X5,4
+97212,Rivian,R1T,1
+97212,MINI,Countryman Plug-in Hybrid,3
+97212,Volvo,XC60,13
+97212,Honda,Clarity Electric,1
+97212,BMW,5 Series,1
+97212,Jeep,Wrangler Unlimited,6
+97212,Chevrolet,Bolt EUV,1
+97212,Polestar,2,4
+97212,Kia,Niro Plug-In Hybrid,6
+97212,CYCL,UNKNOWN,1
+97212,Volvo,S60,3
+97212,Volvo,XC90,12
+97212,Hyundai,IONIQ Electric,4
+97212,BMW,i3,15
+97212,Ford,Escape Plug-In Hybrid,5
+97212,Ford,E-Transit Cargo,2
+97212,MINI,Hardtop 2 Door,2
+97212,Hyundai,SANTA FE Plug-In Hybrid,2
+97212,Ford,Mustang Mach-E,5
+97212,JIJM,UNKNOWN,1
+97212,Cadillac,CT6 PLUG-IN Hybrid,1
+97212,Ford,Focus,1
+97212,Kia,EV6,2
+97212,Toyota,RAV4 Prime,42
+97212,Tesla,Model Y,86
+97212,Lexus,NX 450h+,1
+97212,Kia,Niro EV,13
+97212,Chrysler,Pacifica Hybrid,23
+97212,Mitsubishi,Outlander PHEV,5
+97212,Audi,Q5,8
+97212,Chevrolet,Spark EV,4
+97212,GENU,UNKNOWN,1
+97212,Porsche,Cayenne,2
+97212,BMW,X3,4
+97212,Tesla,Model S,19
+97212,Audi,e-tron GT,2
+97212,Tesla,Model 3,131
+97212,BMW,3 Series,1
+97212,Honda,Clarity Plug-In Hybrid,3
+97212,Hyundai,IONIQ Plug-in Hybrid,6
+97212,Kia,Soul EV,4
+97212,Ford,TH!NK,2
+97212,Toyota,Prius Prime,22
+97212,Ford,Fusion Energi,2
+97212,Hyundai,KONA Electric,16
+97212,Audi,e-tron,5
+97212,Chevrolet,Volt,12
+97212,Volkswagen,e-Golf,21
+97212,Ford,C-MAX Energi,8
+97212,Nissan,LEAF,74
+97212,Volvo,C40,2
+97212,Mercedes-Benz,GLC,1
+97212,Volvo,XC40,9
+97212,Volkswagen,ID.4,12
+97212,Hyundai,IONIQ 5,4
+97212,Audi,e-tron Sportback,1
+97212,FIAT,500e,4
+97212,Tesla,Model X,19
+97212,Subaru,Crosstrek,16
+97212,Toyota,Prius Plug-in Hybrid,13
+97212,Chevrolet,Bolt EV,66
+97212,Audi,A3 Sportback e-tron,5
+97213,Chevrolet,Bolt EUV,1
+97213,AECI,UNKNOWN,1
+97213,Audi,A3 Sportback e-tron,3
+97213,Kia,EV6,2
+97213,Hyundai,IONIQ Electric,1
+97213,Kia,Optima Plug-In Hybrid,1
+97213,Audi,e-tron,1
+97213,Lexus,NX 450h+,1
+97213,MINI,Hardtop 2 Door,3
+97213,Kia,Niro EV,11
+97213,Kia,Soul EV,3
+97213,ZERO,FX,1
+97213,Subaru,Crosstrek,12
+97213,CYCL,OSA,1
+97213,Ford,TH!NK,2
+97213,Chevrolet,Volt,20
+97213,Audi,Q5,3
+97213,Tesla,Model Y,54
+97213,Hyundai,KONA Electric,11
+97213,Porsche,Taycan,1
+97213,Mitsubishi,i-MiEV,2
+97213,Toyota,Prius Plug-in Hybrid,8
+97213,Volvo,V60,1
+97213,Chevrolet,Spark EV,8
+97213,Tesla,Model S,10
+97213,Volkswagen,e-Golf,13
+97213,Volvo,XC40,1
+97213,Volvo,XC60,3
+97213,Hyundai,SONATA Plug-in Hybrid,1
+97213,Kia,Sorento Plug-In Hybrid,3
+97213,Ford,E-Transit Cargo,1
+97213,Kia,Niro Plug-In Hybrid,15
+97213,Volvo,XC90,6
+97213,Mercedes-Benz,C-Class,1
+97213,ZERO,UNKNOWN,2
+97213,Volvo,S60,1
+97213,BRAM,UNKNOWN,1
+97213,MAHI,UNKNOWN,1
+97213,Toyota,RAV4 Prime,25
+97213,Volkswagen,ID.4,8
+97213,Ford,Escape Plug-In Hybrid,3
+97213,Hyundai,TUCSON Plug-in Hybrid,1
+97213,Tesla,Model 3,54
+97213,Ford,Fusion Energi,3
+97213,Jeep,Wrangler Unlimited,3
+97213,BMW,X3,3
+97213,Hyundai,IONIQ 5,3
+97213,Mercedes-Benz,GLC,2
+97213,Ford,Focus,1
+97213,Honda,Clarity Electric,3
+97213,Chevrolet,Bolt EV,35
+97213,Honda,Clarity Plug-In Hybrid,5
+97213,Nissan,LEAF,88
+97213,Polestar,2,3
+97213,Chrysler,Pacifica Hybrid,13
+97213,Toyota,Prius Prime,33
+97213,MINI,Countryman Plug-in Hybrid,1
+97213,Audi,e-tron Sportback,1
+97213,FIAT,500e,8
+97213,Mitsubishi,Outlander PHEV,2
+97213,Tesla,Model X,4
+97213,ZERO,FXS,1
+97213,BMW,i3,15
+97213,Smart,fortwo electric drive,4
+97213,Hyundai,IONIQ Plug-in Hybrid,5
+97213,Mercedes-Benz,EQS,1
+97213,Ford,Mustang Mach-E,4
+97213,BMW,X5,1
+97213,Ford,C-MAX Energi,6
+97213,BMW,3 Series,3
+97214,Volvo,C40,1
+97214,Audi,e-tron,3
+97214,Chevrolet,Volt,9
+97214,BMW,i3,8
+97214,Volvo,XC40,1
+97214,MINI,Hardtop 2 Door,3
+97214,GENU,UNKNOWN,1
+97214,Chrysler,Pacifica Hybrid,12
+97214,Ford,Escape Plug-In Hybrid,3
+97214,Hyundai,IONIQ Electric,1
+97214,Honda,Clarity Plug-In Hybrid,3
+97214,Chevrolet,Spark EV,10
+97214,Toyota,Prius Prime,20
+97214,Porsche,Taycan,2
+97214,Hyundai,SONATA Plug-in Hybrid,1
+97214,ZERO,SR,1
+97214,Volkswagen,ID.4,8
+97214,Land Rover,Range Rover Sport,1
+97214,Nissan,LEAF,37
+97214,BMW,5 Series,2
+97214,Kia,Niro Plug-In Hybrid,5
+97214,Tesla,Model S,6
+97214,Mitsubishi,i-MiEV,1
+97214,Volvo,XC60,6
+97214,Hyundai,TUCSON Plug-in Hybrid,1
+97214,Audi,Q5,2
+97214,ZONG,UNKNOWN,1
+97214,Subaru,Crosstrek,15
+97214,Ford,C-MAX Energi,2
+97214,Kia,EV6,4
+97214,Ford,E-Transit Cargo,3
+97214,FIAT,500e,4
+97214,Honda,Clarity Electric,2
+97214,BMW,3 Series,1
+97214,Tesla,Model X,12
+97214,Volvo,XC90,5
+97214,Toyota,RAV4 Prime,30
+97214,Ford,Mustang Mach-E,4
+97214,Audi,A3 Sportback e-tron,5
+97214,Hyundai,IONIQ 5,6
+97214,Hyundai,KONA Electric,10
+97214,Chevrolet,Bolt EV,26
+97214,Hyundai,SANTA FE Plug-In Hybrid,3
+97214,Audi,e-tron Sportback,1
+97214,BMW,X3,3
+97214,Tesla,Model Y,49
+97214,Ford,Fusion Energi,1
+97214,Kia,Sorento Plug-In Hybrid,2
+97214,Ford,TH!NK,5
+97214,Tesla,Model 3,86
+97214,Kia,Niro EV,12
+97214,Mitsubishi,Outlander PHEV,5
+97214,Smart,fortwo electric drive,3
+97214,ZERO,SR/,1
+97214,Toyota,Prius Plug-in Hybrid,3
+97214,BMW,X5,3
+97214,Volkswagen,e-Golf,12
+97214,Hyundai,IONIQ Plug-in Hybrid,6
+97214,Polestar,2,4
+97215,Toyota,RAV4 Prime,20
+97215,Ford,C-MAX Energi,5
+97215,Volvo,XC40,3
+97215,Kia,EV6,2
+97215,Volvo,C40,1
+97215,Ford,Mustang Mach-E,8
+97215,Honda,Clarity Plug-In Hybrid,4
+97215,Honda,Clarity Electric,1
+97215,Volkswagen,ID.4,9
+97215,Volvo,XC90,5
+97215,Kia,Niro Plug-In Hybrid,6
+97215,GENU,UNKNOWN,3
+97215,Volkswagen,e-Golf,10
+97215,Mitsubishi,Outlander PHEV,3
+97215,Tesla,Model S,8
+97215,YMSK,UNKNOWN,2
+97215,Jeep,Wrangler Unlimited,2
+97215,Ford,TH!NK,2
+97215,Toyota,Prius Plug-in Hybrid,5
+97215,Hyundai,KONA Electric,9
+97215,MINI,Hardtop 2 Door,4
+97215,Tesla,Model X,8
+97215,Ford,Fusion Energi,4
+97215,BMW,X5,2
+97215,Hyundai,IONIQ Electric,1
+97215,Kia,Niro EV,8
+97215,Tesla,Model Y,47
+97215,BMW,5 Series,2
+97215,Audi,e-tron GT,1
+97215,Porsche,Cayenne,1
+97215,Nissan,LEAF,61
+97215,Hyundai,IONIQ 5,8
+97215,Audi,Q5,4
+97215,BMW,i3,12
+97215,Subaru,Crosstrek,7
+97215,Chevrolet,Volt,13
+97215,Audi,A3 Sportback e-tron,5
+97215,Audi,e-tron Sportback,1
+97215,Chevrolet,Spark EV,4
+97215,Tesla,Model 3,42
+97215,Volvo,XC60,7
+97215,Hyundai,IONIQ Plug-in Hybrid,3
+97215,Polestar,2,3
+97215,Kia,Soul EV,2
+97215,Ford,Escape Plug-In Hybrid,2
+97215,Chevrolet,Bolt EUV,1
+97215,Chrysler,Pacifica Hybrid,9
+97215,Kia,Sorento Plug-In Hybrid,2
+97215,BMW,X3,1
+97215,Rivian,R1T,1
+97215,FIAT,500e,1
+97215,Audi,e-tron,1
+97215,Toyota,Prius Prime,22
+97215,Chevrolet,Bolt EV,28
+97216,Honda,Clarity Plug-In Hybrid,4
+97216,Kia,Niro EV,3
+97216,Tesla,Model Y,10
+97216,Smart,fortwo electric drive,1
+97216,Hyundai,KONA Electric,3
+97216,Kia,Niro Plug-In Hybrid,2
+97216,Subaru,Crosstrek,8
+97216,Ford,Mustang Mach-E,1
+97216,Chevrolet,Volt,1
+97216,Ford,C-MAX Energi,5
+97216,Toyota,Prius Prime,10
+97216,Audi,A3 Sportback e-tron,1
+97216,Chevrolet,Spark EV,1
+97216,Mitsubishi,Outlander PHEV,2
+97216,Jeep,Wrangler Unlimited,2
+97216,Volkswagen,e-Golf,4
+97216,Kia,EV6,1
+97216,Tesla,Model 3,15
+97216,Chrysler,Pacifica Hybrid,1
+97216,Toyota,RAV4 Prime,7
+97216,Volkswagen,ID.4,4
+97216,Ford,Focus,1
+97216,Toyota,Prius Plug-in Hybrid,2
+97216,Volvo,XC40,1
+97216,Hyundai,IONIQ Electric,1
+97216,ZERO,UNKNOWN,1
+97216,Mercedes-Benz,GLC,1
+97216,Porsche,Panamera,1
+97216,Chevrolet,Bolt EV,10
+97216,Hyundai,IONIQ 5,2
+97216,Ford,Fusion Energi,2
+97216,BMW,i3,2
+97216,MINI,Hardtop 2 Door,1
+97216,Nissan,LEAF,22
+97217,BMW,3 Series,1
+97217,Tesla,Model X,8
+97217,Tesla,Model S,6
+97217,Porsche,Taycan,2
+97217,Ford,TH!NK,1
+97217,Honda,Clarity Plug-In Hybrid,7
+97217,Volkswagen,e-Golf,19
+97217,Mercedes-Benz,GLC,1
+97217,BMW,i3,10
+97217,ZERO,UNKNOWN,2
+97217,Ford,Mustang Mach-E,9
+97217,Hyundai,SONATA Plug-in Hybrid,1
+97217,Ford,Fusion Energi,3
+97217,Toyota,Prius Plug-in Hybrid,6
+97217,Hyundai,IONIQ 5,7
+97217,Chevrolet,Bolt EV,29
+97217,Kia,Sorento Plug-In Hybrid,2
+97217,Nissan,LEAF,63
+97217,Mercedes-Benz,EQS,1
+97217,ZERO,S,1
+97217,Porsche,Panamera,1
+97217,Audi,A3 Sportback e-tron,5
+97217,Audi,Q5,4
+97217,Toyota,RAV4 Prime,35
+97217,Kia,Soul EV,4
+97217,HD,LIV,1
+97217,Ford,C-MAX Energi,5
+97217,Ford,Escape Plug-In Hybrid,3
+97217,Kia,Niro Plug-In Hybrid,9
+97217,Smart,EQ fortwo,5
+97217,Hyundai,KONA Electric,13
+97217,Audi,e-tron,2
+97217,Volvo,XC90,4
+97217,Toyota,Prius Prime,16
+97217,Tesla,Model 3,65
+97217,Jaguar,I-PACE,1
+97217,Volkswagen,ID.4,4
+97217,Volvo,XC60,6
+97217,Tesla,Model Y,49
+97217,Smart,fortwo electric drive,2
+97217,MINI,Hardtop 2 Door,2
+97217,Subaru,Crosstrek,27
+97217,Kia,Niro EV,11
+97217,Volvo,XC40,3
+97217,BMW,X5,1
+97217,Chevrolet,Volt,12
+97217,GENU,UNKNOWN,1
+97217,Chevrolet,Bolt EUV,4
+97217,Chevrolet,Spark EV,9
+97217,Hyundai,IONIQ Plug-in Hybrid,4
+97217,Kia,EV6,8
+97217,Audi,e-tron Sportback,2
+97217,Jeep,Wrangler Unlimited,4
+97217,Polestar,2,8
+97217,FIAT,500e,3
+97217,BMW,X3,1
+97217,Chrysler,Pacifica Hybrid,11
+97217,JIJM,UNKNOWN,1
+97217,Mitsubishi,Outlander PHEV,3
+97217,Hyundai,IONIQ Electric,2
+97218,Volvo,XC60,1
+97218,Hyundai,SANTA FE Plug-In Hybrid,1
+97218,Jeep,Wrangler Unlimited,1
+97218,Tesla,Model 3,26
+97218,Chevrolet,Bolt EV,22
+97218,Kia,Niro Plug-In Hybrid,3
+97218,Polestar,2,1
+97218,Toyota,Prius Plug-in Hybrid,3
+97218,Toyota,Prius Prime,8
+97218,Subaru,Crosstrek,4
+97218,Tesla,Model X,4
+97218,Chrysler,Pacifica Hybrid,5
+97218,Porsche,Panamera,2
+97218,Hyundai,IONIQ Electric,1
+97218,Kia,Niro EV,7
+97218,Volkswagen,e-Golf,6
+97218,Mitsubishi,Outlander PHEV,1
+97218,Chevrolet,Volt,5
+97218,Ford,Mustang Mach-E,1
+97218,Hyundai,IONIQ Plug-in Hybrid,1
+97218,Toyota,RAV4 Prime,7
+97218,BMW,i3,4
+97218,Hyundai,KONA Electric,4
+97218,Ford,C-MAX Energi,2
+97218,Honda,Clarity Plug-In Hybrid,2
+97218,Volvo,XC40,1
+97218,Nissan,LEAF,29
+97218,Volkswagen,ID.4,3
+97218,Chevrolet,Spark EV,2
+97218,Ford,Fusion Energi,2
+97218,Ford,Escape Plug-In Hybrid,4
+97218,Kia,EV6,2
+97218,Ford,Focus,1
+97218,Tesla,Model Y,14
+97219,Toyota,RAV4 Prime,51
+97219,Nissan,LEAF,127
+97219,Chevrolet,Spark EV,11
+97219,Audi,A3 Sportback e-tron,7
+97219,Volvo,V60,1
+97219,MINI,Countryman Plug-in Hybrid,3
+97219,Rivian,R1T,1
+97219,Hyundai,IONIQ Electric,6
+97219,BMW,5 Series,4
+97219,Kia,EV6,8
+97219,Mitsubishi,Outlander PHEV,6
+97219,Chevrolet,Bolt EUV,1
+97219,Cadillac,ELR,1
+97219,MINI,Hardtop 2 Door,4
+97219,Ford,Focus,4
+97219,Kia,Niro Plug-In Hybrid,11
+97219,Porsche,Panamera,1
+97219,Volkswagen,e-Golf,22
+97219,Chrysler,Pacifica Hybrid,19
+97219,Kia,Soul EV,2
+97219,Jaguar,I-PACE,4
+97219,Toyota,Prius Prime,48
+97219,Polestar,2,5
+97219,Hyundai,SANTA FE Plug-In Hybrid,1
+97219,Mitsubishi,i-MiEV,1
+97219,Audi,Q5,7
+97219,Volvo,C40,1
+97219,Chevrolet,Bolt EV,57
+97219,BMW,3 Series,4
+97219,Volkswagen,ID.4,15
+97219,Volvo,XC60,10
+97219,Honda,Clarity Electric,1
+97219,Volvo,XC90,12
+97219,Tesla,Model S,47
+97219,ZONG,CIT,1
+97219,Ford,E-Transit Cargo,2
+97219,BMW,i3,17
+97219,Lexus,NX 450h+,1
+97219,Kia,Sorento Plug-In Hybrid,4
+97219,Ford,TH!NK,5
+97219,Chevrolet,Volt,35
+97219,Ford,Mustang Mach-E,13
+97219,Porsche,Taycan,1
+97219,AMIC,UNKNOWN,3
+97219,Ford,C-MAX Energi,14
+97219,Kia,Niro EV,22
+97219,Tesla,Model 3,181
+97219,Subaru,Crosstrek,9
+97219,BMW,X5,12
+97219,JBLC,UNKNOWN,1
+97219,FIAT,500e,5
+97219,Toyota,Prius Plug-in Hybrid,10
+97219,Hyundai,IONIQ 5,4
+97219,Hyundai,KONA Electric,17
+97219,Audi,e-tron,8
+97219,Mercedes-Benz,GLC,7
+97219,Volvo,XC40,13
+97219,Tesla,Model Y,128
+97219,Hyundai,IONIQ Plug-in Hybrid,8
+97219,BMW,X3,3
+97219,Ford,Escape Plug-In Hybrid,4
+97219,Honda,Clarity Plug-In Hybrid,10
+97219,Tesla,Model X,29
+97219,Ford,Fusion Energi,11
+97219,ZERO,UNKNOWN,2
+97219,Smart,fortwo electric drive,5
+97219,Hyundai,TUCSON Plug-in Hybrid,2
+97219,Jeep,Wrangler Unlimited,9
+97219,BMW,i8,1
+97220,Volvo,XC90,1
+97220,ENRG,UNKNOWN,1
+97220,Volkswagen,ID.4,4
+97220,Tesla,Model X,8
+97220,Ford,TH!NK,2
+97220,Porsche,Panamera,1
+97220,Ford,E-Transit Cargo,3
+97220,Hyundai,IONIQ Plug-in Hybrid,4
+97220,MINI,Hardtop 2 Door,2
+97220,Kia,Niro EV,10
+97220,BAOD,UNKNOWN,1
+97220,Subaru,Crosstrek,3
+97220,Jaguar,I-PACE,1
+97220,Chevrolet,Volt,4
+97220,Chrysler,Pacifica Hybrid,8
+97220,Chevrolet,Bolt EV,19
+97220,Ford,Fusion Energi,3
+97220,Nissan,LEAF,31
+97220,Ford,C-MAX Energi,3
+97220,FIAT,500e,1
+97220,BMW,i3,7
+97220,Tesla,Model S,11
+97220,Kia,Optima Plug-In Hybrid,1
+97220,Polestar,2,1
+97220,Mitsubishi,Outlander PHEV,3
+97220,Audi,e-tron,1
+97220,Ford,Mustang Mach-E,2
+97220,Kia,Niro Plug-In Hybrid,2
+97220,Chevrolet,Spark EV,2
+97220,Hyundai,KONA Electric,3
+97220,Hyundai,IONIQ Electric,3
+97220,BMW,X5,3
+97220,Tesla,Model 3,152
+97220,Ford,Escape Plug-In Hybrid,1
+97220,Ford,Focus,1
+97220,ZERO,SR,1
+97220,Chevrolet,Bolt EUV,1
+97220,Toyota,Prius Plug-in Hybrid,1
+97220,MINI,Countryman Plug-in Hybrid,1
+97220,Toyota,Prius Prime,13
+97220,Toyota,RAV4 Prime,11
+97220,Tesla,Model Y,84
+97221,Hyundai,KONA Electric,10
+97221,Mercedes-Benz,GLE,1
+97221,MINI,Hardtop 2 Door,1
+97221,Volkswagen,e-Golf,23
+97221,Chevrolet,Spark EV,3
+97221,FIAT,500e,2
+97221,Kia,EV6,2
+97221,Volvo,C40,1
+97221,Polestar,2,7
+97221,Audi,Q5,7
+97221,Jeep,Wrangler Unlimited,5
+97221,Kia,Niro Plug-In Hybrid,1
+97221,Tesla,Model 3,95
+97221,Tesla,Model Y,69
+97221,Audi,e-tron Sportback,1
+97221,Volvo,XC60,11
+97221,Tesla,Model S,32
+97221,Smart,EQ fortwo,1
+97221,Mitsubishi,Outlander PHEV,2
+97221,Ford,Fusion Energi,4
+97221,Hyundai,IONIQ Plug-in Hybrid,1
+97221,Audi,e-tron,4
+97221,Volkswagen,ID.4,10
+97221,Lexus,NX 450h+,3
+97221,BMW,i3,12
+97221,Ford,Escape Plug-In Hybrid,2
+97221,Porsche,Cayenne,2
+97221,Subaru,Crosstrek,3
+97221,BMW,iX,2
+97221,Kia,Niro EV,5
+97221,Chrysler,Pacifica Hybrid,10
+97221,Mercedes-Benz,GLC,1
+97221,Toyota,Prius Prime,19
+97221,Audi,A7,1
+97221,Tesla,Model X,23
+97221,Audi,A3 Sportback e-tron,2
+97221,Toyota,RAV4 Prime,18
+97221,BMW,X5,9
+97221,Nissan,LEAF,42
+97221,Volvo,XC90,4
+97221,Hyundai,IONIQ 5,5
+97221,Hyundai,IONIQ Electric,2
+97221,Chevrolet,Volt,13
+97221,Ford,Mustang Mach-E,6
+97221,Volvo,S60,2
+97221,Chevrolet,Bolt EV,21
+97221,Hyundai,SANTA FE Plug-In Hybrid,2
+97221,GENZ,UNKNOWN,1
+97221,Porsche,Taycan,9
+97221,Toyota,Prius Plug-in Hybrid,4
+97221,Ford,C-MAX Energi,4
+97221,MINI,Countryman Plug-in Hybrid,1
+97221,SPCW,UNKNOWN,1
+97221,Volvo,XC40,7
+97221,Honda,Clarity Electric,1
+97221,BMW,5 Series,1
+97221,Honda,Clarity Plug-In Hybrid,2
+97222,Volkswagen,ID.4,6
+97222,Volkswagen,e-Golf,5
+97222,Tesla,Model X,6
+97222,Tesla,Model 3,55
+97222,Tesla,Model Y,20
+97222,BMW,X3,1
+97222,Polestar,2,3
+97222,Toyota,Prius Prime,23
+97222,ZERO,UNKNOWN,1
+97222,Volvo,XC90,3
+97222,Toyota,RAV4 Prime,13
+97222,Jeep,Wrangler Unlimited,7
+97222,BMW,i3,11
+97222,Kia,Soul EV,4
+97222,Nissan,LEAF,53
+97222,ZERO,DSR,1
+97222,Chevrolet,Volt,15
+97222,Kia,Niro Plug-In Hybrid,6
+97222,FIAT,500e,4
+97222,BMW,5 Series,2
+97222,BMW,X5,3
+97222,Kia,Niro EV,8
+97222,Audi,e-tron,1
+97222,Mitsubishi,Outlander PHEV,2
+97222,ZERO,FXS,1
+97222,Ford,C-MAX Energi,8
+97222,Chevrolet,Bolt EV,21
+97222,Chrysler,Pacifica Hybrid,6
+97222,Hyundai,SONATA Plug-in Hybrid,2
+97222,Ford,Mustang Mach-E,7
+97222,Subaru,Crosstrek,8
+97222,Kia,EV6,3
+97222,Hyundai,KONA Electric,8
+97222,Ford,E-Transit Cargo,1
+97222,Ford,Fusion Energi,6
+97222,Smart,fortwo electric drive,1
+97222,Hyundai,IONIQ Electric,4
+97222,Toyota,Prius Plug-in Hybrid,6
+97222,Tesla,Model S,8
+97222,Porsche,Panamera,1
+97222,Hyundai,IONIQ 5,3
+97222,Honda,Clarity Electric,1
+97222,Honda,Clarity Plug-In Hybrid,7
+97222,Hyundai,TUCSON Plug-in Hybrid,2
+97222,Chevrolet,Spark EV,4
+97222,Hyundai,SANTA FE Plug-In Hybrid,5
+97222,Volvo,XC60,2
+97222,Hyundai,IONIQ Plug-in Hybrid,4
+97223,Volkswagen,ID.4,11
+97223,Porsche,Panamera,1
+97223,Kia,Sorento Plug-In Hybrid,1
+97223,Honda,Clarity Electric,4
+97223,Chevrolet,Spark EV,9
+97223,Kia,EV6,6
+97223,Hyundai,IONIQ 5,5
+97223,Nissan,LEAF,68
+97223,Chevrolet,Volt,24
+97223,Volvo,XC40,1
+97223,Audi,Q5,10
+97223,ZERO,UNKNOWN,1
+97223,ENRG,UNKNOWN,1
+97223,Hyundai,IONIQ Plug-in Hybrid,5
+97223,Ford,Mustang Mach-E,19
+97223,Mitsubishi,Outlander PHEV,3
+97223,Ford,Escape Plug-In Hybrid,4
+97223,Chrysler,Pacifica Hybrid,13
+97223,Ford,TH!NK,4
+97223,Toyota,Prius Prime,27
+97223,Jaguar,I-PACE,5
+97223,Hyundai,KONA Electric,16
+97223,Chevrolet,Bolt EV,26
+97223,Kia,Soul EV,6
+97223,Tesla,Model Y,103
+97223,Kia,Niro Plug-In Hybrid,5
+97223,Audi,A3 Sportback e-tron,4
+97223,Porsche,Taycan,1
+97223,Volkswagen,e-Golf,9
+97223,Kia,Niro EV,17
+97223,Ford,Focus,3
+97223,BMW,X3,1
+97223,Ford,C-MAX Energi,16
+97223,BMW,3 Series,1
+97223,BMW,5 Series,3
+97223,Audi,e-tron,9
+97223,Jeep,Wrangler Unlimited,10
+97223,Volvo,XC90,5
+97223,Hyundai,IONIQ Electric,6
+97223,Hyundai,SANTA FE Plug-In Hybrid,1
+97223,FIAT,500e,3
+97223,Mercedes-Benz,GLC,1
+97223,Lincoln,Corsair,1
+97223,MINI,Hardtop 2 Door,3
+97223,Ferrari,SF90 Stradale,1
+97223,Tesla,Model 3,159
+97223,Rivian,R1T,1
+97223,BMW,i3,10
+97223,Honda,Clarity Plug-In Hybrid,5
+97223,Ford,F-150 Lightning,1
+97223,Volvo,XC60,2
+97223,BMW,X5,9
+97223,Polestar,2,1
+97223,Tesla,Model X,20
+97223,AMIC,UNKNOWN,1
+97223,Toyota,Prius Plug-in Hybrid,8
+97223,Subaru,Crosstrek,8
+97223,Kia,Optima Plug-In Hybrid,2
+97223,Smart,fortwo electric drive,1
+97223,Hyundai,SONATA Plug-in Hybrid,3
+97223,Ford,Fusion Energi,12
+97223,Toyota,RAV4 Prime,32
+97223,Tesla,Model S,24
+97224,BMW,5 Series,3
+97224,Kia,Niro Plug-In Hybrid,6
+97224,Volvo,C40,1
+97224,Kia,EV6,5
+97224,Volvo,XC60,7
+97224,BMW,X3,3
+97224,Mitsubishi,Outlander PHEV,3
+97224,Volkswagen,ID.4,8
+97224,Volvo,XC40,1
+97224,Tesla,Model X,19
+97224,Hyundai,SANTA FE Plug-In Hybrid,5
+97224,Audi,A3 Sportback e-tron,1
+97224,Honda,Clarity Electric,1
+97224,Kia,Niro EV,13
+97224,Ford,E-Transit Cargo,1
+97224,Tesla,Model Y,78
+97224,Mercedes-Benz,GLE,1
+97224,Toyota,Prius Prime,36
+97224,Mercedes-Benz,GLC,4
+97224,BMW,i3,10
+97224,Audi,e-tron,7
+97224,Jeep,Wrangler Unlimited,7
+97224,Kia,Soul EV,1
+97224,Audi,e-tron Sportback,1
+97224,Tesla,Model 3,125
+97224,BMW,3 Series,3
+97224,Chevrolet,Volt,14
+97224,Hyundai,IONIQ 5,5
+97224,Ford,C-MAX Energi,8
+97224,Lexus,NX 450h+,1
+97224,Toyota,RAV4 Prime,29
+97224,Hyundai,SONATA Plug-in Hybrid,3
+97224,Hyundai,KONA Electric,9
+97224,Polestar,2,2
+97224,Ford,Mustang Mach-E,14
+97224,Kia,Sorento Plug-In Hybrid,1
+97224,Chevrolet,Bolt EV,16
+97224,POLS,UNKNOWN,1
+97224,BMW,X5,11
+97224,Tesla,Model S,32
+97224,Nissan,LEAF,55
+97224,Chrysler,Pacifica Hybrid,17
+97224,Ford,Focus,3
+97224,Toyota,Prius Plug-in Hybrid,5
+97224,Mercedes-Benz,EQS,1
+97224,Subaru,Crosstrek,6
+97224,Ford,Fusion Energi,16
+97224,Ford,TH!NK,1
+97224,Porsche,Taycan,2
+97224,Volkswagen,e-Golf,4
+97224,Hyundai,IONIQ Electric,5
+97224,Ford,Escape Plug-In Hybrid,6
+97224,Jaguar,I-PACE,5
+97224,Hyundai,IONIQ Plug-in Hybrid,3
+97224,Chevrolet,Spark EV,2
+97224,MINI,Countryman Plug-in Hybrid,2
+97224,MINI,Hardtop 2 Door,1
+97224,Volvo,XC90,10
+97224,Honda,Clarity Plug-In Hybrid,11
+97224,Audi,Q5,5
+97224,Kia,Optima Plug-In Hybrid,3
+97225,BMW,5 Series,2
+97225,Volvo,V60,1
+97225,Lexus,NX 450h+,2
+97225,Hyundai,SANTA FE Plug-In Hybrid,5
+97225,Chrysler,Pacifica Hybrid,9
+97225,MINI,Hardtop 2 Door,3
+97225,Porsche,Cayenne,2
+97225,GENU,UNKNOWN,1
+97225,VESP,UNKNOWN,2
+97225,Kia,Niro Plug-In Hybrid,3
+97225,Hyundai,IONIQ Plug-in Hybrid,2
+97225,BMW,iX,1
+97225,Mitsubishi,Outlander PHEV,3
+97225,Ford,Mustang Mach-E,13
+97225,BMW,3 Series,1
+97225,Kia,EV6,4
+97225,Land Rover,Range Rover Sport,1
+97225,Volvo,XC90,13
+97225,Hyundai,TUCSON Plug-in Hybrid,1
+97225,Toyota,Prius Prime,34
+97225,Ford,Escape Plug-In Hybrid,1
+97225,Volkswagen,ID.4,12
+97225,ZERO,FXS,1
+97225,Ford,C-MAX Energi,9
+97225,Kia,Soul EV,3
+97225,AMIC,UNKNOWN,2
+97225,Polestar,2,6
+97225,Kia,Niro EV,14
+97225,Tesla,Model Y,99
+97225,Volvo,S60,1
+97225,Honda,Clarity Electric,5
+97225,Honda,Clarity Plug-In Hybrid,5
+97225,Audi,e-tron Sportback,2
+97225,Audi,A3 Sportback e-tron,7
+97225,Chevrolet,Spark EV,2
+97225,Chevrolet,Bolt EUV,1
+97225,Audi,RS e-tron GT,1
+97225,BMW,X5,12
+97225,MINI,Countryman Plug-in Hybrid,4
+97225,Hyundai,KONA Electric,9
+97225,Audi,A7,1
+97225,Toyota,Prius Plug-in Hybrid,4
+97225,Tesla,Model 3,144
+97225,Audi,Q5,10
+97225,Subaru,Crosstrek,12
+97225,Toyota,RAV4 Prime,30
+97225,Chevrolet,Volt,12
+97225,Nissan,LEAF,62
+97225,BMW,i3,18
+97225,Hyundai,SONATA Plug-in Hybrid,1
+97225,Chevrolet,Bolt EV,27
+97225,Lincoln,Corsair,1
+97225,YMSK,UNKNOWN,1
+97225,Volvo,C40,1
+97225,Porsche,Taycan,5
+97225,Hyundai,IONIQ 5,1
+97225,FIAT,500e,4
+97225,Hyundai,IONIQ Electric,3
+97225,Jeep,Wrangler Unlimited,4
+97225,BMW,X3,1
+97225,Tesla,Model X,30
+97225,Volvo,XC60,5
+97225,Mercedes-Benz,B-Class,1
+97225,Lucid,Air,3
+97225,KTM,UNKNOWN,1
+97225,Mercedes-Benz,GLC,1
+97225,Audi,e-tron,6
+97225,Volkswagen,e-Golf,11
+97225,Tesla,Model S,34
+97225,Ford,Fusion Energi,8
+97225,ZERO,UNKNOWN,1
+97225,Rivian,R1T,2
+97225,Volvo,XC40,7
+97227,Ford,TH!NK,1
+97227,Kia,Niro Plug-In Hybrid,1
+97227,Tesla,Model S,1
+97227,Smart,fortwo electric drive,2
+97227,Tesla,Model Y,11
+97227,BMW,X3,2
+97227,Volkswagen,e-Golf,2
+97227,Toyota,RAV4 Prime,1
+97227,Ford,Fusion Energi,1
+97227,Audi,e-tron,1
+97227,Audi,Q5,1
+97227,Tesla,Model 3,23
+97227,Ford,Escape Plug-In Hybrid,1
+97227,Kia,Niro EV,2
+97227,Ford,Focus,2
+97227,Volkswagen,ID.4,2
+97227,Toyota,Prius Prime,3
+97227,Subaru,Crosstrek,3
+97227,Kia,EV6,2
+97227,Hyundai,KONA Electric,2
+97227,Nissan,LEAF,4
+97227,Chrysler,Pacifica Hybrid,1
+97227,Chevrolet,Bolt EV,3
+97227,Porsche,Cayenne,1
+97227,Chevrolet,Spark EV,2
+97227,VESP,UNKNOWN,1
+97227,Mitsubishi,Outlander PHEV,1
+97227,Toyota,Prius Plug-in Hybrid,1
+97227,Tesla,Model X,2
+97227,Ford,Mustang Mach-E,2
+97227,Chevrolet,Volt,2
+97227,BMW,i3,2
+97229,MINI,Countryman Plug-in Hybrid,1
+97229,CYCL,UNKNOWN,1
+97229,Hyundai,SONATA Plug-in Hybrid,3
+97229,Tesla,Model X,93
+97229,ZERO,UNKNOWN,1
+97229,Porsche,Cayenne,6
+97229,Lexus,NX 450h+,5
+97229,BMW,i4,1
+97229,Chevrolet,Volt,60
+97229,Tesla,Model 3,610
+97229,Volvo,S90,1
+97229,Volvo,C40,2
+97229,Kia,EV6,12
+97229,Rivian,R1T,4
+97229,Volvo,V60,1
+97229,BMW,i8,1
+97229,Toyota,Prius Plug-in Hybrid,13
+97229,Hyundai,IONIQ Electric,9
+97229,Ford,C-MAX Energi,20
+97229,Mercedes-Benz,GLC,9
+97229,BMW,5 Series,8
+97229,Honda,Clarity Electric,11
+97229,Audi,Q5,32
+97229,Mitsubishi,i-MiEV,2
+97229,Chrysler,Pacifica Hybrid,47
+97229,Toyota,RAV4 Prime,101
+97229,Volkswagen,e-Golf,34
+97229,MAHI,UNKNOWN,1
+97229,BMW,7 Series,1
+97229,Audi,e-tron Sportback,6
+97229,Polestar,2,13
+97229,BMW,i3,39
+97229,Jaguar,I-PACE,6
+97229,BMW,X5,44
+97229,Kia,Niro Plug-In Hybrid,8
+97229,Hyundai,IONIQ 5,16
+97229,Jeep,Wrangler Unlimited,19
+97229,POLAR,UNKNOWN,1
+97229,Porsche,Taycan,12
+97229,Nissan,LEAF,218
+97229,Subaru,Crosstrek,18
+97229,Honda,Clarity Plug-In Hybrid,30
+97229,Audi,e-tron GT,2
+97229,Toyota,Prius Prime,67
+97229,Audi,e-tron,22
+97229,GENZE,UNKNOWN,1
+97229,ZERO,S,1
+97229,Ford,Mustang Mach-E,49
+97229,BMW,3 Series,5
+97229,Ford,TH!NK,3
+97229,Ford,Escape Plug-In Hybrid,6
+97229,Ford,Focus,2
+97229,Kia,Soul EV,1
+97229,Kia,Niro EV,37
+97229,ZERO,FXS,1
+97229,Hyundai,IONIQ Plug-in Hybrid,12
+97229,BMW,X3,11
+97229,Tesla,Model Y,464
+97229,Volkswagen,ID.4,23
+97229,Mercedes-Benz,B-Class,6
+97229,Kia,Sorento Plug-In Hybrid,5
+97229,Chevrolet,Bolt EV,68
+97229,MINI,Hardtop 2 Door,17
+97229,Chevrolet,Spark EV,13
+97229,Smart,fortwo electric drive,2
+97229,Porsche,Panamera,2
+97229,Audi,A3 Sportback e-tron,7
+97229,LIVW,ONE,1
+97229,Chevrolet,Bolt EUV,2
+97229,Ford,Fusion Energi,13
+97229,Mercedes-Benz,GLE,1
+97229,Volvo,XC60,24
+97229,Hyundai,SANTA FE Plug-In Hybrid,10
+97229,Tesla,Model S,135
+97229,Volvo,XC40,11
+97229,HD,ONE,1
+97229,Volvo,XC90,25
+97229,Mitsubishi,Outlander PHEV,2
+97229,FIAT,500e,9
+97229,BMW,iX,1
+97229,Hyundai,KONA Electric,24
+97230,Ford,E-Transit Cargo,1
+97230,BMW,X5,2
+97230,Kia,Niro EV,3
+97230,Kia,Niro Plug-In Hybrid,4
+97230,BMW,X3,1
+97230,Kia,Soul EV,1
+97230,Hyundai,KONA Electric,4
+97230,Tesla,Model S,3
+97230,Chevrolet,Bolt EV,10
+97230,Kia,EV6,2
+97230,Polestar,2,1
+97230,Mercedes-Benz,GLC,2
+97230,ALTM,UNKNOWN,1
+97230,Toyota,Prius Plug-in Hybrid,3
+97230,Honda,Clarity Plug-In Hybrid,2
+97230,Toyota,Prius Prime,18
+97230,Kia,Sorento Plug-In Hybrid,3
+97230,Chevrolet,Bolt EUV,1
+97230,Tesla,Model X,11
+97230,Nissan,LEAF,35
+97230,BMW,i3,3
+97230,Volvo,XC40,1
+97230,Volkswagen,e-Golf,4
+97230,Mitsubishi,Outlander PHEV,2
+97230,BMW,5 Series,1
+97230,Ford,Focus,1
+97230,Subaru,Crosstrek,6
+97230,Hyundai,IONIQ Plug-in Hybrid,3
+97230,Hyundai,TUCSON Plug-in Hybrid,1
+97230,Jeep,Wrangler Unlimited,3
+97230,Audi,e-tron,1
+97230,Tesla,Model 3,37
+97230,Ford,Mustang Mach-E,7
+97230,Toyota,RAV4 Prime,10
+97230,Audi,A3 Sportback e-tron,1
+97230,Chevrolet,Spark EV,1
+97230,Volkswagen,ID.4,3
+97230,Ford,Fusion Energi,9
+97230,Smart,fortwo electric drive,3
+97230,Lexus,NX 450h+,1
+97230,Tesla,Model Y,35
+97230,MINI,Countryman Plug-in Hybrid,2
+97230,Ford,Escape Plug-In Hybrid,3
+97230,Lucid,Air,1
+97230,Chevrolet,Volt,10
+97230,Hyundai,IONIQ Electric,2
+97230,Ford,C-MAX Energi,7
+97230,FIAT,500e,2
+97230,Volvo,XC90,1
+97230,Kia,Optima Plug-In Hybrid,1
+97230,Cadillac,ELR,1
+97230,ZERO,UNKNOWN,1
+97230,Hyundai,SANTA FE Plug-In Hybrid,2
+97231,Hyundai,IONIQ 5,3
+97231,Ford,Fusion Energi,2
+97231,Hyundai,SONATA Plug-in Hybrid,1
+97231,Kia,Optima Plug-In Hybrid,1
+97231,Volkswagen,ID.4,3
+97231,Volvo,XC40,3
+97231,Hyundai,IONIQ Electric,1
+97231,Chrysler,Pacifica Hybrid,3
+97231,Nissan,LEAF,13
+97231,Mitsubishi,Outlander PHEV,2
+97231,Audi,e-tron,1
+97231,Tesla,Model X,7
+97231,Audi,Q5,2
+97231,Kia,Niro Plug-In Hybrid,2
+97231,Volkswagen,e-Golf,4
+97231,AMIC,UNKNOWN,1
+97231,Tesla,Model S,15
+97231,Chevrolet,Volt,6
+97231,BMW,X5,5
+97231,Volvo,XC60,1
+97231,Ford,Mustang Mach-E,2
+97231,Hyundai,KONA Electric,2
+97231,Kia,Niro EV,2
+97231,Kia,Sorento Plug-In Hybrid,1
+97231,Mercedes-Benz,GLC,2
+97231,VESP,UNKNOWN,1
+97231,Chevrolet,Bolt EV,11
+97231,Polestar,2,2
+97231,Toyota,Prius Prime,7
+97231,Kia,Soul EV,1
+97231,Honda,Clarity Electric,1
+97231,MINI,Hardtop 2 Door,1
+97231,Tesla,Model 3,32
+97231,Tesla,Model Y,15
+97231,Smart,fortwo electric drive,1
+97231,Chevrolet,Spark EV,1
+97231,BMW,i3,4
+97231,Chevrolet,Bolt EUV,2
+97231,Porsche,Taycan,1
+97231,Honda,Clarity Plug-In Hybrid,1
+97231,Jeep,Wrangler Unlimited,4
+97231,Toyota,RAV4 Prime,7
+97232,Audi,Q5,3
+97232,Toyota,Prius Prime,10
+97232,BMW,i3,8
+97232,Toyota,RAV4 Prime,12
+97232,MINI,Hardtop 2 Door,3
+97232,Kia,Soul EV,1
+97232,Hyundai,SONATA Plug-in Hybrid,1
+97232,Hyundai,KONA Electric,7
+97232,Smart,fortwo electric drive,2
+97232,Volvo,XC90,2
+97232,Ford,Escape Plug-In Hybrid,1
+97232,Hyundai,SANTA FE Plug-In Hybrid,2
+97232,Chevrolet,Volt,3
+97232,MINI,Countryman Plug-in Hybrid,1
+97232,Hyundai,IONIQ 5,1
+97232,Kia,Niro Plug-In Hybrid,5
+97232,Nissan,LEAF,28
+97232,Volvo,XC60,5
+97232,Honda,Clarity Plug-In Hybrid,2
+97232,Chevrolet,Bolt EV,18
+97232,Rivian,R1T,1
+97232,Chrysler,Pacifica Hybrid,2
+97232,FIAT,500e,4
+97232,Toyota,Prius Plug-in Hybrid,1
+97232,Subaru,Crosstrek,3
+97232,Tesla,Model Y,38
+97232,Kia,Niro EV,4
+97232,Polestar,2,2
+97232,Ford,Mustang Mach-E,6
+97232,Audi,e-tron,3
+97232,Volvo,XC40,3
+97232,ACGC,UNKNOWN,1
+97232,Mitsubishi,Outlander PHEV,2
+97232,BMW,7 Series,1
+97232,BMW,3 Series,1
+97232,Ford,Fusion Energi,3
+97232,BMW,X5,4
+97232,Jeep,Wrangler Unlimited,5
+97232,Hyundai,IONIQ Plug-in Hybrid,2
+97232,GENZ,UNKNOWN,1
+97232,Volkswagen,e-Golf,5
+97232,Tesla,Model X,12
+97232,Volkswagen,ID.4,6
+97232,Chevrolet,Spark EV,2
+97232,Tesla,Model S,5
+97232,Lincoln,Aviator,1
+97232,GENU,UNKNOWN,1
+97232,Hyundai,IONIQ Electric,2
+97232,EVT,UNKNOWN,1
+97232,ENRG,UNKNOWN,1
+97232,Ford,C-MAX Energi,1
+97232,BMW,5 Series,2
+97232,Tesla,Model 3,57
+97232,Kia,EV6,3
+97232,Kia,Sorento Plug-In Hybrid,1
+97233,Porsche,Cayenne,1
+97233,Mitsubishi,i-MiEV,1
+97233,Toyota,Prius Prime,15
+97233,Kia,Soul EV,1
+97233,Hyundai,IONIQ Electric,1
+97233,Kia,Niro EV,7
+97233,Toyota,RAV4 Prime,4
+97233,Hyundai,KONA Electric,2
+97233,EVTS,LOG,1
+97233,BMW,3 Series,1
+97233,Hyundai,IONIQ 5,1
+97233,Polestar,2,1
+97233,Ford,Fusion Energi,2
+97233,Porsche,Panamera,1
+97233,Hyundai,IONIQ Plug-in Hybrid,2
+97233,BMW,i8,1
+97233,Volkswagen,ID.4,5
+97233,Jeep,Wrangler Unlimited,2
+97233,Kia,Optima Plug-In Hybrid,1
+97233,Chevrolet,Bolt EUV,2
+97233,Mitsubishi,Outlander PHEV,1
+97233,Chevrolet,Volt,5
+97233,Kia,EV6,4
+97233,Chrysler,Pacifica Hybrid,1
+97233,Nissan,LEAF,16
+97233,Lexus,NX 450h+,1
+97233,Tesla,Model S,4
+97233,Volvo,C40,1
+97233,FIAT,500e,1
+97233,Tesla,Model X,2
+97233,Chevrolet,Spark EV,2
+97233,Honda,Clarity Plug-In Hybrid,2
+97233,BMW,X5,1
+97233,Tesla,Model Y,16
+97233,Ford,C-MAX Energi,3
+97233,Tesla,Model 3,26
+97233,Chevrolet,Bolt EV,9
+97236,Chevrolet,Spark EV,6
+97236,Hyundai,IONIQ Plug-in Hybrid,2
+97236,Tesla,Model S,11
+97236,Porsche,Taycan,1
+97236,Nissan,LEAF,34
+97236,Audi,e-tron,1
+97236,Kia,EV6,3
+97236,Ford,C-MAX Energi,6
+97236,Audi,A3 Sportback e-tron,1
+97236,Ford,Focus,2
+97236,Mitsubishi,Outlander PHEV,1
+97236,Chrysler,Pacifica Hybrid,2
+97236,Toyota,Prius Prime,11
+97236,Toyota,RAV4 Prime,11
+97236,Toyota,Prius Plug-in Hybrid,3
+97236,Tesla,Model 3,39
+97236,Kia,Niro Plug-In Hybrid,2
+97236,BMW,X5,1
+97236,Hyundai,KONA Electric,7
+97236,Tesla,Model Y,51
+97236,AMIC,UNKNOWN,2
+97236,Hyundai,IONIQ Electric,1
+97236,Volkswagen,ID.4,3
+97236,Tesla,Model X,5
+97236,Polestar,2,1
+97236,BMW,i3,1
+97236,BMW,X3,1
+97236,Kia,Sorento Plug-In Hybrid,1
+97236,Kia,Optima Plug-In Hybrid,2
+97236,Hyundai,TUCSON Plug-in Hybrid,1
+97236,Kia,Soul EV,2
+97236,Chevrolet,Bolt EV,7
+97236,Ford,TH!NK,2
+97236,Ford,Fusion Energi,5
+97236,ENRG,UNKNOWN,1
+97236,Jeep,Wrangler Unlimited,4
+97236,Subaru,Crosstrek,6
+97236,Volvo,XC60,1
+97236,Porsche,Cayenne,1
+97236,Kia,Niro EV,10
+97236,BMW,5 Series,2
+97236,Ford,Mustang Mach-E,3
+97236,Volkswagen,e-Golf,3
+97236,Chevrolet,Volt,7
+97236,Ford,Escape Plug-In Hybrid,1
+97236,Honda,Clarity Plug-In Hybrid,2
+97239,Chevrolet,Volt,10
+97239,MINI,Hardtop 2 Door,5
+97239,Toyota,RAV4 EV,1
+97239,Tesla,Model 3,109
+97239,Chevrolet,Bolt EV,23
+97239,Audi,A3 Sportback e-tron,4
+97239,Subaru,Crosstrek,9
+97239,ZERO,S,1
+97239,Chevrolet,Spark EV,3
+97239,Volvo,XC40,5
+97239,Hyundai,TUCSON Plug-in Hybrid,1
+97239,Tesla,Model Y,80
+97239,Kia,EV6,6
+97239,Nissan,LEAF,45
+97239,BMW,5 Series,1
+97239,Hyundai,IONIQ Electric,3
+97239,Kia,Niro Plug-In Hybrid,4
+97239,Volvo,C40,1
+97239,Kia,Niro EV,15
+97239,Mercedes-Benz,EQS,1
+97239,Porsche,Cayenne,1
+97239,Audi,e-tron GT,3
+97239,Kia,Soul EV,2
+97239,FIAT,500e,1
+97239,Tesla,Model X,19
+97239,Lexus,NX 450h+,3
+97239,Mercedes-Benz,GLE,1
+97239,Ford,Fusion Energi,2
+97239,Audi,e-tron,3
+97239,Honda,Clarity Plug-In Hybrid,4
+97239,EZGO,UNKNOWN,1
+97239,Mitsubishi,Outlander PHEV,3
+97239,Toyota,Prius Prime,18
+97239,Hyundai,IONIQ Plug-in Hybrid,7
+97239,Volvo,XC60,8
+97239,Porsche,Taycan,5
+97239,Ford,TH!NK,2
+97239,BMW,X3,4
+97239,Hyundai,IONIQ 5,1
+97239,Ford,Mustang Mach-E,10
+97239,Audi,Q5,6
+97239,Toyota,RAV4 Prime,17
+97239,Volkswagen,e-Golf,14
+97239,Volvo,XC90,4
+97239,YMSK,UNKNOWN,1
+97239,Smart,fortwo electric drive,1
+97239,Jaguar,I-PACE,3
+97239,BMW,iX,2
+97239,Lincoln,Aviator,1
+97239,Jeep,Wrangler Unlimited,6
+97239,Hyundai,KONA Electric,7
+97239,Audi,e-tron Sportback,1
+97239,Chrysler,Pacifica Hybrid,6
+97239,Hyundai,SONATA Plug-in Hybrid,1
+97239,Honda,Clarity Electric,1
+97239,Ford,Escape Plug-In Hybrid,3
+97239,Polestar,2,4
+97239,Volkswagen,ID.4,4
+97239,MINI,Countryman Plug-in Hybrid,2
+97239,BMW,X5,4
+97239,Tesla,Model S,43
+97239,Toyota,Prius Plug-in Hybrid,3
+97239,BMW,i3,14
+97239,Ford,C-MAX Energi,2
+97239,Chevrolet,Bolt EUV,1
+97239,Smart,EQ fortwo,1
+97242,Nissan,LEAF,1
+97266,BMW,i3,2
+97266,Hyundai,IONIQ 5,5
+97266,Ford,Focus,1
+97266,Hyundai,IONIQ Plug-in Hybrid,2
+97266,Tesla,Model 3,40
+97266,JIJM,UNKNOWN,1
+97266,Chevrolet,Bolt EV,8
+97266,Honda,Clarity Plug-In Hybrid,2
+97266,Nissan,LEAF,40
+97266,Hyundai,SONATA Plug-in Hybrid,1
+97266,ZERO,FXS,1
+97266,Polestar,2,2
+97266,Ford,Mustang Mach-E,4
+97266,Chevrolet,Volt,1
+97266,Jeep,Wrangler Unlimited,2
+97266,Kia,EV6,1
+97266,Kia,Niro Plug-In Hybrid,4
+97266,Hyundai,IONIQ Electric,1
+97266,Audi,e-tron Sportback,1
+97266,Toyota,Prius Prime,22
+97266,BMW,X5,1
+97266,Chevrolet,Spark EV,3
+97266,Mitsubishi,Outlander PHEV,1
+97266,Chevrolet,Bolt EUV,1
+97266,Ford,C-MAX Energi,6
+97266,Tesla,Model X,8
+97266,Kia,Niro EV,8
+97266,Toyota,RAV4 Prime,11
+97266,MINI,Hardtop 2 Door,1
+97266,Subaru,Crosstrek,3
+97266,ZERO,UNKNOWN,1
+97266,Ford,Escape Plug-In Hybrid,2
+97266,Hyundai,KONA Electric,7
+97266,Ford,E-Transit Cargo,1
+97266,Volkswagen,ID.4,2
+97266,HD,LIV,1
+97266,Tesla,Model Y,23
+97266,Smart,fortwo electric drive,1
+97266,MINI,Countryman Plug-in Hybrid,1
+97266,Volvo,XC90,1
+97266,TAOI,BLA,1
+97266,Toyota,Prius Plug-in Hybrid,2
+97266,Audi,e-tron,1
+97266,Ford,Fusion Energi,5
+97266,ZERO,SRF,1
+97266,Chrysler,Pacifica Hybrid,5
+97266,Jaguar,I-PACE,1
+97266,Tesla,Model S,7
+97267,Volkswagen,ID.4,6
+97267,Chrysler,Pacifica Hybrid,13
+97267,BMW,X3,1
+97267,Volvo,XC60,2
+97267,Toyota,RAV4 Prime,18
+97267,Chevrolet,Bolt EUV,1
+97267,BMW,7 Series,2
+97267,Hyundai,KONA Electric,10
+97267,Volvo,XC40,1
+97267,Honda,Clarity Plug-In Hybrid,2
+97267,BMW,i3,2
+97267,Hyundai,SANTA FE Plug-In Hybrid,2
+97267,Toyota,Prius Plug-in Hybrid,2
+97267,Subaru,Crosstrek,2
+97267,Volvo,XC90,1
+97267,Chevrolet,Bolt EV,20
+97267,Audi,Q5,2
+97267,Mercedes-Benz,B-Class,1
+97267,ZERO,UNKNOWN,2
+97267,Hyundai,IONIQ Plug-in Hybrid,5
+97267,Volkswagen,e-Golf,6
+97267,Audi,A3 Sportback e-tron,2
+97267,BMW,5 Series,1
+97267,Toyota,Prius Prime,18
+97267,Porsche,Cayenne,2
+97267,Kia,EV6,2
+97267,Mitsubishi,i-MiEV,2
+97267,Honda,Clarity Electric,2
+97267,MINI,Hardtop 2 Door,1
+97267,Ford,Fusion Energi,4
+97267,Nissan,LEAF,50
+97267,Tesla,Model 3,68
+97267,Hyundai,SONATA Plug-in Hybrid,1
+97267,Ford,Focus,4
+97267,Polestar,2,3
+97267,Mitsubishi,Outlander PHEV,1
+97267,Hyundai,TUCSON Plug-in Hybrid,2
+97267,Chevrolet,Spark EV,3
+97267,Tesla,Model S,14
+97267,Tesla,Model Y,34
+97267,Ford,Escape Plug-In Hybrid,6
+97267,MINI,Countryman Plug-in Hybrid,2
+97267,Ford,Mustang Mach-E,5
+97267,Chevrolet,Volt,7
+97267,Ford,C-MAX Energi,5
+97267,FIAT,500e,1
+97267,BMW,i8,1
+97267,Audi,e-tron,1
+97267,Kia,Sorento Plug-In Hybrid,3
+97267,Tesla,Model X,5
+97267,Mercedes-Benz,GLC,1
+97267,Rivian,R1T,1
+97267,BMW,X5,1
+97267,Kia,Niro Plug-In Hybrid,7
+97267,Kia,Niro EV,9
+97267,Hyundai,IONIQ Electric,8
+97301,Tesla,Model 3,23
+97301,Chrysler,Pacifica Hybrid,5
+97301,BMW,3 Series,2
+97301,Mitsubishi,Outlander PHEV,1
+97301,Hyundai,SANTA FE Plug-In Hybrid,4
+97301,Toyota,Prius Plug-in Hybrid,2
+97301,Ford,Focus,1
+97301,Chevrolet,Bolt EV,21
+97301,BMW,5 Series,1
+97301,Volkswagen,e-Golf,2
+97301,Ford,Escape Plug-In Hybrid,3
+97301,Jeep,Wrangler Unlimited,3
+97301,Hyundai,KONA Electric,2
+97301,Chevrolet,Volt,10
+97301,Porsche,Cayenne,1
+97301,Porsche,Taycan,1
+97301,ZERO,FX,1
+97301,Toyota,Prius Prime,21
+97301,BMW,i3,3
+97301,Ford,Fusion Energi,7
+97301,Hyundai,SONATA Plug-in Hybrid,1
+97301,Kia,EV6,2
+97301,Ford,Mustang Mach-E,3
+97301,Hyundai,TUCSON Plug-in Hybrid,1
+97301,Honda,Clarity Plug-In Hybrid,4
+97301,Tesla,Model S,5
+97301,Nissan,LEAF,17
+97301,Tesla,Model Y,7
+97301,Kia,Sorento Plug-In Hybrid,1
+97301,Toyota,RAV4 Prime,3
+97301,Audi,e-tron,1
+97301,Chevrolet,Spark EV,2
+97301,BMW,X3,2
+97301,BMW,X5,4
+97301,Volkswagen,ID.4,4
+97301,Ford,C-MAX Energi,4
+97301,Chevrolet,Bolt EUV,2
+97301,Subaru,Crosstrek,2
+97301,Hyundai,IONIQ 5,1
+97301,Kia,Soul EV,2
+97301,Audi,Q5,1
+97301,Tesla,Model X,1
+97301,Kia,Niro Plug-In Hybrid,3
+97301,Kia,Niro EV,8
+97302,Chevrolet,Bolt EUV,4
+97302,Audi,e-tron Sportback,1
+97302,Hyundai,IONIQ 5,3
+97302,Kia,EV6,4
+97302,Kia,Sorento Plug-In Hybrid,3
+97302,Volvo,XC90,3
+97302,Volvo,V60,1
+97302,Mercedes-Benz,GLC,1
+97302,Hyundai,SANTA FE Plug-In Hybrid,2
+97302,Audi,Q5,3
+97302,Ford,Mustang Mach-E,6
+97302,Chevrolet,Bolt EV,27
+97302,Volkswagen,ID.4,2
+97302,Hyundai,IONIQ Plug-in Hybrid,2
+97302,Hyundai,SONATA Plug-in Hybrid,3
+97302,AMIC,UNKNOWN,1
+97302,BMW,X3,5
+97302,ASVE,UNKNOWN,1
+97302,Audi,A3 Sportback e-tron,1
+97302,BMW,i3,7
+97302,Kia,Soul EV,1
+97302,EZGO,UNKNOWN,1
+97302,Subaru,Crosstrek,6
+97302,Ford,C-MAX Energi,6
+97302,BMW,iX,1
+97302,Audi,e-tron,4
+97302,MINI,Hardtop 2 Door,3
+97302,Toyota,RAV4 Prime,25
+97302,MINI,Countryman Plug-in Hybrid,1
+97302,Ford,Focus,1
+97302,Jeep,Wrangler Unlimited,2
+97302,Chevrolet,Spark EV,2
+97302,BMW,5 Series,2
+97302,Honda,Clarity Plug-In Hybrid,11
+97302,Kia,Niro EV,9
+97302,BMW,X5,12
+97302,FIAT,500e,1
+97302,Toyota,Prius Prime,38
+97302,Nissan,LEAF,32
+97302,Kia,Niro Plug-In Hybrid,5
+97302,Jaguar,I-PACE,2
+97302,Hyundai,KONA Electric,14
+97302,Polestar,2,1
+97302,Volvo,XC60,1
+97302,Ford,Escape Plug-In Hybrid,1
+97302,Mercedes-Benz,C-Class,1
+97302,Ford,Fusion Energi,8
+97302,Toyota,Prius Plug-in Hybrid,11
+97302,Hyundai,TUCSON Plug-in Hybrid,1
+97302,Tesla,Model S,28
+97302,Volkswagen,e-Golf,5
+97302,Mitsubishi,Outlander PHEV,2
+97302,BMW,3 Series,3
+97302,Porsche,Taycan,1
+97302,Volvo,XC40,1
+97302,Chrysler,Pacifica Hybrid,13
+97302,Tesla,Model 3,94
+97302,Tesla,Model Y,32
+97302,Chevrolet,Volt,14
+97302,Hyundai,IONIQ Electric,3
+97302,Tesla,Model X,14
+97303,Lincoln,Aviator,1
+97303,Toyota,RAV4 Prime,10
+97303,Hyundai,IONIQ Plug-in Hybrid,3
+97303,Toyota,Prius Plug-in Hybrid,3
+97303,BMW,5 Series,3
+97303,Toyota,Prius Prime,14
+97303,Jeep,Wrangler Unlimited,4
+97303,Kia,Soul EV,1
+97303,BMW,i3,3
+97303,Volkswagen,ID.4,2
+97303,Ford,Fusion Energi,7
+97303,Tesla,Model 3,39
+97303,Polestar,2,1
+97303,Volvo,XC90,2
+97303,Ford,Mustang Mach-E,9
+97303,Hyundai,IONIQ Electric,3
+97303,FIAT,500e,1
+97303,Volvo,XC60,1
+97303,BMW,X3,1
+97303,Tesla,Model X,8
+97303,Kia,Sorento Plug-In Hybrid,1
+97303,Mercedes-Benz,S-Class,1
+97303,Honda,Clarity Electric,1
+97303,Ford,Escape Plug-In Hybrid,3
+97303,Lucid,Air,1
+97303,Chevrolet,Volt,10
+97303,Subaru,Crosstrek,4
+97303,Honda,Clarity Plug-In Hybrid,3
+97303,Chrysler,Pacifica Hybrid,1
+97303,BMW,X5,4
+97303,Audi,Q5,1
+97303,Rivian,R1T,1
+97303,Volkswagen,e-Golf,4
+97303,Kia,Niro Plug-In Hybrid,1
+97303,Hyundai,IONIQ 5,2
+97303,GEM,UNKNOWN,1
+97303,TOMB,UNKNOWN,1
+97303,Tesla,Model S,6
+97303,Smart,fortwo electric drive,1
+97303,Chevrolet,Bolt EV,14
+97303,Mitsubishi,Outlander PHEV,2
+97303,Hyundai,SANTA FE Plug-In Hybrid,2
+97303,Jaguar,I-PACE,1
+97303,Tesla,Model Y,21
+97303,Ford,C-MAX Energi,4
+97303,Kia,EV6,1
+97303,Nissan,LEAF,17
+97303,AMIC,UNKNOWN,1
+97303,Hyundai,KONA Electric,2
+97303,Kia,Niro EV,5
+97303,Mercedes-Benz,B-Class,1
+97303,Chevrolet,Bolt EUV,1
+97304,Volkswagen,ID.4,6
+97304,Kia,EV6,4
+97304,Hyundai,IONIQ Electric,2
+97304,Kia,Niro Plug-In Hybrid,4
+97304,Kia,Sorento Plug-In Hybrid,2
+97304,Subaru,Crosstrek,6
+97304,Toyota,RAV4 Prime,25
+97304,Tesla,Model X,12
+97304,Ford,Fusion Energi,9
+97304,BMW,X3,2
+97304,Audi,A3 Sportback e-tron,3
+97304,Volvo,XC90,5
+97304,Jeep,Wrangler Unlimited,9
+97304,ZERO,UNKNOWN,1
+97304,Audi,Q5,1
+97304,Ford,Escape Plug-In Hybrid,2
+97304,Toyota,Prius Prime,25
+97304,BMW,i3,8
+97304,Kia,Niro EV,8
+97304,BMW,X5,3
+97304,Porsche,Panamera,1
+97304,Hyundai,KONA Electric,10
+97304,Hyundai,IONIQ 5,2
+97304,Nissan,LEAF,28
+97304,Audi,e-tron,2
+97304,Chevrolet,Spark EV,3
+97304,FIAT,500e,1
+97304,Hyundai,TUCSON Plug-in Hybrid,1
+97304,Volvo,XC40,2
+97304,Mercedes-Benz,GLC,2
+97304,Hyundai,IONIQ Plug-in Hybrid,2
+97304,Hyundai,SANTA FE Plug-In Hybrid,2
+97304,Volkswagen,e-Golf,3
+97304,Jaguar,I-PACE,2
+97304,Volvo,XC60,2
+97304,Honda,Clarity Plug-In Hybrid,10
+97304,Tesla,Model 3,63
+97304,Toyota,Prius Plug-in Hybrid,6
+97304,Ford,C-MAX Energi,3
+97304,Tesla,Model S,12
+97304,Chevrolet,Volt,13
+97304,BMW,5 Series,1
+97304,Volvo,S60,1
+97304,Chevrolet,Bolt EV,22
+97304,Ford,Mustang Mach-E,8
+97304,Tesla,Model Y,29
+97304,BMW,3 Series,2
+97304,Kia,Soul EV,1
+97304,Chrysler,Pacifica Hybrid,12
+97305,Toyota,RAV4 Prime,4
+97305,Toyota,Prius Prime,11
+97305,Nissan,LEAF,10
+97305,Volkswagen,ID.4,1
+97305,Hyundai,IONIQ 5,1
+97305,Hyundai,KONA Electric,1
+97305,Subaru,Crosstrek,1
+97305,Hyundai,SANTA FE Plug-In Hybrid,1
+97305,Tesla,Model Y,10
+97305,Honda,Clarity Plug-In Hybrid,3
+97305,Kia,Niro EV,2
+97305,Chevrolet,Bolt EV,14
+97305,Ford,Escape Plug-In Hybrid,1
+97305,Ford,Mustang Mach-E,4
+97305,ZERO,UNKNOWN,1
+97305,BMW,X5,2
+97305,Tesla,Model 3,22
+97305,Chrysler,Pacifica Hybrid,3
+97305,Kia,Niro Plug-In Hybrid,2
+97305,Kia,EV6,3
+97305,BMW,X3,2
+97305,Ford,Fusion Energi,10
+97305,Tesla,Model X,4
+97305,Ford,C-MAX Energi,1
+97305,Tesla,Model S,3
+97305,Chevrolet,Spark EV,1
+97305,Chevrolet,Bolt EUV,1
+97305,Chevrolet,Volt,7
+97305,Lincoln,Corsair,1
+97305,Jeep,Wrangler Unlimited,2
+97305,BMW,i3,1
+97305,Hyundai,IONIQ Plug-in Hybrid,3
+97306,Honda,Clarity Plug-In Hybrid,3
+97306,Tesla,Model 3,55
+97306,Hyundai,TUCSON Plug-in Hybrid,1
+97306,Chrysler,Pacifica Hybrid,6
+97306,Tesla,Model Y,25
+97306,BMW,i4,1
+97306,MINI,Hardtop 2 Door,2
+97306,Kia,Niro Plug-In Hybrid,3
+97306,BMW,X5,4
+97306,Toyota,Prius Prime,19
+97306,Kia,Niro EV,7
+97306,BMW,5 Series,3
+97306,Chevrolet,Bolt EV,18
+97306,Ford,Escape Plug-In Hybrid,2
+97306,Volvo,XC40,1
+97306,Tesla,Model X,9
+97306,Audi,A3 Sportback e-tron,2
+97306,Ford,Mustang Mach-E,12
+97306,Hyundai,IONIQ Plug-in Hybrid,1
+97306,Jeep,Wrangler Unlimited,2
+97306,Toyota,Prius Plug-in Hybrid,3
+97306,Chevrolet,Spark EV,3
+97306,Subaru,Crosstrek,8
+97306,Kia,EV6,5
+97306,Audi,e-tron Sportback,1
+97306,ZERO,UNKNOWN,1
+97306,Nissan,LEAF,15
+97306,Ford,Fusion Energi,7
+97306,Hyundai,KONA Electric,5
+97306,Ford,C-MAX Energi,1
+97306,Toyota,RAV4 Prime,18
+97306,Ford,F-150 Lightning,1
+97306,Volkswagen,e-Golf,3
+97306,Hyundai,IONIQ Electric,2
+97306,Ford,TH!NK,1
+97306,Tesla,Model S,19
+97306,Audi,e-tron,4
+97306,BMW,i3,5
+97306,Chevrolet,Volt,18
+97306,Jaguar,I-PACE,1
+97308,Tesla,Model X,1
+97308,Hyundai,KONA Electric,1
+97308,Kia,Niro Plug-In Hybrid,1
+97308,Chevrolet,Volt,1
+97312,Kia,Soul EV,1
+97317,HOND,UNKNOWN,1
+97317,Hyundai,SANTA FE Plug-In Hybrid,1
+97317,Chevrolet,Volt,5
+97317,Chrysler,Pacifica Hybrid,3
+97317,Tesla,Model Y,9
+97317,BMW,i3,1
+97317,BMW,3 Series,2
+97317,HD,LIV,1
+97317,Hyundai,SONATA Plug-in Hybrid,1
+97317,Ford,Escape Plug-In Hybrid,3
+97317,Honda,Clarity Plug-In Hybrid,1
+97317,Ford,Mustang Mach-E,5
+97317,Kia,Niro Plug-In Hybrid,1
+97317,Porsche,Taycan,1
+97317,Hyundai,IONIQ 5,2
+97317,Tesla,Model 3,20
+97317,Ford,Fusion Energi,2
+97317,Hyundai,KONA Electric,2
+97317,BMW,X3,1
+97317,Kia,Niro EV,3
+97317,Toyota,Prius Plug-in Hybrid,1
+97317,Tesla,Model S,5
+97317,Volvo,XC90,2
+97317,Mitsubishi,Outlander PHEV,2
+97317,Jeep,Wrangler Unlimited,5
+97317,Kia,EV6,2
+97317,Tesla,Model X,4
+97317,Porsche,Cayenne,1
+97317,Chevrolet,Spark EV,4
+97317,Toyota,RAV4 Prime,4
+97317,Ford,C-MAX Energi,2
+97317,Hyundai,IONIQ Plug-in Hybrid,2
+97317,Volkswagen,ID.4,2
+97317,Chevrolet,Bolt EV,5
+97317,Lincoln,Aviator,1
+97317,Toyota,Prius Prime,14
+97317,Nissan,LEAF,13
+97317,Volkswagen,e-Golf,1
+97317,BMW,X5,1
+97317,Hyundai,IONIQ Electric,1
+97317,Volvo,XC40,1
+97321,Audi,e-tron Sportback,1
+97321,Kia,Sorento Plug-In Hybrid,1
+97321,Audi,Q5,2
+97321,Mitsubishi,Outlander PHEV,1
+97321,Ford,Mustang Mach-E,5
+97321,Jeep,Wrangler Unlimited,2
+97321,Mitsubishi,i-MiEV,1
+97321,BMW,5 Series,1
+97321,Tesla,Model Y,34
+97321,Hyundai,IONIQ Plug-in Hybrid,2
+97321,Ford,Escape Plug-In Hybrid,6
+97321,Toyota,Prius Plug-in Hybrid,1
+97321,Honda,Clarity Plug-In Hybrid,5
+97321,Volvo,XC60,4
+97321,POLS,UNKNOWN,1
+97321,Kia,Niro EV,4
+97321,Tesla,Model 3,58
+97321,Chevrolet,Spark EV,4
+97321,Nissan,LEAF,24
+97321,Subaru,Crosstrek,4
+97321,Hyundai,KONA Electric,7
+97321,Volkswagen,ID.4,3
+97321,Chrysler,Pacifica Hybrid,10
+97321,Toyota,Prius Prime,13
+97321,BMW,X5,4
+97321,Chevrolet,Bolt EV,19
+97321,Kia,Niro Plug-In Hybrid,2
+97321,Toyota,RAV4 Prime,15
+97321,Chevrolet,Volt,18
+97321,BMW,i3,3
+97321,Hyundai,TUCSON Plug-in Hybrid,1
+97321,Volvo,XC40,1
+97321,Volkswagen,e-Golf,2
+97321,Tesla,Model S,7
+97321,Hyundai,SONATA Plug-in Hybrid,1
+97321,Kia,EV6,1
+97321,Ford,Focus,2
+97321,Ford,TH!NK,2
+97321,Ford,C-MAX Energi,3
+97321,Ford,Fusion Energi,5
+97321,Tesla,Model X,10
+97321,Hyundai,SANTA FE Plug-In Hybrid,1
+97321,Hyundai,IONIQ 5,1
+97321,Hyundai,IONIQ Electric,2
+97322,Toyota,RAV4 Prime,4
+97322,Ford,Escape Plug-In Hybrid,2
+97322,Volvo,XC90,1
+97322,Chrysler,Pacifica Hybrid,1
+97322,Ford,Focus,1
+97322,Jaguar,I-PACE,1
+97322,AMIC,UNKNOWN,1
+97322,Hyundai,KONA Electric,5
+97322,Volvo,XC60,1
+97322,Nissan,LEAF,8
+97322,Hyundai,SANTA FE Plug-In Hybrid,2
+97322,Tesla,Model S,2
+97322,Jeep,Wrangler Unlimited,1
+97322,Volkswagen,ID.4,3
+97322,Hyundai,IONIQ Plug-in Hybrid,3
+97322,Tesla,Model 3,25
+97322,Volkswagen,e-Golf,2
+97322,Honda,Clarity Plug-In Hybrid,3
+97322,Ford,Mustang Mach-E,4
+97322,Volvo,XC40,1
+97322,Ford,C-MAX Energi,3
+97322,Kia,Niro Plug-In Hybrid,2
+97322,Chevrolet,Volt,4
+97322,Tesla,Model Y,11
+97322,Chevrolet,Spark EV,5
+97322,Tesla,Model X,2
+97322,Audi,e-tron,1
+97322,Chevrolet,Bolt EV,14
+97322,Mitsubishi,Outlander PHEV,1
+97322,Chevrolet,Bolt EUV,1
+97322,Toyota,Prius Prime,13
+97322,Ford,Fusion Energi,5
+97322,Hyundai,IONIQ 5,1
+97322,Kia,Niro EV,5
+97322,Toyota,Prius Plug-in Hybrid,2
+97324,Ford,Fusion Energi,1
+97324,Tesla,Model 3,1
+97324,Tesla,Model S,1
+97324,Hyundai,IONIQ Plug-in Hybrid,1
+97325,Tesla,Model 3,2
+97325,Ford,Fusion Energi,1
+97325,Chevrolet,Bolt EV,2
+97325,Tesla,Model Y,3
+97325,Ford,C-MAX Energi,2
+97325,Jeep,Wrangler Unlimited,1
+97325,Hyundai,IONIQ Plug-in Hybrid,2
+97325,Chrysler,Pacifica Hybrid,1
+97325,Jaguar,I-PACE,1
+97325,Nissan,LEAF,5
+97325,Toyota,Prius Prime,1
+97325,Kia,Sorento Plug-In Hybrid,1
+97325,Chevrolet,Volt,3
+97325,Toyota,RAV4 Prime,1
+97325,Hyundai,IONIQ Electric,1
+97325,Kia,Niro EV,2
+97325,Kia,EV6,1
+97325,Subaru,Crosstrek,1
+97325,Volvo,XC90,1
+97326,Hyundai,KONA Electric,1
+97326,Tesla,Model 3,1
+97326,Subaru,Crosstrek,1
+97327,Hyundai,IONIQ 5,1
+97327,Tesla,Model 3,4
+97327,Ford,C-MAX Energi,1
+97327,Hyundai,SONATA Plug-in Hybrid,1
+97327,Chevrolet,Volt,2
+97327,Honda,Clarity Plug-In Hybrid,1
+97327,Nissan,LEAF,2
+97327,Kia,Niro EV,1
+97327,Jaguar,I-PACE,1
+97327,Toyota,Prius Prime,3
+97327,Kia,Sorento Plug-In Hybrid,1
+97327,ZERO,UNKNOWN,1
+97327,Hyundai,IONIQ Electric,1
+97327,Toyota,RAV4 Prime,1
+97330,Honda,Clarity Electric,1
+97330,Mitsubishi,i-MiEV,2
+97330,EZGO,UNKNOWN,1
+97330,Tesla,Model 3,108
+97330,AMIC,UNKNOWN,4
+97330,Honda,Clarity Plug-In Hybrid,17
+97330,Volvo,C40,2
+97330,Tesla,Model S,33
+97330,Volvo,XC90,6
+97330,BMW,X5,5
+97330,Toyota,RAV4 Prime,43
+97330,Kia,Sorento Plug-In Hybrid,1
+97330,Volvo,XC40,5
+97330,Kia,Niro Plug-In Hybrid,5
+97330,Volkswagen,e-Golf,6
+97330,Chevrolet,Volt,18
+97330,Kia,Niro EV,17
+97330,MINI,Countryman Plug-in Hybrid,1
+97330,Porsche,Taycan,1
+97330,Audi,e-tron,3
+97330,Ford,Mustang Mach-E,9
+97330,FIAT,500e,5
+97330,ZERO,RS,1
+97330,Hyundai,IONIQ Electric,1
+97330,Chevrolet,Spark EV,4
+97330,Toyota,Prius Plug-in Hybrid,16
+97330,Tesla,Model Y,47
+97330,Kia,Soul EV,2
+97330,Chrysler,Pacifica Hybrid,10
+97330,Rivian,R1T,1
+97330,Hyundai,KONA Electric,15
+97330,Kia,Optima Plug-In Hybrid,1
+97330,Chevrolet,Bolt EV,62
+97330,HCKC,UNKNOWN,1
+97330,Polestar,2,1
+97330,Ford,Fusion Energi,7
+97330,Volvo,XC60,8
+97330,BMW,i3,11
+97330,MINI,Hardtop 2 Door,4
+97330,Smart,fortwo electric drive,3
+97330,BMW,X3,1
+97330,Subaru,Crosstrek,7
+97330,Hyundai,SONATA Plug-in Hybrid,1
+97330,Audi,A3 Sportback e-tron,3
+97330,Volkswagen,ID.4,9
+97330,Kia,EV6,5
+97330,Chevrolet,Bolt EUV,2
+97330,Nissan,LEAF,66
+97330,Hyundai,IONIQ Plug-in Hybrid,4
+97330,Toyota,Prius Prime,61
+97330,Jeep,Wrangler Unlimited,3
+97330,Hyundai,SANTA FE Plug-In Hybrid,3
+97330,Audi,Q5,5
+97330,Ford,C-MAX Energi,16
+97330,Tesla,Model X,24
+97330,Volvo,V60,1
+97330,ZERO,UNKNOWN,2
+97330,Ford,Escape Plug-In Hybrid,3
+97330,Land Rover,Range Rover Sport,1
+97330,Ford,TH!NK,3
+97330,ZERO,SR,1
+97330,ZERO,S,1
+97330,ZENN,UNKNOWN,1
+97330,BMW,3 Series,1
+97331,GEM,UNKNOWN,1
+97333,Tesla,Model 3,48
+97333,Jeep,Wrangler Unlimited,3
+97333,Hyundai,IONIQ Electric,1
+97333,Honda,Clarity Plug-In Hybrid,7
+97333,ZONG,UNKNOWN,1
+97333,Honda,Clarity Electric,1
+97333,Toyota,Prius Plug-in Hybrid,8
+97333,BMW,3 Series,1
+97333,Audi,Q5,1
+97333,Chrysler,Pacifica Hybrid,6
+97333,TOMB,UNKNOWN,1
+97333,Audi,A3 Sportback e-tron,1
+97333,Hyundai,IONIQ Plug-in Hybrid,4
+97333,Toyota,Prius Prime,29
+97333,Ford,Fusion Energi,5
+97333,Ford,Mustang Mach-E,6
+97333,Chevrolet,Spark EV,2
+97333,Subaru,Crosstrek,2
+97333,Mitsubishi,Outlander PHEV,1
+97333,Volvo,XC90,1
+97333,Porsche,Cayenne,1
+97333,BMW,i3,2
+97333,Tesla,Model X,5
+97333,Ford,C-MAX Energi,8
+97333,Toyota,RAV4 Prime,17
+97333,POLS,UNKNOWN,1
+97333,Tesla,Model Y,24
+97333,MAHIN,UNKNOWN,1
+97333,Polestar,2,1
+97333,FIAT,500e,1
+97333,Volvo,XC60,2
+97333,Lincoln,Aviator,1
+97333,Nissan,LEAF,23
+97333,Kia,EV6,2
+97333,Hyundai,KONA Electric,6
+97333,Volvo,XC40,3
+97333,Chevrolet,Volt,10
+97333,Tesla,Model S,10
+97333,Volkswagen,e-Golf,2
+97333,BMW,X5,3
+97333,Volkswagen,ID.4,3
+97333,Mitsubishi,i-MiEV,2
+97333,Lexus,NX 450h+,1
+97333,Hyundai,SONATA Plug-in Hybrid,1
+97333,Audi,e-tron,1
+97333,Chevrolet,Bolt EV,16
+97333,Kia,Niro EV,3
+97333,Kia,Niro Plug-In Hybrid,3
+97333,Chevrolet,Bolt EUV,2
+97338,Tesla,Model Y,8
+97338,Honda,Clarity Plug-In Hybrid,2
+97338,Ford,Fusion Energi,1
+97338,Tesla,Model S,2
+97338,BMW,X5,1
+97338,Toyota,Prius Prime,8
+97338,Kia,Niro Plug-In Hybrid,2
+97338,Chevrolet,Spark EV,3
+97338,Ford,Escape Plug-In Hybrid,2
+97338,Kia,EV6,3
+97338,Mercedes-Benz,EQS,1
+97338,Toyota,RAV4 Prime,7
+97338,Volvo,XC40,2
+97338,Kia,Niro EV,2
+97338,Hyundai,SANTA FE Plug-In Hybrid,1
+97338,Nissan,LEAF,9
+97338,ZONE,UNKNOWN,1
+97338,Volkswagen,ID.4,2
+97338,ZERO,UNKNOWN,1
+97338,Ford,C-MAX Energi,2
+97338,Hyundai,SONATA Plug-in Hybrid,2
+97338,Mitsubishi,Outlander PHEV,2
+97338,Tesla,Model X,3
+97338,Jeep,Wrangler Unlimited,2
+97338,Chrysler,Pacifica Hybrid,4
+97338,Hyundai,KONA Electric,4
+97338,Tesla,Model 3,16
+97338,Chevrolet,Volt,8
+97338,Ford,Mustang Mach-E,4
+97338,Chevrolet,Bolt EV,6
+97338,Subaru,Crosstrek,1
+97338,BMW,X3,1
+97338,CITI,UNKNOWN,1
+97338,Toyota,Prius Plug-in Hybrid,2
+97341,Tesla,Model 3,6
+97341,Hyundai,KONA Electric,1
+97341,Ford,Mustang Mach-E,2
+97341,Chevrolet,Volt,1
+97341,Kia,EV6,1
+97341,Tesla,Model Y,3
+97341,Honda,Clarity Plug-In Hybrid,1
+97341,Kia,Niro EV,1
+97341,Toyota,Prius Plug-in Hybrid,3
+97341,Toyota,Prius Prime,4
+97341,Tesla,Model X,4
+97341,Lincoln,Aviator,1
+97341,Kia,Niro Plug-In Hybrid,1
+97341,Tesla,Model S,3
+97341,Subaru,Crosstrek,1
+97341,Toyota,RAV4 Prime,1
+97341,Kia,Sorento Plug-In Hybrid,1
+97341,Ford,C-MAX Energi,1
+97341,Chevrolet,Bolt EV,2
+97341,Hyundai,IONIQ Electric,1
+97343,Tesla,Model S,1
+97343,Toyota,Prius Prime,1
+97344,Tesla,Model 3,3
+97344,Ford,Fusion Energi,1
+97345,Volkswagen,ID.4,1
+97345,Tesla,Model 3,2
+97346,Toyota,Prius Prime,1
+97346,Toyota,RAV4 Prime,1
+97347,Toyota,Prius Prime,2
+97347,Ford,C-MAX Energi,1
+97348,Toyota,Prius Prime,1
+97348,Toyota,RAV4 Prime,1
+97348,Honda,Clarity Plug-In Hybrid,1
+97348,Tesla,Model 3,2
+97348,Tesla,Model Y,1
+97351,Tesla,Model 3,13
+97351,Toyota,RAV4 Prime,1
+97351,Kia,Niro EV,2
+97351,Kia,Niro Plug-In Hybrid,1
+97351,Tesla,Model Y,5
+97351,Chevrolet,Volt,2
+97351,Ford,Fusion Energi,1
+97351,Kia,EV6,2
+97351,Chrysler,Pacifica Hybrid,2
+97351,Chevrolet,Bolt EV,6
+97351,Hyundai,IONIQ Plug-in Hybrid,1
+97351,Toyota,Prius Plug-in Hybrid,1
+97351,Jeep,Wrangler Unlimited,3
+97351,Nissan,LEAF,5
+97351,Ford,C-MAX Energi,2
+97351,BMW,3 Series,1
+97351,Subaru,Crosstrek,1
+97351,Smart,fortwo electric drive,1
+97351,Ford,TH!NK,1
+97351,Ford,Escape Plug-In Hybrid,1
+97351,Tesla,Model X,1
+97351,BMW,i3,2
+97351,Toyota,Prius Prime,7
+97351,Rivian,R1T,1
+97351,Ford,Focus,1
+97352,Kia,Niro EV,3
+97352,Toyota,Prius Prime,3
+97352,Chevrolet,Volt,1
+97352,Chevrolet,Bolt EUV,1
+97352,Hyundai,SONATA Plug-in Hybrid,1
+97352,Hyundai,IONIQ Plug-in Hybrid,1
+97352,Toyota,RAV4 Prime,2
+97352,Tesla,Model S,3
+97352,Volvo,XC90,1
+97352,Ford,Mustang Mach-E,1
+97352,Chevrolet,Bolt EV,2
+97352,BMW,X3,1
+97352,Nissan,LEAF,1
+97352,Kia,Optima Plug-In Hybrid,1
+97352,Hyundai,IONIQ 5,2
+97352,Lexus,NX 450h+,1
+97352,Tesla,Model Y,3
+97352,Tesla,Model 3,5
+97355,Kia,Soul EV,1
+97355,Kia,EV6,1
+97355,Honda,Clarity Plug-In Hybrid,2
+97355,Toyota,Prius Prime,8
+97355,Audi,RS e-tron GT,1
+97355,Chevrolet,Volt,8
+97355,Toyota,Prius Plug-in Hybrid,1
+97355,Toyota,RAV4 Prime,4
+97355,Hyundai,IONIQ Plug-in Hybrid,2
+97355,Volvo,C40,1
+97355,Ford,Mustang Mach-E,1
+97355,Hyundai,SONATA Plug-in Hybrid,3
+97355,Tesla,Model X,2
+97355,Volvo,XC60,2
+97355,Chrysler,Pacifica Hybrid,4
+97355,Tesla,Model Y,8
+97355,Ford,Fusion Energi,3
+97355,Nissan,LEAF,10
+97355,Tesla,Model S,2
+97355,Tesla,Model 3,16
+97355,Chevrolet,Bolt EV,7
+97355,Volkswagen,ID.4,1
+97355,Kia,Niro Plug-In Hybrid,2
+97355,Ford,C-MAX Energi,1
+97357,Tesla,Model 3,1
+97358,Tesla,Model X,1
+97358,Jeep,Wrangler Unlimited,1
+97358,Chrysler,Pacifica Hybrid,3
+97358,Toyota,Prius Prime,5
+97358,Subaru,Crosstrek,1
+97358,BMW,X3,1
+97358,Tesla,Model 3,2
+97358,BMW,3 Series,1
+97358,Toyota,RAV4 Prime,1
+97358,Kia,Niro EV,2
+97360,Tesla,Model 3,1
+97360,Tesla,Model S,1
+97360,Toyota,RAV4 Prime,1
+97360,Chevrolet,Bolt EV,1
+97360,Toyota,Prius Plug-in Hybrid,1
+97360,Hyundai,KONA Electric,1
+97361,Tesla,Model 3,4
+97361,Honda,Clarity Plug-In Hybrid,1
+97361,Volkswagen,e-Golf,1
+97361,Toyota,RAV4 Prime,1
+97361,Lexus,NX 450h+,1
+97361,Volvo,C40,1
+97361,Ford,Fusion Energi,3
+97361,Ford,Mustang Mach-E,1
+97361,Toyota,Prius Prime,3
+97361,Jeep,Wrangler Unlimited,2
+97361,Nissan,LEAF,6
+97361,Toyota,Prius Plug-in Hybrid,1
+97361,BMW,i3,2
+97361,Kia,Niro EV,2
+97361,Ford,C-MAX Energi,1
+97361,POLS,UNKNOWN,1
+97361,Chevrolet,Bolt EV,5
+97361,Tesla,Model Y,3
+97361,Tesla,Model X,1
+97361,Volkswagen,ID.4,3
+97361,Hyundai,KONA Electric,2
+97361,Chrysler,Pacifica Hybrid,4
+97361,Chevrolet,Volt,6
+97361,Tesla,Model S,6
+97361,Chevrolet,Spark EV,1
+97362,Chevrolet,Volt,2
+97362,Hyundai,IONIQ Electric,1
+97362,Chevrolet,Bolt EV,1
+97362,Chevrolet,Spark EV,1
+97362,Volkswagen,e-Golf,1
+97362,Honda,Clarity Plug-In Hybrid,1
+97362,Jeep,Wrangler Unlimited,1
+97362,Toyota,Prius Prime,1
+97362,Tesla,Model 3,2
+97362,Nissan,LEAF,2
+97362,Ford,Mustang Mach-E,1
+97362,Ford,C-MAX Energi,1
+97362,Volvo,XC90,1
+97362,Hyundai,SONATA Plug-in Hybrid,1
+97362,Tesla,Model Y,3
+97362,Kia,Niro Plug-In Hybrid,2
+97364,Nissan,LEAF,2
+97364,Chevrolet,Bolt EV,1
+97364,Ford,Fusion Energi,1
+97364,Ford,Escape Plug-In Hybrid,2
+97365,Tesla,Model S,2
+97365,Toyota,Prius Prime,12
+97365,Jeep,Wrangler Unlimited,1
+97365,Kia,Niro Plug-In Hybrid,3
+97365,Tesla,Model 3,12
+97365,Ford,Fusion Energi,1
+97365,Hyundai,SANTA FE Plug-In Hybrid,2
+97365,Chevrolet,Bolt EV,4
+97365,Chevrolet,Spark EV,3
+97365,ZERO,SRF,1
+97365,Kia,Niro EV,2
+97365,Chevrolet,Volt,5
+97365,Ford,Mustang Mach-E,2
+97365,Nissan,LEAF,8
+97365,BMW,i3,2
+97365,Volvo,XC90,1
+97365,BMW,5 Series,2
+97365,Tesla,Model X,3
+97365,Chevrolet,Bolt EUV,1
+97365,Honda,Clarity Plug-In Hybrid,2
+97365,Volkswagen,ID.4,1
+97365,Kia,Soul EV,2
+97365,Tesla,Model Y,9
+97365,Toyota,RAV4 Prime,8
+97365,Toyota,Prius Plug-in Hybrid,3
+97365,AMIC,UNKNOWN,1
+97365,Volvo,XC60,2
+97366,Volkswagen,e-Golf,1
+97366,Volvo,XC60,1
+97366,Kia,Niro Plug-In Hybrid,1
+97366,Hyundai,KONA Electric,1
+97366,Tesla,Model 3,4
+97366,Honda,Clarity Plug-In Hybrid,2
+97366,Mercedes-Benz,B-Class,1
+97366,Hyundai,IONIQ Plug-in Hybrid,1
+97366,Tesla,Model Y,3
+97366,Nissan,LEAF,2
+97366,Chevrolet,Volt,1
+97366,Tesla,Model S,1
+97366,Ford,C-MAX Energi,1
+97366,Toyota,RAV4 Prime,2
+97366,Toyota,Prius Prime,6
+97367,Ford,Mustang Mach-E,3
+97367,Kia,Soul EV,1
+97367,MINI,Hardtop 2 Door,1
+97367,Chevrolet,Spark EV,2
+97367,Ford,C-MAX Energi,2
+97367,Honda,Clarity Plug-In Hybrid,2
+97367,Chrysler,Pacifica Hybrid,2
+97367,Hyundai,KONA Electric,4
+97367,Tesla,Model S,2
+97367,Nissan,LEAF,6
+97367,Toyota,Prius Prime,11
+97367,Chevrolet,Volt,9
+97367,Kia,Optima Plug-In Hybrid,1
+97367,Jeep,Wrangler Unlimited,1
+97367,Tesla,Model Y,15
+97367,Ford,F-150 Lightning,1
+97367,Hyundai,IONIQ Electric,2
+97367,Hyundai,SANTA FE Plug-In Hybrid,1
+97367,Subaru,Crosstrek,2
+97367,Ford,Fusion Energi,1
+97367,Tesla,Model 3,9
+97367,Volkswagen,ID.4,2
+97367,Chevrolet,Bolt EV,8
+97367,Kia,EV6,1
+97367,Hyundai,IONIQ 5,1
+97367,Toyota,RAV4 Prime,4
+97367,BMW,3 Series,1
+97367,Tesla,Model X,3
+97368,Ford,Escape Plug-In Hybrid,1
+97368,Tesla,Model S,1
+97368,BMW,3 Series,1
+97368,Tesla,Model Y,2
+97368,Nissan,LEAF,1
+97368,Porsche,Panamera,1
+97368,Ford,Fusion Energi,1
+97368,Subaru,Crosstrek,1
+97368,Tesla,Model 3,2
+97368,Toyota,RAV4 Prime,2
+97368,Chevrolet,Volt,1
+97368,Jeep,Wrangler Unlimited,1
+97368,Audi,Q5,1
+97368,Toyota,Prius Prime,1
+97368,Hyundai,IONIQ Plug-in Hybrid,1
+97369,Tesla,Model X,1
+97369,Volvo,XC60,1
+97369,Porsche,Cayenne,1
+97369,Tesla,Model S,1
+97369,Hyundai,KONA Electric,1
+97369,Ford,Escape Plug-In Hybrid,1
+97369,Toyota,Prius Prime,1
+97369,Volkswagen,ID.4,2
+97370,Tesla,Model Y,8
+97370,Ford,Focus,1
+97370,Hyundai,KONA Electric,5
+97370,Jeep,Wrangler Unlimited,2
+97370,Chevrolet,Volt,5
+97370,Volvo,XC60,1
+97370,Volkswagen,ID.4,1
+97370,Volvo,XC90,1
+97370,Ford,TH!NK,2
+97370,Toyota,Prius Plug-in Hybrid,6
+97370,FIAT,500e,1
+97370,Audi,e-tron,1
+97370,Toyota,Prius Prime,11
+97370,Ford,Mustang Mach-E,7
+97370,Chrysler,Pacifica Hybrid,2
+97370,Audi,Q5,1
+97370,BMW,X3,2
+97370,Subaru,Crosstrek,1
+97370,Chevrolet,Bolt EV,10
+97370,Toyota,RAV4 Prime,9
+97370,Tesla,Model X,5
+97370,Volkswagen,e-Golf,1
+97370,Kia,Niro EV,2
+97370,BMW,X5,1
+97370,Chevrolet,Spark EV,1
+97370,Ford,C-MAX Energi,4
+97370,Tesla,Model S,2
+97370,BMW,3 Series,1
+97370,Nissan,LEAF,11
+97370,Ford,Fusion Energi,1
+97370,Chevrolet,Bolt EUV,1
+97370,Tesla,Model 3,18
+97370,Hyundai,SANTA FE Plug-In Hybrid,1
+97370,Honda,Clarity Plug-In Hybrid,3
+97370,Hyundai,IONIQ 5,1
+97370,UBCO,UNKNOWN,1
+97371,Ford,Fusion Energi,1
+97371,Tesla,Model 3,1
+97371,Toyota,RAV4 Prime,1
+97371,Nissan,LEAF,1
+97371,Kia,EV6,1
+97374,Toyota,Prius Prime,2
+97374,Tesla,Model 3,4
+97374,Chrysler,Pacifica Hybrid,2
+97374,Ford,Mustang Mach-E,1
+97374,Tesla,Model S,1
+97374,Toyota,RAV4 Prime,1
+97374,Volkswagen,e-Golf,1
+97374,Ford,Fusion Energi,1
+97374,Ford,C-MAX Energi,2
+97374,Kia,EV6,2
+97374,BMW,X5,1
+97374,Tesla,Model X,1
+97374,Nissan,LEAF,2
+97374,Chevrolet,Bolt EV,2
+97374,Hyundai,IONIQ 5,2
+97374,Hyundai,KONA Electric,1
+97374,Chevrolet,Bolt EUV,1
+97374,Tesla,Model Y,3
+97375,Toyota,Prius Plug-in Hybrid,1
+97375,Chrysler,Pacifica Hybrid,1
+97375,BMW,5 Series,1
+97375,Chevrolet,Spark EV,1
+97376,Kia,Niro EV,1
+97376,ZYTD,UNKNOWN,2
+97376,Nissan,LEAF,1
+97376,Toyota,Prius Prime,5
+97376,Toyota,RAV4 Prime,2
+97376,Volvo,XC60,1
+97376,Ford,Escape Plug-In Hybrid,1
+97376,Tesla,Model 3,1
+97376,Tesla,Model Y,1
+97376,Hyundai,KONA Electric,1
+97376,Audi,e-tron,1
+97376,Hyundai,IONIQ 5,2
+97376,Chevrolet,Spark EV,1
+97376,Ford,C-MAX Energi,1
+97377,Nissan,LEAF,3
+97377,Chevrolet,Volt,1
+97377,Toyota,Prius Prime,1
+97378,Tesla,Model Y,5
+97378,Nissan,LEAF,4
+97378,Chevrolet,Volt,1
+97378,Hyundai,KONA Electric,1
+97378,Toyota,Prius Prime,2
+97378,Tesla,Model X,2
+97378,Porsche,Taycan,1
+97378,Ford,Fusion Energi,1
+97378,Tesla,Model 3,5
+97378,Hyundai,IONIQ Plug-in Hybrid,2
+97378,Toyota,Prius Plug-in Hybrid,1
+97378,Toyota,RAV4 Prime,2
+97378,Audi,A3 Sportback e-tron,1
+97380,Kia,Optima Plug-In Hybrid,1
+97380,Toyota,Prius Prime,3
+97380,Tesla,Model 3,1
+97380,Honda,Clarity Plug-In Hybrid,1
+97380,Nissan,LEAF,1
+97381,Honda,Clarity Plug-In Hybrid,2
+97381,Ford,Escape Plug-In Hybrid,1
+97381,ZERO,UNKNOWN,1
+97381,AECI,UNKNOWN,1
+97381,Tesla,Model Y,9
+97381,Chevrolet,Volt,3
+97381,Volvo,XC60,1
+97381,Ford,C-MAX Energi,3
+97381,Ford,Fusion Energi,6
+97381,Ford,Mustang Mach-E,2
+97381,Chevrolet,Spark EV,3
+97381,BMW,5 Series,1
+97381,Toyota,Prius Plug-in Hybrid,3
+97381,Subaru,Crosstrek,1
+97381,Toyota,RAV4 Prime,7
+97381,Land Rover,Range Rover Sport,1
+97381,Tesla,Model X,2
+97381,Volvo,XC90,1
+97381,Chrysler,Pacifica Hybrid,5
+97381,Hyundai,IONIQ 5,1
+97381,Chevrolet,Bolt EV,11
+97381,Kia,Sorento Plug-In Hybrid,1
+97381,Hyundai,IONIQ Plug-in Hybrid,2
+97381,Tesla,Model S,11
+97381,Toyota,Prius Prime,12
+97381,Kia,EV6,1
+97381,Audi,Q5,3
+97381,Mitsubishi,Outlander PHEV,1
+97381,Kia,Soul EV,1
+97381,Volvo,C40,2
+97381,Tesla,Model 3,18
+97381,Nissan,LEAF,20
+97381,Hyundai,KONA Electric,5
+97381,Hyundai,IONIQ Electric,1
+97381,BMW,i3,2
+97381,Hyundai,TUCSON Plug-in Hybrid,1
+97383,Jaguar,I-PACE,1
+97383,Toyota,RAV4 Prime,3
+97383,Hyundai,SANTA FE Plug-In Hybrid,1
+97383,Tesla,Model 3,8
+97383,Volkswagen,e-Golf,1
+97383,Hyundai,IONIQ Plug-in Hybrid,2
+97383,Tesla,Model Y,1
+97383,Ford,C-MAX Energi,1
+97383,Ford,Escape Plug-In Hybrid,1
+97383,Jeep,Wrangler Unlimited,2
+97383,Tesla,Model S,7
+97383,Toyota,Prius Plug-in Hybrid,1
+97383,Chrysler,Pacifica Hybrid,1
+97383,Hyundai,TUCSON Plug-in Hybrid,1
+97383,Porsche,Panamera,1
+97383,Ford,Mustang Mach-E,2
+97383,Nissan,LEAF,4
+97383,Ford,Fusion Energi,2
+97383,Subaru,Crosstrek,1
+97383,Tesla,Model X,1
+97383,BMW,i8,1
+97383,Toyota,Prius Prime,5
+97385,Volkswagen,e-Golf,1
+97385,Chevrolet,Bolt EV,1
+97385,Tesla,Model Y,3
+97385,Ford,Mustang Mach-E,1
+97385,Jeep,Wrangler Unlimited,2
+97385,Toyota,Prius Prime,1
+97385,Toyota,RAV4 Prime,1
+97385,Subaru,Crosstrek,1
+97385,Nissan,LEAF,1
+97385,Volvo,XC60,1
+97385,Tesla,Model 3,4
+97385,Ford,Escape Plug-In Hybrid,1
+97385,Chrysler,Pacifica Hybrid,2
+97385,Ford,C-MAX Energi,1
+97386,Tesla,Model Y,1
+97386,Volvo,XC90,1
+97386,Toyota,Prius Plug-in Hybrid,1
+97386,Toyota,RAV4 Prime,2
+97386,Chevrolet,Volt,5
+97386,Kia,EV6,1
+97386,Chevrolet,Bolt EV,2
+97386,Toyota,Prius Prime,4
+97386,Tesla,Model X,1
+97386,Chrysler,Pacifica Hybrid,2
+97386,Volvo,S60,1
+97386,Hyundai,IONIQ Electric,1
+97386,Kia,Niro Plug-In Hybrid,1
+97386,Ford,C-MAX Energi,2
+97386,BMW,i3,1
+97386,Tesla,Model 3,4
+97386,Ford,E-Transit Cargo,1
+97386,Hyundai,KONA Electric,1
+97386,Nissan,LEAF,4
+97388,Tesla,Model S,1
+97388,Volvo,XC60,1
+97388,Tesla,Model 3,3
+97388,Toyota,RAV4 Prime,1
+97388,Toyota,Prius Prime,2
+97388,Jeep,Wrangler Unlimited,1
+97388,Nissan,LEAF,2
+97388,Tesla,Model X,1
+97388,Ford,Mustang Mach-E,1
+97388,TOMB,UNKNOWN,1
+97388,Tesla,Model Y,3
+97388,Kia,Niro Plug-In Hybrid,1
+97388,Chevrolet,Bolt EV,1
+97389,Ford,Escape Plug-In Hybrid,1
+97389,Volvo,S60,1
+97389,Ford,C-MAX Energi,1
+97389,Volvo,XC60,1
+97389,Ford,Mustang Mach-E,1
+97389,Polestar,2,1
+97389,Tesla,Model 3,4
+97390,Toyota,Prius Plug-in Hybrid,1
+97390,Toyota,RAV4 Prime,1
+97390,Kia,Niro EV,1
+97390,Kia,Niro Plug-In Hybrid,1
+97391,Chevrolet,Volt,1
+97391,Chrysler,Pacifica Hybrid,2
+97391,Chevrolet,Spark EV,1
+97391,Honda,Clarity Plug-In Hybrid,1
+97391,Subaru,Crosstrek,1
+97391,Nissan,LEAF,1
+97391,Toyota,RAV4 Prime,1
+97391,Ford,Mustang Mach-E,2
+97391,Mitsubishi,Outlander PHEV,1
+97391,Ford,Escape Plug-In Hybrid,1
+97391,Toyota,Prius Prime,6
+97391,Tesla,Model Y,2
+97391,Tesla,Model 3,1
+97392,Chevrolet,Bolt EUV,1
+97392,Toyota,Prius Prime,7
+97392,Tesla,Model Y,2
+97392,Tesla,Model S,3
+97392,BMW,X5,1
+97392,ZERO,UNKNOWN,1
+97392,Chevrolet,Bolt EV,3
+97392,Hyundai,KONA Electric,1
+97392,Kia,Niro EV,1
+97392,Nissan,LEAF,4
+97392,Toyota,RAV4 Prime,2
+97392,Lincoln,Corsair,1
+97392,Chrysler,Pacifica Hybrid,1
+97392,Kia,Optima Plug-In Hybrid,1
+97392,Tesla,Model 3,11
+97392,Ford,Mustang Mach-E,2
+97392,Chevrolet,Volt,3
+97392,Volkswagen,ID.4,2
+97392,Hyundai,IONIQ 5,1
+97392,Tesla,Model X,2
+97392,Ford,C-MAX Energi,3
+97392,AMIC,UNKNOWN,1
+97392,Audi,e-tron,1
+97392,MINI,Hardtop 2 Door,1
+97392,BMW,3 Series,1
+97392,Jeep,Wrangler Unlimited,2
+97394,Volvo,S60,1
+97394,Chevrolet,Volt,3
+97394,Ford,Focus,1
+97394,Toyota,Prius Prime,5
+97394,Tesla,Model X,1
+97394,Kia,Niro EV,1
+97394,Hyundai,SANTA FE Plug-In Hybrid,1
+97394,Jeep,Wrangler Unlimited,3
+97394,Tesla,Model 3,5
+97394,Tesla,Model Y,2
+97394,Chevrolet,Bolt EV,5
+97394,Chrysler,Pacifica Hybrid,1
+97394,BMW,i3,1
+97394,Hyundai,KONA Electric,3
+97394,Honda,Clarity Plug-In Hybrid,1
+97394,Ford,Mustang Mach-E,1
+97394,Toyota,RAV4 Prime,1
+97396,Tesla,Model 3,2
+97396,Tesla,Model Y,1
+97396,Jeep,Wrangler Unlimited,1
+97396,Chevrolet,Volt,1
+97396,Lincoln,Aviator,1
+97396,Toyota,Prius Prime,1
+97396,AECI,UNKNOWN,1
+97396,Ford,Fusion Energi,2
+97396,Ford,C-MAX Energi,1
+97401,Tesla,Model 3,76
+97401,MINI,Countryman Plug-in Hybrid,1
+97401,Mercedes-Benz,EQS,1
+97401,Honda,Clarity Electric,1
+97401,Mitsubishi,Outlander PHEV,1
+97401,Volkswagen,ID.4,6
+97401,Chrysler,Pacifica Hybrid,8
+97401,Mercedes-Benz,GLC,1
+97401,Polestar,1,1
+97401,Karma,Revero,1
+97401,Hyundai,SANTA FE Plug-In Hybrid,2
+97401,BMW,3 Series,2
+97401,Kia,Niro EV,3
+97401,Hyundai,IONIQ Electric,1
+97401,Lincoln,Aviator,1
+97401,Hyundai,TUCSON Plug-in Hybrid,1
+97401,Subaru,Crosstrek,6
+97401,Nissan,LEAF,39
+97401,AMIC,UNKNOWN,8
+97401,Toyota,Prius Prime,39
+97401,Porsche,Taycan,4
+97401,Jeep,Wrangler Unlimited,6
+97401,Ford,TH!NK,1
+97401,Honda,Clarity Plug-In Hybrid,6
+97401,Volvo,XC60,4
+97401,Audi,e-tron,4
+97401,BMW,i3,5
+97401,BMW,iX,1
+97401,FIAT,500e,1
+97401,JBLC,UNKNOWN,1
+97401,Hyundai,SONATA Plug-in Hybrid,1
+97401,Hyundai,IONIQ Plug-in Hybrid,5
+97401,Audi,Q5,3
+97401,Hyundai,KONA Electric,7
+97401,Ford,Mustang Mach-E,6
+97401,Ford,F-150 Lightning,1
+97401,Tesla,Model S,20
+97401,Chevrolet,Bolt EV,23
+97401,Volvo,XC40,3
+97401,Chevrolet,Spark EV,2
+97401,Toyota,Prius Plug-in Hybrid,6
+97401,Mercedes-Benz,S-Class,1
+97401,Ford,E-Transit Cargo,1
+97401,GENU,UNKNOWN,1
+97401,Chevrolet,Volt,16
+97401,Tesla,Model Y,46
+97401,Jaguar,I-PACE,2
+97401,MINI,Hardtop 2 Door,3
+97401,Ford,C-MAX Energi,6
+97401,Kia,Sorento Plug-In Hybrid,1
+97401,BMW,X5,4
+97401,Kia,Niro Plug-In Hybrid,3
+97401,Tesla,Model X,12
+97401,Hyundai,IONIQ 5,4
+97401,Volvo,S60,1
+97401,Chevrolet,Bolt EUV,4
+97401,Ford,Fusion Energi,2
+97401,Toyota,RAV4 Prime,15
+97401,BMW,X3,4
+97401,BMW,5 Series,3
+97401,Kia,EV6,1
+97401,Volvo,XC90,2
+97401,Ford,Escape Plug-In Hybrid,4
+97401,Ford,Focus,2
+97402,Chevrolet,Volt,16
+97402,Chevrolet,Bolt EUV,1
+97402,Kia,Niro Plug-In Hybrid,4
+97402,ARCM,UNKNOWN,1
+97402,Tesla,Model X,2
+97402,Kia,EV6,3
+97402,Hyundai,SONATA Plug-in Hybrid,1
+97402,GMC,HUMMER EV,1
+97402,Tesla,Model Y,26
+97402,Ford,Escape Plug-In Hybrid,1
+97402,ASMBL,UNKNOWN,1
+97402,Volkswagen,ID.4,1
+97402,Tesla,Model S,4
+97402,Hyundai,IONIQ 5,2
+97402,Nissan,LEAF,39
+97402,ZONG,UNKNOWN,1
+97402,ZERO,UNKNOWN,2
+97402,ARCI,UNKNOWN,1
+97402,Volkswagen,e-Golf,2
+97402,TOMB,UNKNOWN,1
+97402,Toyota,Prius Prime,34
+97402,Kia,Niro EV,3
+97402,Toyota,RAV4 Prime,14
+97402,Hyundai,IONIQ Plug-in Hybrid,9
+97402,BMW,i3,1
+97402,Kia,Soul EV,1
+97402,Tesla,Model 3,48
+97402,Ford,Mustang Mach-E,4
+97402,Hyundai,KONA Electric,8
+97402,Audi,e-tron,2
+97402,Ford,Focus,1
+97402,AMIC,UNKNOWN,80
+97402,Ford,Fusion Energi,8
+97402,Mitsubishi,Outlander PHEV,1
+97402,Ford,E-Transit Cargo,1
+97402,Subaru,Crosstrek,4
+97402,Chevrolet,Bolt EV,27
+97402,Chevrolet,Spark EV,7
+97402,Honda,Clarity Plug-In Hybrid,4
+97402,Toyota,Prius Plug-in Hybrid,3
+97402,Hyundai,SANTA FE Plug-In Hybrid,1
+97402,Mitsubishi,i-MiEV,1
+97402,ZERO,S98,1
+97402,Volvo,XC90,4
+97402,Ford,C-MAX Energi,4
+97402,Chrysler,Pacifica Hybrid,7
+97403,Hyundai,SANTA FE Plug-In Hybrid,1
+97403,BMW,X3,1
+97403,Tesla,Model X,4
+97403,Chrysler,Pacifica Hybrid,2
+97403,Honda,Clarity Plug-In Hybrid,1
+97403,Ford,Mustang Mach-E,2
+97403,Chevrolet,Volt,2
+97403,Chevrolet,Bolt EV,8
+97403,Tesla,Model Y,18
+97403,Nissan,LEAF,13
+97403,Toyota,Prius Plug-in Hybrid,3
+97403,Mitsubishi,i-MiEV,1
+97403,Volvo,XC90,4
+97403,Audi,e-tron GT,1
+97403,Volvo,V60,1
+97403,Toyota,Prius Prime,10
+97403,Tesla,Model S,11
+97403,BMW,X5,2
+97403,FIAT,500e,1
+97403,Audi,A3 Sportback e-tron,3
+97403,Toyota,RAV4 Prime,8
+97403,Volvo,S60,1
+97403,Volkswagen,e-Golf,3
+97403,Mercedes-Benz,EQS,1
+97403,MINI,Hardtop 2 Door,1
+97403,Hyundai,IONIQ 5,1
+97403,Volvo,XC40,2
+97403,AMIC,UNKNOWN,1
+97403,Chevrolet,Spark EV,1
+97403,Ford,Escape Plug-In Hybrid,1
+97403,Honda,Clarity Electric,1
+97403,ACGC,UNKNOWN,1
+97403,Audi,Q5,1
+97403,Mitsubishi,Outlander PHEV,1
+97403,Tesla,Model 3,30
+97403,ZERO,SR,1
+97403,Hyundai,IONIQ Plug-in Hybrid,2
+97403,Volkswagen,ID.4,4
+97403,Subaru,Crosstrek,2
+97403,Kia,Niro EV,2
+97403,Hyundai,KONA Electric,5
+97403,BMW,i3,3
+97404,Ford,Mustang Mach-E,4
+97404,Toyota,Prius Plug-in Hybrid,3
+97404,Chrysler,Pacifica Hybrid,6
+97404,BMW,X5,1
+97404,Chevrolet,Spark EV,5
+97404,Volvo,S60,1
+97404,Chevrolet,Bolt EV,28
+97404,Chevrolet,Volt,13
+97404,Mitsubishi,i-MiEV,1
+97404,Nissan,LEAF,27
+97404,Hyundai,SANTA FE Plug-In Hybrid,1
+97404,Audi,e-tron,1
+97404,Toyota,Prius Prime,34
+97404,Jeep,Wrangler Unlimited,3
+97404,Hyundai,SONATA Plug-in Hybrid,1
+97404,Tesla,Model X,1
+97404,Volvo,XC40,1
+97404,Hyundai,KONA Electric,5
+97404,Hyundai,IONIQ 5,1
+97404,Volkswagen,ID.4,5
+97404,Audi,Q5,1
+97404,Ford,Fusion Energi,3
+97404,AMIC,UNKNOWN,4
+97404,Tesla,Model 3,36
+97404,ZERO,UNKNOWN,3
+97404,Tesla,Model S,9
+97404,Lincoln,Aviator,1
+97404,Subaru,Crosstrek,4
+97404,Ford,C-MAX Energi,6
+97404,Ford,E-Transit Cargo,1
+97404,Chevrolet,Bolt EUV,1
+97404,Tesla,Model Y,19
+97404,Honda,Clarity Plug-In Hybrid,7
+97404,Kia,Niro EV,4
+97404,Kia,Niro Plug-In Hybrid,4
+97404,BMW,i3,3
+97404,Toyota,RAV4 Prime,13
+97404,Kia,Sorento Plug-In Hybrid,1
+97404,Ford,TH!NK,1
+97404,Volvo,C40,1
+97404,Hyundai,IONIQ Plug-in Hybrid,5
+97404,Honda,Clarity Electric,1
+97404,Ford,F-150 Lightning,1
+97404,Lexus,NX 450h+,1
+97404,Volvo,XC90,1
+97404,Ford,Escape Plug-In Hybrid,2
+97404,Volkswagen,e-Golf,2
+97404,Rivian,R1T,1
+97405,Volvo,C40,3
+97405,Hyundai,IONIQ Electric,2
+97405,Toyota,Prius Plug-in Hybrid,9
+97405,Jeep,Wrangler Unlimited,3
+97405,Toyota,Prius Prime,77
+97405,MINI,Hardtop 2 Door,2
+97405,Honda,Clarity Plug-In Hybrid,9
+97405,Kia,Optima Plug-In Hybrid,1
+97405,Ford,TH!NK,1
+97405,Kia,EV6,7
+97405,Chrysler,Pacifica Hybrid,19
+97405,Volvo,S60,2
+97405,Tesla,Model 3,118
+97405,Ford,Focus,2
+97405,Nissan,LEAF,95
+97405,Kia,Sorento Plug-In Hybrid,2
+97405,Porsche,Taycan,2
+97405,Tesla,Model X,27
+97405,Volkswagen,ID.4,11
+97405,Honda,Clarity Electric,2
+97405,Audi,e-tron Sportback,1
+97405,BMW,3 Series,2
+97405,Mercedes-Benz,EQS,1
+97405,Ford,Fusion Energi,5
+97405,Rivian,R1T,1
+97405,Hyundai,SANTA FE Plug-In Hybrid,7
+97405,Tesla,Model Y,106
+97405,Volvo,XC40,7
+97405,Ford,Mustang Mach-E,10
+97405,Kia,Soul EV,3
+97405,BMW,X3,1
+97405,AMIC,UNKNOWN,12
+97405,BRMO,UNKNOWN,1
+97405,Mitsubishi,i-MiEV,1
+97405,Kia,Niro EV,11
+97405,Mitsubishi,Outlander PHEV,3
+97405,BMW,i3,9
+97405,Volvo,XC60,8
+97405,Chevrolet,Volt,51
+97405,Karma,Revero,1
+97405,Chevrolet,Spark EV,7
+97405,Audi,Q5,3
+97405,Hyundai,IONIQ 5,5
+97405,Ford,C-MAX Energi,14
+97405,Subaru,Crosstrek,29
+97405,Chevrolet,Bolt EUV,1
+97405,BMW,5 Series,3
+97405,Ford,Escape Plug-In Hybrid,1
+97405,Kia,Niro Plug-In Hybrid,5
+97405,Mercedes-Benz,GLC,7
+97405,Hyundai,IONIQ Plug-in Hybrid,17
+97405,Audi,e-tron,3
+97405,Tesla,Model S,41
+97405,Chevrolet,Bolt EV,98
+97405,ZERO,UNKNOWN,5
+97405,Hyundai,TUCSON Plug-in Hybrid,4
+97405,BMW,X5,13
+97405,Porsche,Cayenne,1
+97405,Lexus,NX 450h+,1
+97405,Volvo,XC90,7
+97405,Toyota,RAV4 Prime,53
+97405,Polestar,2,1
+97405,Jaguar,I-PACE,1
+97405,Audi,A3 Sportback e-tron,4
+97405,FIAT,500e,2
+97405,Hyundai,KONA Electric,22
+97405,Volkswagen,e-Golf,13
+97408,Chrysler,Pacifica Hybrid,4
+97408,Ford,Mustang Mach-E,9
+97408,Volvo,S60,2
+97408,Toyota,Prius Prime,24
+97408,Volkswagen,ID.4,3
+97408,Mitsubishi,Outlander PHEV,1
+97408,Volkswagen,e-Golf,1
+97408,Ford,Fusion Energi,1
+97408,Tesla,Model S,10
+97408,Volvo,XC90,4
+97408,Kia,Soul EV,1
+97408,BMW,X5,4
+97408,Audi,Q5,2
+97408,Kia,Niro EV,1
+97408,Toyota,RAV4 Prime,9
+97408,Audi,e-tron Sportback,1
+97408,Rivian,R1T,1
+97408,Hyundai,IONIQ 5,1
+97408,Honda,Clarity Electric,1
+97408,ZONG,UNKNOWN,1
+97408,Tesla,Model X,6
+97408,AMIC,UNKNOWN,3
+97408,Porsche,Taycan,3
+97408,Chevrolet,Volt,10
+97408,ZERO,UNKNOWN,1
+97408,Jeep,Wrangler Unlimited,3
+97408,Toyota,Prius Plug-in Hybrid,2
+97408,Mercedes-Benz,GLC,4
+97408,Chevrolet,Bolt EUV,1
+97408,Volvo,XC40,1
+97408,Lexus,NX 450h+,2
+97408,BMW,5 Series,1
+97408,Hyundai,KONA Electric,1
+97408,Chevrolet,Bolt EV,9
+97408,Ford,C-MAX Energi,1
+97408,Tesla,Model 3,35
+97408,Tesla,Model Y,37
+97408,Nissan,LEAF,12
+97408,Subaru,Crosstrek,7
+97408,Kia,EV6,1
+97408,Honda,Clarity Plug-In Hybrid,1
+97408,BMW,i3,4
+97410,Tesla,Model Y,1
+97411,Hyundai,TUCSON Plug-in Hybrid,1
+97411,Tesla,Model 3,8
+97411,Ford,Mustang Mach-E,2
+97411,Nissan,LEAF,3
+97411,Chevrolet,Volt,4
+97411,Toyota,Prius Prime,6
+97411,Tesla,Model Y,7
+97411,Cadillac,CT6 PLUG-IN Hybrid,1
+97411,Honda,Clarity Plug-In Hybrid,1
+97411,BMW,3 Series,1
+97411,Tesla,Model S,8
+97411,BMW,X3,1
+97411,Audi,Q5,1
+97411,Chrysler,Pacifica Hybrid,3
+97411,Toyota,Prius Plug-in Hybrid,1
+97411,Ford,Fusion Energi,2
+97411,Chevrolet,Bolt EV,2
+97411,ZERO,UNKNOWN,1
+97411,AECI,UNKNOWN,2
+97411,Tesla,Model X,1
+97411,Volvo,V60,1
+97411,Toyota,RAV4 Prime,2
+97411,Subaru,Crosstrek,1
+97411,Kia,EV6,2
+97412,Chevrolet,Bolt EV,2
+97412,Toyota,Prius Prime,1
+97413,Ford,C-MAX Energi,1
+97413,Chevrolet,Bolt EV,1
+97413,Toyota,Prius Prime,1
+97413,Tesla,Model S,2
+97413,Tesla,Model 3,2
+97415,Nissan,LEAF,2
+97415,Toyota,Prius Plug-in Hybrid,1
+97415,Lincoln,Corsair,1
+97415,Tesla,Model X,3
+97415,Tesla,Model Y,8
+97415,Chevrolet,Bolt EUV,1
+97415,Tesla,Model S,3
+97415,Volkswagen,ID.4,1
+97415,Jeep,Wrangler Unlimited,1
+97415,Kia,Niro EV,1
+97415,Ford,Fusion Energi,2
+97415,Ford,C-MAX Energi,3
+97415,Kia,Sorento Plug-In Hybrid,1
+97415,Volvo,XC90,2
+97415,Toyota,RAV4 Prime,6
+97415,Porsche,Taycan,1
+97415,Toyota,Prius Prime,9
+97415,ZERO,UNKNOWN,1
+97415,Chevrolet,Bolt EV,3
+97415,Chevrolet,Volt,13
+97415,Hyundai,KONA Electric,2
+97415,Subaru,Crosstrek,2
+97415,Honda,Clarity Plug-In Hybrid,3
+97415,Tesla,Model 3,17
+97415,Ford,Escape Plug-In Hybrid,1
+97415,ZERO,SR,1
+97415,Chevrolet,Spark EV,4
+97415,Mercedes-Benz,GLC,1
+97415,Ford,Mustang Mach-E,1
+97415,Chrysler,Pacifica Hybrid,2
+97417,Tesla,Model 3,1
+97417,Tesla,Model Y,2
+97419,Tesla,Model X,1
+97419,Chevrolet,Bolt EUV,1
+97419,Ford,Escape Plug-In Hybrid,1
+97419,Mercedes-Benz,B-Class,1
+97419,Chevrolet,Bolt EV,2
+97419,Toyota,RAV4 Prime,1
+97419,MINI,Hardtop 2 Door,1
+97419,AMIC,UNKNOWN,1
+97420,Kia,Niro Plug-In Hybrid,1
+97420,Chrysler,Pacifica Hybrid,2
+97420,Chevrolet,Bolt EV,9
+97420,Tesla,Model Y,5
+97420,Chevrolet,Bolt EUV,1
+97420,BMW,5 Series,1
+97420,Chevrolet,Volt,12
+97420,Nissan,LEAF,2
+97420,Ford,Focus,1
+97420,Tesla,Model X,2
+97420,AMIC,UNKNOWN,2
+97420,Porsche,Cayenne,1
+97420,Audi,e-tron Sportback,1
+97420,BMW,X5,1
+97420,Jeep,Wrangler Unlimited,2
+97420,Toyota,RAV4 Prime,7
+97420,Ford,C-MAX Energi,3
+97420,Hyundai,TUCSON Plug-in Hybrid,2
+97420,BMW,i8,1
+97420,Tesla,Model 3,5
+97420,Honda,Clarity Electric,1
+97420,Kia,EV6,1
+97420,Ford,Fusion Energi,6
+97420,BMW,3 Series,1
+97420,Toyota,Prius Prime,13
+97420,Toyota,Prius Plug-in Hybrid,4
+97420,Chevrolet,Spark EV,3
+97420,Honda,Clarity Plug-In Hybrid,1
+97423,Toyota,RAV4 Prime,1
+97423,ZERO,FXS,1
+97423,Chrysler,Pacifica Hybrid,1
+97423,Tesla,Model 3,1
+97423,Chevrolet,Bolt EV,2
+97423,Chevrolet,Volt,1
+97423,Tesla,Model X,1
+97423,Tesla,Model Y,2
+97423,Volkswagen,ID.4,1
+97424,Tesla,Model S,3
+97424,Subaru,Crosstrek,1
+97424,Jeep,Wrangler Unlimited,2
+97424,Volkswagen,ID.4,2
+97424,TOMB,UNKNOWN,1
+97424,Hyundai,KONA Electric,3
+97424,Chevrolet,Bolt EV,5
+97424,Chevrolet,Bolt EUV,1
+97424,Toyota,Prius Prime,4
+97424,Chrysler,Pacifica Hybrid,1
+97424,Chevrolet,Spark EV,1
+97424,Tesla,Model Y,3
+97424,Toyota,RAV4 Prime,3
+97424,Nissan,LEAF,6
+97424,Tesla,Model X,2
+97424,Honda,Clarity Plug-In Hybrid,2
+97424,MINI,Hardtop 2 Door,1
+97424,BMW,i3,1
+97424,Tesla,Model 3,15
+97424,Chevrolet,Volt,6
+97426,Tesla,Model Y,3
+97426,Tesla,Model 3,14
+97426,Ford,Mustang Mach-E,2
+97426,AMIC,UNKNOWN,1
+97426,Volvo,XC90,1
+97426,Ford,C-MAX Energi,2
+97426,Audi,e-tron,1
+97426,Chevrolet,Bolt EV,4
+97426,Toyota,Prius Prime,9
+97426,Tesla,Model S,5
+97426,Kia,EV6,1
+97426,Volkswagen,ID.4,2
+97426,Nissan,LEAF,4
+97426,Hyundai,KONA Electric,1
+97426,Chevrolet,Bolt EUV,1
+97426,Porsche,Taycan,1
+97426,Honda,Clarity Plug-In Hybrid,2
+97426,Kia,Niro EV,1
+97426,Ford,Fusion Energi,2
+97426,Chevrolet,Volt,5
+97426,Toyota,RAV4 Prime,4
+97429,Toyota,Prius Prime,2
+97429,Tesla,Model 3,1
+97429,Tesla,Model Y,1
+97430,Subaru,Crosstrek,1
+97430,Toyota,RAV4 Prime,1
+97431,Tesla,Model 3,2
+97431,Toyota,Prius Prime,1
+97431,Tesla,Model Y,1
+97431,Tesla,Model X,1
+97434,Volkswagen,e-Golf,1
+97435,Chevrolet,Bolt EV,2
+97435,Toyota,RAV4 Prime,1
+97435,Nissan,LEAF,1
+97435,Hyundai,KONA Electric,1
+97435,Tesla,Model 3,1
+97435,Toyota,Prius Prime,1
+97435,Kia,Niro EV,1
+97435,Volvo,XC90,1
+97436,Volkswagen,ID.4,1
+97436,Toyota,Prius Prime,1
+97436,Chevrolet,Bolt EV,1
+97436,Subaru,Crosstrek,1
+97436,Tesla,Model Y,1
+97436,Tesla,Model X,1
+97437,Tesla,Model 3,4
+97437,Nissan,LEAF,2
+97437,AMIC,UNKNOWN,1
+97437,Tesla,Model Y,1
+97437,Toyota,Prius Plug-in Hybrid,1
+97437,Tesla,Model X,1
+97437,Chevrolet,Bolt EV,1
+97438,ZERO,UNKNOWN,1
+97438,Toyota,RAV4 Prime,2
+97438,Toyota,Prius Prime,1
+97438,Hyundai,KONA Electric,1
+97438,Chevrolet,Bolt EV,2
+97438,Ford,Mustang Mach-E,2
+97438,Tesla,Model S,2
+97438,Honda,Clarity Plug-In Hybrid,1
+97438,Volkswagen,ID.4,1
+97438,Tesla,Model Y,1
+97438,Chevrolet,Volt,1
+97439,Volvo,XC90,2
+97439,Toyota,RAV4 Prime,3
+97439,Jeep,Wrangler Unlimited,2
+97439,Kia,EV6,1
+97439,Ford,Escape Plug-In Hybrid,2
+97439,GENU,UNKNOWN,2
+97439,ZERO,DS,1
+97439,Toyota,Prius Prime,14
+97439,Subaru,Crosstrek,1
+97439,Chrysler,Pacifica Hybrid,2
+97439,Chevrolet,Volt,7
+97439,BMW,i3,1
+97439,Kia,Niro Plug-In Hybrid,4
+97439,BMW,X5,2
+97439,AMIC,UNKNOWN,2
+97439,Tesla,Model 3,11
+97439,Kia,Soul EV,1
+97439,Hyundai,KONA Electric,3
+97439,Honda,Clarity Plug-In Hybrid,2
+97439,Ford,Mustang Mach-E,3
+97439,BMW,X3,1
+97439,Volvo,XC40,1
+97439,Ford,C-MAX Energi,2
+97439,Ford,Fusion Energi,4
+97439,Tesla,Model X,5
+97439,Nissan,LEAF,7
+97439,Smart,fortwo electric drive,1
+97439,Kia,Niro EV,3
+97439,Lincoln,Aviator,1
+97439,Porsche,Cayenne,1
+97439,Volvo,S60,1
+97439,Volvo,C40,1
+97439,Chevrolet,Bolt EV,11
+97439,Tesla,Model S,4
+97439,Tesla,Model Y,6
+97439,Volkswagen,ID.4,2
+97439,BMW,5 Series,1
+97443,Chevrolet,Bolt EV,1
+97443,Chevrolet,Volt,1
+97444,Tesla,Model 3,3
+97444,Ford,Mustang Mach-E,1
+97444,Lexus,NX 450h+,1
+97444,Tesla,Model S,2
+97444,BMW,X3,2
+97444,BMW,X5,1
+97444,Jeep,Wrangler Unlimited,2
+97444,Porsche,Taycan,1
+97444,BMW,5 Series,1
+97444,Chevrolet,Volt,2
+97444,Toyota,Prius Prime,3
+97444,Chevrolet,Spark EV,1
+97444,Tesla,Model Y,2
+97444,Toyota,RAV4 Prime,1
+97446,Tesla,Model X,2
+97446,Ford,Mustang Mach-E,1
+97446,Kia,Niro EV,1
+97446,Audi,e-tron Sportback,1
+97446,Chevrolet,Volt,2
+97446,Nissan,LEAF,2
+97446,Toyota,Prius Prime,2
+97446,Jeep,Wrangler Unlimited,1
+97446,Tesla,Model 3,7
+97446,Ford,C-MAX Energi,1
+97446,Toyota,RAV4 Prime,2
+97447,Toyota,Prius Plug-in Hybrid,1
+97448,Subaru,Crosstrek,2
+97448,Mitsubishi,Outlander PHEV,1
+97448,Chevrolet,Volt,7
+97448,Tesla,Model 3,7
+97448,Honda,Clarity Plug-In Hybrid,1
+97448,Tesla,Model S,2
+97448,Audi,A3 Sportback e-tron,1
+97448,Ford,C-MAX Energi,2
+97448,Chrysler,Pacifica Hybrid,2
+97448,Ford,Mustang Mach-E,3
+97448,Hyundai,KONA Electric,1
+97448,Hyundai,IONIQ 5,1
+97448,Mercedes-Benz,GLC,1
+97448,Toyota,Prius Prime,5
+97448,Jeep,Wrangler Unlimited,2
+97448,Ford,Fusion Energi,2
+97448,Toyota,RAV4 Prime,3
+97448,Audi,e-tron,1
+97448,Kia,Niro Plug-In Hybrid,1
+97448,Hyundai,SANTA FE Plug-In Hybrid,2
+97448,AMIC,UNKNOWN,2
+97448,Hyundai,IONIQ Electric,1
+97448,Tesla,Model Y,4
+97448,Chevrolet,Bolt EV,6
+97448,Nissan,LEAF,5
+97449,UBCO,UNKNOWN,1
+97449,Lincoln,Aviator,1
+97449,Hyundai,KONA Electric,1
+97449,Chevrolet,Volt,1
+97450,Honda,Clarity Plug-In Hybrid,1
+97450,Tesla,Model Y,2
+97450,Toyota,RAV4 Prime,1
+97450,Tesla,Model 3,1
+97451,Chevrolet,Bolt EV,1
+97452,Toyota,Prius Prime,3
+97452,Audi,Q5,1
+97452,Porsche,Cayenne,1
+97452,Hyundai,KONA Electric,1
+97452,Kia,Niro EV,1
+97452,Nissan,LEAF,1
+97453,Toyota,Prius Prime,1
+97454,Honda,Clarity Plug-In Hybrid,1
+97454,Volvo,XC40,1
+97454,Chevrolet,Volt,2
+97454,Ford,C-MAX Energi,1
+97454,Toyota,Prius Prime,1
+97454,Chevrolet,Bolt EV,4
+97454,Tesla,Model 3,1
+97455,Tesla,Model Y,1
+97455,Chevrolet,Volt,2
+97455,Jeep,Wrangler Unlimited,1
+97455,Tesla,Model 3,7
+97455,BMW,X3,1
+97455,Toyota,RAV4 Prime,1
+97455,Toyota,Prius Prime,1
+97455,Hyundai,SANTA FE Plug-In Hybrid,1
+97455,Ford,Mustang Mach-E,1
+97455,Hyundai,KONA Electric,3
+97455,Chevrolet,Bolt EV,1
+97455,Nissan,LEAF,2
+97455,Ford,Fusion Energi,1
+97455,Tesla,Model S,3
+97456,Kia,Niro Plug-In Hybrid,1
+97456,Nissan,LEAF,1
+97456,Volkswagen,e-Golf,1
+97456,Chevrolet,Volt,2
+97456,Ford,Fusion Energi,3
+97456,Lincoln,Aviator,1
+97456,Toyota,RAV4 Prime,2
+97456,Tesla,Model 3,3
+97456,Kia,Niro EV,2
+97456,Tesla,Model Y,3
+97456,Hyundai,SANTA FE Plug-In Hybrid,1
+97456,Chevrolet,Spark EV,1
+97456,Toyota,Prius Prime,2
+97457,Hyundai,SONATA Plug-in Hybrid,1
+97457,Hyundai,SANTA FE Plug-In Hybrid,1
+97457,Ford,Fusion Energi,2
+97457,Toyota,Prius Prime,2
+97457,Ford,Mustang Mach-E,1
+97457,Tesla,Model 3,3
+97457,Chevrolet,Volt,1
+97457,Ford,C-MAX Energi,2
+97457,Smart,fortwo electric drive,1
+97457,Tesla,Model Y,1
+97457,Nissan,LEAF,1
+97457,Chrysler,Pacifica Hybrid,1
+97457,Mitsubishi,Outlander PHEV,1
+97457,Kia,Niro EV,1
+97457,Volkswagen,ID.4,1
+97458,Tesla,Model 3,2
+97458,Mercedes-Benz,GLC,1
+97458,Toyota,Prius Prime,1
+97458,Chevrolet,Bolt EV,1
+97458,Chrysler,Pacifica Hybrid,1
+97458,Tesla,Model Y,1
+97458,Chevrolet,Volt,1
+97459,Chrysler,Pacifica Hybrid,3
+97459,BMW,5 Series,1
+97459,Volvo,XC90,1
+97459,Smart,fortwo electric drive,1
+97459,Ford,C-MAX Energi,1
+97459,Audi,A3 Sportback e-tron,1
+97459,Toyota,RAV4 Prime,3
+97459,Toyota,Prius Prime,8
+97459,Hyundai,SANTA FE Plug-In Hybrid,1
+97459,Jeep,Wrangler Unlimited,4
+97459,Subaru,Crosstrek,1
+97459,Kia,EV6,1
+97459,Chevrolet,Bolt EV,4
+97459,BMW,i3,1
+97459,Tesla,Model S,3
+97459,Tesla,Model X,5
+97459,Kia,Niro EV,1
+97459,Tesla,Model 3,5
+97459,Chevrolet,Volt,6
+97459,Tesla,Model Y,4
+97459,Ford,Escape Plug-In Hybrid,2
+97461,Chevrolet,Volt,1
+97461,Chevrolet,Bolt EV,1
+97462,Toyota,RAV4 Prime,2
+97462,BMW,X5,1
+97462,Chevrolet,Spark EV,1
+97462,Ford,Fusion Energi,2
+97462,Chrysler,Pacifica Hybrid,1
+97462,Toyota,Prius Prime,1
+97462,Tesla,Model X,1
+97462,Tesla,Model 3,2
+97462,Chevrolet,Bolt EV,1
+97462,Nissan,LEAF,1
+97463,Nissan,LEAF,1
+97463,Chevrolet,Bolt EV,2
+97463,Chevrolet,Spark EV,1
+97463,Chevrolet,Bolt EUV,1
+97463,Hyundai,SANTA FE Plug-In Hybrid,1
+97463,Toyota,Prius Plug-in Hybrid,1
+97463,Audi,Q5,1
+97463,Ford,Mustang Mach-E,1
+97465,Toyota,Prius Plug-in Hybrid,1
+97465,Toyota,Prius Prime,3
+97465,Honda,Clarity Plug-In Hybrid,1
+97465,Toyota,RAV4 Prime,1
+97465,Ford,Mustang Mach-E,1
+97465,Kia,Niro EV,1
+97465,Tesla,Model Y,2
+97465,Volkswagen,e-Golf,1
+97465,Chevrolet,Volt,3
+97466,Chevrolet,Volt,1
+97467,Volvo,XC40,1
+97467,Tesla,Model Y,3
+97467,Tesla,Model S,1
+97467,Tesla,Model 3,4
+97467,Toyota,Prius Prime,2
+97470,BMW,3 Series,1
+97470,Tesla,Model S,1
+97470,Honda,Clarity Plug-In Hybrid,3
+97470,Chevrolet,Volt,4
+97470,Nissan,LEAF,2
+97470,Chevrolet,Bolt EV,6
+97470,Toyota,RAV4 Prime,4
+97470,Ford,Mustang Mach-E,2
+97470,Hyundai,KONA Electric,1
+97470,Chrysler,Pacifica Hybrid,2
+97470,Tesla,Model X,3
+97470,Audi,Q5,1
+97470,Kia,Sorento Plug-In Hybrid,1
+97470,Toyota,Prius Plug-in Hybrid,2
+97470,Smart,EQ fortwo,1
+97470,Ford,Escape Plug-In Hybrid,1
+97470,BMW,X3,1
+97470,Toyota,Prius Prime,7
+97470,HDGC,UNKNOWN,1
+97470,Jeep,Wrangler Unlimited,2
+97470,Tesla,Model Y,7
+97470,Kia,Niro EV,4
+97470,Chevrolet,Spark EV,1
+97470,Tesla,Model 3,8
+97470,Ford,Fusion Energi,3
+97471,AMIC,UNKNOWN,1
+97471,Jeep,Wrangler Unlimited,4
+97471,Toyota,RAV4 Prime,9
+97471,Volkswagen,ID.4,2
+97471,BMW,X5,1
+97471,Kia,Sorento Plug-In Hybrid,1
+97471,Tesla,Model 3,13
+97471,Volvo,XC90,1
+97471,Nissan,LEAF,6
+97471,Porsche,Taycan,1
+97471,Kia,Niro Plug-In Hybrid,2
+97471,Ford,Fusion Energi,3
+97471,BMW,5 Series,1
+97471,Tesla,Model X,1
+97471,Volvo,XC60,1
+97471,Chevrolet,Spark EV,1
+97471,Kia,Niro EV,3
+97471,Hyundai,SANTA FE Plug-In Hybrid,1
+97471,Honda,Clarity Plug-In Hybrid,3
+97471,Tesla,Model Y,17
+97471,Chevrolet,Bolt EUV,1
+97471,Subaru,Crosstrek,2
+97471,Ford,Escape Plug-In Hybrid,2
+97471,Toyota,Prius Prime,12
+97471,Chevrolet,Volt,11
+97471,Tesla,Model S,9
+97471,Chevrolet,Bolt EV,7
+97471,Toyota,Prius Plug-in Hybrid,2
+97471,UBCO,UNKNOWN,2
+97471,Hyundai,SONATA Plug-in Hybrid,1
+97471,Hyundai,KONA Electric,2
+97471,Ford,Mustang Mach-E,2
+97471,Chrysler,Pacifica Hybrid,7
+97471,Ford,C-MAX Energi,1
+97473,Toyota,Prius Prime,1
+97476,Chevrolet,Bolt EV,1
+97476,Nissan,LEAF,1
+97476,Tesla,Model 3,2
+97477,Tesla,Model S,5
+97477,Hyundai,SONATA Plug-in Hybrid,1
+97477,Volvo,XC40,1
+97477,Jaguar,I-PACE,1
+97477,Hyundai,KONA Electric,2
+97477,Audi,Q5,1
+97477,Tesla,Model X,1
+97477,Hyundai,IONIQ 5,1
+97477,BMW,i4,1
+97477,BMW,X3,1
+97477,BMW,X5,3
+97477,AMIC,UNKNOWN,2
+97477,Jeep,Wrangler Unlimited,2
+97477,Chevrolet,Bolt EUV,2
+97477,Kia,EV6,3
+97477,Mitsubishi,Outlander PHEV,2
+97477,Lexus,NX 450h+,1
+97477,Subaru,Crosstrek,1
+97477,Ford,C-MAX Energi,4
+97477,Chrysler,Pacifica Hybrid,5
+97477,Chevrolet,Volt,12
+97477,ZAPP,UNKNOWN,1
+97477,Kia,Niro EV,3
+97477,Kia,Niro Plug-In Hybrid,4
+97477,Kia,Soul EV,1
+97477,Ford,Mustang Mach-E,8
+97477,Nissan,LEAF,19
+97477,Ford,Escape Plug-In Hybrid,1
+97477,Volkswagen,ID.4,1
+97477,Chevrolet,Bolt EV,23
+97477,Volkswagen,e-Golf,2
+97477,MINI,Countryman Plug-in Hybrid,1
+97477,Hyundai,SANTA FE Plug-In Hybrid,2
+97477,Tesla,Model 3,24
+97477,BMW,i3,2
+97477,Toyota,RAV4 Prime,12
+97477,Kia,Sorento Plug-In Hybrid,3
+97477,Hyundai,IONIQ Plug-in Hybrid,1
+97477,Honda,Clarity Plug-In Hybrid,4
+97477,Ford,Fusion Energi,4
+97477,Tesla,Model Y,18
+97477,BMW,5 Series,1
+97477,Toyota,Prius Prime,22
+97478,Hyundai,SONATA Plug-in Hybrid,1
+97478,Kia,Niro Plug-In Hybrid,3
+97478,Tesla,Model 3,34
+97478,Toyota,Prius Plug-in Hybrid,2
+97478,Ford,Focus,1
+97478,Mercedes-Benz,GLC,1
+97478,BMW,5 Series,1
+97478,Lexus,NX 450h+,1
+97478,Chrysler,Pacifica Hybrid,3
+97478,Ford,F-150 Lightning,1
+97478,Tesla,Model S,6
+97478,Chevrolet,Bolt EUV,2
+97478,Audi,e-tron,1
+97478,Ford,Fusion Energi,6
+97478,Porsche,Taycan,1
+97478,ZERO,UNKNOWN,2
+97478,Mitsubishi,Outlander PHEV,1
+97478,Hyundai,IONIQ Plug-in Hybrid,2
+97478,Toyota,Prius Prime,12
+97478,Ford,Escape Plug-In Hybrid,3
+97478,Volkswagen,ID.4,2
+97478,Volkswagen,e-Golf,1
+97478,Chevrolet,Spark EV,5
+97478,Tesla,Model X,3
+97478,Ford,Mustang Mach-E,7
+97478,Ford,C-MAX Energi,4
+97478,Hyundai,KONA Electric,3
+97478,Tesla,Model Y,21
+97478,Jeep,Wrangler Unlimited,2
+97478,Toyota,RAV4 Prime,13
+97478,BMW,X5,2
+97478,ZYTD,UNKNOWN,2
+97478,Chevrolet,Volt,7
+97478,Chevrolet,Bolt EV,19
+97478,Honda,Clarity Plug-In Hybrid,3
+97478,AMIC,UNKNOWN,1
+97478,Volvo,XC40,2
+97478,Volvo,XC90,1
+97478,Nissan,LEAF,9
+97478,Hyundai,IONIQ 5,1
+97479,Kia,Sorento Plug-In Hybrid,1
+97479,Tesla,Model S,2
+97479,Chrysler,Pacifica Hybrid,2
+97479,Toyota,Prius Plug-in Hybrid,1
+97479,Tesla,Model Y,3
+97479,Toyota,RAV4 Prime,1
+97479,POLS,UNKNOWN,1
+97479,Tesla,Model X,1
+97479,Toyota,Prius Prime,5
+97479,Tesla,Model 3,5
+97479,Chevrolet,Volt,1
+97479,Ford,Escape Plug-In Hybrid,1
+97479,Mitsubishi,Outlander PHEV,1
+97479,Jeep,Wrangler Unlimited,1
+97480,Ford,Fusion Energi,1
+97481,Chevrolet,Bolt EV,1
+97486,Nissan,LEAF,1
+97487,Tesla,Model S,1
+97487,Toyota,RAV4 Prime,1
+97487,Chevrolet,Volt,5
+97487,Mercedes-Benz,GLC,2
+97487,Ford,Fusion Energi,1
+97487,Chevrolet,Bolt EV,7
+97487,Volvo,XC40,1
+97487,BMW,X3,1
+97487,Tesla,Model Y,3
+97487,Kia,Niro Plug-In Hybrid,1
+97487,AMIC,UNKNOWN,2
+97487,Nissan,LEAF,3
+97487,Toyota,Prius Prime,9
+97487,ZERO,UNKNOWN,1
+97487,Hyundai,SANTA FE Plug-In Hybrid,1
+97487,Tesla,Model 3,6
+97487,Hyundai,IONIQ Plug-in Hybrid,2
+97487,Hyundai,IONIQ 5,1
+97487,Tesla,Model X,2
+97487,Ford,Mustang Mach-E,2
+97487,Hyundai,SONATA Plug-in Hybrid,1
+97487,Chrysler,Pacifica Hybrid,2
+97488,Tesla,Model 3,2
+97488,Ford,Fusion Energi,1
+97488,Tesla,Model Y,1
+97488,Kia,Sorento Plug-In Hybrid,1
+97488,AMIC,UNKNOWN,1
+97488,Chevrolet,Volt,1
+97488,Tesla,Model S,2
+97488,Hyundai,SANTA FE Plug-In Hybrid,1
+97488,Chevrolet,Bolt EV,1
+97489,BMW,X5,1
+97489,Volvo,XC60,1
+97489,Toyota,Prius Prime,1
+97489,Volvo,XC40,1
+97489,Tesla,Model 3,1
+97489,Tesla,Model X,2
+97489,Tesla,Model Y,2
+97489,Kia,Niro EV,1
+97490,Chevrolet,Volt,2
+97492,Jeep,Wrangler Unlimited,1
+97492,Subaru,Crosstrek,1
+97493,Toyota,RAV4 Prime,1
+97493,Tesla,Model 3,2
+97493,Ford,C-MAX Energi,1
+97495,Ford,Mustang Mach-E,1
+97495,Ford,Escape Plug-In Hybrid,1
+97495,Tesla,Model Y,2
+97495,Honda,Clarity Plug-In Hybrid,2
+97495,UBCO,UNKNOWN,1
+97495,Toyota,RAV4 Prime,3
+97495,Toyota,Prius Prime,1
+97495,Tesla,Model 3,2
+97496,Toyota,Prius Prime,4
+97496,Ford,C-MAX Energi,1
+97496,Ford,Fusion Energi,1
+97496,Nissan,LEAF,2
+97496,Chevrolet,Volt,1
+97496,Kia,Soul EV,1
+97496,Jeep,Wrangler Unlimited,1
+97496,Chevrolet,Bolt EV,1
+97496,Tesla,Model 3,1
+97497,Toyota,RAV4 Prime,1
+97498,MINI,Countryman Plug-in Hybrid,1
+97498,Tesla,Model S,2
+97498,Chevrolet,Bolt EV,3
+97498,BMW,X5,1
+97498,Tesla,Model Y,3
+97498,Toyota,RAV4 Prime,4
+97498,Chevrolet,Bolt EUV,1
+97498,Audi,e-tron,1
+97498,Honda,Clarity Plug-In Hybrid,1
+97498,Volkswagen,ID.4,1
+97498,Tesla,Model 3,8
+97498,Kia,Soul EV,1
+97498,Chevrolet,Volt,1
+97498,Ford,Mustang Mach-E,2
+97498,Toyota,Prius Prime,2
+97498,Chrysler,Pacifica Hybrid,2
+97498,Lincoln,Aviator,1
+97498,Tesla,Model X,1
+97498,Ford,Escape Plug-In Hybrid,2
+97499,Toyota,Prius Prime,1
+97499,Ford,TH!NK,1
+97499,Toyota,RAV4 Prime,1
+97499,Tesla,Model Y,1
+97499,Tesla,Model X,1
+97501,Jeep,Wrangler Unlimited,5
+97501,Toyota,RAV4 Prime,9
+97501,Audi,e-tron,1
+97501,Ford,Escape Plug-In Hybrid,2
+97501,Hyundai,IONIQ 5,1
+97501,Hyundai,SANTA FE Plug-In Hybrid,3
+97501,MINI,Hardtop 2 Door,2
+97501,Chevrolet,Bolt EUV,1
+97501,Toyota,Prius Plug-in Hybrid,2
+97501,BMW,i3,2
+97501,Chrysler,Pacifica Hybrid,1
+97501,Hyundai,IONIQ Plug-in Hybrid,2
+97501,Chevrolet,Bolt EV,14
+97501,ZYTD,UNKNOWN,1
+97501,Honda,Clarity Plug-In Hybrid,5
+97501,Volkswagen,e-Golf,1
+97501,Tesla,Model 3,23
+97501,Chevrolet,Volt,10
+97501,Ford,C-MAX Energi,3
+97501,BMW,X5,2
+97501,Nissan,LEAF,11
+97501,Polestar,2,1
+97501,Tesla,Model X,2
+97501,Toyota,Prius Prime,20
+97501,Tesla,Model S,4
+97501,Kia,Niro Plug-In Hybrid,3
+97501,AMIC,UNKNOWN,2
+97501,BMW,3 Series,1
+97501,Kia,EV6,1
+97501,Ford,Fusion Energi,6
+97501,Ford,Mustang Mach-E,6
+97501,Mercedes-Benz,GLC,2
+97501,Hyundai,SONATA Plug-in Hybrid,1
+97501,Hyundai,KONA Electric,2
+97501,Tesla,Model Y,18
+97501,Kia,Sorento Plug-In Hybrid,2
+97501,Subaru,Crosstrek,4
+97501,Ford,TH!NK,1
+97501,Ford,Focus,2
+97501,Chevrolet,Spark EV,2
+97502,Tesla,Model S,5
+97502,BMW,X3,2
+97502,Subaru,Crosstrek,3
+97502,Ford,Fusion Energi,2
+97502,Tesla,Model 3,25
+97502,Volvo,XC90,1
+97502,Toyota,RAV4 Prime,9
+97502,Toyota,Prius Prime,12
+97502,Ford,Mustang Mach-E,1
+97502,Honda,Clarity Plug-In Hybrid,2
+97502,Kia,EV6,1
+97502,Tesla,Model Y,24
+97502,BMW,i8,1
+97502,Chevrolet,Bolt EV,6
+97502,Kia,Sorento Plug-In Hybrid,2
+97502,Nissan,LEAF,3
+97502,Ford,Escape Plug-In Hybrid,1
+97502,Ford,C-MAX Energi,3
+97502,Chrysler,Pacifica Hybrid,7
+97502,BMW,3 Series,1
+97502,Kia,Niro EV,1
+97502,Chevrolet,Spark EV,3
+97502,Hyundai,KONA Electric,3
+97502,Kia,Soul EV,2
+97502,Hyundai,SONATA Plug-in Hybrid,1
+97502,Porsche,Taycan,1
+97502,Hyundai,IONIQ Plug-in Hybrid,2
+97502,Tesla,Model X,5
+97502,Volkswagen,ID.4,1
+97502,BMW,X5,3
+97502,Chevrolet,Volt,8
+97502,Audi,e-tron,1
+97502,Kia,Niro Plug-In Hybrid,1
+97502,FIAT,500e,1
+97502,Jeep,Wrangler Unlimited,1
+97502,BMW,i3,1
+97503,Land Rover,Range Rover Sport,1
+97503,Tesla,Model Y,2
+97503,Chevrolet,Volt,2
+97503,Jeep,Wrangler Unlimited,5
+97503,Tesla,Model X,1
+97503,Ford,C-MAX Energi,1
+97503,Subaru,Crosstrek,1
+97503,Nissan,LEAF,2
+97503,Chevrolet,Bolt EV,3
+97503,Toyota,RAV4 Prime,1
+97503,Hyundai,SANTA FE Plug-In Hybrid,1
+97503,Toyota,Prius Prime,2
+97503,Tesla,Model 3,6
+97504,Ford,C-MAX Energi,3
+97504,Kia,Niro EV,5
+97504,Tesla,Model X,9
+97504,Volkswagen,e-Golf,1
+97504,Ford,Focus,1
+97504,BMW,i3,3
+97504,Chevrolet,Spark EV,2
+97504,GEM,UNKNOWN,1
+97504,Hyundai,IONIQ Plug-in Hybrid,2
+97504,Subaru,Crosstrek,9
+97504,Hyundai,SANTA FE Plug-In Hybrid,1
+97504,Tesla,Model 3,78
+97504,BMW,i4,1
+97504,Ford,F-150 Lightning,1
+97504,Nissan,LEAF,10
+97504,Porsche,Panamera,1
+97504,Toyota,Prius Prime,31
+97504,Toyota,Prius Plug-in Hybrid,7
+97504,Toyota,RAV4 Prime,13
+97504,BRAM,UNKNOWN,1
+97504,Kia,Sorento Plug-In Hybrid,1
+97504,Hyundai,SONATA Plug-in Hybrid,1
+97504,Kia,Optima Plug-In Hybrid,1
+97504,ZERO,UNKNOWN,2
+97504,BMW,X3,5
+97504,Honda,Clarity Plug-In Hybrid,5
+97504,BMW,3 Series,3
+97504,Mitsubishi,i-MiEV,2
+97504,Porsche,Taycan,2
+97504,Tesla,Model S,18
+97504,Volvo,XC40,1
+97504,Chevrolet,Volt,16
+97504,Jeep,Wrangler Unlimited,8
+97504,BMW,5 Series,2
+97504,Ford,Escape Plug-In Hybrid,4
+97504,BMW,X5,8
+97504,BMW,iX,1
+97504,Chevrolet,Bolt EV,20
+97504,Volvo,XC60,2
+97504,Hyundai,IONIQ 5,1
+97504,Tesla,Model Y,47
+97504,Smart,fortwo electric drive,1
+97504,Chrysler,Pacifica Hybrid,5
+97504,MINI,Hardtop 2 Door,1
+97504,Kia,Niro Plug-In Hybrid,3
+97504,Audi,e-tron,1
+97504,Lincoln,Aviator,1
+97504,Hyundai,KONA Electric,4
+97504,Lucid,Air,1
+97504,Ford,Fusion Energi,1
+97504,Mercedes-Benz,GLC,1
+97504,Ford,Mustang Mach-E,5
+97504,Lexus,NX 450h+,1
+97504,Kia,Soul EV,1
+97504,Volkswagen,ID.4,4
+97504,BMW,i8,1
+97504,Kia,EV6,1
+97504,Mercedes-Benz,EQS,1
+97504,Volvo,XC90,3
+97504,Porsche,Cayenne,2
+97504,Mitsubishi,Outlander PHEV,1
+97520,BMW,5 Series,1
+97520,Hyundai,SONATA Plug-in Hybrid,1
+97520,Kia,Soul EV,3
+97520,Toyota,RAV4 Prime,35
+97520,Hyundai,TUCSON Plug-in Hybrid,3
+97520,Land Rover,Range Rover Sport,2
+97520,Subaru,Crosstrek,22
+97520,Hyundai,IONIQ Plug-in Hybrid,3
+97520,Hyundai,SANTA FE Plug-In Hybrid,1
+97520,Mercedes-Benz,GLE,1
+97520,Kia,Niro EV,6
+97520,ZERO,UNKNOWN,2
+97520,Hyundai,KONA Electric,11
+97520,Audi,A3 Sportback e-tron,2
+97520,Tesla,Model 3,60
+97520,Ford,Focus,1
+97520,MINI,Countryman Plug-in Hybrid,2
+97520,Tesla,Model Y,52
+97520,Chrysler,Pacifica Hybrid,3
+97520,CYCL,UNKNOWN,1
+97520,Kia,Niro Plug-In Hybrid,6
+97520,ZAPP,UNKNOWN,1
+97520,BMW,i3,8
+97520,Tesla,Model S,19
+97520,Audi,e-tron,1
+97520,Porsche,Taycan,1
+97520,Chevrolet,Bolt EV,67
+97520,Smart,fortwo electric drive,4
+97520,Ford,C-MAX Energi,12
+97520,Mitsubishi,i-MiEV,2
+97520,Audi,Q5,2
+97520,Kia,EV6,2
+97520,Nissan,LEAF,26
+97520,Chevrolet,Spark EV,13
+97520,Volkswagen,e-Golf,2
+97520,ASMBL,UNKNOWN,1
+97520,Volkswagen,ID.4,8
+97520,BMW,X3,4
+97520,MINI,Hardtop 2 Door,3
+97520,Chevrolet,Bolt EUV,4
+97520,Volvo,XC90,2
+97520,Toyota,Prius Plug-in Hybrid,7
+97520,Ford,Fusion Energi,4
+97520,BMW,X5,12
+97520,Honda,Clarity Plug-In Hybrid,13
+97520,Ford,Escape Plug-In Hybrid,8
+97520,Tesla,Model X,10
+97520,KLDT,UNKNOWN,1
+97520,Ford,Mustang Mach-E,13
+97520,Mitsubishi,Outlander PHEV,2
+97520,Volvo,XC60,1
+97520,Toyota,Prius Prime,35
+97520,BMW,3 Series,1
+97520,Chevrolet,Volt,38
+97520,Volvo,XC40,3
+97520,Jeep,Wrangler Unlimited,2
+97523,Tesla,Model Y,3
+97523,Chevrolet,Bolt EV,2
+97523,Toyota,RAV4 Prime,4
+97523,Ford,Fusion Energi,1
+97523,Toyota,Prius Prime,1
+97523,CEVL,UNKNOWN,1
+97523,Tesla,Model S,1
+97523,Toyota,Prius Plug-in Hybrid,1
+97523,ZYTD,UNKNOWN,1
+97523,Kia,Niro EV,1
+97524,Porsche,Taycan,1
+97524,Chevrolet,Volt,3
+97524,Ford,Fusion Energi,3
+97524,Jeep,Wrangler Unlimited,2
+97524,Tesla,Model X,1
+97524,Ford,Escape Plug-In Hybrid,1
+97524,Tesla,Model S,4
+97524,Tesla,Model 3,14
+97524,ZERO,UNKNOWN,1
+97524,Honda,Clarity Plug-In Hybrid,1
+97524,Hyundai,SONATA Plug-in Hybrid,1
+97524,Hyundai,SANTA FE Plug-In Hybrid,2
+97524,Toyota,Prius Prime,7
+97524,Ford,Mustang Mach-E,2
+97524,Toyota,RAV4 Prime,3
+97524,Kia,Sorento Plug-In Hybrid,1
+97524,Volvo,XC40,1
+97524,Chevrolet,Bolt EV,3
+97524,Kia,EV6,1
+97524,Lincoln,Aviator,1
+97524,Kia,Niro Plug-In Hybrid,1
+97524,Chrysler,Pacifica Hybrid,1
+97524,MINI,Countryman Plug-in Hybrid,1
+97524,Tesla,Model Y,5
+97524,HDKP,UNKNOWN,2
+97524,Porsche,918 Spyder,1
+97524,Hyundai,KONA Electric,1
+97524,Kia,Niro EV,1
+97525,Jeep,Wrangler Unlimited,2
+97525,Tesla,Model S,3
+97525,Chevrolet,Bolt EV,1
+97525,Kia,EV6,1
+97525,Ford,Mustang Mach-E,1
+97525,Toyota,RAV4 Prime,3
+97525,Kia,Sorento Plug-In Hybrid,1
+97525,Volkswagen,ID.4,1
+97525,BMW,X5,1
+97525,Toyota,Prius Prime,2
+97525,Chevrolet,Volt,1
+97525,Volvo,XC60,1
+97525,Hyundai,IONIQ Plug-in Hybrid,1
+97525,Tesla,Model 3,3
+97526,BMW,i3,1
+97526,Volkswagen,ID.4,2
+97526,Toyota,Prius Plug-in Hybrid,2
+97526,Subaru,Crosstrek,3
+97526,Kia,Niro Plug-In Hybrid,2
+97526,Tesla,Model Y,13
+97526,Chevrolet,Spark EV,1
+97526,Tesla,Model S,13
+97526,Tesla,Model X,7
+97526,Honda,Clarity Plug-In Hybrid,5
+97526,Kia,EV6,1
+97526,Volvo,XC90,2
+97526,MINI,Hardtop 2 Door,1
+97526,Chevrolet,Bolt EV,9
+97526,Toyota,RAV4 Prime,12
+97526,Kia,Soul EV,1
+97526,Chevrolet,Bolt EUV,1
+97526,Chrysler,Pacifica Hybrid,5
+97526,Hyundai,SANTA FE Plug-In Hybrid,1
+97526,Toyota,Prius Prime,18
+97526,Ford,Escape Plug-In Hybrid,2
+97526,Volvo,XC40,1
+97526,Kia,Niro EV,2
+97526,BMW,i8,1
+97526,Porsche,Taycan,1
+97526,Jeep,Wrangler Unlimited,4
+97526,Hyundai,IONIQ Plug-in Hybrid,2
+97526,Ford,Mustang Mach-E,6
+97526,Tesla,Model 3,30
+97526,Kia,Sorento Plug-In Hybrid,1
+97526,Ford,C-MAX Energi,2
+97526,Hyundai,KONA Electric,1
+97526,Audi,e-tron Sportback,1
+97526,Nissan,LEAF,10
+97526,Chevrolet,Volt,7
+97526,BMW,X3,1
+97526,Ford,Fusion Energi,5
+97527,Hyundai,SONATA Plug-in Hybrid,1
+97527,Kia,Niro EV,1
+97527,Kia,Sorento Plug-In Hybrid,1
+97527,Jeep,Wrangler Unlimited,4
+97527,Chrysler,Pacifica Hybrid,6
+97527,Tesla,Model S,4
+97527,Volvo,XC60,1
+97527,Ford,Mustang Mach-E,4
+97527,Chevrolet,Spark EV,2
+97527,ZERO,S,1
+97527,Ford,TH!NK,1
+97527,Tesla,Model X,3
+97527,Volvo,XC90,1
+97527,Audi,e-tron,1
+97527,Toyota,RAV4 Prime,8
+97527,Ford,Fusion Energi,1
+97527,Subaru,Crosstrek,2
+97527,Tesla,Model 3,21
+97527,Chevrolet,Bolt EV,9
+97527,Chevrolet,Volt,5
+97527,Porsche,Taycan,1
+97527,Ford,C-MAX Energi,1
+97527,Nissan,LEAF,4
+97527,Toyota,Prius Prime,23
+97527,Ford,Escape Plug-In Hybrid,4
+97527,Porsche,Panamera,1
+97527,Tesla,Model Y,16
+97527,Volkswagen,ID.4,3
+97527,Honda,Clarity Electric,1
+97527,BMW,X5,4
+97527,Kia,Niro Plug-In Hybrid,1
+97530,Subaru,Crosstrek,3
+97530,Kia,EV6,2
+97530,Toyota,RAV4 Prime,4
+97530,Chevrolet,Bolt EV,3
+97530,MINI,Countryman Plug-in Hybrid,1
+97530,Volvo,XC60,1
+97530,Toyota,Prius Plug-in Hybrid,2
+97530,Jeep,Wrangler Unlimited,1
+97530,ACGC,UNKNOWN,1
+97530,BMW,X3,2
+97530,Ford,Escape Plug-In Hybrid,1
+97530,Nissan,LEAF,2
+97530,Tesla,Model Y,10
+97530,Chevrolet,Volt,5
+97530,Tesla,Model X,5
+97530,Toyota,Prius Prime,8
+97530,BMW,X5,1
+97530,Ford,C-MAX Energi,1
+97530,Ford,Mustang Mach-E,3
+97530,Tesla,Model 3,18
+97530,Kia,Niro Plug-In Hybrid,2
+97530,Tesla,Model S,3
+97530,Volkswagen,ID.4,4
+97530,BMW,i3,1
+97530,Honda,Clarity Plug-In Hybrid,1
+97530,Chevrolet,Spark EV,1
+97532,Kia,Optima Plug-In Hybrid,1
+97532,Chevrolet,Bolt EV,1
+97532,Ford,Mustang Mach-E,1
+97532,Toyota,RAV4 Prime,3
+97532,Toyota,Prius Prime,1
+97532,Tesla,Model 3,4
+97532,BMW,X5,1
+97532,Volkswagen,ID.4,1
+97532,Subaru,Crosstrek,1
+97532,Hyundai,IONIQ Electric,1
+97532,Chevrolet,Volt,1
+97535,Porsche,Taycan,1
+97535,Ford,Fusion Energi,1
+97535,Toyota,Prius Plug-in Hybrid,1
+97535,Toyota,RAV4 Prime,2
+97535,Hyundai,SANTA FE Plug-In Hybrid,1
+97535,Tesla,Model 3,3
+97535,Ford,Mustang Mach-E,1
+97535,Tesla,Model Y,1
+97535,Nissan,LEAF,4
+97535,Volvo,XC40,1
+97535,Volkswagen,ID.4,1
+97535,Ford,C-MAX Energi,2
+97535,Hyundai,SONATA Plug-in Hybrid,1
+97536,Ford,Fusion Energi,1
+97537,Toyota,RAV4 Prime,1
+97537,Kia,Niro Plug-In Hybrid,1
+97537,Nissan,LEAF,3
+97537,Tesla,Model Y,4
+97537,Ford,Escape Plug-In Hybrid,1
+97537,Tesla,Model X,2
+97537,Volvo,XC90,1
+97537,Toyota,Prius Prime,2
+97537,Subaru,Crosstrek,1
+97537,Chevrolet,Bolt EV,3
+97537,Tesla,Model S,3
+97537,Honda,Clarity Plug-In Hybrid,2
+97537,Tesla,Model 3,3
+97537,Jeep,Wrangler Unlimited,1
+97538,Kia,Niro EV,1
+97538,Toyota,Prius Prime,3
+97538,Chevrolet,Volt,2
+97538,Toyota,Prius Plug-in Hybrid,1
+97538,Tesla,Model Y,2
+97538,Hyundai,SONATA Plug-in Hybrid,1
+97538,Tesla,Model 3,1
+97538,Tesla,Model S,1
+97538,Chevrolet,Bolt EV,1
+97539,Tesla,Model S,2
+97539,Volvo,XC90,1
+97539,Kia,EV6,1
+97539,Chevrolet,Bolt EV,1
+97539,Nissan,LEAF,1
+97539,Tesla,Model X,1
+97539,Tesla,Model Y,1
+97539,Subaru,Crosstrek,1
+97539,Chevrolet,Volt,1
+97539,Volkswagen,ID.4,1
+97539,KTM,UNKNOWN,1
+97539,Tesla,Model 3,1
+97540,Tesla,Model X,2
+97540,Toyota,Prius Prime,7
+97540,Audi,e-tron,1
+97540,Toyota,RAV4 Prime,5
+97540,Subaru,Crosstrek,3
+97540,Ford,Mustang Mach-E,2
+97540,Ford,C-MAX Energi,1
+97540,Chevrolet,Spark EV,3
+97540,Tesla,Model 3,8
+97540,Nissan,LEAF,3
+97540,Chevrolet,Bolt EV,8
+97540,Tesla,Model S,2
+97540,Tesla,Model Y,5
+97540,Chevrolet,Volt,7
+97540,ASVE,UNKNOWN,1
+97540,Volvo,XC90,3
+97540,Volkswagen,ID.4,1
+97540,Jeep,Wrangler Unlimited,1
+97540,FIAT,500e,1
+97540,Audi,Q5,1
+97540,Ford,Escape Plug-In Hybrid,1
+97540,Mercedes-Benz,C-Class,1
+97541,Ford,Fusion Energi,2
+97541,Mitsubishi,Outlander PHEV,1
+97541,Kia,Niro Plug-In Hybrid,1
+97541,Chevrolet,Bolt EV,1
+97541,Chrysler,Pacifica Hybrid,1
+97541,Honda,Clarity Plug-In Hybrid,1
+97543,Nissan,LEAF,2
+97543,Tesla,Model Y,1
+97543,Tesla,Model 3,1
+97544,Chevrolet,Spark EV,1
+97544,Toyota,Prius Prime,3
+97544,Chevrolet,Bolt EV,1
+97544,Tesla,Model Y,5
+97544,Toyota,RAV4 Prime,2
+97544,Tesla,Model 3,1
+97601,Subaru,Crosstrek,1
+97601,Kia,Niro Plug-In Hybrid,1
+97601,Chrysler,Pacifica Hybrid,2
+97601,Audi,e-tron GT,1
+97601,Kia,Niro EV,1
+97601,Ford,Mustang Mach-E,2
+97601,Tesla,Model Y,6
+97601,BMW,X5,1
+97601,Audi,e-tron,1
+97601,Kia,Sorento Plug-In Hybrid,3
+97601,Jeep,Wrangler Unlimited,1
+97601,Hyundai,TUCSON Plug-in Hybrid,2
+97601,Chevrolet,Volt,4
+97601,Toyota,RAV4 Prime,6
+97601,Ford,Fusion Energi,1
+97601,Tesla,Model X,2
+97601,Toyota,Prius Prime,16
+97601,Nissan,LEAF,6
+97601,Toyota,Prius Plug-in Hybrid,3
+97601,Tesla,Model S,6
+97601,Honda,Clarity Plug-In Hybrid,1
+97601,Tesla,Model 3,17
+97601,BMW,X3,2
+97601,Chevrolet,Bolt EV,3
+97601,Ford,Escape Plug-In Hybrid,1
+97601,Hyundai,SONATA Plug-in Hybrid,1
+97603,Toyota,Prius Prime,5
+97603,Tesla,Model S,3
+97603,Kia,Niro EV,2
+97603,Toyota,Prius Plug-in Hybrid,2
+97603,Porsche,Cayenne,1
+97603,Nissan,LEAF,3
+97603,Kia,EV6,1
+97603,Rivian,R1T,1
+97603,Kia,Sorento Plug-In Hybrid,2
+97603,MINI,Countryman Plug-in Hybrid,1
+97603,Tesla,Model 3,13
+97603,Tesla,Model Y,5
+97603,Hyundai,IONIQ 5,1
+97603,Chrysler,Pacifica Hybrid,3
+97603,Toyota,RAV4 Prime,3
+97603,Ford,Escape Plug-In Hybrid,3
+97603,BMW,X5,4
+97603,Kia,Optima Plug-In Hybrid,1
+97603,Ford,Fusion Energi,2
+97603,Subaru,Crosstrek,1
+97603,Ford,C-MAX Energi,1
+97603,Chevrolet,Volt,3
+97603,Volvo,XC90,1
+97603,Hyundai,KONA Electric,1
+97603,Jeep,Wrangler Unlimited,5
+97624,Kia,Niro Plug-In Hybrid,1
+97624,Chevrolet,Bolt EV,2
+97624,Toyota,Prius Prime,3
+97624,Ford,Fusion Energi,1
+97624,Smart,fortwo electric drive,1
+97624,ZERO,UNKNOWN,2
+97624,Ford,Escape Plug-In Hybrid,1
+97624,Tesla,Model 3,2
+97624,Volvo,XC90,1
+97624,Tesla,Model Y,4
+97624,Toyota,RAV4 Prime,1
+97627,Kia,EV6,1
+97627,ZERO,UNKNOWN,1
+97627,Hyundai,KONA Electric,1
+97630,Tesla,Model X,1
+97630,Chevrolet,Spark EV,1
+97630,Tesla,Model 3,1
+97630,Hyundai,SONATA Plug-in Hybrid,1
+97630,Chrysler,Pacifica Hybrid,2
+97630,Tesla,Model S,1
+97632,Chevrolet,Bolt EV,1
+97639,Hyundai,KONA Electric,2
+97641,Tesla,Model 3,1
+97641,Chevrolet,Volt,1
+97701,Hyundai,KONA Electric,7
+97701,Lexus,NX 450h+,1
+97701,Mercedes-Benz,GLE,1
+97701,Volvo,XC60,8
+97701,ZHEJ,2X2,1
+97701,Tesla,Model S,12
+97701,Hyundai,SANTA FE Plug-In Hybrid,2
+97701,Ford,Focus,2
+97701,Audi,e-tron,6
+97701,Kia,EV6,6
+97701,Lincoln,Corsair,1
+97701,Ford,C-MAX Energi,3
+97701,Hyundai,TUCSON Plug-in Hybrid,1
+97701,ZERO,UNKNOWN,1
+97701,Jeep,Wrangler Unlimited,9
+97701,Tesla,Model 3,49
+97701,Kia,Niro Plug-In Hybrid,7
+97701,Audi,e-tron Sportback,1
+97701,Ford,Fusion Energi,4
+97701,Volvo,XC90,1
+97701,Kia,Soul EV,3
+97701,Hyundai,IONIQ Plug-in Hybrid,1
+97701,BMW,i3,2
+97701,Honda,Clarity Plug-In Hybrid,3
+97701,Land Rover,Range Rover Sport,1
+97701,Land Rover,Range Rover,1
+97701,Toyota,RAV4 Prime,17
+97701,Smart,fortwo electric drive,1
+97701,Hyundai,IONIQ 5,1
+97701,Nissan,LEAF,29
+97701,BMW,X5,5
+97701,Porsche,Taycan,1
+97701,Chevrolet,Bolt EUV,1
+97701,Tesla,Model Y,46
+97701,Mercedes-Benz,GLC,1
+97701,Chevrolet,Spark EV,2
+97701,Audi,Q5,2
+97701,Chevrolet,Volt,9
+97701,Porsche,Cayenne,3
+97701,ZERO,FXS,1
+97701,Kia,Niro EV,5
+97701,Chevrolet,Bolt EV,11
+97701,Polestar,2,1
+97701,Volkswagen,ID.4,4
+97701,Ford,Mustang Mach-E,11
+97701,Tesla,Model X,15
+97701,Kia,Sorento Plug-In Hybrid,2
+97701,Subaru,Crosstrek,13
+97701,Toyota,Prius Plug-in Hybrid,2
+97701,Toyota,Prius Prime,17
+97701,Mitsubishi,Outlander PHEV,1
+97701,BMW,X3,3
+97701,Volkswagen,e-Golf,3
+97701,Chrysler,Pacifica Hybrid,4
+97701,Ford,F-150 Lightning,1
+97701,Volvo,XC40,4
+97701,ALTM,UNKNOWN,1
+97702,Subaru,Crosstrek,20
+97702,Hyundai,IONIQ Plug-in Hybrid,2
+97702,Porsche,Cayenne,4
+97702,Hyundai,SANTA FE Plug-In Hybrid,3
+97702,Volvo,XC90,6
+97702,Hyundai,IONIQ 5,1
+97702,Kia,Sorento Plug-In Hybrid,4
+97702,BMW,X5,22
+97702,Chevrolet,Bolt EUV,1
+97702,Chevrolet,Volt,9
+97702,Tesla,Model X,18
+97702,Volkswagen,ID.4,4
+97702,Tesla,Model S,18
+97702,ZERO,UNKNOWN,2
+97702,Toyota,Prius Prime,19
+97702,Lincoln,Aviator,1
+97702,Ford,C-MAX Energi,2
+97702,Audi,e-tron,8
+97702,Chevrolet,Spark EV,1
+97702,Mitsubishi,Outlander PHEV,3
+97702,Volkswagen,e-Golf,4
+97702,Rivian,R1T,1
+97702,BMW,X3,11
+97702,Smart,fortwo electric drive,1
+97702,Kia,Niro EV,11
+97702,Audi,Q5,17
+97702,Jeep,Wrangler Unlimited,23
+97702,Chrysler,Pacifica Hybrid,5
+97702,Hyundai,KONA Electric,4
+97702,BMW,i3,2
+97702,Volvo,XC60,10
+97702,Nissan,LEAF,31
+97702,Tesla,Model Y,90
+97702,Hyundai,IONIQ Electric,1
+97702,Tesla,Model 3,78
+97702,BMW,i8,1
+97702,Kia,Soul EV,2
+97702,ZERO,FXE,1
+97702,Honda,Clarity Plug-In Hybrid,5
+97702,Volvo,XC40,7
+97702,MINI,Countryman Plug-in Hybrid,2
+97702,Volvo,S60,2
+97702,BMW,3 Series,2
+97702,Chevrolet,Bolt EV,12
+97702,Audi,e-tron Sportback,6
+97702,Ford,Mustang Mach-E,15
+97702,UBCO,UNKNOWN,1
+97702,Polestar,2,4
+97702,Porsche,Taycan,7
+97702,GENU,UNKNOWN,3
+97702,POLS,UNKNOWN,1
+97702,AECI,M3,1
+97702,Kia,EV6,3
+97702,Toyota,RAV4 Prime,34
+97702,Kia,Niro Plug-In Hybrid,6
+97702,Audi,A3 Sportback e-tron,2
+97702,Toyota,Prius Plug-in Hybrid,3
+97702,Ford,Fusion Energi,6
+97702,BMW,5 Series,5
+97702,GEM,UNKNOWN,1
+97703,Nissan,LEAF,36
+97703,Audi,Q5,19
+97703,BMW,3 Series,1
+97703,Porsche,Cayenne,5
+97703,MINI,Hardtop 2 Door,1
+97703,Audi,A3 Sportback e-tron,2
+97703,BMW,i8,3
+97703,BMW,X3,8
+97703,Jaguar,I-PACE,2
+97703,POLS,UNKNOWN,1
+97703,Volvo,XC40,6
+97703,BMW,X5,24
+97703,Audi,e-tron Sportback,1
+97703,Tesla,Model Y,111
+97703,Kia,EV6,7
+97703,Ford,Escape Plug-In Hybrid,1
+97703,Toyota,RAV4 Prime,32
+97703,Rivian,R1T,4
+97703,ALTM,UNKNOWN,1
+97703,Hyundai,KONA Electric,8
+97703,Ford,Mustang Mach-E,11
+97703,Volvo,V60,1
+97703,Kia,Sorento Plug-In Hybrid,1
+97703,BMW,5 Series,2
+97703,Volvo,XC90,16
+97703,Jeep,Wrangler Unlimited,15
+97703,Smart,EQ fortwo,1
+97703,Hyundai,SANTA FE Plug-In Hybrid,6
+97703,Ford,Fusion Energi,4
+97703,Land Rover,Range Rover Sport,1
+97703,Tesla,Model X,35
+97703,Hyundai,IONIQ Electric,4
+97703,BMW,i3,6
+97703,Toyota,Prius Plug-in Hybrid,4
+97703,Volvo,S60,3
+97703,Chrysler,Pacifica Hybrid,2
+97703,ZERO,SR/,1
+97703,Chevrolet,Bolt EUV,1
+97703,Tesla,Model S,34
+97703,Volkswagen,ID.4,6
+97703,AMIC,UNKNOWN,1
+97703,Audi,e-tron,13
+97703,Porsche,Taycan,3
+97703,Smart,fortwo electric drive,2
+97703,Honda,Clarity Plug-In Hybrid,3
+97703,UBCO,UNKNOWN,1
+97703,ENRG,UNKNOWN,1
+97703,Mitsubishi,Outlander PHEV,2
+97703,Subaru,Crosstrek,13
+97703,Polestar,2,2
+97703,Chevrolet,Spark EV,5
+97703,Ford,F-150 Lightning,3
+97703,Toyota,Prius Prime,15
+97703,Chevrolet,Bolt EV,18
+97703,Kia,Niro EV,5
+97703,Volvo,XC60,24
+97703,Lucid,Air,1
+97703,Ford,C-MAX Energi,1
+97703,Porsche,Panamera,1
+97703,Tesla,Model 3,83
+97703,Volvo,C40,1
+97703,Volkswagen,e-Golf,4
+97703,Ford,Focus,1
+97703,Kia,Soul EV,2
+97703,Hyundai,TUCSON Plug-in Hybrid,2
+97703,Hyundai,IONIQ 5,2
+97703,Lexus,NX 450h+,1
+97703,Chevrolet,Volt,12
+97703,ZERO,UNKNOWN,3
+97707,Honda,Clarity Plug-In Hybrid,1
+97707,Chevrolet,Volt,1
+97707,Kia,Niro Plug-In Hybrid,2
+97707,Audi,A3 Sportback e-tron,1
+97707,Porsche,Taycan,3
+97707,Toyota,RAV4 Prime,6
+97707,BMW,X3,1
+97707,Volvo,XC60,2
+97707,Subaru,Crosstrek,5
+97707,Mercedes-Benz,GLC,1
+97707,Jeep,Wrangler Unlimited,5
+97707,Audi,e-tron,1
+97707,Tesla,Model 3,17
+97707,Chevrolet,Bolt EV,2
+97707,Tesla,Model X,7
+97707,Nissan,LEAF,7
+97707,BMW,X5,3
+97707,Kia,EV6,3
+97707,Kia,Sorento Plug-In Hybrid,1
+97707,AMIC,UNKNOWN,1
+97707,GARI,UNKNOWN,2
+97707,BMW,5 Series,1
+97707,Audi,Q5,4
+97707,Ford,C-MAX Energi,1
+97707,BMW,i3,2
+97707,Hyundai,KONA Electric,4
+97707,Ford,Escape Plug-In Hybrid,1
+97707,POLS,UNKNOWN,1
+97707,VESP,UNKNOWN,2
+97707,Volvo,XC40,5
+97707,Ford,Fusion Energi,4
+97707,Tesla,Model Y,19
+97707,Volkswagen,ID.4,1
+97707,Hyundai,IONIQ Plug-in Hybrid,2
+97707,Porsche,Cayenne,3
+97707,Volvo,XC90,3
+97707,Ford,Mustang Mach-E,5
+97707,Toyota,Prius Prime,8
+97707,Kia,Niro EV,3
+97707,Tesla,Model S,7
+97707,Toyota,Prius Plug-in Hybrid,1
+97709,Chevrolet,Spark EV,1
+97720,Kia,Niro EV,1
+97720,Hyundai,SANTA FE Plug-In Hybrid,1
+97720,Chevrolet,Volt,1
+97720,Kia,Soul EV,1
+97720,Ford,C-MAX Energi,1
+97722,Chevrolet,Volt,1
+97730,Tesla,Model Y,2
+97730,Chrysler,Pacifica Hybrid,1
+97730,Chevrolet,Bolt EV,1
+97730,Tesla,Model X,1
+97730,Toyota,RAV4 Prime,1
+97730,Volvo,XC60,1
+97730,Kia,Niro EV,1
+97730,Toyota,Prius Prime,1
+97733,Tesla,Model S,1
+97733,Mercedes-Benz,EQS,1
+97734,BMW,X5,1
+97734,Chevrolet,Bolt EV,1
+97734,Tesla,Model 3,2
+97734,Kia,Niro EV,1
+97734,Toyota,Prius Prime,1
+97734,Jeep,Wrangler Unlimited,2
+97737,Tesla,Model Y,1
+97737,Hyundai,IONIQ 5,1
+97738,Kia,Niro Plug-In Hybrid,1
+97738,Chevrolet,Volt,1
+97738,Tesla,Model 3,1
+97738,Toyota,Prius Plug-in Hybrid,1
+97739,Tesla,Model S,2
+97739,Ford,Escape Plug-In Hybrid,1
+97739,Hyundai,KONA Electric,2
+97739,Chevrolet,Bolt EV,10
+97739,Porsche,Taycan,3
+97739,Toyota,RAV4 Prime,6
+97739,Ferrari,SF90 Stradale,1
+97739,ZERO,UNKNOWN,1
+97739,Ford,Mustang Mach-E,1
+97739,Chevrolet,Volt,2
+97739,Ford,Fusion Energi,1
+97739,MINI,Countryman Plug-in Hybrid,1
+97739,Kia,Niro Plug-In Hybrid,1
+97739,Chrysler,Pacifica Hybrid,1
+97739,Chevrolet,Bolt EUV,1
+97739,BMW,X5,1
+97739,Subaru,Crosstrek,1
+97739,Chevrolet,Spark EV,1
+97739,Tesla,Model Y,1
+97739,Tesla,Model 3,5
+97739,Ford,C-MAX Energi,1
+97739,Volvo,S60,1
+97739,Toyota,Prius Prime,3
+97739,Nissan,LEAF,1
+97741,Chevrolet,Volt,2
+97741,Chrysler,Pacifica Hybrid,2
+97741,Ford,Escape Plug-In Hybrid,1
+97741,Toyota,Prius Prime,3
+97741,Tesla,Model 3,2
+97741,BMW,X3,1
+97741,Tesla,Model Y,2
+97741,Hyundai,KONA Electric,1
+97741,Volkswagen,ID.4,1
+97741,Honda,Clarity Plug-In Hybrid,1
+97741,Porsche,Taycan,1
+97741,Hyundai,IONIQ 5,1
+97741,Subaru,Crosstrek,1
+97741,Kia,Niro Plug-In Hybrid,1
+97741,Jeep,Wrangler Unlimited,1
+97741,GLBL,ELX,1
+97741,Toyota,RAV4 Prime,1
+97750,Tesla,Model S,1
+97753,Tesla,Model 3,10
+97753,Tesla,Model X,1
+97753,Jeep,Wrangler Unlimited,1
+97753,Volkswagen,ID.4,1
+97753,Porsche,Taycan,1
+97753,Nissan,LEAF,2
+97753,Ford,Mustang Mach-E,1
+97753,Volvo,XC90,2
+97753,Volvo,C40,1
+97753,BMW,X5,2
+97753,Porsche,Cayenne,1
+97753,Toyota,RAV4 Prime,2
+97753,Jaguar,I-PACE,1
+97753,Tesla,Model S,2
+97753,Audi,e-tron,2
+97753,ZERO,DS,1
+97753,Chevrolet,Volt,2
+97753,Tesla,Model Y,9
+97754,TOMB,UNKNOWN,2
+97754,Ford,C-MAX Energi,3
+97754,Tesla,Model X,1
+97754,Honda,Clarity Plug-In Hybrid,2
+97754,Tesla,Model S,3
+97754,Tesla,Model Y,3
+97754,Ford,Fusion Energi,2
+97754,Toyota,RAV4 Prime,2
+97754,Nissan,LEAF,2
+97754,Kia,Niro EV,1
+97754,Ford,Escape Plug-In Hybrid,1
+97754,ZERO,FXP,1
+97754,Toyota,Prius Prime,5
+97754,BMW,X3,1
+97754,Audi,Q5,1
+97754,Tesla,Model 3,8
+97754,ZERO,UNKNOWN,1
+97754,Smart,fortwo electric drive,1
+97754,Porsche,Cayenne,1
+97754,Chevrolet,Volt,4
+97754,Jeep,Wrangler Unlimited,2
+97754,Ford,Mustang Mach-E,3
+97754,Mercedes-Benz,GLC,1
+97754,Kia,EV6,2
+97754,Kia,Niro Plug-In Hybrid,2
+97754,Kia,Sorento Plug-In Hybrid,1
+97754,Chevrolet,Bolt EV,2
+97756,Honda,Clarity Plug-In Hybrid,1
+97756,Volkswagen,e-Golf,2
+97756,Hyundai,KONA Electric,6
+97756,BMW,X5,5
+97756,Volvo,XC40,3
+97756,Hyundai,IONIQ Electric,1
+97756,Ford,C-MAX Energi,2
+97756,Mercedes-Benz,GLC,1
+97756,HDGC,UNKNOWN,1
+97756,Jeep,Wrangler Unlimited,11
+97756,Tesla,Model 3,34
+97756,Kia,Sorento Plug-In Hybrid,5
+97756,BMW,iX,1
+97756,Hyundai,TUCSON Plug-in Hybrid,1
+97756,Kia,Niro EV,4
+97756,Kia,EV6,2
+97756,Volkswagen,ID.4,5
+97756,Subaru,Crosstrek,4
+97756,Toyota,Prius Prime,14
+97756,Chevrolet,Bolt EV,8
+97756,Toyota,RAV4 Prime,15
+97756,MINI,Hardtop 2 Door,2
+97756,Porsche,Taycan,2
+97756,Hyundai,SANTA FE Plug-In Hybrid,2
+97756,BMW,X3,2
+97756,Audi,Q5,1
+97756,Tesla,Model Y,34
+97756,Kia,Niro Plug-In Hybrid,4
+97756,Tesla,Model S,7
+97756,Cadillac,ELR,1
+97756,Audi,A3 Sportback e-tron,1
+97756,Chevrolet,Spark EV,1
+97756,Toyota,Prius Plug-in Hybrid,2
+97756,Chevrolet,Volt,8
+97756,Volvo,XC60,5
+97756,Hyundai,IONIQ 5,1
+97756,BMW,i4,1
+97756,Volvo,C40,1
+97756,Ford,Mustang Mach-E,9
+97756,Tesla,Model X,4
+97756,Ford,Fusion Energi,3
+97756,Volvo,XC90,3
+97756,BMW,3 Series,1
+97756,Nissan,LEAF,9
+97759,Audi,e-tron,1
+97759,Toyota,RAV4 Prime,8
+97759,Toyota,Prius Prime,4
+97759,Hyundai,IONIQ Electric,2
+97759,BMW,X5,3
+97759,Kia,Niro Plug-In Hybrid,1
+97759,Hyundai,SANTA FE Plug-In Hybrid,2
+97759,Toyota,Prius Plug-in Hybrid,1
+97759,Volkswagen,e-Golf,1
+97759,TOMB,UNKNOWN,1
+97759,Volvo,XC60,2
+97759,Hyundai,TUCSON Plug-in Hybrid,1
+97759,BMW,5 Series,1
+97759,Jeep,Wrangler Unlimited,5
+97759,Nissan,LEAF,4
+97759,Porsche,918 Spyder,1
+97759,Hyundai,IONIQ Plug-in Hybrid,2
+97759,Volvo,C40,3
+97759,Ford,Focus,1
+97759,Kia,EV6,1
+97759,Chevrolet,Bolt EV,5
+97759,Audi,Q5,2
+97759,Audi,A3 Sportback e-tron,1
+97759,Chevrolet,Volt,1
+97759,Audi,e-tron Sportback,1
+97759,Porsche,Taycan,1
+97759,Tesla,Model S,9
+97759,Hyundai,KONA Electric,2
+97759,Volvo,XC90,2
+97759,Honda,Clarity Plug-In Hybrid,2
+97759,BMW,X3,1
+97759,Tesla,Model Y,16
+97759,Porsche,Panamera,1
+97759,Tesla,Model X,6
+97759,Tesla,Model 3,14
+97760,Tesla,Model 3,2
+97760,Volvo,XC40,1
+97760,Chevrolet,Bolt EV,1
+97760,Tesla,Model X,2
+97760,Kia,Niro Plug-In Hybrid,1
+97760,ZERO,SR/,1
+97760,Ford,Mustang Mach-E,1
+97760,Hyundai,IONIQ 5,1
+97760,Honda,Clarity Plug-In Hybrid,1
+97760,Toyota,RAV4 Prime,4
+97760,Chrysler,Pacifica Hybrid,2
+97760,Tesla,Model S,2
+97760,Subaru,Crosstrek,1
+97760,Nissan,LEAF,1
+97760,Ford,C-MAX Energi,1
+97760,Jeep,Wrangler Unlimited,2
+97760,BMW,X5,2
+97760,Kia,Sorento Plug-In Hybrid,1
+97760,Hyundai,KONA Electric,2
+97760,Lincoln,Aviator,1
+97760,Toyota,Prius Plug-in Hybrid,1
+97760,Porsche,Taycan,1
+97760,Tesla,Model Y,2
+97760,Chevrolet,Volt,2
+97761,Chevrolet,Bolt EUV,1
+97801,Toyota,Prius Prime,6
+97801,AMIC,UNKNOWN,1
+97801,Tesla,Model X,1
+97801,Toyota,RAV4 Prime,5
+97801,Kia,Niro Plug-In Hybrid,2
+97801,Chrysler,Pacifica Hybrid,1
+97801,Nissan,LEAF,4
+97801,Volkswagen,ID.4,1
+97801,Ford,Mustang Mach-E,4
+97801,Jeep,Wrangler Unlimited,3
+97801,Toyota,Prius Plug-in Hybrid,1
+97801,Ford,Fusion Energi,2
+97801,Tesla,Model 3,7
+97801,Hyundai,KONA Electric,1
+97801,Tesla,Model Y,3
+97801,Tesla,Model S,2
+97801,Mitsubishi,Outlander PHEV,2
+97801,BMW,i3,1
+97801,Volvo,XC60,1
+97801,Chevrolet,Bolt EV,3
+97810,Jeep,Wrangler Unlimited,1
+97812,BMW,X3,1
+97812,Tesla,Model 3,1
+97813,Tesla,Model 3,1
+97814,Smart,fortwo electric drive,1
+97814,Honda,Clarity Plug-In Hybrid,1
+97814,Chevrolet,Spark EV,1
+97814,Ford,Mustang Mach-E,2
+97814,Hyundai,SANTA FE Plug-In Hybrid,1
+97814,Tesla,Model S,3
+97814,FIAT,500e,1
+97814,Kia,Niro Plug-In Hybrid,1
+97814,Tesla,Model Y,1
+97814,Chrysler,Pacifica Hybrid,1
+97814,Chevrolet,Volt,1
+97814,Tesla,Model 3,1
+97814,Volvo,XC60,1
+97814,Toyota,Prius Prime,4
+97814,Subaru,Crosstrek,1
+97814,Chevrolet,Bolt EV,1
+97814,Kia,Sorento Plug-In Hybrid,1
+97814,Toyota,RAV4 Prime,1
+97814,Mercedes-Benz,EQS,1
+97814,Volvo,XC90,1
+97818,Ford,Fusion Energi,1
+97818,Chevrolet,Bolt EV,1
+97818,Subaru,Crosstrek,1
+97818,Kia,EV6,1
+97818,Tesla,Model Y,1
+97818,Tesla,Model 3,1
+97818,Mercedes-Benz,EQS,1
+97823,Tesla,Model 3,1
+97823,Toyota,Prius Prime,1
+97824,Toyota,Prius Prime,1
+97824,Ford,TH!NK,1
+97824,Volvo,XC90,1
+97824,Nissan,LEAF,1
+97826,Mitsubishi,Outlander PHEV,1
+97826,Nissan,LEAF,1
+97827,Kia,EV6,1
+97827,Tesla,Model 3,1
+97828,Volvo,XC90,2
+97828,Chevrolet,Volt,2
+97828,ZERO,DSR,1
+97828,Subaru,Crosstrek,1
+97828,Chevrolet,Bolt EV,1
+97828,Kia,Niro EV,1
+97833,Ford,Escape Plug-In Hybrid,1
+97834,Toyota,Prius Plug-in Hybrid,1
+97835,Ford,C-MAX Energi,1
+97836,Ford,Fusion Energi,1
+97838,Tesla,Model Y,3
+97838,Tesla,Model S,3
+97838,Rivian,R1T,1
+97838,BMW,X5,1
+97838,Hyundai,SANTA FE Plug-In Hybrid,1
+97838,Ford,C-MAX Energi,1
+97838,Subaru,Crosstrek,3
+97838,Chevrolet,Volt,2
+97838,Tesla,Model X,1
+97838,Ford,Fusion Energi,1
+97838,Toyota,Prius Prime,6
+97838,Tesla,Model 3,9
+97838,Jeep,Wrangler Unlimited,3
+97838,Toyota,Prius Plug-in Hybrid,1
+97838,Kia,EV6,1
+97838,Kia,Niro Plug-In Hybrid,1
+97838,Nissan,LEAF,1
+97838,Chrysler,Pacifica Hybrid,3
+97838,Audi,Q5,1
+97841,Chevrolet,Bolt EV,1
+97841,Ford,TH!NK,2
+97845,Toyota,Prius Prime,1
+97845,Tesla,Model X,1
+97845,Ford,C-MAX Energi,1
+97846,Audi,e-tron,1
+97846,Toyota,Prius Prime,1
+97846,FIAT,500e,1
+97846,Jeep,Wrangler Unlimited,1
+97850,Ford,C-MAX Energi,1
+97850,Mitsubishi,Outlander PHEV,3
+97850,Tesla,Model S,1
+97850,Tesla,Model 3,6
+97850,Toyota,RAV4 Prime,4
+97850,Nissan,LEAF,1
+97850,Lincoln,Aviator,1
+97850,Tesla,Model Y,5
+97850,Chevrolet,Volt,1
+97850,Toyota,Prius Prime,6
+97850,Chrysler,Pacifica Hybrid,1
+97850,Ford,Mustang Mach-E,1
+97850,Chevrolet,Bolt EV,3
+97850,Tesla,Model X,1
+97850,Chevrolet,Bolt EUV,1
+97850,Ford,Escape Plug-In Hybrid,2
+97850,Subaru,Crosstrek,1
+97857,BMW,i3,1
+97857,Toyota,RAV4 Prime,1
+97857,Hyundai,IONIQ Plug-in Hybrid,1
+97857,Tesla,Model 3,1
+97862,Toyota,Prius Prime,4
+97862,Tesla,Model 3,1
+97862,Nissan,LEAF,2
+97862,BMW,i3,1
+97862,Kia,Niro EV,1
+97862,BMW,X5,1
+97862,Jeep,Wrangler Unlimited,1
+97862,Lexus,NX 450h+,1
+97867,Tesla,Model 3,1
+97867,Chevrolet,Bolt EV,1
+97869,Tesla,Model 3,1
+97875,Toyota,RAV4 Prime,1
+97875,HOND,VT2,1
+97876,Ford,TH!NK,1
+97876,Ford,Mustang Mach-E,1
+97882,Tesla,Model 3,2
+97882,Toyota,Prius Prime,2
+97882,Porsche,Taycan,1
+97882,Tesla,Model S,1
+97882,Toyota,RAV4 Prime,1
+97882,Ford,Fusion Energi,1
+97882,Tesla,Model Y,1
+97882,Nissan,LEAF,1
+97883,Chevrolet,Volt,1
+97883,Toyota,RAV4 Prime,1
+97883,Tesla,Model Y,1
+97884,Tesla,Model X,1
+97884,Tesla,Model S,1
+97885,Volkswagen,ID.4,1
+97885,Smart,fortwo electric drive,1
+97885,Toyota,RAV4 Prime,1
+97885,Tesla,Model 3,1
+97885,Tesla,Model X,2
+97885,Toyota,Prius Prime,2
+97886,Toyota,RAV4 Prime,1
+97913,Hyundai,IONIQ Plug-in Hybrid,1
+97913,AMIC,FUV,1
+97913,Tesla,Model X,1
+97913,Toyota,Prius Prime,2
+97913,Tesla,Model 3,3
+97914,Tesla,Model 3,7
+97914,Tesla,Model Y,3
+97914,Hyundai,SONATA Plug-in Hybrid,1
+97914,Tesla,Model S,5
+97914,Ford,Mustang Mach-E,1
+97914,Toyota,Prius Prime,4
+97918,Chevrolet,Bolt EUV,1
+97918,Tesla,Model 3,1
+99362,Tesla,Model 3,1

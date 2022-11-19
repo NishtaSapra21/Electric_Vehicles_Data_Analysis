@@ -1,0 +1,642 @@
+Region,Parameter,Mode,Powertrain,Year,Unit,Value
+Australia,EV sales,Cars,BEV,2011,sales,49
+Australia,EV sales,Cars,BEV,2012,sales,170
+Australia,EV sales,Cars,PHEV,2012,sales,80
+Australia,EV sales,Cars,PHEV,2013,sales,100
+Australia,EV sales,Cars,BEV,2013,sales,190
+Australia,EV sales,Cars,BEV,2014,sales,370
+Australia,EV sales,Cars,PHEV,2014,sales,950
+Australia,EV sales,Cars,PHEV,2015,sales,1000
+Australia,EV sales,Cars,BEV,2015,sales,760
+Australia,EV sales,Cars,BEV,2016,sales,670
+Australia,EV sales,Cars,PHEV,2016,sales,700
+Australia,EV sales,Cars,PHEV,2017,sales,1100
+Australia,EV sales,Cars,BEV,2017,sales,1200
+Australia,EV sales,Cars,BEV,2018,sales,1800
+Australia,EV sales,Cars,PHEV,2018,sales,1800
+Australia,EV sales,Cars,PHEV,2019,sales,2900
+Australia,EV sales,Cars,BEV,2019,sales,6300
+Australia,EV sales,Cars,BEV,2020,sales,5200
+Australia,EV sales,Cars,PHEV,2020,sales,1700
+Australia,EV sales,Cars,PHEV,2021,sales,3400
+Australia,EV sales,Cars,BEV,2021,sales,17000
+Belgium,EV sales,Cars,BEV,2010,sales,35
+Belgium,EV sales,Cars,BEV,2011,sales,280
+Belgium,EV sales,Cars,PHEV,2011,sales,16
+Belgium,EV sales,Cars,PHEV,2012,sales,260
+Belgium,EV sales,Cars,BEV,2012,sales,1000
+Belgium,EV sales,Cars,BEV,2013,sales,610
+Belgium,EV sales,Cars,PHEV,2013,sales,60
+Belgium,EV sales,Cars,PHEV,2014,sales,650
+Belgium,EV sales,Cars,BEV,2014,sales,1400
+Belgium,EV sales,Cars,BEV,2015,sales,1700
+Belgium,EV sales,Cars,PHEV,2015,sales,2200
+Belgium,EV sales,Cars,PHEV,2016,sales,7100
+Belgium,EV sales,Cars,BEV,2016,sales,2300
+Belgium,EV sales,Cars,BEV,2017,sales,3000
+Belgium,EV sales,Cars,PHEV,2017,sales,12000
+Belgium,EV sales,Cars,PHEV,2018,sales,9400
+Belgium,EV sales,Cars,BEV,2018,sales,4200
+Belgium,EV sales,Cars,BEV,2019,sales,8900
+Belgium,EV sales,Cars,PHEV,2019,sales,8800
+Belgium,EV sales,Cars,PHEV,2020,sales,33000
+Belgium,EV sales,Cars,BEV,2020,sales,15000
+Belgium,EV sales,Cars,BEV,2021,sales,22000
+Belgium,EV sales,Cars,PHEV,2021,sales,48000
+Brazil,EV sales,Cars,BEV,2012,sales,74
+Brazil,EV sales,Cars,PHEV,2012,sales,18
+Brazil,EV sales,Cars,PHEV,2013,sales,33
+Brazil,EV sales,Cars,BEV,2013,sales,130
+Brazil,EV sales,Cars,BEV,2014,sales,61
+Brazil,EV sales,Cars,PHEV,2015,sales,28
+Brazil,EV sales,Cars,BEV,2015,sales,59
+Brazil,EV sales,Cars,BEV,2016,sales,130
+Brazil,EV sales,Cars,PHEV,2016,sales,47
+Brazil,EV sales,Cars,PHEV,2017,sales,290
+Brazil,EV sales,Cars,BEV,2017,sales,28
+Brazil,EV sales,Cars,BEV,2018,sales,71
+Brazil,EV sales,Cars,PHEV,2018,sales,230
+Brazil,EV sales,Cars,PHEV,2019,sales,1400
+Brazil,EV sales,Cars,BEV,2019,sales,540
+Brazil,EV sales,Cars,BEV,2020,sales,680
+Brazil,EV sales,Cars,PHEV,2020,sales,1800
+Brazil,EV sales,Cars,PHEV,2021,sales,5200
+Brazil,EV sales,Cars,BEV,2021,sales,2000
+Canada,EV sales,Cars,PHEV,2011,sales,300
+Canada,EV sales,Cars,BEV,2011,sales,220
+Canada,EV sales,Cars,BEV,2012,sales,620
+Canada,EV sales,Cars,PHEV,2012,sales,1400
+Canada,EV sales,Cars,PHEV,2013,sales,1500
+Canada,EV sales,Cars,BEV,2013,sales,1600
+Canada,EV sales,Cars,BEV,2014,sales,2800
+Canada,EV sales,Cars,PHEV,2014,sales,2200
+Canada,EV sales,Cars,PHEV,2015,sales,2600
+Canada,EV sales,Cars,BEV,2015,sales,4400
+Canada,EV sales,Cars,BEV,2016,sales,5200
+Canada,EV sales,Cars,PHEV,2016,sales,6400
+Canada,EV sales,Cars,PHEV,2017,sales,8000
+Canada,EV sales,Cars,BEV,2017,sales,8700
+Canada,EV sales,Cars,BEV,2018,sales,23000
+Canada,EV sales,Cars,PHEV,2018,sales,21000
+Canada,EV sales,Cars,PHEV,2019,sales,19000
+Canada,EV sales,Cars,BEV,2019,sales,32000
+Canada,EV sales,Cars,BEV,2020,sales,37000
+Canada,EV sales,Cars,PHEV,2020,sales,14000
+Canada,EV sales,Cars,PHEV,2021,sales,28000
+Canada,EV sales,Cars,BEV,2021,sales,59000
+Chile,EV sales,Cars,BEV,2011,sales,6
+Chile,EV sales,Cars,BEV,2012,sales,5
+Chile,EV sales,Cars,BEV,2013,sales,5
+Chile,EV sales,Cars,BEV,2014,sales,3
+Chile,EV sales,Cars,PHEV,2014,sales,14
+Chile,EV sales,Cars,PHEV,2015,sales,23
+Chile,EV sales,Cars,BEV,2015,sales,13
+Chile,EV sales,Cars,BEV,2016,sales,22
+Chile,EV sales,Cars,PHEV,2016,sales,9
+Chile,EV sales,Cars,PHEV,2017,sales,15
+Chile,EV sales,Cars,BEV,2017,sales,120
+Chile,EV sales,Cars,BEV,2018,sales,110
+Chile,EV sales,Cars,PHEV,2018,sales,68
+Chile,EV sales,Cars,PHEV,2019,sales,140
+Chile,EV sales,Cars,BEV,2019,sales,160
+Chile,EV sales,Cars,BEV,2020,sales,110
+Chile,EV sales,Cars,PHEV,2020,sales,79
+Chile,EV sales,Cars,PHEV,2021,sales,300
+Chile,EV sales,Cars,BEV,2021,sales,270
+China,EV sales,Cars,BEV,2010,sales,1100
+China,EV sales,Cars,PHEV,2010,sales,340
+China,EV sales,Cars,PHEV,2011,sales,320
+China,EV sales,Cars,BEV,2011,sales,4800
+China,EV sales,Cars,BEV,2012,sales,9600
+China,EV sales,Cars,PHEV,2012,sales,260
+China,EV sales,Cars,PHEV,2013,sales,730
+China,EV sales,Cars,BEV,2013,sales,15000
+China,EV sales,Cars,BEV,2014,sales,49000
+China,EV sales,Cars,PHEV,2014,sales,24000
+China,EV sales,Cars,PHEV,2015,sales,61000
+China,EV sales,Cars,BEV,2015,sales,150000
+China,EV sales,Cars,BEV,2016,sales,260000
+China,EV sales,Cars,PHEV,2016,sales,79000
+China,EV sales,Cars,PHEV,2017,sales,110000
+China,EV sales,Cars,BEV,2017,sales,470000
+China,EV sales,Cars,BEV,2018,sales,820000
+China,EV sales,Cars,PHEV,2018,sales,270000
+China,EV sales,Cars,PHEV,2019,sales,230000
+China,EV sales,Cars,BEV,2019,sales,830000
+China,EV sales,Cars,BEV,2020,sales,930000
+China,EV sales,Cars,PHEV,2020,sales,230000
+China,EV sales,Cars,PHEV,2021,sales,600000
+China,EV sales,Cars,BEV,2021,sales,2700000
+Denmark,EV sales,Cars,PHEV,2010,sales,20
+Denmark,EV sales,Cars,BEV,2010,sales,28
+Denmark,EV sales,Cars,BEV,2011,sales,420
+Denmark,EV sales,Cars,PHEV,2012,sales,12
+Denmark,EV sales,Cars,BEV,2012,sales,490
+Denmark,EV sales,Cars,BEV,2013,sales,500
+Denmark,EV sales,Cars,PHEV,2013,sales,10
+Denmark,EV sales,Cars,PHEV,2014,sales,90
+Denmark,EV sales,Cars,BEV,2014,sales,1500
+Denmark,EV sales,Cars,BEV,2015,sales,4200
+Denmark,EV sales,Cars,PHEV,2015,sales,420
+Denmark,EV sales,Cars,PHEV,2016,sales,570
+Denmark,EV sales,Cars,BEV,2016,sales,1200
+Denmark,EV sales,Cars,BEV,2017,sales,690
+Denmark,EV sales,Cars,PHEV,2017,sales,620
+Denmark,EV sales,Cars,PHEV,2018,sales,3100
+Denmark,EV sales,Cars,BEV,2018,sales,1500
+Denmark,EV sales,Cars,BEV,2019,sales,5500
+Denmark,EV sales,Cars,PHEV,2019,sales,3900
+Denmark,EV sales,Cars,PHEV,2020,sales,18000
+Denmark,EV sales,Cars,BEV,2020,sales,14000
+Denmark,EV sales,Cars,BEV,2021,sales,25000
+Denmark,EV sales,Cars,PHEV,2021,sales,41000
+Finland,EV sales,Cars,BEV,2011,sales,30
+Finland,EV sales,Cars,BEV,2012,sales,51
+Finland,EV sales,Cars,PHEV,2012,sales,130
+Finland,EV sales,Cars,PHEV,2013,sales,170
+Finland,EV sales,Cars,BEV,2013,sales,50
+Finland,EV sales,Cars,BEV,2014,sales,180
+Finland,EV sales,Cars,PHEV,2014,sales,260
+Finland,EV sales,Cars,PHEV,2015,sales,440
+Finland,EV sales,Cars,BEV,2015,sales,240
+Finland,EV sales,Cars,BEV,2016,sales,220
+Finland,EV sales,Cars,PHEV,2016,sales,1200
+Finland,EV sales,Cars,PHEV,2017,sales,2600
+Finland,EV sales,Cars,BEV,2017,sales,500
+Finland,EV sales,Cars,BEV,2018,sales,780
+Finland,EV sales,Cars,PHEV,2018,sales,4900
+Finland,EV sales,Cars,PHEV,2019,sales,6000
+Finland,EV sales,Cars,BEV,2019,sales,1900
+Finland,EV sales,Cars,BEV,2020,sales,4200
+Finland,EV sales,Cars,PHEV,2020,sales,13000
+Finland,EV sales,Cars,PHEV,2021,sales,20000
+Finland,EV sales,Cars,BEV,2021,sales,10000
+France,EV sales,Cars,BEV,2010,sales,190
+France,EV sales,Cars,BEV,2011,sales,2600
+France,EV sales,Cars,PHEV,2011,sales,96
+France,EV sales,Cars,PHEV,2012,sales,600
+France,EV sales,Cars,BEV,2012,sales,5700
+France,EV sales,Cars,BEV,2013,sales,8800
+France,EV sales,Cars,PHEV,2013,sales,830
+France,EV sales,Cars,PHEV,2014,sales,2100
+France,EV sales,Cars,BEV,2014,sales,11000
+France,EV sales,Cars,BEV,2015,sales,17000
+France,EV sales,Cars,PHEV,2015,sales,5700
+France,EV sales,Cars,PHEV,2016,sales,7700
+France,EV sales,Cars,BEV,2016,sales,22000
+France,EV sales,Cars,BEV,2017,sales,26000
+France,EV sales,Cars,PHEV,2017,sales,12000
+France,EV sales,Cars,PHEV,2018,sales,16000
+France,EV sales,Cars,BEV,2018,sales,31000
+France,EV sales,Cars,BEV,2019,sales,43000
+France,EV sales,Cars,PHEV,2019,sales,19000
+France,EV sales,Cars,PHEV,2020,sales,75000
+France,EV sales,Cars,BEV,2020,sales,110000
+France,EV sales,Cars,BEV,2021,sales,170000
+France,EV sales,Cars,PHEV,2021,sales,140000
+Germany,EV sales,Cars,BEV,2010,sales,140
+Germany,EV sales,Cars,BEV,2011,sales,1400
+Germany,EV sales,Cars,PHEV,2011,sales,240
+Germany,EV sales,Cars,PHEV,2012,sales,1200
+Germany,EV sales,Cars,BEV,2012,sales,2200
+Germany,EV sales,Cars,BEV,2013,sales,5300
+Germany,EV sales,Cars,PHEV,2013,sales,1600
+Germany,EV sales,Cars,PHEV,2014,sales,4400
+Germany,EV sales,Cars,BEV,2014,sales,8300
+Germany,EV sales,Cars,BEV,2015,sales,12000
+Germany,EV sales,Cars,PHEV,2015,sales,11000
+Germany,EV sales,Cars,PHEV,2016,sales,13000
+Germany,EV sales,Cars,BEV,2016,sales,11000
+Germany,EV sales,Cars,BEV,2017,sales,25000
+Germany,EV sales,Cars,PHEV,2017,sales,29000
+Germany,EV sales,Cars,PHEV,2018,sales,31000
+Germany,EV sales,Cars,BEV,2018,sales,36000
+Germany,EV sales,Cars,BEV,2019,sales,63000
+Germany,EV sales,Cars,PHEV,2019,sales,45000
+Germany,EV sales,Cars,PHEV,2020,sales,200000
+Germany,EV sales,Cars,BEV,2020,sales,190000
+Germany,EV sales,Cars,BEV,2021,sales,360000
+Germany,EV sales,Cars,PHEV,2021,sales,330000
+Greece,EV sales,Cars,BEV,2013,sales,3
+Greece,EV sales,Cars,BEV,2014,sales,39
+Greece,EV sales,Cars,BEV,2015,sales,55
+Greece,EV sales,Cars,PHEV,2015,sales,22
+Greece,EV sales,Cars,PHEV,2016,sales,56
+Greece,EV sales,Cars,BEV,2016,sales,41
+Greece,EV sales,Cars,BEV,2017,sales,53
+Greece,EV sales,Cars,PHEV,2017,sales,140
+Greece,EV sales,Cars,PHEV,2018,sales,230
+Greece,EV sales,Cars,BEV,2018,sales,88
+Greece,EV sales,Cars,BEV,2019,sales,190
+Greece,EV sales,Cars,PHEV,2019,sales,290
+Greece,EV sales,Cars,PHEV,2020,sales,1500
+Greece,EV sales,Cars,BEV,2020,sales,680
+Greece,EV sales,Cars,BEV,2021,sales,2200
+Greece,EV sales,Cars,PHEV,2021,sales,4800
+Iceland,EV sales,Cars,BEV,2010,sales,2
+Iceland,EV sales,Cars,BEV,2012,sales,17
+Iceland,EV sales,Cars,PHEV,2012,sales,9
+Iceland,EV sales,Cars,PHEV,2013,sales,23
+Iceland,EV sales,Cars,BEV,2013,sales,80
+Iceland,EV sales,Cars,BEV,2014,sales,200
+Iceland,EV sales,Cars,PHEV,2014,sales,29
+Iceland,EV sales,Cars,PHEV,2015,sales,170
+Iceland,EV sales,Cars,BEV,2015,sales,390
+Iceland,EV sales,Cars,BEV,2016,sales,380
+Iceland,EV sales,Cars,PHEV,2016,sales,780
+Iceland,EV sales,Cars,PHEV,2017,sales,2200
+Iceland,EV sales,Cars,BEV,2017,sales,850
+Iceland,EV sales,Cars,BEV,2018,sales,780
+Iceland,EV sales,Cars,PHEV,2018,sales,2900
+Iceland,EV sales,Cars,PHEV,2019,sales,1700
+Iceland,EV sales,Cars,BEV,2019,sales,910
+Iceland,EV sales,Cars,BEV,2020,sales,2600
+Iceland,EV sales,Cars,PHEV,2020,sales,2400
+Iceland,EV sales,Cars,PHEV,2021,sales,4900
+Iceland,EV sales,Cars,BEV,2021,sales,4300
+India,EV sales,Cars,BEV,2010,sales,450
+India,EV sales,Cars,BEV,2011,sales,1400
+India,EV sales,Cars,BEV,2012,sales,190
+India,EV sales,Cars,BEV,2013,sales,410
+India,EV sales,Cars,BEV,2014,sales,1000
+India,EV sales,Cars,BEV,2015,sales,450
+India,EV sales,Cars,BEV,2016,sales,730
+India,EV sales,Cars,BEV,2017,sales,920
+India,EV sales,Cars,BEV,2018,sales,920
+India,EV sales,Cars,BEV,2019,sales,680
+India,EV sales,Cars,PHEV,2019,sales,7
+India,EV sales,Cars,PHEV,2020,sales,43
+India,EV sales,Cars,BEV,2020,sales,3100
+India,EV sales,Cars,BEV,2021,sales,12000
+India,EV sales,Cars,PHEV,2021,sales,41
+Italy,EV sales,Cars,BEV,2010,sales,40
+Italy,EV sales,Cars,BEV,2011,sales,110
+Italy,EV sales,Cars,BEV,2012,sales,460
+Italy,EV sales,Cars,BEV,2013,sales,790
+Italy,EV sales,Cars,PHEV,2013,sales,180
+Italy,EV sales,Cars,PHEV,2014,sales,340
+Italy,EV sales,Cars,BEV,2014,sales,1000
+Italy,EV sales,Cars,BEV,2015,sales,1400
+Italy,EV sales,Cars,PHEV,2015,sales,740
+Italy,EV sales,Cars,PHEV,2016,sales,1400
+Italy,EV sales,Cars,BEV,2016,sales,1400
+Italy,EV sales,Cars,BEV,2017,sales,2000
+Italy,EV sales,Cars,PHEV,2017,sales,2900
+Italy,EV sales,Cars,PHEV,2018,sales,4800
+Italy,EV sales,Cars,BEV,2018,sales,5000
+Italy,EV sales,Cars,BEV,2019,sales,11000
+Italy,EV sales,Cars,PHEV,2019,sales,6500
+Italy,EV sales,Cars,PHEV,2020,sales,27000
+Italy,EV sales,Cars,BEV,2020,sales,32000
+Italy,EV sales,Cars,BEV,2021,sales,67000
+Italy,EV sales,Cars,PHEV,2021,sales,71000
+Japan,EV sales,Cars,BEV,2010,sales,2400
+Japan,EV sales,Cars,BEV,2011,sales,13000
+Japan,EV sales,Cars,PHEV,2011,sales,15
+Japan,EV sales,Cars,PHEV,2012,sales,11000
+Japan,EV sales,Cars,BEV,2012,sales,13000
+Japan,EV sales,Cars,BEV,2013,sales,15000
+Japan,EV sales,Cars,PHEV,2013,sales,14000
+Japan,EV sales,Cars,PHEV,2014,sales,16000
+Japan,EV sales,Cars,BEV,2014,sales,16000
+Japan,EV sales,Cars,BEV,2015,sales,10000
+Japan,EV sales,Cars,PHEV,2015,sales,14000
+Japan,EV sales,Cars,PHEV,2016,sales,9400
+Japan,EV sales,Cars,BEV,2016,sales,15000
+Japan,EV sales,Cars,BEV,2017,sales,18000
+Japan,EV sales,Cars,PHEV,2017,sales,36000
+Japan,EV sales,Cars,PHEV,2018,sales,23000
+Japan,EV sales,Cars,BEV,2018,sales,27000
+Japan,EV sales,Cars,BEV,2019,sales,21000
+Japan,EV sales,Cars,PHEV,2019,sales,18000
+Japan,EV sales,Cars,PHEV,2020,sales,15000
+Japan,EV sales,Cars,BEV,2020,sales,15000
+Japan,EV sales,Cars,BEV,2021,sales,22000
+Japan,EV sales,Cars,PHEV,2021,sales,23000
+Korea,EV sales,Cars,BEV,2010,sales,61
+Korea,EV sales,Cars,BEV,2011,sales,270
+Korea,EV sales,Cars,BEV,2012,sales,510
+Korea,EV sales,Cars,BEV,2013,sales,600
+Korea,EV sales,Cars,BEV,2014,sales,1300
+Korea,EV sales,Cars,BEV,2015,sales,3100
+Korea,EV sales,Cars,PHEV,2015,sales,250
+Korea,EV sales,Cars,BEV,2016,sales,4700
+Korea,EV sales,Cars,PHEV,2016,sales,330
+Korea,EV sales,Cars,PHEV,2017,sales,670
+Korea,EV sales,Cars,BEV,2017,sales,14000
+Korea,EV sales,Cars,BEV,2018,sales,55000
+Korea,EV sales,Cars,PHEV,2018,sales,4400
+Korea,EV sales,Cars,PHEV,2019,sales,2700
+Korea,EV sales,Cars,BEV,2019,sales,33000
+Korea,EV sales,Cars,BEV,2020,sales,31000
+Korea,EV sales,Cars,PHEV,2020,sales,8700
+Korea,EV sales,Cars,PHEV,2021,sales,19000
+Korea,EV sales,Cars,BEV,2021,sales,72000
+Mexico,EV sales,Cars,BEV,2011,sales,3
+Mexico,EV sales,Cars,BEV,2012,sales,88
+Mexico,EV sales,Cars,BEV,2013,sales,12
+Mexico,EV sales,Cars,BEV,2014,sales,48
+Mexico,EV sales,Cars,BEV,2015,sales,92
+Mexico,EV sales,Cars,PHEV,2015,sales,7
+Mexico,EV sales,Cars,PHEV,2016,sales,520
+Mexico,EV sales,Cars,BEV,2016,sales,250
+Mexico,EV sales,Cars,BEV,2017,sales,230
+Mexico,EV sales,Cars,PHEV,2017,sales,970
+Mexico,EV sales,Cars,PHEV,2018,sales,1600
+Mexico,EV sales,Cars,BEV,2018,sales,200
+Mexico,EV sales,Cars,BEV,2019,sales,270
+Mexico,EV sales,Cars,PHEV,2019,sales,450
+Mexico,EV sales,Cars,PHEV,2020,sales,610
+Mexico,EV sales,Cars,BEV,2020,sales,1900
+Mexico,EV sales,Cars,BEV,2021,sales,3300
+Mexico,EV sales,Cars,PHEV,2021,sales,1000
+Netherlands,EV sales,Cars,BEV,2010,sales,120
+Netherlands,EV sales,Cars,BEV,2011,sales,860
+Netherlands,EV sales,Cars,PHEV,2011,sales,17
+Netherlands,EV sales,Cars,PHEV,2012,sales,4300
+Netherlands,EV sales,Cars,BEV,2012,sales,790
+Netherlands,EV sales,Cars,BEV,2013,sales,2300
+Netherlands,EV sales,Cars,PHEV,2013,sales,20000
+Netherlands,EV sales,Cars,PHEV,2014,sales,12000
+Netherlands,EV sales,Cars,BEV,2014,sales,2700
+Netherlands,EV sales,Cars,BEV,2015,sales,2500
+Netherlands,EV sales,Cars,PHEV,2015,sales,41000
+Netherlands,EV sales,Cars,PHEV,2016,sales,19000
+Netherlands,EV sales,Cars,BEV,2016,sales,4100
+Netherlands,EV sales,Cars,BEV,2017,sales,9200
+Netherlands,EV sales,Cars,PHEV,2017,sales,1100
+Netherlands,EV sales,Cars,PHEV,2018,sales,3500
+Netherlands,EV sales,Cars,BEV,2018,sales,24000
+Netherlands,EV sales,Cars,BEV,2019,sales,62000
+Netherlands,EV sales,Cars,PHEV,2019,sales,5500
+Netherlands,EV sales,Cars,PHEV,2020,sales,16000
+Netherlands,EV sales,Cars,BEV,2020,sales,72000
+Netherlands,EV sales,Cars,BEV,2021,sales,63000
+Netherlands,EV sales,Cars,PHEV,2021,sales,31000
+New Zealand,EV sales,Cars,BEV,2010,sales,10
+New Zealand,EV sales,Cars,BEV,2011,sales,13
+New Zealand,EV sales,Cars,PHEV,2011,sales,2
+New Zealand,EV sales,Cars,PHEV,2012,sales,5
+New Zealand,EV sales,Cars,BEV,2012,sales,22
+New Zealand,EV sales,Cars,BEV,2013,sales,30
+New Zealand,EV sales,Cars,PHEV,2013,sales,6
+New Zealand,EV sales,Cars,PHEV,2014,sales,210
+New Zealand,EV sales,Cars,BEV,2014,sales,110
+New Zealand,EV sales,Cars,BEV,2015,sales,300
+New Zealand,EV sales,Cars,PHEV,2015,sales,200
+New Zealand,EV sales,Cars,PHEV,2016,sales,340
+New Zealand,EV sales,Cars,BEV,2016,sales,1200
+New Zealand,EV sales,Cars,BEV,2017,sales,2900
+New Zealand,EV sales,Cars,PHEV,2017,sales,540
+New Zealand,EV sales,Cars,PHEV,2018,sales,1200
+New Zealand,EV sales,Cars,BEV,2018,sales,4400
+New Zealand,EV sales,Cars,BEV,2019,sales,5300
+New Zealand,EV sales,Cars,PHEV,2019,sales,1600
+New Zealand,EV sales,Cars,PHEV,2020,sales,1500
+New Zealand,EV sales,Cars,BEV,2020,sales,3900
+New Zealand,EV sales,Cars,BEV,2021,sales,6800
+New Zealand,EV sales,Cars,PHEV,2021,sales,3500
+Norway,EV sales,Cars,BEV,2010,sales,360
+Norway,EV sales,Cars,BEV,2011,sales,2000
+Norway,EV sales,Cars,BEV,2012,sales,3900
+Norway,EV sales,Cars,PHEV,2012,sales,320
+Norway,EV sales,Cars,PHEV,2013,sales,340
+Norway,EV sales,Cars,BEV,2013,sales,7900
+Norway,EV sales,Cars,BEV,2014,sales,18000
+Norway,EV sales,Cars,PHEV,2014,sales,1700
+Norway,EV sales,Cars,PHEV,2015,sales,8000
+Norway,EV sales,Cars,BEV,2015,sales,26000
+Norway,EV sales,Cars,BEV,2016,sales,24000
+Norway,EV sales,Cars,PHEV,2016,sales,21000
+Norway,EV sales,Cars,PHEV,2017,sales,29000
+Norway,EV sales,Cars,BEV,2017,sales,33000
+Norway,EV sales,Cars,BEV,2018,sales,46000
+Norway,EV sales,Cars,PHEV,2018,sales,27000
+Norway,EV sales,Cars,PHEV,2019,sales,19000
+Norway,EV sales,Cars,BEV,2019,sales,60000
+Norway,EV sales,Cars,BEV,2020,sales,77000
+Norway,EV sales,Cars,PHEV,2020,sales,29000
+Norway,EV sales,Cars,PHEV,2021,sales,38000
+Norway,EV sales,Cars,BEV,2021,sales,110000
+Other Europe,EV sales,Cars,BEV,2011,sales,870
+Other Europe,EV sales,Cars,PHEV,2011,sales,19
+Other Europe,EV sales,Cars,PHEV,2012,sales,360
+Other Europe,EV sales,Cars,BEV,2012,sales,1400
+Other Europe,EV sales,Cars,BEV,2013,sales,1100
+Other Europe,EV sales,Cars,PHEV,2013,sales,270
+Other Europe,EV sales,Cars,PHEV,2014,sales,790
+Other Europe,EV sales,Cars,BEV,2014,sales,2700
+Other Europe,EV sales,Cars,BEV,2015,sales,3300
+Other Europe,EV sales,Cars,PHEV,2015,sales,1900
+Other Europe,EV sales,Cars,PHEV,2016,sales,2300
+Other Europe,EV sales,Cars,BEV,2016,sales,5400
+Other Europe,EV sales,Cars,BEV,2017,sales,8800
+Other Europe,EV sales,Cars,PHEV,2017,sales,4200
+Other Europe,EV sales,Cars,PHEV,2018,sales,5200
+Other Europe,EV sales,Cars,BEV,2018,sales,13000
+Other Europe,EV sales,Cars,BEV,2019,sales,20000
+Other Europe,EV sales,Cars,PHEV,2019,sales,7400
+Other Europe,EV sales,Cars,PHEV,2020,sales,21000
+Other Europe,EV sales,Cars,BEV,2020,sales,36000
+Other Europe,EV sales,Cars,BEV,2021,sales,68000
+Other Europe,EV sales,Cars,PHEV,2021,sales,41000
+Poland,EV sales,Cars,BEV,2010,sales,15
+Poland,EV sales,Cars,PHEV,2010,sales,1
+Poland,EV sales,Cars,BEV,2011,sales,43
+Poland,EV sales,Cars,BEV,2012,sales,44
+Poland,EV sales,Cars,PHEV,2012,sales,4
+Poland,EV sales,Cars,PHEV,2013,sales,6
+Poland,EV sales,Cars,BEV,2013,sales,45
+Poland,EV sales,Cars,BEV,2014,sales,140
+Poland,EV sales,Cars,PHEV,2014,sales,61
+Poland,EV sales,Cars,PHEV,2015,sales,160
+Poland,EV sales,Cars,BEV,2015,sales,180
+Poland,EV sales,Cars,BEV,2016,sales,330
+Poland,EV sales,Cars,PHEV,2016,sales,380
+Poland,EV sales,Cars,PHEV,2017,sales,680
+Poland,EV sales,Cars,BEV,2017,sales,920
+Poland,EV sales,Cars,BEV,2018,sales,1100
+Poland,EV sales,Cars,PHEV,2018,sales,950
+Poland,EV sales,Cars,PHEV,2019,sales,1800
+Poland,EV sales,Cars,BEV,2019,sales,2300
+Poland,EV sales,Cars,BEV,2020,sales,4800
+Poland,EV sales,Cars,PHEV,2020,sales,5200
+Poland,EV sales,Cars,PHEV,2021,sales,8900
+Poland,EV sales,Cars,BEV,2021,sales,8900
+Portugal,EV sales,Cars,BEV,2010,sales,720
+Portugal,EV sales,Cars,BEV,2011,sales,190
+Portugal,EV sales,Cars,BEV,2012,sales,52
+Portugal,EV sales,Cars,BEV,2013,sales,140
+Portugal,EV sales,Cars,PHEV,2013,sales,37
+Portugal,EV sales,Cars,PHEV,2014,sales,9
+Portugal,EV sales,Cars,BEV,2014,sales,190
+Portugal,EV sales,Cars,BEV,2015,sales,670
+Portugal,EV sales,Cars,PHEV,2015,sales,440
+Portugal,EV sales,Cars,PHEV,2016,sales,1000
+Portugal,EV sales,Cars,BEV,2016,sales,810
+Portugal,EV sales,Cars,BEV,2017,sales,1900
+Portugal,EV sales,Cars,PHEV,2017,sales,2500
+Portugal,EV sales,Cars,PHEV,2018,sales,3900
+Portugal,EV sales,Cars,BEV,2018,sales,4400
+Portugal,EV sales,Cars,BEV,2019,sales,6900
+Portugal,EV sales,Cars,PHEV,2019,sales,5800
+Portugal,EV sales,Cars,PHEV,2020,sales,12000
+Portugal,EV sales,Cars,BEV,2020,sales,8100
+Portugal,EV sales,Cars,BEV,2021,sales,13000
+Portugal,EV sales,Cars,PHEV,2021,sales,16000
+South Africa,EV sales,Cars,BEV,2013,sales,34
+South Africa,EV sales,Cars,BEV,2014,sales,14
+South Africa,EV sales,Cars,PHEV,2014,sales,1
+South Africa,EV sales,Cars,PHEV,2015,sales,120
+South Africa,EV sales,Cars,BEV,2015,sales,120
+South Africa,EV sales,Cars,BEV,2016,sales,100
+South Africa,EV sales,Cars,PHEV,2016,sales,280
+South Africa,EV sales,Cars,PHEV,2017,sales,130
+South Africa,EV sales,Cars,BEV,2017,sales,68
+South Africa,EV sales,Cars,BEV,2018,sales,66
+South Africa,EV sales,Cars,PHEV,2018,sales,82
+South Africa,EV sales,Cars,PHEV,2019,sales,72
+South Africa,EV sales,Cars,BEV,2019,sales,160
+South Africa,EV sales,Cars,BEV,2020,sales,92
+South Africa,EV sales,Cars,PHEV,2020,sales,150
+South Africa,EV sales,Cars,PHEV,2021,sales,51
+South Africa,EV sales,Cars,BEV,2021,sales,220
+Spain,EV sales,Cars,BEV,2010,sales,76
+Spain,EV sales,Cars,BEV,2011,sales,390
+Spain,EV sales,Cars,PHEV,2011,sales,8
+Spain,EV sales,Cars,PHEV,2012,sales,110
+Spain,EV sales,Cars,BEV,2012,sales,430
+Spain,EV sales,Cars,BEV,2013,sales,810
+Spain,EV sales,Cars,PHEV,2013,sales,72
+Spain,EV sales,Cars,PHEV,2014,sales,330
+Spain,EV sales,Cars,BEV,2014,sales,1400
+Spain,EV sales,Cars,BEV,2015,sales,1300
+Spain,EV sales,Cars,PHEV,2015,sales,780
+Spain,EV sales,Cars,PHEV,2016,sales,1500
+Spain,EV sales,Cars,BEV,2016,sales,2000
+Spain,EV sales,Cars,BEV,2017,sales,3900
+Spain,EV sales,Cars,PHEV,2017,sales,3500
+Spain,EV sales,Cars,PHEV,2018,sales,5600
+Spain,EV sales,Cars,BEV,2018,sales,6000
+Spain,EV sales,Cars,BEV,2019,sales,10000
+Spain,EV sales,Cars,PHEV,2019,sales,7400
+Spain,EV sales,Cars,PHEV,2020,sales,24000
+Spain,EV sales,Cars,BEV,2020,sales,18000
+Spain,EV sales,Cars,BEV,2021,sales,25000
+Spain,EV sales,Cars,PHEV,2021,sales,43000
+Sweden,EV sales,Cars,BEV,2010,sales,4
+Sweden,EV sales,Cars,BEV,2011,sales,180
+Sweden,EV sales,Cars,BEV,2012,sales,270
+Sweden,EV sales,Cars,PHEV,2012,sales,660
+Sweden,EV sales,Cars,PHEV,2013,sales,1100
+Sweden,EV sales,Cars,BEV,2013,sales,430
+Sweden,EV sales,Cars,BEV,2014,sales,1200
+Sweden,EV sales,Cars,PHEV,2014,sales,3400
+Sweden,EV sales,Cars,PHEV,2015,sales,5600
+Sweden,EV sales,Cars,BEV,2015,sales,3000
+Sweden,EV sales,Cars,BEV,2016,sales,3000
+Sweden,EV sales,Cars,PHEV,2016,sales,10000
+Sweden,EV sales,Cars,PHEV,2017,sales,16000
+Sweden,EV sales,Cars,BEV,2017,sales,4400
+Sweden,EV sales,Cars,BEV,2018,sales,7100
+Sweden,EV sales,Cars,PHEV,2018,sales,22000
+Sweden,EV sales,Cars,PHEV,2019,sales,25000
+Sweden,EV sales,Cars,BEV,2019,sales,16000
+Sweden,EV sales,Cars,BEV,2020,sales,28000
+Sweden,EV sales,Cars,PHEV,2020,sales,66000
+Sweden,EV sales,Cars,PHEV,2021,sales,78000
+Sweden,EV sales,Cars,BEV,2021,sales,58000
+Switzerland,EV sales,Cars,BEV,2010,sales,140
+Switzerland,EV sales,Cars,BEV,2011,sales,400
+Switzerland,EV sales,Cars,PHEV,2011,sales,41
+Switzerland,EV sales,Cars,PHEV,2012,sales,400
+Switzerland,EV sales,Cars,BEV,2012,sales,340
+Switzerland,EV sales,Cars,BEV,2013,sales,1200
+Switzerland,EV sales,Cars,PHEV,2013,sales,170
+Switzerland,EV sales,Cars,PHEV,2014,sales,200
+Switzerland,EV sales,Cars,BEV,2014,sales,2700
+Switzerland,EV sales,Cars,BEV,2015,sales,3300
+Switzerland,EV sales,Cars,PHEV,2015,sales,2400
+Switzerland,EV sales,Cars,PHEV,2016,sales,2800
+Switzerland,EV sales,Cars,BEV,2016,sales,3300
+Switzerland,EV sales,Cars,BEV,2017,sales,4800
+Switzerland,EV sales,Cars,PHEV,2017,sales,3600
+Switzerland,EV sales,Cars,PHEV,2018,sales,4400
+Switzerland,EV sales,Cars,BEV,2018,sales,5100
+Switzerland,EV sales,Cars,BEV,2019,sales,13000
+Switzerland,EV sales,Cars,PHEV,2019,sales,4300
+Switzerland,EV sales,Cars,PHEV,2020,sales,14000
+Switzerland,EV sales,Cars,BEV,2020,sales,19000
+Switzerland,EV sales,Cars,BEV,2021,sales,32000
+Switzerland,EV sales,Cars,PHEV,2021,sales,22000
+United Kingdom,EV sales,Cars,BEV,2010,sales,260
+United Kingdom,EV sales,Cars,PHEV,2010,sales,21
+United Kingdom,EV sales,Cars,PHEV,2011,sales,7
+United Kingdom,EV sales,Cars,BEV,2011,sales,1200
+United Kingdom,EV sales,Cars,BEV,2012,sales,1700
+United Kingdom,EV sales,Cars,PHEV,2012,sales,990
+United Kingdom,EV sales,Cars,PHEV,2013,sales,1100
+United Kingdom,EV sales,Cars,BEV,2013,sales,2700
+United Kingdom,EV sales,Cars,BEV,2014,sales,6800
+United Kingdom,EV sales,Cars,PHEV,2014,sales,7900
+United Kingdom,EV sales,Cars,PHEV,2015,sales,19000
+United Kingdom,EV sales,Cars,BEV,2015,sales,10000
+United Kingdom,EV sales,Cars,BEV,2016,sales,11000
+United Kingdom,EV sales,Cars,PHEV,2016,sales,27000
+United Kingdom,EV sales,Cars,PHEV,2017,sales,34000
+United Kingdom,EV sales,Cars,BEV,2017,sales,14000
+United Kingdom,EV sales,Cars,BEV,2018,sales,16000
+United Kingdom,EV sales,Cars,PHEV,2018,sales,35000
+United Kingdom,EV sales,Cars,PHEV,2019,sales,37000
+United Kingdom,EV sales,Cars,BEV,2019,sales,38000
+United Kingdom,EV sales,Cars,BEV,2020,sales,110000
+United Kingdom,EV sales,Cars,PHEV,2020,sales,67000
+United Kingdom,EV sales,Cars,PHEV,2021,sales,120000
+United Kingdom,EV sales,Cars,BEV,2021,sales,190000
+USA,EV sales,Cars,BEV,2010,sales,1200
+USA,EV sales,Cars,BEV,2011,sales,9800
+USA,EV sales,Cars,PHEV,2011,sales,8000
+USA,EV sales,Cars,PHEV,2012,sales,39000
+USA,EV sales,Cars,BEV,2012,sales,15000
+USA,EV sales,Cars,BEV,2013,sales,48000
+USA,EV sales,Cars,PHEV,2013,sales,49000
+USA,EV sales,Cars,PHEV,2014,sales,55000
+USA,EV sales,Cars,BEV,2014,sales,63000
+USA,EV sales,Cars,BEV,2015,sales,71000
+USA,EV sales,Cars,PHEV,2015,sales,43000
+USA,EV sales,Cars,PHEV,2016,sales,73000
+USA,EV sales,Cars,BEV,2016,sales,87000
+USA,EV sales,Cars,BEV,2017,sales,100000
+USA,EV sales,Cars,PHEV,2017,sales,94000
+USA,EV sales,Cars,PHEV,2018,sales,120000
+USA,EV sales,Cars,BEV,2018,sales,240000
+USA,EV sales,Cars,BEV,2019,sales,240000
+USA,EV sales,Cars,PHEV,2019,sales,85000
+USA,EV sales,Cars,PHEV,2020,sales,64000
+USA,EV sales,Cars,BEV,2020,sales,230000
+USA,EV sales,Cars,BEV,2021,sales,470000
+USA,EV sales,Cars,PHEV,2021,sales,160000
+World,EV sales,Cars,BEV,2010,sales,7400
+World,EV sales,Cars,PHEV,2010,sales,380
+World,EV sales,Cars,BEV,2011,sales,40000
+World,EV sales,Cars,PHEV,2011,sales,9100
+World,EV sales,Cars,BEV,2012,sales,59000
+World,EV sales,Cars,PHEV,2012,sales,61000
+World,EV sales,Cars,BEV,2013,sales,110000
+World,EV sales,Cars,PHEV,2013,sales,92000
+World,EV sales,Cars,BEV,2014,sales,190000
+World,EV sales,Cars,PHEV,2014,sales,130000
+World,EV sales,Cars,BEV,2015,sales,330000
+World,EV sales,Cars,PHEV,2015,sales,220000
+World,EV sales,Cars,BEV,2016,sales,470000
+World,EV sales,Cars,PHEV,2016,sales,290000
+World,EV sales,Cars,BEV,2017,sales,760000
+World,EV sales,Cars,PHEV,2017,sales,420000
+World,EV sales,Cars,BEV,2018,sales,1400000
+World,EV sales,Cars,PHEV,2018,sales,640000
+World,EV sales,Cars,BEV,2019,sales,1500000
+World,EV sales,Cars,PHEV,2019,sales,580000
+World,EV sales,Cars,BEV,2020,sales,2000000
+World,EV sales,Cars,PHEV,2020,sales,980000
+World,EV sales,Cars,BEV,2021,sales,4700000
+World,EV sales,Cars,PHEV,2021,sales,1900000

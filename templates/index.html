@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Electric Vision</title>
+    <link
+      rel="stylesheet"
+      href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
+    />
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/styles.css') }}">
+</head>
+<body>
+  <div class="container">
+    <!-- Add Jumbotron to Header -->
+    <div class="jumbotron text-center">
+      <h1>Electric Vision</h1>
+      <p><a class="btn btn-primary btn-lg" href="/topevusa" role="button" 
+        data-bs-toggle = "tooltip" data-bs-placement="top" title="Table reads JS file">USA Top EVs</a></p>
+      <p><a class="btn btn-primary btn-lg" href="/tableauviz" role="button"
+        data-bs-toggle = "tooltip" data-bs-placement="top" title="Tableau Story of EV Sales and Stations">Tableau Visualizations</a></p>
+      <p><a class="btn btn-primary btn-lg" href="/evstations" role="button"
+        data-bs-toggle = "tooltip" data-bs-placement="top" title="Leaflet and Mapbox displaying OR EV stations">Oregon EV Stations Map</a></p>
+      <p><a class="btn btn-primary btn-lg" href="/machinelearning" role="button"
+        data-bs-toggle = "tooltip" data-bs-placement="top" title="Machine Learning predicts vehicle's SmartWay status">Is your vehice "SMART"?</a></p>
+    </div>
+    <div>
+      <p class="lead">
+      Check out top EVs in USA, how EV sales changes worldwide, in USA and Oregon throghout years, fuel economy,
+      Oregon EV stations locations and whether your vehicle has SmartWay or not.
+    </div>     
+  </div>
+</body>  
+  

@@ -1,0 +1,558 @@
+year,manufacturer,model,total_model_sold
+2006,ZAPP,UNKNOWN,1
+2007,ZAPP,UNKNOWN,1
+2007,ASMBL,UNKNOWN,1
+2008,EVT,UNKNOWN,1
+2008,ACGC,UNKNOWN,1
+2008,HOND,VT2,1
+2008,GEM,UNKNOWN,2
+2008,ZAPP,UNKNOWN,3
+2008,TOMB,UNKNOWN,4
+2009,CEVL,UNKNOWN,1
+2009,Tesla,Roadster,1
+2009,ZENN,UNKNOWN,1
+2009,HDGC,UNKNOWN,1
+2009,MILES,UNKNOWN,1
+2009,GEM,UNKNOWN,1
+2009,TOMB,UNKNOWN,8
+2010,HDGC,UNKNOWN,1
+2010,ACGC,UNKNOWN,1
+2010,FPEC,UNKNOWN,1
+2010,JHGS,UNKNOWN,1
+2010,ZONE,UNKNOWN,2
+2010,TOMB,UNKNOWN,2
+2010,Tesla,Roadster,2
+2011,EZGO,UNKNOWN,1
+2011,Tesla,Roadster,1
+2011,GEM,UNKNOWN,1
+2011,TOMB,UNKNOWN,3
+2011,Chevrolet,Volt,36
+2011,Nissan,LEAF,232
+2012,Ford,Focus,1
+2012,POLS,UNKNOWN,1
+2012,EZGO,UNKNOWN,1
+2012,Tesla,Model S,5
+2012,Mitsubishi,i-MiEV,7
+2012,Ford,TH!NK,73
+2012,Nissan,LEAF,117
+2012,Chevrolet,Volt,130
+2012,Toyota,Prius Plug-in Hybrid,173
+2013,ZERO,UNKNOWN,1
+2013,BRMO,UNKNOWN,1
+2013,ZERO,S,1
+2013,CLUB,UNKNOWN,1
+2013,TOMB,UNKNOWN,1
+2013,POLS,UNKNOWN,1
+2013,TESL,UNKNOWN,1
+2013,Toyota,RAV4 EV,1
+2013,BRAM,UNKNOWN,1
+2013,Smart,fortwo electric drive,9
+2013,Chevrolet,Spark EV,11
+2013,Mitsubishi,i-MiEV,13
+2013,Ford,Focus,14
+2013,Ford,Fusion Energi,32
+2013,Ford,C-MAX Energi,82
+2013,Tesla,Model S,125
+2013,Toyota,Prius Plug-in Hybrid,160
+2013,Chevrolet,Volt,169
+2013,Nissan,LEAF,380
+2014,Honda,Accord Plug-In,1
+2014,EZGO,UNKNOWN,1
+2014,BRAM,UNKNOWN,1
+2014,Cadillac,ELR,1
+2014,Kia,Soul EV,1
+2014,BMW,i8,2
+2014,Volkswagen,e-Golf,2
+2014,Mitsubishi,i-MiEV,3
+2014,Mercedes-Benz,B-Class,4
+2014,Smart,fortwo electric drive,11
+2014,Ford,Focus,13
+2014,Chevrolet,Spark EV,27
+2014,FIAT,500e,34
+2014,BMW,i3,39
+2014,Toyota,Prius Plug-in Hybrid,41
+2014,Tesla,Model S,77
+2014,Ford,Fusion Energi,82
+2014,Ford,C-MAX Energi,112
+2014,Chevrolet,Volt,145
+2014,Nissan,LEAF,368
+2015,KLDT,UNKNOWN,1
+2015,POLS,UNKNOWN,1
+2015,Porsche,Panamera,1
+2015,EZGO,UNKNOWN,1
+2015,Porsche,918 Spyder,2
+2015,INGR,UNKNOWN,3
+2015,Cadillac,ELR,3
+2015,BMW,X5,4
+2015,ZERO,UNKNOWN,4
+2015,Mitsubishi,i-MiEV,4
+2015,Porsche,Cayenne,5
+2015,Ford,Focus,8
+2015,Mercedes-Benz,B-Class,9
+2015,BMW,i8,9
+2015,Kia,Soul EV,10
+2015,Smart,fortwo electric drive,14
+2015,Toyota,Prius Plug-in Hybrid,24
+2015,FIAT,500e,35
+2015,Volkswagen,e-Golf,60
+2015,Ford,Fusion Energi,71
+2015,BMW,i3,78
+2015,Ford,C-MAX Energi,87
+2015,Chevrolet,Volt,107
+2015,Chevrolet,Spark EV,131
+2015,Tesla,Model S,172
+2015,Nissan,LEAF,174
+2016,Cadillac,ELR,1
+2016,GENZE,UNKNOWN,1
+2016,BAOD,UNKNOWN,1
+2016,ZERO,UNKNOWN,1
+2016,ZERO,S98,1
+2016,ZERO,DSR,1
+2016,MAHIN,UNKNOWN,1
+2016,Mercedes-Benz,GLE,1
+2016,GENZ,UNKNOWN,1
+2016,ZERO,FX,1
+2016,Porsche,Panamera,1
+2016,BMW,3 Series,2
+2016,MAHI,UNKNOWN,2
+2016,POLAR,UNKNOWN,2
+2016,BMW,i8,2
+2016,Mercedes-Benz,B-Class,5
+2016,Toyota,Prius Plug-in Hybrid,6
+2016,Ford,Focus,7
+2016,Porsche,Cayenne,8
+2016,Smart,fortwo electric drive,11
+2016,Volvo,XC90,26
+2016,Toyota,Prius Prime,26
+2016,FIAT,500e,28
+2016,Hyundai,SONATA Plug-in Hybrid,36
+2016,Kia,Soul EV,46
+2016,Audi,A3 Sportback e-tron,52
+2016,BMW,X5,78
+2016,Volkswagen,e-Golf,86
+2016,Ford,Fusion Energi,100
+2016,Tesla,Model X,102
+2016,Ford,C-MAX Energi,114
+2016,BMW,i3,121
+2016,Nissan,LEAF,185
+2016,Chevrolet,Spark EV,206
+2016,Tesla,Model S,235
+2016,Chevrolet,Volt,248
+2017,ZERO,FX,1
+2017,ALTM,UNKNOWN,1
+2017,POLS,UNKNOWN,1
+2017,GEM,UNKNOWN,1
+2017,Honda,Clarity Electric,1
+2017,CITI,UNKNOWN,1
+2017,ZERO,DS,1
+2017,HOND,UNKNOWN,1
+2017,GENZ,UNKNOWN,1
+2017,MAHI,UNKNOWN,1
+2017,ASMBL,UNKNOWN,1
+2017,ZERO,UNKNOWN,2
+2017,ZERO,SR,2
+2017,BMW,7 Series,2
+2017,Mercedes-Benz,S-Class,2
+2017,BMW,i8,2
+2017,ZERO,FXS,2
+2017,Mercedes-Benz,C-Class,2
+2017,Honda,Clarity Plug-In Hybrid,2
+2017,GENU,UNKNOWN,2
+2017,POLAR,UNKNOWN,2
+2017,Cadillac,CT6 PLUG-IN Hybrid,3
+2017,Chevrolet,Spark EV,4
+2017,Tesla,Model 3,4
+2017,Mercedes-Benz,GLE,4
+2017,Mercedes-Benz,B-Class,5
+2017,Volvo,XC60,5
+2017,MINI,Countryman Plug-in Hybrid,6
+2017,Kia,Optima Plug-In Hybrid,7
+2017,Porsche,Cayenne,10
+2017,Smart,fortwo electric drive,12
+2017,Hyundai,SONATA Plug-in Hybrid,17
+2017,BMW,5 Series,20
+2017,Ford,Focus,20
+2017,FIAT,500e,21
+2017,Volvo,XC90,27
+2017,Chrysler,Pacifica Hybrid,28
+2017,BMW,3 Series,28
+2017,Kia,Soul EV,34
+2017,Audi,A3 Sportback e-tron,42
+2017,BMW,X5,43
+2017,BMW,i3,63
+2017,Volkswagen,e-Golf,73
+2017,Ford,Fusion Energi,94
+2017,Ford,C-MAX Energi,114
+2017,Nissan,LEAF,161
+2017,Tesla,Model X,193
+2017,Chevrolet,Volt,221
+2017,Tesla,Model S,278
+2017,Chevrolet,Bolt EV,282
+2017,Toyota,Prius Prime,351
+2018,Cadillac,CT6 PLUG-IN Hybrid,1
+2018,ZERO,DSR,1
+2018,POLS,UNKNOWN,1
+2018,Mercedes-Benz,S-Class,1
+2018,Karma,Revero,1
+2018,BMW,i8,1
+2018,TOMB,UNKNOWN,1
+2018,ARCI,UNKNOWN,1
+2018,ZERO,FX,1
+2018,ZERO,S,2
+2018,ZERO,DS,2
+2018,ALTM,UNKNOWN,2
+2018,MAHI,UNKNOWN,2
+2018,Jaguar,I-PACE,2
+2018,Mercedes-Benz,C-Class,2
+2018,Mercedes-Benz,B-Class,2
+2018,Mercedes-Benz,GLC,4
+2018,BMW,7 Series,4
+2018,ZERO,SR,4
+2018,Porsche,Cayenne,4
+2018,UBCO,UNKNOWN,6
+2018,Mercedes-Benz,GLE,7
+2018,FIAT,500e,8
+2018,Porsche,Panamera,9
+2018,BMW,3 Series,10
+2018,Kia,Optima Plug-In Hybrid,11
+2018,Hyundai,IONIQ Plug-in Hybrid,12
+2018,Hyundai,SONATA Plug-in Hybrid,13
+2018,Smart,fortwo electric drive,17
+2018,Ford,Focus,17
+2018,Volvo,XC90,19
+2018,MINI,Countryman Plug-in Hybrid,24
+2018,Kia,Soul EV,29
+2018,Ford,C-MAX Energi,29
+2018,BMW,5 Series,30
+2018,Honda,Clarity Electric,34
+2018,BMW,X5,41
+2018,Volvo,XC60,42
+2018,Volkswagen,e-Golf,42
+2018,Audi,A3 Sportback e-tron,51
+2018,Mitsubishi,Outlander PHEV,52
+2018,Kia,Niro Plug-In Hybrid,73
+2018,BMW,i3,80
+2018,Ford,Fusion Energi,82
+2018,Chrysler,Pacifica Hybrid,152
+2018,Tesla,Model S,208
+2018,Honda,Clarity Plug-In Hybrid,209
+2018,Tesla,Model X,234
+2018,Chevrolet,Volt,253
+2018,Nissan,LEAF,260
+2018,Chevrolet,Bolt EV,303
+2018,Toyota,Prius Prime,514
+2018,Tesla,Model 3,1263
+2019,SLEL,UNKNOWN,1
+2019,Ford,Focus,1
+2019,UBCO,UNKNOWN,1
+2019,JBLC,UNKNOWN,1
+2019,ACGC,UNKNOWN,1
+2019,GLBL,ELX,1
+2019,ZONG,UNKNOWN,1
+2019,ZERO,SZF,1
+2019,BMW,7 Series,1
+2019,Kia,Soul EV,1
+2019,Mercedes-Benz,GLE,1
+2019,ZERO,DS,1
+2019,Cadillac,CT6 PLUG-IN Hybrid,1
+2019,ZONG,CIT,1
+2019,ZERO,DSR,1
+2019,ZHEJ,2X2,1
+2019,ASVE,UNKNOWN,1
+2019,GENZ,UNKNOWN,1
+2019,Land Rover,Range Rover Sport,1
+2019,Volvo,S60,2
+2019,ZERO,FXS,2
+2019,POLS,UNKNOWN,2
+2019,ZERO,S,2
+2019,ZERO,SRF,2
+2019,POLS,ELX,2
+2019,ZERO,FX,2
+2019,CYCL,UNKNOWN,3
+2019,ZYTD,UNKNOWN,4
+2019,Kia,Optima Plug-In Hybrid,5
+2019,BMW,i8,7
+2019,Porsche,Panamera,7
+2019,BMW,3 Series,7
+2019,Smart,EQ fortwo,8
+2019,Porsche,Cayenne,9
+2019,Hyundai,SONATA Plug-in Hybrid,9
+2019,ZERO,UNKNOWN,10
+2019,Audi,A3 Sportback e-tron,11
+2019,AMIC,UNKNOWN,13
+2019,BMW,X5,16
+2019,Volvo,XC90,19
+2019,MINI,Countryman Plug-in Hybrid,19
+2019,FIAT,500e,20
+2019,Smart,fortwo electric drive,20
+2019,Jaguar,I-PACE,27
+2019,Hyundai,IONIQ Electric,36
+2019,Volvo,XC60,38
+2019,BMW,5 Series,39
+2019,Honda,Clarity Electric,47
+2019,Mitsubishi,Outlander PHEV,56
+2019,Audi,e-tron,65
+2019,Mercedes-Benz,GLC,75
+2019,Hyundai,IONIQ Plug-in Hybrid,77
+2019,Kia,Niro EV,79
+2019,Ford,Fusion Energi,94
+2019,Hyundai,KONA Electric,99
+2019,Kia,Niro Plug-In Hybrid,104
+2019,BMW,i3,108
+2019,Honda,Clarity Plug-In Hybrid,118
+2019,Chrysler,Pacifica Hybrid,133
+2019,Chevrolet,Volt,134
+2019,Subaru,Crosstrek,148
+2019,Tesla,Model S,180
+2019,Volkswagen,e-Golf,229
+2019,Tesla,Model X,251
+2019,Nissan,LEAF,384
+2019,Toyota,Prius Prime,447
+2019,Chevrolet,Bolt EV,486
+2019,Tesla,Model 3,2380
+2020,FIAT,500e,1
+2020,ENRG,EVA,1
+2020,AECI,M3,1
+2020,TAOI,BLA,1
+2020,Karma,Revero,1
+2020,AECI,UNKNOWN,1
+2020,ZERO,S,1
+2020,CLUB,CA7,1
+2020,CYCL,OSA,1
+2020,KTM,UNKNOWN,1
+2020,GENU,UNKNOWN,1
+2020,HD,LIV,1
+2020,ZERO,RS,1
+2020,Smart,EQ fortwo,2
+2020,BMW,7 Series,2
+2020,POLS,UNKNOWN,2
+2020,BMW,i8,2
+2020,Chevrolet,Volt,2
+2020,BMW,3 Series,2
+2020,ZERO,FX,2
+2020,HD,ELW,2
+2020,ALTM,UNKNOWN,2
+2020,Land Rover,Range Rover,2
+2020,ZERO,SRF,2
+2020,ZERO,FXS,3
+2020,MINI,Countryman Plug-in Hybrid,3
+2020,Kia,Optima Plug-In Hybrid,3
+2020,Audi,e-tron Sportback,4
+2020,VESP,UNKNOWN,4
+2020,Lincoln,Aviator,5
+2020,ZERO,UNKNOWN,5
+2020,Porsche,Panamera,5
+2020,Honda,Clarity Electric,6
+2020,Land Rover,Range Rover Sport,7
+2020,Volvo,S60,7
+2020,Hyundai,SONATA Plug-in Hybrid,13
+2020,Porsche,Cayenne,13
+2020,BMW,5 Series,15
+2020,AMIC,UNKNOWN,20
+2020,MINI,Hardtop 2 Door,20
+2020,BMW,X5,20
+2020,Porsche,Taycan,23
+2020,Jaguar,I-PACE,27
+2020,Volvo,XC90,30
+2020,Mercedes-Benz,GLC,32
+2020,Hyundai,IONIQ Electric,33
+2020,BMW,X3,34
+2020,BMW,i3,34
+2020,Mitsubishi,Outlander PHEV,38
+2020,Volvo,XC60,46
+2020,Volkswagen,e-Golf,56
+2020,Ford,Fusion Energi,57
+2020,Kia,Niro Plug-In Hybrid,62
+2020,Toyota,RAV4 Prime,81
+2020,Honda,Clarity Plug-In Hybrid,82
+2020,Hyundai,IONIQ Plug-in Hybrid,90
+2020,Audi,e-tron,96
+2020,Kia,Niro EV,103
+2020,Audi,Q5,116
+2020,Chrysler,Pacifica Hybrid,125
+2020,Tesla,Model S,141
+2020,Hyundai,KONA Electric,185
+2020,Subaru,Crosstrek,194
+2020,Tesla,Model X,269
+2020,Toyota,Prius Prime,308
+2020,Nissan,LEAF,423
+2020,Chevrolet,Bolt EV,530
+2020,Tesla,Model Y,1030
+2020,Tesla,Model 3,1254
+2021,CLUB,UNKNOWN,1
+2021,ZERO,FXS,1
+2021,Bentley,Bentayga,1
+2021,Polestar,1,1
+2021,GARI,UNKNOWN,1
+2021,TOMB,UNKNOWN,1
+2021,Ferrari,SF90 Stradale,1
+2021,KTM,UNKNOWN,1
+2021,HCKC,UNKNOWN,1
+2021,Volvo,S90,1
+2021,AMIC,FUV,1
+2021,MOTV,UNKNOWN,1
+2021,CYCL,UNKNOWN,1
+2021,EVTS,LOG,1
+2021,Rivian,R1T,1
+2021,CHNA,UNKNOWN,1
+2021,ZERO,DSR,1
+2021,ASVE,UNKNOWN,1
+2021,ELVT,UNKNOWN,1
+2021,VESP,UNKNOWN,2
+2021,ZYTD,UNKNOWN,2
+2021,Mercedes-Benz,GLC,2
+2021,Audi,e-tron GT,2
+2021,ZERO,SR/,2
+2021,Audi,RS e-tron GT,2
+2021,BMW,7 Series,2
+2021,HD,LIV,4
+2021,Porsche,Panamera,4
+2021,ZONG,UNKNOWN,4
+2021,ENRG,UNKNOWN,5
+2021,Kia,Optima Plug-In Hybrid,5
+2021,AECI,UNKNOWN,5
+2021,Volvo,V60,6
+2021,Audi,A7,8
+2021,Land Rover,Range Rover Sport,8
+2021,Jaguar,I-PACE,9
+2021,YMSK,UNKNOWN,12
+2021,Hyundai,TUCSON Plug-in Hybrid,13
+2021,GENU,UNKNOWN,13
+2021,Volvo,S60,13
+2021,MINI,Countryman Plug-in Hybrid,14
+2021,BMW,5 Series,15
+2021,Porsche,Cayenne,15
+2021,Lincoln,Aviator,23
+2021,Mitsubishi,Outlander PHEV,24
+2021,Polestar,2,24
+2021,Ford,Escape Plug-In Hybrid,25
+2021,ZERO,UNKNOWN,30
+2021,Ford,Fusion Energi,34
+2021,Audi,e-tron Sportback,35
+2021,BMW,i3,39
+2021,BMW,3 Series,39
+2021,Kia,Sorento Plug-In Hybrid,40
+2021,Chevrolet,Bolt EUV,41
+2021,Hyundai,SANTA FE Plug-In Hybrid,47
+2021,Tesla,Model X,73
+2021,Porsche,Taycan,75
+2021,MINI,Hardtop 2 Door,77
+2021,AMIC,UNKNOWN,77
+2021,Audi,e-tron,82
+2021,Honda,Clarity Plug-In Hybrid,85
+2021,Kia,Niro Plug-In Hybrid,92
+2021,Volvo,XC60,107
+2021,Volvo,XC90,110
+2021,Hyundai,IONIQ Plug-in Hybrid,112
+2021,Volvo,XC40,131
+2021,BMW,X3,137
+2021,BMW,X5,161
+2021,Audi,Q5,165
+2021,Hyundai,IONIQ Electric,170
+2021,Tesla,Model S,198
+2021,Subaru,Crosstrek,204
+2021,Jeep,Wrangler Unlimited,317
+2021,Volkswagen,ID.4,319
+2021,Chrysler,Pacifica Hybrid,374
+2021,Kia,Niro EV,374
+2021,Hyundai,KONA Electric,377
+2021,Ford,Mustang Mach-E,389
+2021,Toyota,Prius Prime,650
+2021,Chevrolet,Bolt EV,656
+2021,Nissan,LEAF,748
+2021,Toyota,RAV4 Prime,1256
+2021,Tesla,Model 3,1504
+2021,Tesla,Model Y,2590
+2022,CVGI,UNKNOWN,1
+2022,Ferrari,SF90 Spider,1
+2022,POLS,UNKNOWN,1
+2022,HD,ONE,1
+2022,Ferrari,SF90 Stradale,1
+2022,SYMG,UNKNOWN,1
+2022,VESP,UNKNOWN,1
+2022,LIVW,ONE,1
+2022,GARI,UNKNOWN,1
+2022,ZERO,FXP,1
+2022,SHGY,UNKNOWN,1
+2022,ZLSV,UNKNOWN,1
+2022,Volvo,S90,1
+2022,ZERO,FXE,1
+2022,Ford,UNKNOWN,1
+2022,ZERO,DSR,1
+2022,YMSK,UNKNOWN,1
+2022,ARCM,UNKNOWN,1
+2022,SPCW,UNKNOWN,1
+2022,Land Rover,Range Rover Sport,1
+2022,TOMB,UNKNOWN,1
+2022,ZONG,UNKNOWN,1
+2022,Karma,GS-6,2
+2022,ELCY,ONE,2
+2022,JBLC,UNKNOWN,2
+2022,ZERO,FXS,2
+2022,ZERO,SR/,2
+2022,Toyota,bZ4X,2
+2022,BMW,i3,2
+2022,GMC,HUMMER EV,2
+2022,HDKP,UNKNOWN,3
+2022,BMW,X3,3
+2022,Audi,RS e-tron GT,3
+2022,JIJM,UNKNOWN,4
+2022,Jaguar,I-PACE,4
+2022,Porsche,Panamera,4
+2022,Honda,Clarity Plug-In Hybrid,5
+2022,Volvo,V60,5
+2022,Lincoln,Aviator,7
+2022,MINI,Countryman Plug-in Hybrid,8
+2022,Volvo,S60,8
+2022,GENU,UNKNOWN,8
+2022,BMW,i4,8
+2022,Lucid,Air,9
+2022,Lincoln,Corsair,9
+2022,Porsche,Cayenne,11
+2022,BMW,5 Series,11
+2022,ZERO,UNKNOWN,13
+2022,Audi,e-tron GT,13
+2022,BMW,iX,14
+2022,Mitsubishi,Outlander PHEV,14
+2022,Ford,F-150 Lightning,17
+2022,Mercedes-Benz,EQS,19
+2022,Hyundai,IONIQ Plug-in Hybrid,19
+2022,Audi,e-tron Sportback,25
+2022,BMW,3 Series,25
+2022,Ford,E-Transit Cargo,35
+2022,Rivian,R1T,39
+2022,Porsche,Taycan,45
+2022,Hyundai,TUCSON Plug-in Hybrid,45
+2022,Chevrolet,Bolt EV,47
+2022,Volvo,C40,48
+2022,AMIC,UNKNOWN,48
+2022,Lexus,NX 450h+,54
+2022,MINI,Hardtop 2 Door,56
+2022,Chevrolet,Bolt EUV,69
+2022,Audi,Q5,71
+2022,Audi,e-tron,74
+2022,Subaru,Crosstrek,76
+2022,Volvo,XC40,86
+2022,Kia,Sorento Plug-In Hybrid,98
+2022,Kia,Niro Plug-In Hybrid,99
+2022,Volvo,XC60,99
+2022,Hyundai,KONA Electric,131
+2022,Volvo,XC90,131
+2022,Hyundai,SANTA FE Plug-In Hybrid,135
+2022,Polestar,2,149
+2022,Chrysler,Pacifica Hybrid,161
+2022,Tesla,Model X,163
+2022,Tesla,Model S,165
+2022,BMW,X5,179
+2022,Toyota,Prius Prime,197
+2022,Volkswagen,ID.4,209
+2022,Hyundai,IONIQ 5,227
+2022,Ford,Escape Plug-In Hybrid,244
+2022,Jeep,Wrangler Unlimited,250
+2022,Kia,EV6,297
+2022,Kia,Niro EV,324
+2022,Ford,Mustang Mach-E,444
+2022,Nissan,LEAF,477
+2022,Toyota,RAV4 Prime,669
+2022,Tesla,Model 3,1255
+2022,Tesla,Model Y,1546

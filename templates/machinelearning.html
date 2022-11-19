@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>SmartWay Pedictor</title>
+        
+        <!-- Required meta tags -->
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+         <!-- Bootstrap CSS -->
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" 
+        integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+
+        <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/styles.css') }}">
+    </head>
+    <body class="h-100">
+		<div class="container h-100">
+            <div class="row h-100 justify-content-center align-items-center">
+                <div class="col-10 col-md-8 col-lg-6">
+                    <img src="{{ url_for('static', filename='images/ev_smart_form.jpg') }}" width="600px" height="240px"/>
+                    <form action="/predict" method="POST" class="form">
+                        <h1>Is your vehicle SmartWay?</h1>
+                        <p class="description">Machine learning model will predict vehicle is smart or not </p>
+                            <!-- Input fields -->
+                        <div class="form-group">
+                            <label>Enter Fuel Type</label>
+                            
+                            <select class="fuel" name="fuel" id="fuel"><!--</select> onchange="javascript:this.form.submit()">-->
+                    
+                                <option value="di">Diesel</option>
+                                <option value="el">Electricity</option>
+                                <option value="eth/gas">Ethenol/Gasoline</option>
+                                <option value="gas">Gasoline</option>
+                                <option value="gas/el">Gasoline/Electricity</option>
+                                <option value="h2">Hydrogen</option>
+                            </select><br>
+                        </div>
+
+                        <div class="form-group">
+                            <label>Enter Greenhouse Score (1-10)</label>
+                            <input class="green" name="green"/><br>
+                        </div>
+
+                        <div class="form-group">
+                            <label>Enter CO2 Emission (0-600)</label>
+                            <input class="co2" name="co2"/><br>
+                        </div>
+
+                            <input type="submit" class="button" value="Check">
+                    </form>
+                </div>
+            </div>
+        </div>  
+
+        <!-- Bootstrap Bundle with Popper -->
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" 
+        integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+    </body>
+</html>
