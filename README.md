@@ -88,6 +88,16 @@ There are __four__ main modules, let’s have a detailed look of each module.
 
 ### Key Findings
 
+  * Tesla Model 3 is most popular and sold model during 2018 and 2019 in USA.
+    
+    ![max_sales_usa_models](https://user-images.githubusercontent.com/107717882/202875815-4c7c6534-0ed6-481e-b3b0-45ae1e74a78d.png)
+
+    
+  * Tesla is the number one to sold Model 3 in Oregon, Nissan Leaf is the second large seller of EV in Oregon. 
+
+    ![top_5_model_or](https://user-images.githubusercontent.com/107717882/202875822-a897efe6-9262-476b-a990-13f98328acc3.png)
+
+
 
 ## Future Analysis/Improvement 
 
