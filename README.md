@@ -65,13 +65,14 @@ There are __four__ main modules, let’s have a detailed look of each module.
 
   Following screen shots show that  __Logistic Regression Model__  has __92%__ of accuracy, __SVM__ has __95%__ of accuracy, __Random Forest Model__ has __96%__ of       accuracy and __Neural Network__ has __95%__ of accuracy.  Here, best model is __Random Forest_Model__. 
   
-  ![classification_report](https://user-images.githubusercontent.com/107717882/202874566-8efa7515-3d08-405a-9c23-e0d5d80eaab9.png)
+  ![classification_report](https://user-images.githubusercontent.com/107717882/202874738-02f4c65c-bbdf-4939-bb7c-7ab81a06389e.png)
 
-  ![svm_model_accuracy](https://user-images.githubusercontent.com/107717882/202874577-fd4991e4-7cc2-4978-9462-9d796bfe3361.png)
-  
-  ![random_forest_accuracy](https://user-images.githubusercontent.com/107717882/202874589-a27b712e-bff7-46e5-838e-5f51ee3353a4.png)
+  ![svm_model_accuracy](https://user-images.githubusercontent.com/107717882/202874747-b0e3eb3b-d14e-4dba-9bb3-8d77a5cee829.png)
 
-  ![nnmodel_accuracy](https://user-images.githubusercontent.com/107717882/202874595-76520da7-4363-4279-9900-0eaa3ee8904a.png)
+  ![random_forest_accuracy](https://user-images.githubusercontent.com/107717882/202874758-d76e744a-9137-4559-8896-52a1abab496a.png)
+
+  ![nnmodel_accuracy](https://user-images.githubusercontent.com/107717882/202874790-ffe584dc-3d29-44a6-9212-9ac198107971.png)
+
   
   
 ## Summary 
