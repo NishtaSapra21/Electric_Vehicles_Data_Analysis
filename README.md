@@ -22,14 +22,14 @@ There are __four__ main modules, let’s have a detailed look of each module.
   
   Cleaned CSVs are loaded in SQL tables to perform queries, joins to have new tables and export those tables as CSVs for more analysis, visualizations and machine       learning. 
   
-  Here is the list of CSVs : 
+  Here is the list of CSVs:
   
-    * ev_sales_world.csv
-    * ev_sales_usa.csv
-    * ev_sales_or_large.csv
-    * alt_fuel_stations_or.csv
-    * fuel_prices.csv
-    * all_alpha_22.csv
+   * [ev_sales_world.csv](https://github.com/NishtaSapra21/Electric_Vehicles_Data_Analysis/blob/main/Code/CSVs/clean_datasets/ev_sales_world.csv)
+   * [ev_sales_usa.csv] (https://github.com/NishtaSapra21/Electric_Vehicles_Data_Analysis/blob/main/Code/CSVs/clean_datasets/ev_sales_usa.csv)
+   * [ev_sales_or_large.csv](https://github.com/NishtaSapra21/Electric_Vehicles_Data_Analysis/blob/main/Code/CSVs/clean_datasets/ev_sales_or_large.csv)
+   * [alt_fuel_stations_or.csv](https://github.com/NishtaSapra21/Electric_Vehicles_Data_Analysis/blob/main/Code/CSVs/clean_datasets/alt_fuel_stations_or.csv)
+   * [fuel_prices.csv](https://github.com/NishtaSapra21/Electric_Vehicles_Data_Analysis/blob/main/Code/CSVs/clean_datasets/fuel_prices.csv)
+   * [all_alpha_22.csv](https://github.com/NishtaSapra21/Electric_Vehicles_Data_Analysis/blob/main/Code/CSVs/all_alpha_22.csv)
   
   
 ### Module-2: Visualizations (Matplotlib, Tableau)
