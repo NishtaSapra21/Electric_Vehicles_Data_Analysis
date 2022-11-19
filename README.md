@@ -45,11 +45,14 @@ There are __four__ main modules, let’s have a detailed look of each module.
 
   APIs are most powerful tool today in Data Science to extract data and allow technologies to talk to each other to present Maps, Graphs. Here, Leaflet map is used       with Mapbox API  to show all locations of EV charging stations in Oregon. 
   
-  
+  ![Screenshot (171)](https://user-images.githubusercontent.com/107717882/202874239-02f764ad-eaf0-4d16-a971-6ae03efd7b23.png)
 
   Using Python module , Flask, a web framework , Leaflet map is displayed. However, Flask is easy web application, a webpages have been designed with HTML,CSS,           JavaScript to display TOP EV sales USA, Tableau story, Leaf let map for EV stations in Oregon and smart car prediction by machine learning. 
 
   Following webpage displaying  __Top EV Sales USA__ using  HTML.CSS and .js file with Flask and JavaScript. 
+  
+  ![ev_usa_table](https://user-images.githubusercontent.com/107717882/202874250-d1888e51-1957-4fa8-9861-b6a200bfe2d0.png)
+
 
 
 ### Module -4: Machine Learning (Logistic Regression, SVM, Forest, Neural Network)
