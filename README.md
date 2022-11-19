@@ -101,10 +101,6 @@ There are __four__ main modules, let’s have a detailed look of each module.
 
     ![Fuel_prices_Changes](https://user-images.githubusercontent.com/107717882/202875950-211c48f0-c1cd-49f0-a8a1-9c2182b7a85f.png)
 
-    
-
-
-
 
 ## Future Analysis/Improvement 
 
@@ -113,5 +109,17 @@ There are __four__ main modules, let’s have a detailed look of each module.
   * Adding more smooth display to HTML and CSS, specifically machine learning prediction. 
   
 ## Coding References 
+
+  1. Alternative_Fuel_Stations_OR.ipynb
+  2. World_EV_Sales.ipynb
+  3. USA_EV_Sales.ipynb
+  4. OR_EV_Sales_Large.ipynb
+  5. Fuel_Prices_Over_The_Years.ipynb
+  6. SamrtWay_Logistic_Regression.ipynb
+  7. SmartWayNN.ipynb
+  8. create_table.sql
+  9. sql_query.sql
+  10. sql_procedure.sql
+  11. data_cleaning.py
 
 ## Citation  
