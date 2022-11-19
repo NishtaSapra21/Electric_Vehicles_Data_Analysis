@@ -25,7 +25,7 @@ There are __four__ main modules, let’s have a detailed look of each module.
   Here is the list of CSVs:
   
    * [ev_sales_world.csv](https://github.com/NishtaSapra21/Electric_Vehicles_Data_Analysis/blob/main/Code/CSVs/clean_datasets/ev_sales_world.csv)
-   * [ev_sales_usa.csv] (https://github.com/NishtaSapra21/Electric_Vehicles_Data_Analysis/blob/main/Code/CSVs/clean_datasets/ev_sales_usa.csv)
+   * [ev_sales_usa.csv](https://github.com/NishtaSapra21/Electric_Vehicles_Data_Analysis/blob/main/Code/CSVs/clean_datasets/ev_sales_usa.csv)
    * [ev_sales_or_large.csv](https://github.com/NishtaSapra21/Electric_Vehicles_Data_Analysis/blob/main/Code/CSVs/clean_datasets/ev_sales_or_large.csv)
    * [alt_fuel_stations_or.csv](https://github.com/NishtaSapra21/Electric_Vehicles_Data_Analysis/blob/main/Code/CSVs/clean_datasets/alt_fuel_stations_or.csv)
    * [fuel_prices.csv](https://github.com/NishtaSapra21/Electric_Vehicles_Data_Analysis/blob/main/Code/CSVs/clean_datasets/fuel_prices.csv)
@@ -35,15 +35,17 @@ There are __four__ main modules, let’s have a detailed look of each module.
 ### Module-2: Visualizations (Matplotlib, Tableau)
 
    Visualizations help for more detail analysis clear predictions. Let’s have a look at few graphs and charts for EV sales for world, top EV model sales in USA , fuel    prices, EV model sales countywide and state wise in Oregon etc. using Matplotlib and Tableau. 
+   
+   ![Tableau_Viz](https://user-images.githubusercontent.com/107717882/202873152-b9828fa7-36b3-4a3d-8eaa-35abe4f6dfc4.png) 
+   
    Click  [EV Tabelau Story](https://public.tableau.com/views/EVAnalysis_16681221169090/EVAnalysis?:language=en-US&:display_count=n&:origin=viz_share_link) to            visualize entire Tableau story of EV Analysis. 
-
-
-
-
+   
 
 ### Module- 3: APIs and JavaScript (Leaflet, Mapbox, Flask)
 
   APIs are most powerful tool today in Data Science to extract data and allow technologies to talk to each other to present Maps, Graphs. Here, Leaflet map is used       with Mapbox API  to show all locations of EV charging stations in Oregon. 
+  
+  
 
   Using Python module , Flask, a web framework , Leaflet map is displayed. However, Flask is easy web application, a webpages have been designed with HTML,CSS,           JavaScript to display TOP EV sales USA, Tableau story, Leaf let map for EV stations in Oregon and smart car prediction by machine learning. 
 
