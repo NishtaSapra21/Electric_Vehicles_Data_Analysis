@@ -67,9 +67,11 @@ There are __four__ main modules, let’s have a detailed look of each module.
   
   ![classification_report](https://user-images.githubusercontent.com/107717882/202874738-02f4c65c-bbdf-4939-bb7c-7ab81a06389e.png)
   
-  ![logi_reg](https://user-images.githubusercontent.com/107717882/202875042-a8673691-6564-45b4-bd83-9f553bbf19c4.png) ![svm_model_accuracy](https://user-images.githubusercontent.com/107717882/202874747-b0e3eb3b-d14e-4dba-9bb3-8d77a5cee829.png)
+  ![logi_reg](https://user-images.githubusercontent.com/107717882/202875248-d756958b-c080-47c2-8748-e04bfe13034a.png)
+  
+  ![svm_model_accuracy](https://user-images.githubusercontent.com/107717882/202875256-e6d36d37-ce09-4001-a63d-05aafb6eec01.png)
 
-  ![rand_fore](https://user-images.githubusercontent.com/107717882/202875051-ccdf788c-9434-4a75-8e57-47c77c700942.png) ![nnmodel_accuracy](https://user-images.githubusercontent.com/107717882/202874790-ffe584dc-3d29-44a6-9212-9ac198107971.png)
+  ![rand_fore](https://user-images.githubusercontent.com/107717882/202875264-763214e2-da79-4ce1-8b76-48f87bd5f198.png)
 
   
   
