@@ -13,7 +13,7 @@
 
 ## Modules
 
-There are four main modules, let’s have a detailed look of each module.
+There are __four__ main modules, let’s have a detailed look of each module.
 
 ### Module -1: Extract Transform Load (Python, Pandas, SQL)
   Data collection is very important and crucial part of any data analysis. There are lots paid and little less free of datasets are available for __Electric Vehicles__   . All the data are collected from different government public data sources and private data sources. 
@@ -24,10 +24,19 @@ There are four main modules, let’s have a detailed look of each module.
   
   Here is the list of CSVs : 
   
+    * ev_sales_world.csv
+    * ev_sales_usa.csv
+    * ev_sales_or_large.csv
+    * alt_fuel_stations_or.csv
+    * fuel_prices.csv
+    * all_alpha_22.csv
+  
   
 ### Module-2: Visualizations (Matplotlib, Tableau)
 
-   Visualizations help for more detail analysis clear predictions. Let’s have a look at few graphs and charts for EV sales for world, top EV model sales in USA , fuel    prices, EV model sales countywide and state wise in Oregon etc. using Matplotlib and Tableau. Click here to visualize entire Tableau story of EV Analysis. 
+   Visualizations help for more detail analysis clear predictions. Let’s have a look at few graphs and charts for EV sales for world, top EV model sales in USA , fuel    prices, EV model sales countywide and state wise in Oregon etc. using Matplotlib and Tableau. 
+   Click  [EV Tabelau Story](https://public.tableau.com/views/EVAnalysis_16681221169090/EVAnalysis?:language=en-US&:display_count=n&:origin=viz_share_link) to            visualize entire Tableau story of EV Analysis. 
+
 
 
 
