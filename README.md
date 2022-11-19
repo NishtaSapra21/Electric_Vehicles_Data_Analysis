@@ -71,13 +71,17 @@ There are __four__ main modules, let’s have a detailed look of each module.
   
   ![svm_model_accuracy](https://user-images.githubusercontent.com/107717882/202875256-e6d36d37-ce09-4001-a63d-05aafb6eec01.png)
 
-  ![rand_fore](https://user-images.githubusercontent.com/107717882/202875264-763214e2-da79-4ce1-8b76-48f87bd5f198.png)
+  ![rand_fore](https://user-images.githubusercontent.com/107717882/202875264-763214e2-da79-4ce1-8b76-48f87bd5f198.png
+  
+  ![nn_model1](https://user-images.githubusercontent.com/107717882/202875410-2a1c6079-e58d-449d-a606-97c32e8fb65a.png)
 
+  ![nn_model2](https://user-images.githubusercontent.com/107717882/202875415-49cab617-cce2-4dc1-89cb-18b4fff26014.png)
   
   
 ## Summary 
 
 ### Conclusion 
+
   All data, results, graphs and maps show that this is the era of EV. From last ten years, EV sales increases tremendously in USA as well as all over the world. 
   
   Increasing gas prices and pollution are main reasons people are buying EVs. There are more models were introduced during last five years from different makers. This   might lead to price reduction of vehicles. Tesla is highly liked by the US people but Nissan Leaf is highly affordable. With rising government support and consumers   embracing electric vehicles, EV will rule the market for at least for few years. 
