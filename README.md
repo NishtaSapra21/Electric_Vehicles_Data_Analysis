@@ -112,6 +112,8 @@ There are __four__ main modules, let’s have a detailed look of each module.
     
   * China has the largest and fastest-growing EV market in the world.
 
+    ![chinatopev](https://user-images.githubusercontent.com/107717882/202929252-499ab1d0-fea7-42bf-a851-885395b95a68.png)
+
 
 ## Future Analysis/Improvement 
 
