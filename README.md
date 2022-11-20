@@ -61,7 +61,7 @@ There are __four__ main modules, let’s have a detailed look of each module.
 
 
 
-### Module -4: Machine Learning (Logistic Regression, SVM, Forest, Neural Network)
+### Module -4: Machine Learning (Logistic Regression, SVM, Random Forest, Neural Network)
 
   Here, the data has been trained to predict whether the vehicle will have “SmartWay” certificate or not. From the fuel type , greenhouse gas score and CO2 , logistic   regression model predicts whether the vehicle will have "SmartWay" or not. Here input variables are fuel type, greenhouse gas score and Co2 emission and predict       variable is SmarWay. The model has been trained , scaled to perform logistic regression as well as other different machine learning techniques, Support Vector         Machine , Random Forest and Neural Network.
   
