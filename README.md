@@ -65,9 +65,9 @@ There are __four__ main modules, let’s have a detailed look of each module.
 
   Here, the data has been trained to predict whether the vehicle will have “SmartWay” certificate or not. From the fuel type , greenhouse gas score and CO2 , logistic   regression model predicts whether the vehicle will have "SmartWay" or not. Here input variables are fuel type, greenhouse gas score and Co2 emission and predict       variable is SmarWay. The model has been trained , scaled to perform logistic regression as well as other different machine learning techniques, Support Vector         Machine , Random Forest and Neural Network.
   
-  ![smartway1](https://user-images.githubusercontent.com/107717882/202876830-a9584ad9-dc82-47c0-b067-bd8e14641a96.png)![smartway2](https://user-images.githubusercontent.com/107717882/202876909-e3025c7a-1ff3-48b9-9af9-caad8cdaa881.png)
+  ![smartway1](https://user-images.githubusercontent.com/107717882/202876830-a9584ad9-dc82-47c0-b067-bd8e14641a96.png)![smartway2](https://user-images.githubusercontent.com/107717882/202932326-00a19c9e-f5c1-4aa2-a2ef-1f7f245fed1c.png)
 
-  
+
   Here, __“Fuel”__ column is categorical, so it is __encoded__ using __“One Hot Encoding”__ . 
   
   ![Fuel_Encoding](https://user-images.githubusercontent.com/107717882/202874546-49395338-5869-4598-893d-e1c6a7228a59.png)
