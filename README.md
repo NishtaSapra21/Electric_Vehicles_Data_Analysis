@@ -116,6 +116,8 @@ There are __four__ main modules, let’s have a detailed look of each module.
     
   * Oregon has __956__ EV charging stations. 
 
+    ![noofstationsor](https://user-images.githubusercontent.com/107717882/202931263-5f3e3545-c409-4f13-be12-9cf8e7ab4fc2.png)
+
 
 ## Future Analysis/Improvement 
 
