@@ -106,9 +106,11 @@ There are __four__ main modules, let’s have a detailed look of each module.
 
     ![top_5_model_or](https://user-images.githubusercontent.com/107717882/202875822-a897efe6-9262-476b-a990-13f98328acc3.png)
     
-  * Huge increase in Gasoline Price makes trend to but EVs. 
+  * Huge increase in __Gasoline Price__ made a trend to buy EVs. 
 
     ![Fuel_prices_Changes](https://user-images.githubusercontent.com/107717882/202875950-211c48f0-c1cd-49f0-a8a1-9c2182b7a85f.png)
+    
+  * China has the largest and fastest-growing EV market in the world.
 
 
 ## Future Analysis/Improvement 
