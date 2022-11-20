@@ -138,6 +138,9 @@ There are __four__ main modules, let’s have a detailed look of each module.
   9. [sql_query.sql](https://github.com/NishtaSapra21/Electric_Vehicles_Data_Analysis/blob/main/Code/sql_query.sql)
   10. [sql_procedure.sql](https://github.com/NishtaSapra21/Electric_Vehicles_Data_Analysis/blob/main/Code/sql_procedure.sql)
   11. [data_cleaning.py](https://github.com/NishtaSapra21/Electric_Vehicles_Data_Analysis/blob/main/Code/data_cleaning.py)
+  12. [HTML](https://github.com/NishtaSapra21/Electric_Vehicles_Data_Analysis/tree/main/templates)
+  13. [JavaScript](https://github.com/NishtaSapra21/Electric_Vehicles_Data_Analysis/tree/main/static/js)
+  14. [Flask](https://github.com/NishtaSapra21/Electric_Vehicles_Data_Analysis/blob/main/app.py)
 
 ## Citation  
 
