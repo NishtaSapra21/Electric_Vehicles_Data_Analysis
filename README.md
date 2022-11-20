@@ -127,3 +127,4 @@ There are __four__ main modules, let’s have a detailed look of each module.
   * https://www.oregon.gov/energy/Data-and-Reports/Pages/Oregon-Electric-Vehicle-Dashboard.aspx
   * https://catalog.data.gov/
   * https://afdc.energy.gov/stations/states
+  * https://fueleconomy.gov/feg/download.shtml
