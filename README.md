@@ -11,6 +11,12 @@
   * HTML, CSS, JavaScript with Flask
   * Sci-Kit Learn
 
+## Presentation Slides and Video
+
+  * PPT Presentation
+  * Presentation Video
+  
+  
 ## Modules
 
 There are __four__ main modules, let’s have a detailed look of each module.
