@@ -97,12 +97,12 @@ There are __four__ main modules, let’s have a detailed look of each module.
 
 ### Key Findings
 
-  * Tesla Model 3 is most popular and sold model during 2018 and 2019 in USA.
+  * __Tesla Model 3__ is most popular and sold model during 2018 and 2019 in USA.
     
     ![max_sales_usa_models](https://user-images.githubusercontent.com/107717882/202875815-4c7c6534-0ed6-481e-b3b0-45ae1e74a78d.png)
 
     
-  * Tesla is the number one to sold Model 3 in Oregon, Nissan Leaf is the second large seller of EV in Oregon. 
+  * __Tesla__ is the number one to sold Model 3 in __Oregon__, __Nissan Leaf__ is the second large seller of EV in Oregon. 
 
     ![top_5_model_or](https://user-images.githubusercontent.com/107717882/202875822-a897efe6-9262-476b-a990-13f98328acc3.png)
     
@@ -110,9 +110,11 @@ There are __four__ main modules, let’s have a detailed look of each module.
 
     ![Fuel_prices_Changes](https://user-images.githubusercontent.com/107717882/202875950-211c48f0-c1cd-49f0-a8a1-9c2182b7a85f.png)
     
-  * China has the largest and fastest-growing EV market in the world.
+  * __China__ has the largest and fastest-growing EV market in the world.
 
     ![chinatopev](https://user-images.githubusercontent.com/107717882/202929252-499ab1d0-fea7-42bf-a851-885395b95a68.png)
+    
+  * Oregon has __956__ EV charging stations. 
 
 
 ## Future Analysis/Improvement 
