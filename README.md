@@ -123,3 +123,7 @@ There are __four__ main modules, let’s have a detailed look of each module.
   11. [data_cleaning.py](https://github.com/NishtaSapra21/Electric_Vehicles_Data_Analysis/blob/main/Code/data_cleaning.py)
 
 ## Citation  
+
+  * https://www.oregon.gov/energy/Data-and-Reports/Pages/Oregon-Electric-Vehicle-Dashboard.aspx
+  * https://catalog.data.gov/
+  * https://afdc.energy.gov/stations/states
