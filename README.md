@@ -110,16 +110,16 @@ There are __four__ main modules, let’s have a detailed look of each module.
   
 ## Coding References 
 
-  1. Alternative_Fuel_Stations_OR.ipynb
-  2. World_EV_Sales.ipynb
-  3. USA_EV_Sales.ipynb
-  4. OR_EV_Sales_Large.ipynb
-  5. Fuel_Prices_Over_The_Years.ipynb
-  6. SamrtWay_Logistic_Regression.ipynb
-  7. SmartWayNN.ipynb
-  8. create_table.sql
-  9. sql_query.sql
-  10. sql_procedure.sql
-  11. data_cleaning.py
+  1. [Alternative_Fuel_Stations_OR.ipynb](https://github.com/NishtaSapra21/Electric_Vehicles_Data_Analysis/blob/main/Code/Alternative_Fuel_Stations_OR.ipynb)
+  2. [World_EV_Sales.ipynb](https://github.com/NishtaSapra21/Electric_Vehicles_Data_Analysis/blob/main/Code/World_EV_Sales.ipynb)
+  3. [USA_EV_Sales.ipynb](https://github.com/NishtaSapra21/Electric_Vehicles_Data_Analysis/blob/main/Code/USA_EV_Sales.ipynb)
+  4. [OR_EV_Sales_Large.ipynb](https://github.com/NishtaSapra21/Electric_Vehicles_Data_Analysis/blob/main/Code/OR_EV_Sales_Large.ipynb)
+  5. [Fuel_Prices_Over_The_Years.ipynb](https://github.com/NishtaSapra21/Electric_Vehicles_Data_Analysis/blob/main/Code/Fuel_Prices_Over_The_Years.ipynb)
+  6. [SamrtWay_Logistic_Regression.ipynb](https://github.com/NishtaSapra21/Electric_Vehicles_Data_Analysis/blob/main/Code/SamrtWay_Logistic_Regression.ipynb)
+  7. [SmartWayNN.ipynb](https://github.com/NishtaSapra21/Electric_Vehicles_Data_Analysis/blob/main/Code/SmartWayNN.ipynb)
+  8. [create_table.sql](https://github.com/NishtaSapra21/Electric_Vehicles_Data_Analysis/blob/main/Code/create_table.sql)
+  9. [sql_query.sql](https://github.com/NishtaSapra21/Electric_Vehicles_Data_Analysis/blob/main/Code/sql_query.sql)
+  10. [sql_procedure.sql](https://github.com/NishtaSapra21/Electric_Vehicles_Data_Analysis/blob/main/Code/sql_procedure.sql)
+  11. [data_cleaning.py](https://github.com/NishtaSapra21/Electric_Vehicles_Data_Analysis/blob/main/Code/data_cleaning.py)
 
 ## Citation  
