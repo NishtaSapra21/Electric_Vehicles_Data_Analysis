@@ -118,6 +118,10 @@ There are __four__ main modules, let’s have a detailed look of each module.
 
     ![noofstationsor](https://user-images.githubusercontent.com/107717882/202931263-5f3e3545-c409-4f13-be12-9cf8e7ab4fc2.png)
 
+## Presentation Links
+
+  * [Presentation Slides]
+  * [Presentation Video] https://www.loom.com/share/942faf6b151b4a62ae9d51096c98db5e
 
 ## Future Analysis/Improvement 
 
