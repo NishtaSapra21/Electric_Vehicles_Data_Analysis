@@ -82,7 +82,12 @@ def predict():
         # Take the first value of prediction
         output = prediction[0]   
 
-    return render_template("predict.html", arr1 = arr1, output = output)
+        if output == 1.0:
+            result = "Yes"
+        else:
+            result = "No"
+
+    return render_template("predict.html", arr1 = arr1, result=result)
        
 if __name__ == '__main__':
     app.run(debug=True)
