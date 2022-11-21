@@ -120,8 +120,8 @@ There are __four__ main modules, let’s have a detailed look of each module.
 
 ## Presentation Links
 
-  * [Presentation Slides] https://docs.google.com/presentation/d/1Lbq159kM-QNpgXjTccV3pFABj-92FuTgdCBOl9E-Y1I/edit?usp=sharing
-  * [Presentation Video] https://www.loom.com/share/942faf6b151b4a62ae9d51096c98db5e
+  * [Presentation Slides](https://docs.google.com/presentation/d/1Lbq159kM-QNpgXjTccV3pFABj-92FuTgdCBOl9E-Y1I/edit?usp=sharing)
+  * [Presentation Video](https://www.loom.com/share/942faf6b151b4a62ae9d51096c98db5e)
 
 ## Future Analysis/Improvement 
 
